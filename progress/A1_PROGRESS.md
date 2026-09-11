@@ -13,6 +13,10 @@ COMPLETED:
 - Adopted content-led Course Architecture v2 in `curriculum/COURSE_ARCHITECTURE_V2.md` and `MASTER.md`.
 - Audited A1 Section 01 L01–L10 against the gold standard: L01 remains GOLD; L02–L10 require revision for pedagogical alignment, sequencing and repeated theory rather than for structural density.
 - Rebuilt and committed `lessons/a1/a1-s01-l02.json` against Architecture v2. Commit: `c3b7e4984c5d0c23eca693c7a90bd49b63c53d54`.
+- Rebuilt and committed `lessons/a1/a1-s01-l03.json`. Commit: `c2e95b65d4482ab72f0548f87d84dc100313cb71`.
+- Rebuilt and committed `lessons/a1/a1-s01-l04.json`. Commit: `c70285a031b8e13cf3f2a4b06e0156783ac5af2e`.
+- Rebuilt and committed `lessons/a1/a1-s01-l05.json`. Commit: `2f67b1895fa16674210e2b11019d21277204e872`.
+- QA for S01 L03–L05 recorded as FULL PASS in `audits/A1_S01_L03_L05_QA.md`. Commit: `c94572f214f97dbb1d37ca501965b0f8260ac246`.
 
 HISTORICAL WORK UNDER SUPERSEDED MODEL:
 - The previous A1 1,000-slot map and 750-slot expansion registry were created under the former quota model.
@@ -29,20 +33,13 @@ KEY FINDINGS:
 - Repetition remains intentional when it supports NEW → REVIEW → TRANSFER → MASTERY.
 - Application/UI limitations must not cause pedagogical fields or lesson depth to be removed.
 
-S01 L01–L10 AUDIT DECISIONS:
-- L01: GOLD — preserve unchanged.
-- L02: REBUILT — target is the name-question/name-answer pattern; theory no longer copies L03/L05.
-- L03: REBUILD — focus ty/vy choice and ty → si / vy → ste.
-- L04: REBUILD — focus politeness functions; remove unrelated re-teaching.
-- L05: REBUILD — genuine integrated review of L01–L04 with little/no new grammar.
-- L06: REBUILD — spelling/name handling must be aligned to its actual target.
-- L07: REBUILD — vowel length target must be supported without repeating unrelated L01 theory.
-- L08: REBUILD — classroom commands and repair strategy must be sequenced and contextualized.
-- L09: REBUILD — first-contact integration, not copied ty/vy/name theory.
-- L10: REBUILD — true mastery/checkpoint lesson with minimal new theory and stronger transfer evidence.
+S01 L03–L05 QA DECISIONS:
+- L03: PASS — focused ty/vy choice and si/ste contrast.
+- L04: PASS — focused politeness functions without unrelated re-teaching.
+- L05: PASS — genuine integrated retrieval/review with minimal new grammar.
 
 UNRESOLVED:
-- Commit rebuilt L03–L05 and QA them before proceeding to L06–L10.
+- Rebuild and QA S01 L06–L10.
 - Complete A1 remapping of every existing section's L01–L10 against grammar, vocabulary, communicative functions, prerequisites and mastery outcomes.
 - Determine the true number of A1 lessons required after remapping and mastery analysis.
 - Review/revision plan for S01 L11–L40 under Architecture v2.
@@ -50,7 +47,7 @@ UNRESOLVED:
 - Full external Slovak CEFR/RLD verification remains pending.
 
 NEXT TASK:
-- Rebuild **A1 Section 01 L03–L05** against the gold standard, preserving L01 and the newly rebuilt L02. QA each lesson before committing. Do not generate L06–L10 yet.
+- Rebuild **A1 Section 01 L06–L10** against the gold standard, preserving L01 and the rebuilt L02–L05. QA each lesson before committing. Do not generate later lessons yet.
 
 DEPENDENCIES:
 - `MASTER.md`
