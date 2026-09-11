@@ -14,12 +14,14 @@ COMPLETED:
 - Added `progress/A1_1000_TARGET_REGISTRY.md`, assigning a concrete pedagogical target band to all 750 expansion slots while deliberately deferring exact item selection until pilot QA.
 - Completed and QA-approved the bounded S01 expansion pilot L11–L15. The five-lesson pilot is FULL PASS.
 - Completed and QA-approved S01 L16–L20. The five-lesson CONTRAST block is FULL PASS.
+- Completed and QA-approved S01 L21–L25. The five-lesson TRANSFER block is FULL PASS.
 - L14–L15 were normalized to the canonical A1 envelope and corrected during final QA.
 - L18 was corrected during final QA: title `Kto ste?` was changed to `Odkiaľ ste?` so the title matches the actual lesson target/content.
 
 COMPLETED S01 EXPANSION:
 - L11–L15: STAB — FULL PASS
 - L16–L20: CON — FULL PASS
+- L21–L25: TRN — FULL PASS
 
 KEY FINDINGS:
 - Baseline: 250 lessons, 25 sections, 1,500 vocabulary entries, 1,272 unique expressions, 4,256 exercises.
@@ -31,6 +33,7 @@ KEY FINDINGS:
 - The target registry covers all 750 A1 expansion slots at the pedagogical-band level.
 - The S01 L11–L15 pilot demonstrates the bounded generation + QA workflow and is FULL PASS.
 - The S01 L16–L20 CONTRAST block demonstrates deliberate contrast work around ty/vy, informal/formal politeness and first-contact situations and is FULL PASS.
+- The S01 L21–L25 TRANSFER block demonstrates transfer of established first-contact patterns into varied contexts without introducing a new grammar system and is FULL PASS.
 
 UNRESOLVED:
 - Exact item-level vocabulary selection for each remaining expansion lesson.
@@ -40,7 +43,7 @@ UNRESOLVED:
 - Known application rendering/enforcement issues remain application-side and are intentionally not being solved by distorting lesson content.
 
 NEXT TASK:
-- Generate the next bounded pilot block S01 L21–L25 (TRANSFER band). Before generation, select exact targets against `knowledge/a1_vocab_matrix/A1_COMPLETE.json.gz.b64`, `knowledge/A1_VOCAB_OWNERSHIP.md`, and `knowledge/A1_PREREQUISITE_GRAPH.md`; then generate the five lessons, run structural/answer-validity/duplication/CEFR-progression/naturalness QA, and commit only after review.
+- Generate the next bounded pilot block S01 L26–L30 (EXPANSION band). Before generation, select exact targets against `knowledge/a1_vocab_matrix/A1_COMPLETE.json.gz.b64`, `knowledge/A1_VOCAB_OWNERSHIP.md`, and `knowledge/A1_PREREQUISITE_GRAPH.md`; then generate the five lessons, run structural/answer-validity/duplication/CEFR-progression/naturalness QA, and commit only after review.
 
 DEPENDENCIES:
 - `MASTER.md`
@@ -54,4 +57,5 @@ DEPENDENCIES:
 - `progress/A1_1000_TARGET_REGISTRY.md`
 - `audits/A1_S01_L11_L15_PILOT_QA.md`
 - `audits/A1_S01_L16_L20_QA.md`
+- `audits/A1_S01_L21_L25_QA.md`
 - Existing 250-lesson A1 package
