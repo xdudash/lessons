@@ -1,0 +1,34 @@
+{
+  "lessons": [{
+    "id": "a1-s01-l11",
+    "sectionId": "a1-s01",
+    "level": "A1",
+    "title": {"sk":"Ráno, deň a večer","ru":"Утро, день и вечер","uk":"Ранок, день і вечір","en":"Morning, day and evening"},
+    "topic": {"sk":"Prvý kontakt","ru":"Первый контакт","uk":"Перший контакт","en":"First contact"},
+    "description": {"ru":"Закрепить приветствия по времени суток","uk":"Закріпити привітання за часом доби","en":"Stabilize greetings by time of day"},
+    "order": 11,
+    "xpReward": 100,
+    "estimatedMinutes": 12,
+    "isPublished": false,
+    "intro": {"ru":"Выбирай приветствие по времени суток.","uk":"Обирай привітання за часом доби.","en":"Choose a greeting for the time of day."},
+    "completionMessage": {"ru":"Урок завершён. Повтори приветствия.","uk":"Урок завершено. Повтори привітання.","en":"Lesson complete. Review the greetings."},
+    "localization": {"uiLanguages":["ru","uk","en"],"targetLanguage":"sk","fallbackUiLanguage":"en"},
+    "assets":{"images":{},"audio":{}},
+    "startScreen":{"eyebrow":{"ru":"A1 • Раздел 1","uk":"A1 • Розділ 1","en":"A1 • Section 1"},"title":{"sk":"Ráno, deň a večer","ru":"Утро, день и вечер","uk":"Ранок, день і вечір","en":"Morning, day and evening"},"goal":{"ru":"Закрепить приветствия по времени суток","uk":"Закріпити привітання за часом доби","en":"Stabilize greetings by time of day"},"estimatedMinutes":12},
+    "theoryScreens":[{"id":"theory-1","title":{"ru":"Приветствие зависит от времени","uk":"Привітання залежить від часу","en":"The greeting depends on the time"},"body":{"ru":"Для утра используется Dobré ráno, днём — Dobrý deň, вечером — Dobrý večer.","uk":"Вранці використовуй Dobré ráno, вдень — Dobrý deň, увечері — Dobrý večer.","en":"Use Dobré ráno in the morning, Dobrý deň during the day, and Dobrý večer in the evening."}}],
+    "wordsScreen":{"title":{"ru":"Слова и выражения","uk":"Слова й вирази","en":"Words and expressions"},"subtitle":{"ru":"Повтори три приветствия.","uk":"Повтори три привітання.","en":"Review three greetings."}},
+    "words":[{"id":"w1","sk":"Dobré ráno","translation":{"ru":"доброе утро","uk":"доброго ранку","en":"good morning"}},{"id":"w2","sk":"Dobrý deň","translation":{"ru":"добрый день (вежливо)","uk":"добрий день (ввічливо)","en":"hello (polite daytime greeting)"}},{"id":"w3","sk":"Dobrý večer","translation":{"ru":"добрый вечер","uk":"добрий вечір","en":"good evening"}},{"id":"w4","sk":"Ahoj","translation":{"ru":"привет (другу)","uk":"привіт (другові)","en":"hi (to a friend)"}}],
+    "exercises":[
+      {"id":"ex01","type":"single_choice","skill":["vocabulary"],"instruction":{"ru":"Выбери приветствие для утра.","uk":"Обери привітання для ранку.","en":"Choose the morning greeting."},"prompt":{"ru":"утро","uk":"ранок","en":"morning"},"options":[{"id":"a","text":{"ru":"Dobré ráno","uk":"Dobré ráno","en":"Dobré ráno"},"correct":true},{"id":"b","text":{"ru":"Dobrý večer","uk":"Dobrý večer","en":"Dobrý večer"},"correct":false},{"id":"c","text":{"ru":"Dovidenia","uk":"Dovidenia","en":"Dovidenia"},"correct":false}]},
+      {"id":"ex02","type":"single_choice","skill":["vocabulary"],"instruction":{"ru":"Выбери приветствие для вечера.","uk":"Обери привітання для вечора.","en":"Choose the evening greeting."},"prompt":{"ru":"вечер","uk":"вечір","en":"evening"},"options":[{"id":"a","text":{"ru":"Ahoj","uk":"Ahoj","en":"Ahoj"},"correct":false},{"id":"b","text":{"ru":"Dobrý večer","uk":"Dobrý večer","en":"Dobrý večer"},"correct":true},{"id":"c","text":{"ru":"Dobré ráno","uk":"Dobré ráno","en":"Dobré ráno"},"correct":false}]},
+      {"id":"ex03","type":"matching","skill":["vocabulary"],"instruction":{"ru":"Соедини время и приветствие.","uk":"Поєднай час і привітання.","en":"Match the time and greeting."},"pairs":[{"left":"ráno","right":"Dobré ráno"},{"left":"deň","right":"Dobrý deň"},{"left":"večer","right":"Dobrý večer"}]},
+      {"id":"ex04","type":"sentence_order","skill":["grammar"],"instruction":{"ru":"Восстанови порядок слов.","uk":"Віднови порядок слів.","en":"Restore the word order."},"tokens":["Dobrý","deň","!"],"correctOrder":["Dobrý","deň","!"]},
+      {"id":"ex05","type":"dialogue_choose_reply","skill":["dialogue"],"instruction":{"ru":"Выбери подходящий ответ.","uk":"Обери доречну відповідь.","en":"Choose the appropriate reply."},"dialogue":[{"speaker":"A","sk":"Dobré ráno!"}],"options":[{"id":"a","sk":"Dobré ráno!","correct":true},{"id":"b","sk":"Dovidenia!","correct":false}]},
+      {"id":"ex06","type":"meaning_in_context","skill":["reading","vocabulary"],"instruction":{"ru":"Выбери значение фразы.","uk":"Обери значення фрази.","en":"Choose the meaning of the phrase."},"context":{"sk":"Dobrý večer!"},"target":{"sk":"Dobrý večer"},"options":[{"id":"a","text":{"ru":"Добрый вечер","uk":"Добрий вечір","en":"Good evening"},"correct":true},{"id":"b","text":{"ru":"Доброе утро","uk":"Добрий ранок","en":"Good morning"},"correct":false},{"id":"c","text":{"ru":"До свидания","uk":"До побачення","en":"Goodbye"},"correct":false}]},
+      {"id":"ex07","type":"natural_phrase","skill":["dialogue","real_life"],"instruction":{"ru":"Выбери естественную фразу.","uk":"Обери природну фразу.","en":"Choose the natural phrase."},"situation":{"ru":"Ты встречаешь человека утром.","uk":"Ти зустрічаєш людину вранці.","en":"You meet someone in the morning."},"options":[{"id":"a","sk":"Dobré ráno!","correct":true},{"id":"b","sk":"Dovidenia!","correct":false}]},
+      {"id":"ex08","type":"real_message","skill":["writing","real_life"],"instruction":{"ru":"Выбери сообщение для утренней встречи.","uk":"Обери повідомлення для ранкової зустрічі.","en":"Choose a message for a morning meeting."},"options":[{"id":"a","text":{"ru":"Dobré ráno!","uk":"Dobré ráno!","en":"Good morning!"},"correct":true},{"id":"b","text":{"ru":"Dobrý večer!","uk":"Dobrý večer!","en":"Good evening!"},"correct":false}]}
+    ],
+    "final":{"title":{"ru":"Проверка","uk":"Перевірка","en":"Check"},"questions":[{"id":"f1","prompt":{"ru":"Утро","uk":"Ранок","en":"Morning"},"options":[{"sk":"Dobré ráno","correct":true},{"sk":"Dobrý večer","correct":false}]},{"id":"f2","prompt":{"ru":"Вечер","uk":"Вечір","en":"Evening"},"options":[{"sk":"Dobrý deň","correct":false},{"sk":"Dobrý večer","correct":true}]},{"id":"f3","prompt":{"ru":"День","uk":"День","en":"Day"},"options":[{"sk":"Dobrý deň","correct":true},{"sk":"Dovidenia","correct":false}]}],"passRequirement":"3/3"},
+    "resultScreen":{"title":{"ru":"Урок завершён","uk":"Урок завершено","en":"Lesson complete"},"subtitle":{"ru":"Закрепи приветствия ещё раз, если ошибся.","uk":"Повтори привітання, якщо помилився.","en":"Review the greetings if you made a mistake."}}
+  }]
+}
