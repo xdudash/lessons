@@ -12,25 +12,22 @@ COMPLETED:
 - Applied the planning stage model NEW → REVIEW → TRANSFER → MASTERY to observed baseline occurrences without treating frequency alone as proof of mastery.
 - Stored the complete item-level matrix durably in GitHub as a gzip+base64 JSON artifact at `knowledge/a1_vocab_matrix/A1_COMPLETE.json.gz.b64`, with decoding instructions and an integrity hash in `knowledge/a1_vocab_matrix/README.md`.
 - Added `progress/A1_1000_TARGET_REGISTRY.md`, assigning a concrete pedagogical target band to all 750 expansion slots while deliberately deferring exact item selection until pilot QA.
-- Started the S01 expansion pilot and reviewed L11–L15 as one stabilization block.
-- Canonicalized L11–L13 into `lessons/a1/` using the established lesson envelope while retaining their original pilot artifacts for audit history.
-- Recorded the five-lesson pilot QA as CONDITIONAL PASS in `audits/A1_S01_L11_L15_PILOT_QA.md`.
+- Completed and QA-approved the bounded S01 expansion pilot L11–L15. The five-lesson pilot is now FULL PASS.
+- L11–L13 remain canonicalized under `lessons/a1/`, with original pilot artifacts retained for audit history.
+- L14–L15 were normalized to the canonical A1 envelope and corrected during final QA.
 
-FILES CHANGED:
-- `knowledge/A1_INVENTORY.md`
-- `knowledge/A1_PREREQUISITE_GRAPH.md`
-- `knowledge/A1_VOCAB_OWNERSHIP.md`
-- `knowledge/a1_vocab_matrix/A1_COMPLETE.json.gz.b64`
-- `knowledge/a1_vocab_matrix/README.md`
-- `curriculum/A1_1000_MAP.md`
-- `progress/A1_1000_TARGET_REGISTRY.md`
+PILOT FILES:
 - `lessons/a1/a1-s01-l11.json`
 - `lessons/a1/a1-s01-l12.json`
 - `lessons/a1/a1-s01-l13.json`
 - `lessons/a1/a1-s01-l14.json`
 - `lessons/a1/a1-s01-l15.json`
 - `audits/A1_S01_L11_L15_PILOT_QA.md`
-- `progress/A1_PROGRESS.md`
+
+PILOT CORRECTIONS:
+- L14 normalized to the canonical A1 lesson envelope and corrected `Dobre ráno` → `Dobré ráno`.
+- L15 normalized to the canonical A1 lesson envelope.
+- L15/ex06 rewritten so the correction is context-supported and reuses the introduced name-answer model.
 
 KEY FINDINGS:
 - Baseline: 250 lessons, 25 sections, 1,500 vocabulary entries, 1,272 unique expressions, 4,256 exercises.
@@ -38,21 +35,18 @@ KEY FINDINGS:
 - 1,085 expressions occur only once in the baseline and therefore need deliberate future review before being treated as mastered.
 - First occurrence is the initial ownership point; later occurrences are classified as REVIEW, TRANSFER or MASTERY for planning purposes.
 - This classification is heuristic curriculum metadata and must be overridden when pedagogical context shows that an occurrence is not genuine review, transfer or mastery.
-- The complete matrix is now resumable from GitHub without requiring the original uploaded ZIP or chat history. The compressed artifact's uncompressed payload has SHA-256 `283c8ae1586d5dd9218fe13b02a302b8a39575c572ea5d4fd14e93f648b7aa0c`.
-- The target registry now covers all 750 expansion slots at the pedagogical-band level.
-- S01 L11–L13 are now in canonical lesson storage. L14–L15 exist in canonical storage but still require envelope normalization before the pilot can receive FULL PASS.
-- L14 has an orthography defect in theory text (`Dobre ráno` → `Dobré ráno`).
-- L15 `ex06` needs a context-supported correction rather than an arbitrary origin assertion.
+- The complete matrix is resumable from GitHub without requiring the original uploaded ZIP or chat history. The compressed artifact's uncompressed payload has SHA-256 `283c8ae1586d5dd9218fe13b02a302b8a39575c572ea5d4fd14e93f648b7aa0c`.
+- The target registry covers all 750 A1 expansion slots at the pedagogical-band level.
+- The S01 L11–L15 pilot demonstrates the bounded generation + QA workflow and is FULL PASS.
 
 UNRESOLVED:
-- Normalize and re-QA S01 L14–L15.
 - Exact item-level vocabulary selection for each remaining expansion lesson.
 - Full external Slovak CEFR/RLD verification of the inventory.
 - The broader 10K curriculum files still need to be present in the repository before they can be treated as the durable 10K source of truth.
 - Publishing correction: rename `a1-s08-l06` from `Kde bývaš?` to `Bývam v byte alebo dome?`.
 
 NEXT TASK:
-- Normalize `a1-s01-l14.json` and `a1-s01-l15.json` to the authoritative A1 envelope, fix the two identified content defects, then re-run the full S01 L11–L15 pilot QA. Do not start S01 L16–L20 until the pilot receives FULL PASS.
+- Generate the next bounded pilot block S01 L16–L20 (CONTRAST band). Before generation, select exact targets against `knowledge/a1_vocab_matrix/A1_COMPLETE.json.gz.b64`, `knowledge/A1_VOCAB_OWNERSHIP.md`, and `knowledge/A1_PREREQUISITE_GRAPH.md`; then generate the five lessons, run structural/answer-validity/duplication/CEFR-progression/naturalness QA, and commit only after review.
 
 DEPENDENCIES:
 - `MASTER.md`
