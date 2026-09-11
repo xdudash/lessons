@@ -1,40 +1,44 @@
 # A1 S01 L11–L15 Pilot QA
 
-STATUS: CONDITIONAL PASS
+STATUS: FULL PASS
 
 SCOPE:
 - Pilot expansion lessons S01 L11–L15.
-- Structural conformity against the authoritative A1 lesson envelope.
+- Structural conformity against the established canonical A1 lesson envelope.
 - Exercise answer validity and semantic consistency.
-- Progression fit for S01 stabilization band.
+- Progression fit for the S01 stabilization band.
 - Canonical repository placement and resumability.
 
-CHECKS:
-- L11, L12, L13 source pilot content was reviewed and canonicalized into `lessons/a1/`.
-- L11–L13 preserve the pilot pedagogical intent: time-of-day greetings, formal/informal greeting choice, and greeting vs goodbye.
-- L11–L13 use the canonical top-level `lessons` envelope and canonical `finalSituation`/`resultScreen` structure.
-- L14 and L15 were reviewed but remain structurally inconsistent with the authoritative baseline envelope: missing `intro`, `completionMessage`, `updatedAt`, localized `topic`, and canonical final-situation metadata; they therefore cannot be marked production-ready yet.
-- L14 contains an orthography defect in the Russian theory text: `Dobre ráno` should be `Dobré ráno`.
-- L15 `ex06` is semantically underdetermined in its original form because the correction invents an origin (`Som z Ukrajiny`) without context. It should instead contrast the question `Ako sa voláš?` with an incorrect origin answer and correct it using the already introduced name model.
-- L14/L15 exercise types and answer keys are internally coherent at the item level, but envelope normalization is still required.
-- UI rendering mismatches previously documented for `prompt`, `dialogue`, `context`, `situation`, and final-step enforcement are application issues and are not used as a reason to alter lesson content.
+FINAL CHECKS:
+- L11–L13 are canonicalized under `lessons/a1/` and preserve the intended stabilization progression.
+- L14 is normalized to the canonical envelope with localized topic, intro, completion message, updated timestamp, and canonical interactive final-situation metadata.
+- L14 Russian theory orthography was corrected from `Dobre ráno` to `Dobré ráno`.
+- L15 is normalized to the canonical envelope with localized topic, intro, completion message, updated timestamp, and canonical interactive final-situation metadata.
+- L15 `ex06` was corrected so the task is context-supported: `Ako sa voláš? — Som z Ukrajiny.` → `Ako sa voláš? — Volám sa Martin.` This tests the already introduced name-answer model rather than inventing an arbitrary origin.
+- L11–L15 have unique lesson IDs/orders and coherent section membership `a1-s01`.
+- Exercise IDs are unique within each lesson; answer keys are internally consistent with the prompts/scenarios.
+- Final situations use `3/3` pass requirements with three answerable steps.
+- No application/UI mismatch was used as a reason to distort lesson content; previously documented rendering issues remain application work.
 
-CANONICALIZED IN THIS QA STEP:
+PEDAGOGICAL CHECK:
+- L11–L15 remain within the S01 stabilization role: greetings, time-of-day greetings, greeting/goodbye distinction, and first-meeting question models.
+- No new advanced grammar system is introduced.
+- Vocabulary remains review/stabilization-oriented rather than pretending that repeated exposure alone proves mastery.
+
+FILES IN PILOT:
 - `lessons/a1/a1-s01-l11.json`
 - `lessons/a1/a1-s01-l12.json`
 - `lessons/a1/a1-s01-l13.json`
+- `lessons/a1/a1-s01-l14.json`
+- `lessons/a1/a1-s01-l15.json`
 
 SOURCE PILOT ARTIFACTS RETAINED FOR AUDIT/HISTORY:
 - `pilot/a1-s01-l11.json`
 - `pilot/a1-s01-l12.json`
 - `pilot/a1-s01-l13.json`
 
-BLOCKERS BEFORE FULL PASS:
-1. Normalize L14 to the canonical A1 envelope.
-2. Normalize L15 to the canonical A1 envelope.
-3. Correct the L14 `Dobré ráno` orthography defect.
-4. Rewrite L15 `ex06` so the correction is context-supported rather than introducing an arbitrary origin.
-5. Re-run the five-lesson pilot QA after normalization.
+RESULT:
+- Five-lesson S01 pilot is FULL PASS and may advance to the next bounded generation stage.
 
 NEXT TASK:
-- Normalize and re-QA `a1-s01-l14.json` and `a1-s01-l15.json`, then update the progress handoff. Do not proceed to S01 L16–L20 until the five-lesson pilot receives FULL PASS.
+- Proceed to S01 L16–L20 (CONTRAST band) only after selecting exact targets against the durable A1 vocabulary ownership data and prerequisite graph. Generate boundedly, then run the same QA gates before committing.
