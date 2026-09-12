@@ -1,46 +1,30 @@
-# SlovakGo A1 Progress
+# A1 Progress
 
-STATUS: IN_PROGRESS
+## Status
 
-COMPLETED:
-- Audited the original 250-lesson A1 baseline and preserved its source-derived inventories and vocabulary matrix as reference data.
-- Adopted content-led Course Architecture v2 and the dynamic lesson-count model.
-- Registered the user's `A1-S01-L01` as the canonical gold-standard lesson reference and preserved its exact source SHA-256: `791187eccecc56fe7617706392f2d1e2d3bdce9af8b7c274505439c98ea91cd0`.
-- Rebuilt S01 L01–L10 under Architecture v2; L01 remains the canonical gold-standard lesson.
-- Removed superseded S01 L11–L40 from the active lesson tree. They were thin/fixed-slot lessons from the retired quota model and are not production-final.
-- Removed the obsolete S01 pilot QA artifacts tied specifically to the deleted L11–L40 batch.
-- Removed the obsolete fixed-slot A1 1,000-lesson map from the curriculum tree.
-- Rebuilt S02 L01–L19 under Architecture v2 with recorded QA FULL PASS.
+A1 lesson production has been reset completely.
 
-S01 CURRENT STATE:
-- L01: GOLD — preserved unchanged.
-- L02–L10: REBUILT + QA FULL PASS.
-- Active S01 ends at L10 for now. No filler lessons are implied by this endpoint.
-- If the prerequisite graph later shows that an S01 function is missing, create a new Architecture v2 lesson only for that distinct pedagogical need.
+- Active lesson files: **0**
+- Active lesson QA files: **0**
+- Production model: **dynamic lesson count**
+- Minimum per section: **3 lessons**
+- Production unit: **batch of at least 5 sections**
+- No fixed quota and no filler lessons.
 
-S02 CURRENT STATE:
-- L01–L19: REBUILT + QA FULL PASS.
+## Next production cycle
 
-CLEANUP DECISION:
-- The former fixed-slot model (including the old 10K allocation and S01 L11–L40 production) is superseded.
-- Deleted lessons are not archived in the active repository. Useful functions from them may be rebuilt later in the correct section and prerequisite position rather than restored as-is.
-- Structural validity alone is not enough; lesson quality is judged by instructional depth, learner work, transfer, and mastery progression against Architecture v2 and the gold standard.
+Wait for the explicit creation command. When production starts, the agent must:
+1. determine the pedagogically required lesson count for each section (minimum 3);
+2. account for all sections in the level and prerequisites;
+3. produce sections in batches of at least 5;
+4. QA the whole batch before committing;
+5. use the minimum practical number of Git commits, preferably one commit per batch;
+6. record progress at section/batch level.
 
-UNRESOLVED:
-- Complete A1 remapping of every section against grammar, vocabulary, communicative functions, prerequisites and mastery outcomes.
-- Determine the true number of A1 lessons required after remapping and mastery analysis.
-- Apply the pending title correction `a1-s08-l06` → `Bývam v byte alebo dome?` if it is still present in the source package.
-- Full external Slovak CEFR/RLD verification remains pending.
+## Preserved foundation
 
-NEXT TASK:
-- Continue S02 beyond L19 with the next distinct communicative function under Architecture v2, while keeping the dynamic lesson-count rule and performing batch QA where reliable.
+The curriculum architecture, gold-standard lesson specification, A1 inventory, prerequisite graph, and vocabulary ownership/matrix remain as the planning foundation. They are not themselves lesson instances.
 
-DEPENDENCIES:
-- `MASTER.md`
-- `AGENT_PROTOCOL.md`
-- `curriculum/COURSE_ARCHITECTURE_V2.md`
-- `curriculum/GOLD_STANDARD_LESSON.md`
-- `knowledge/A1_INVENTORY.md`
-- `knowledge/A1_PREREQUISITE_GRAPH.md`
-- `knowledge/A1_VOCAB_OWNERSHIP.md`
-- `knowledge/a1_vocab_matrix/A1_COMPLETE.json.gz.b64`
+## Historical note
+
+Previous generated lessons, lesson-level QA reports, pilot lesson files, and the obsolete fixed 1,000-lesson target registry were removed from the active repository during the reset. They must not be treated as current course content.
