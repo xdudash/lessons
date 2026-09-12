@@ -1,0 +1,730 @@
+{
+  "lessons": [
+    {
+      "id": "a1-s11-l64",
+      "sectionId": "a1_s11",
+      "level": "A1",
+      "title": "Pracujem",
+      "topic": "Study, work and everyday responsibilities",
+      "description": "Навчися використовувати основні слова й моделі теми: Study, work and everyday responsibilities.",
+      "order": 64,
+      "xpReward": 25,
+      "estimatedMinutes": 27,
+      "isPublished": false,
+      "intro": "Розберемо практичні слова й готові моделі для теми «Study, work and everyday responsibilities».",
+      "completionMessage": "Ти вже можеш використовувати базові слова й моделі теми «Study, work and everyday responsibilities».",
+      "updatedAt": "2026-09-12T12:00:00Z",
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": "Pracujem",
+        "shortDescription": "Практична словацька: Study, work and everyday responsibilities.",
+        "outcomes": [
+          "розуміти ключову лексику",
+          "будувати прості фрази",
+          "використовувати навичку в контексті"
+        ],
+        "newWords": [
+          "pracujem dnes",
+          "mám úlohu",
+          "mám test",
+          "začínam o ôsmej",
+          "končím o piatej",
+          "mám prestávku",
+          "som v práci",
+          "som v škole",
+          "zajtra mám prácu",
+          "študujem",
+          "učím sa slovenčinu",
+          "čítam"
+        ],
+        "exercisesCount": 12,
+        "reward": "25 XP",
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "screenType": "theory",
+          "order": 1,
+          "title": "Pracujem: основа",
+          "text": "Опрацюй перші ключові одиниці разом із готовими прикладами.",
+          "examples": [
+            {
+              "sk": "pracujem dnes.",
+              "uk": "я працюю сьогодні."
+            },
+            {
+              "sk": "mám úlohu.",
+              "uk": "у мене є завдання."
+            }
+          ],
+          "exampleSk": "pracujem dnes.",
+          "exampleUk": "я працюю сьогодні.",
+          "shortRule": "Вчи фразу разом із її значенням і контекстом.",
+          "button": "Далі"
+        },
+        {
+          "screenType": "theory",
+          "order": 2,
+          "title": "Pracujem: практика",
+          "text": "Поєднай нові одиниці та використай їх у коротких реальних ситуаціях.",
+          "examples": [
+            {
+              "sk": "som v práci.",
+              "uk": "я на роботі."
+            },
+            {
+              "sk": "študujem.",
+              "uk": "навчаюся."
+            }
+          ],
+          "exampleSk": "študujem.",
+          "exampleUk": "навчаюся.",
+          "shortRule": "Перенось вивчену модель у новий контекст.",
+          "button": "Далі"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": "Pracujem",
+        "description": "Повтори ключову лексику уроку.",
+        "items": [
+          {
+            "wordId": "a1-s11-l64-w01",
+            "sk": "pracujem dnes",
+            "uk": "я працюю сьогодні",
+            "pronunciationUk": "pracujem dnes",
+            "exampleSk": "pracujem dnes.",
+            "exampleUk": "я працюю сьогодні."
+          },
+          {
+            "wordId": "a1-s11-l64-w02",
+            "sk": "mám úlohu",
+            "uk": "у мене є завдання",
+            "pronunciationUk": "mаm уlohu",
+            "exampleSk": "mám úlohu.",
+            "exampleUk": "у мене є завдання."
+          },
+          {
+            "wordId": "a1-s11-l64-w03",
+            "sk": "mám test",
+            "uk": "у мене тест",
+            "pronunciationUk": "mаm test",
+            "exampleSk": "mám test.",
+            "exampleUk": "у мене тест."
+          },
+          {
+            "wordId": "a1-s11-l64-w04",
+            "sk": "začínam o ôsmej",
+            "uk": "починаю о восьмій",
+            "pronunciationUk": "zaчіnam o уоsmej",
+            "exampleSk": "začínam o ôsmej.",
+            "exampleUk": "починаю о восьмій."
+          },
+          {
+            "wordId": "a1-s11-l64-w05",
+            "sk": "končím o piatej",
+            "uk": "закінчую о п’ятій",
+            "pronunciationUk": "konчіm o piatej",
+            "exampleSk": "končím o piatej.",
+            "exampleUk": "закінчую о п’ятій."
+          },
+          {
+            "wordId": "a1-s11-l64-w06",
+            "sk": "mám prestávku",
+            "uk": "маю перерву",
+            "pronunciationUk": "mаm prestаvku",
+            "exampleSk": "mám prestávku.",
+            "exampleUk": "маю перерву."
+          },
+          {
+            "wordId": "a1-s11-l64-w07",
+            "sk": "som v práci",
+            "uk": "я на роботі",
+            "pronunciationUk": "som v prаci",
+            "exampleSk": "som v práci.",
+            "exampleUk": "я на роботі."
+          },
+          {
+            "wordId": "a1-s11-l64-w08",
+            "sk": "som v škole",
+            "uk": "я в школі",
+            "pronunciationUk": "som v шkole",
+            "exampleSk": "som v škole.",
+            "exampleUk": "я в школі."
+          },
+          {
+            "wordId": "a1-s11-l64-w09",
+            "sk": "zajtra mám prácu",
+            "uk": "завтра я працюю",
+            "pronunciationUk": "zajtra mаm prаcu",
+            "exampleSk": "zajtra mám prácu.",
+            "exampleUk": "завтра я працюю."
+          },
+          {
+            "wordId": "a1-s11-l64-w10",
+            "sk": "študujem",
+            "uk": "навчаюся",
+            "pronunciationUk": "шtudujem",
+            "exampleSk": "študujem.",
+            "exampleUk": "навчаюся."
+          },
+          {
+            "wordId": "a1-s11-l64-w11",
+            "sk": "učím sa slovenčinu",
+            "uk": "вчу словацьку",
+            "pronunciationUk": "uчіm sa slovenчinu",
+            "exampleSk": "učím sa slovenčinu.",
+            "exampleUk": "вчу словацьку."
+          },
+          {
+            "wordId": "a1-s11-l64-w12",
+            "sk": "čítam",
+            "uk": "читаю",
+            "pronunciationUk": "чіtam",
+            "exampleSk": "čítam.",
+            "exampleUk": "читаю."
+          }
+        ],
+        "button": "Почати вправи"
+      },
+      "words": [
+        {
+          "id": "a1-s11-l64-w01",
+          "sk": "pracujem dnes",
+          "uk": "я працюю сьогодні",
+          "pronunciationUk": "pracujem dnes",
+          "exampleSk": "pracujem dnes.",
+          "exampleUk": "я працюю сьогодні.",
+          "level": "A1",
+          "topic": "Study, work and everyday responsibilities",
+          "tags": [
+            "A1",
+            "Study,"
+          ]
+        },
+        {
+          "id": "a1-s11-l64-w02",
+          "sk": "mám úlohu",
+          "uk": "у мене є завдання",
+          "pronunciationUk": "mаm уlohu",
+          "exampleSk": "mám úlohu.",
+          "exampleUk": "у мене є завдання.",
+          "level": "A1",
+          "topic": "Study, work and everyday responsibilities",
+          "tags": [
+            "A1",
+            "Study,"
+          ]
+        },
+        {
+          "id": "a1-s11-l64-w03",
+          "sk": "mám test",
+          "uk": "у мене тест",
+          "pronunciationUk": "mаm test",
+          "exampleSk": "mám test.",
+          "exampleUk": "у мене тест.",
+          "level": "A1",
+          "topic": "Study, work and everyday responsibilities",
+          "tags": [
+            "A1",
+            "Study,"
+          ]
+        },
+        {
+          "id": "a1-s11-l64-w04",
+          "sk": "začínam o ôsmej",
+          "uk": "починаю о восьмій",
+          "pronunciationUk": "zaчіnam o уоsmej",
+          "exampleSk": "začínam o ôsmej.",
+          "exampleUk": "починаю о восьмій.",
+          "level": "A1",
+          "topic": "Study, work and everyday responsibilities",
+          "tags": [
+            "A1",
+            "Study,"
+          ]
+        },
+        {
+          "id": "a1-s11-l64-w05",
+          "sk": "končím o piatej",
+          "uk": "закінчую о п’ятій",
+          "pronunciationUk": "konчіm o piatej",
+          "exampleSk": "končím o piatej.",
+          "exampleUk": "закінчую о п’ятій.",
+          "level": "A1",
+          "topic": "Study, work and everyday responsibilities",
+          "tags": [
+            "A1",
+            "Study,"
+          ]
+        },
+        {
+          "id": "a1-s11-l64-w06",
+          "sk": "mám prestávku",
+          "uk": "маю перерву",
+          "pronunciationUk": "mаm prestаvku",
+          "exampleSk": "mám prestávku.",
+          "exampleUk": "маю перерву.",
+          "level": "A1",
+          "topic": "Study, work and everyday responsibilities",
+          "tags": [
+            "A1",
+            "Study,"
+          ]
+        },
+        {
+          "id": "a1-s11-l64-w07",
+          "sk": "som v práci",
+          "uk": "я на роботі",
+          "pronunciationUk": "som v prаci",
+          "exampleSk": "som v práci.",
+          "exampleUk": "я на роботі.",
+          "level": "A1",
+          "topic": "Study, work and everyday responsibilities",
+          "tags": [
+            "A1",
+            "Study,"
+          ]
+        },
+        {
+          "id": "a1-s11-l64-w08",
+          "sk": "som v škole",
+          "uk": "я в школі",
+          "pronunciationUk": "som v шkole",
+          "exampleSk": "som v škole.",
+          "exampleUk": "я в школі.",
+          "level": "A1",
+          "topic": "Study, work and everyday responsibilities",
+          "tags": [
+            "A1",
+            "Study,"
+          ]
+        },
+        {
+          "id": "a1-s11-l64-w09",
+          "sk": "zajtra mám prácu",
+          "uk": "завтра я працюю",
+          "pronunciationUk": "zajtra mаm prаcu",
+          "exampleSk": "zajtra mám prácu.",
+          "exampleUk": "завтра я працюю.",
+          "level": "A1",
+          "topic": "Study, work and everyday responsibilities",
+          "tags": [
+            "A1",
+            "Study,"
+          ]
+        },
+        {
+          "id": "a1-s11-l64-w10",
+          "sk": "študujem",
+          "uk": "навчаюся",
+          "pronunciationUk": "шtudujem",
+          "exampleSk": "študujem.",
+          "exampleUk": "навчаюся.",
+          "level": "A1",
+          "topic": "Study, work and everyday responsibilities",
+          "tags": [
+            "A1",
+            "Study,"
+          ]
+        },
+        {
+          "id": "a1-s11-l64-w11",
+          "sk": "učím sa slovenčinu",
+          "uk": "вчу словацьку",
+          "pronunciationUk": "uчіm sa slovenчinu",
+          "exampleSk": "učím sa slovenčinu.",
+          "exampleUk": "вчу словацьку.",
+          "level": "A1",
+          "topic": "Study, work and everyday responsibilities",
+          "tags": [
+            "A1",
+            "Study,"
+          ]
+        },
+        {
+          "id": "a1-s11-l64-w12",
+          "sk": "čítam",
+          "uk": "читаю",
+          "pronunciationUk": "чіtam",
+          "exampleSk": "čítam.",
+          "exampleUk": "читаю.",
+          "level": "A1",
+          "topic": "Study, work and everyday responsibilities",
+          "tags": [
+            "A1",
+            "Study,"
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "a1-s11-l64-e01",
+          "lessonId": "a1-s11-l64",
+          "type": "multiple_choice_translation",
+          "question": "Що означає pracujem dnes?",
+          "options": [
+            "я працюю сьогодні",
+            "у мене є завдання",
+            "у мене тест"
+          ],
+          "correctAnswer": "я працюю сьогодні",
+          "explanation": "pracujem dnes означає «я працюю сьогодні».",
+          "wordIds": [
+            "a1-s11-l64-w01"
+          ],
+          "order": 1,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s11-l64-e02",
+          "lessonId": "a1-s11-l64",
+          "type": "multiple_choice_translation",
+          "question": "Як сказати це словацькою?",
+          "options": [
+            "mám úlohu",
+            "začínam o ôsmej",
+            "končím o piatej"
+          ],
+          "correctAnswer": "mám úlohu",
+          "explanation": "Правильний варіант — перша фраза.",
+          "wordIds": [
+            "a1-s11-l64-w02"
+          ],
+          "order": 2,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s11-l64-e03",
+          "lessonId": "a1-s11-l64",
+          "type": "match_pairs",
+          "question": "З’єднай слово з перекладом.",
+          "options": [
+            "mám test",
+            "у мене тест",
+            "začínam o ôsmej",
+            "починаю о восьмій"
+          ],
+          "correctAnswer": [
+            "mám test|у мене тест",
+            "začínam o ôsmej|починаю о восьмій"
+          ],
+          "explanation": "Зістав значення.",
+          "wordIds": [
+            "a1-s11-l64-w03",
+            "a1-s11-l64-w04"
+          ],
+          "order": 3,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s11-l64-e04",
+          "lessonId": "a1-s11-l64",
+          "type": "fill_blank",
+          "question": "Доповни правильним варіантом.",
+          "options": [
+            "končím o piatej",
+            "mám prestávku",
+            "som v práci"
+          ],
+          "correctAnswer": "končím o piatej",
+          "explanation": "Правильно: končím o piatej.",
+          "wordIds": [
+            "a1-s11-l64-w05"
+          ],
+          "order": 4,
+          "difficulty": "easy",
+          "button": "Далі",
+          "fullSentence": "končím o piatej."
+        },
+        {
+          "id": "a1-s11-l64-e05",
+          "lessonId": "a1-s11-l64",
+          "type": "dropdown_blank",
+          "question": "Обери правильний варіант.",
+          "sentenceParts": [
+            {
+              "text": "Обери: "
+            },
+            {
+              "blankId": "b1",
+              "options": [
+                "mám prestávku",
+                "som v práci",
+                "som v škole"
+              ],
+              "correct": "mám prestávku"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "correctAnswer": "mám prestávku",
+          "explanation": "Правильний варіант відповідає вивченій одиниці.",
+          "wordIds": [
+            "a1-s11-l64-w06"
+          ],
+          "order": 5,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s11-l64-e06",
+          "lessonId": "a1-s11-l64",
+          "type": "sentence_order",
+          "question": "Розташуй слова правильно.",
+          "tokens": [
+            "som",
+            "v",
+            "práci."
+          ],
+          "correctOrder": [
+            "som",
+            "v",
+            "práci."
+          ],
+          "explanation": "Правильно: som v práci.",
+          "wordIds": [
+            "a1-s11-l64-w07"
+          ],
+          "order": 6,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s11-l64-e07",
+          "lessonId": "a1-s11-l64",
+          "type": "sentence_builder",
+          "question": "Склади правильну фразу.",
+          "tokens": [
+            "som",
+            "v",
+            "škole."
+          ],
+          "correctSentence": "som v škole.",
+          "explanation": "Правильно: som v škole.",
+          "wordIds": [
+            "a1-s11-l64-w08"
+          ],
+          "order": 7,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s11-l64-e08",
+          "lessonId": "a1-s11-l64",
+          "type": "meaning_in_context",
+          "question": "Що означає фраза?",
+          "context": "zajtra mám prácu.",
+          "target": "zajtra mám prácu",
+          "options": [
+            {
+              "id": "a",
+              "text": "завтра я працюю",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": "навчаюся",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": "вчу словацьку",
+              "correct": false
+            }
+          ],
+          "explanation": "Зістав значення за контекстом.",
+          "wordIds": [
+            "a1-s11-l64-w09"
+          ],
+          "order": 8,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s11-l64-e09",
+          "lessonId": "a1-s11-l64",
+          "type": "natural_phrase",
+          "question": "Обери природну фразу.",
+          "situation": "навчаюся",
+          "options": [
+            {
+              "id": "a",
+              "sk": "študujem",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "učím sa slovenčinu",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "čítam",
+              "correct": false
+            }
+          ],
+          "wordIds": [
+            "a1-s11-l64-w10",
+            "a1-s11-l64-w11",
+            "a1-s11-l64-w12"
+          ],
+          "order": 9,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s11-l64-e10",
+          "lessonId": "a1-s11-l64",
+          "type": "multiple_select",
+          "question": "Обери правильні фрази.",
+          "options": [
+            {
+              "id": "a",
+              "sk": "pracujem dnes",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "končím o piatej",
+              "correct": true
+            },
+            {
+              "id": "c",
+              "sk": "čítam",
+              "correct": false
+            },
+            {
+              "id": "d",
+              "sk": "Som zelenina.",
+              "correct": false
+            }
+          ],
+          "explanation": "Обери два правильні варіанти.",
+          "wordIds": [
+            "a1-s11-l64-w01",
+            "a1-s11-l64-w05"
+          ],
+          "order": 10,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s11-l64-e11",
+          "lessonId": "a1-s11-l64",
+          "type": "reading_comprehension",
+          "question": "Прочитай короткий текст.",
+          "text": "pracujem dnes. začínam o ôsmej. som v práci.",
+          "questions": [
+            {
+              "question": "Що сказано першим?",
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "pracujem dnes.",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "mám úlohu.",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "mám test.",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "wordIds": [
+            "a1-s11-l64-w01",
+            "a1-s11-l64-w04",
+            "a1-s11-l64-w07"
+          ],
+          "order": 11,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s11-l64-e12",
+          "lessonId": "a1-s11-l64",
+          "type": "dialogue_choose_reply",
+          "question": "Обери правильну відповідь.",
+          "dialogue": [
+            {
+              "speaker": "A",
+              "text": "Ako to povieš po slovensky?"
+            },
+            {
+              "speaker": "B",
+              "text": "učím sa slovenčinu."
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "učím sa slovenčinu.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "pracujem dnes.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "mám úlohu.",
+              "correct": false
+            }
+          ],
+          "wordIds": [
+            "a1-s11-l64-w11"
+          ],
+          "order": 12,
+          "difficulty": "medium",
+          "button": "Далі"
+        }
+      ],
+      "finalSituation": {
+        "screenType": "final_life_situation",
+        "title": "Ситуація з життя",
+        "scenario": "Ти опинився в реальній ситуації, пов’язаній із темою «Study, work and everyday responsibilities».",
+        "question": "Яка фраза найкраще підходить?",
+        "options": [
+          "študujem.",
+          "učím sa slovenčinu.",
+          "čítam."
+        ],
+        "correctAnswer": "1",
+        "translation": "навчаюся.",
+        "explanation": "Обери фразу, яка найточніше виконує комунікативне завдання.",
+        "button": "Перевірити"
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": "Урок завершено",
+        "text": "Ти потренував ключову лексику теми «Study, work and everyday responsibilities».",
+        "nowYouKnow": [
+          "pracujem dnes — я працюю сьогодні",
+          "mám úlohu — у мене є завдання",
+          "študujem — навчаюся"
+        ],
+        "result": "+25 XP",
+        "newWordsCount": 12,
+        "exercisesCompleted": 12,
+        "mistakesMessage": "Матеріал із помилками додано до повторення.",
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "nextLesson": "Kde pracujem a čo robím?"
+      }
+    }
+  ]
+}

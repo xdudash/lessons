@@ -1,0 +1,730 @@
+{
+  "lessons": [
+    {
+      "id": "a1-s09-l56",
+      "sectionId": "a1_s09",
+      "level": "A1",
+      "title": "V kaviarni",
+      "topic": "Food, drinks and café",
+      "description": "Навчися використовувати основні слова й моделі теми: Food, drinks and café.",
+      "order": 56,
+      "xpReward": 30,
+      "estimatedMinutes": 27,
+      "isPublished": false,
+      "intro": "Розберемо практичні слова й готові моделі для теми «Food, drinks and café».",
+      "completionMessage": "Ти вже можеш використовувати базові слова й моделі теми «Food, drinks and café».",
+      "updatedAt": "2026-09-12T12:00:00Z",
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": "V kaviarni",
+        "shortDescription": "Практична словацька: Food, drinks and café.",
+        "outcomes": [
+          "розуміти ключову лексику",
+          "будувати прості фрази",
+          "використовувати навичку в контексті"
+        ],
+        "newWords": [
+          "káva",
+          "čaj",
+          "polievka",
+          "šalát",
+          "mäso",
+          "ovocie",
+          "mám rád kávu",
+          "nemám rád čaj",
+          "chcem vodu",
+          "prosím si kávu",
+          "dám si polievku",
+          "koľko to stojí?"
+        ],
+        "exercisesCount": 12,
+        "reward": "30 XP",
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "screenType": "theory",
+          "order": 1,
+          "title": "V kaviarni: основа",
+          "text": "Опрацюй перші ключові одиниці разом із готовими прикладами.",
+          "examples": [
+            {
+              "sk": "káva.",
+              "uk": "кава."
+            },
+            {
+              "sk": "čaj.",
+              "uk": "чай."
+            }
+          ],
+          "exampleSk": "káva.",
+          "exampleUk": "кава.",
+          "shortRule": "Вчи фразу разом із її значенням і контекстом.",
+          "button": "Далі"
+        },
+        {
+          "screenType": "theory",
+          "order": 2,
+          "title": "V kaviarni: практика",
+          "text": "Поєднай нові одиниці та використай їх у коротких реальних ситуаціях.",
+          "examples": [
+            {
+              "sk": "mám rád kávu.",
+              "uk": "я люблю каву."
+            },
+            {
+              "sk": "prosím si kávu.",
+              "uk": "я хотів би каву."
+            }
+          ],
+          "exampleSk": "prosím si kávu.",
+          "exampleUk": "я хотів би каву.",
+          "shortRule": "Перенось вивчену модель у новий контекст.",
+          "button": "Далі"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": "V kaviarni",
+        "description": "Повтори ключову лексику уроку.",
+        "items": [
+          {
+            "wordId": "a1-s09-l56-w01",
+            "sk": "káva",
+            "uk": "кава",
+            "pronunciationUk": "kаva",
+            "exampleSk": "káva.",
+            "exampleUk": "кава."
+          },
+          {
+            "wordId": "a1-s09-l56-w02",
+            "sk": "čaj",
+            "uk": "чай",
+            "pronunciationUk": "чaj",
+            "exampleSk": "čaj.",
+            "exampleUk": "чай."
+          },
+          {
+            "wordId": "a1-s09-l56-w03",
+            "sk": "polievka",
+            "uk": "суп",
+            "pronunciationUk": "polievka",
+            "exampleSk": "polievka.",
+            "exampleUk": "суп."
+          },
+          {
+            "wordId": "a1-s09-l56-w04",
+            "sk": "šalát",
+            "uk": "салат",
+            "pronunciationUk": "шalаt",
+            "exampleSk": "šalát.",
+            "exampleUk": "салат."
+          },
+          {
+            "wordId": "a1-s09-l56-w05",
+            "sk": "mäso",
+            "uk": "м’ясо",
+            "pronunciationUk": "mеso",
+            "exampleSk": "mäso.",
+            "exampleUk": "м’ясо."
+          },
+          {
+            "wordId": "a1-s09-l56-w06",
+            "sk": "ovocie",
+            "uk": "фрукти",
+            "pronunciationUk": "ovocie",
+            "exampleSk": "ovocie.",
+            "exampleUk": "фрукти."
+          },
+          {
+            "wordId": "a1-s09-l56-w07",
+            "sk": "mám rád kávu",
+            "uk": "я люблю каву",
+            "pronunciationUk": "mаm rаd kаvu",
+            "exampleSk": "mám rád kávu.",
+            "exampleUk": "я люблю каву."
+          },
+          {
+            "wordId": "a1-s09-l56-w08",
+            "sk": "nemám rád čaj",
+            "uk": "я не люблю чай",
+            "pronunciationUk": "nemаm rаd чaj",
+            "exampleSk": "nemám rád čaj.",
+            "exampleUk": "я не люблю чай."
+          },
+          {
+            "wordId": "a1-s09-l56-w09",
+            "sk": "chcem vodu",
+            "uk": "я хочу воду",
+            "pronunciationUk": "chcem vodu",
+            "exampleSk": "chcem vodu.",
+            "exampleUk": "я хочу воду."
+          },
+          {
+            "wordId": "a1-s09-l56-w10",
+            "sk": "prosím si kávu",
+            "uk": "я хотів би каву",
+            "pronunciationUk": "prosіm si kаvu",
+            "exampleSk": "prosím si kávu.",
+            "exampleUk": "я хотів би каву."
+          },
+          {
+            "wordId": "a1-s09-l56-w11",
+            "sk": "dám si polievku",
+            "uk": "я візьму суп",
+            "pronunciationUk": "dаm si polievku",
+            "exampleSk": "dám si polievku.",
+            "exampleUk": "я візьму суп."
+          },
+          {
+            "wordId": "a1-s09-l56-w12",
+            "sk": "koľko to stojí?",
+            "uk": "скільки це коштує?",
+            "pronunciationUk": "koльko to stojі?",
+            "exampleSk": "koľko to stojí?",
+            "exampleUk": "скільки це коштує?"
+          }
+        ],
+        "button": "Почати вправи"
+      },
+      "words": [
+        {
+          "id": "a1-s09-l56-w01",
+          "sk": "káva",
+          "uk": "кава",
+          "pronunciationUk": "kаva",
+          "exampleSk": "káva.",
+          "exampleUk": "кава.",
+          "level": "A1",
+          "topic": "Food, drinks and café",
+          "tags": [
+            "A1",
+            "Food,"
+          ]
+        },
+        {
+          "id": "a1-s09-l56-w02",
+          "sk": "čaj",
+          "uk": "чай",
+          "pronunciationUk": "чaj",
+          "exampleSk": "čaj.",
+          "exampleUk": "чай.",
+          "level": "A1",
+          "topic": "Food, drinks and café",
+          "tags": [
+            "A1",
+            "Food,"
+          ]
+        },
+        {
+          "id": "a1-s09-l56-w03",
+          "sk": "polievka",
+          "uk": "суп",
+          "pronunciationUk": "polievka",
+          "exampleSk": "polievka.",
+          "exampleUk": "суп.",
+          "level": "A1",
+          "topic": "Food, drinks and café",
+          "tags": [
+            "A1",
+            "Food,"
+          ]
+        },
+        {
+          "id": "a1-s09-l56-w04",
+          "sk": "šalát",
+          "uk": "салат",
+          "pronunciationUk": "шalаt",
+          "exampleSk": "šalát.",
+          "exampleUk": "салат.",
+          "level": "A1",
+          "topic": "Food, drinks and café",
+          "tags": [
+            "A1",
+            "Food,"
+          ]
+        },
+        {
+          "id": "a1-s09-l56-w05",
+          "sk": "mäso",
+          "uk": "м’ясо",
+          "pronunciationUk": "mеso",
+          "exampleSk": "mäso.",
+          "exampleUk": "м’ясо.",
+          "level": "A1",
+          "topic": "Food, drinks and café",
+          "tags": [
+            "A1",
+            "Food,"
+          ]
+        },
+        {
+          "id": "a1-s09-l56-w06",
+          "sk": "ovocie",
+          "uk": "фрукти",
+          "pronunciationUk": "ovocie",
+          "exampleSk": "ovocie.",
+          "exampleUk": "фрукти.",
+          "level": "A1",
+          "topic": "Food, drinks and café",
+          "tags": [
+            "A1",
+            "Food,"
+          ]
+        },
+        {
+          "id": "a1-s09-l56-w07",
+          "sk": "mám rád kávu",
+          "uk": "я люблю каву",
+          "pronunciationUk": "mаm rаd kаvu",
+          "exampleSk": "mám rád kávu.",
+          "exampleUk": "я люблю каву.",
+          "level": "A1",
+          "topic": "Food, drinks and café",
+          "tags": [
+            "A1",
+            "Food,"
+          ]
+        },
+        {
+          "id": "a1-s09-l56-w08",
+          "sk": "nemám rád čaj",
+          "uk": "я не люблю чай",
+          "pronunciationUk": "nemаm rаd чaj",
+          "exampleSk": "nemám rád čaj.",
+          "exampleUk": "я не люблю чай.",
+          "level": "A1",
+          "topic": "Food, drinks and café",
+          "tags": [
+            "A1",
+            "Food,"
+          ]
+        },
+        {
+          "id": "a1-s09-l56-w09",
+          "sk": "chcem vodu",
+          "uk": "я хочу воду",
+          "pronunciationUk": "chcem vodu",
+          "exampleSk": "chcem vodu.",
+          "exampleUk": "я хочу воду.",
+          "level": "A1",
+          "topic": "Food, drinks and café",
+          "tags": [
+            "A1",
+            "Food,"
+          ]
+        },
+        {
+          "id": "a1-s09-l56-w10",
+          "sk": "prosím si kávu",
+          "uk": "я хотів би каву",
+          "pronunciationUk": "prosіm si kаvu",
+          "exampleSk": "prosím si kávu.",
+          "exampleUk": "я хотів би каву.",
+          "level": "A1",
+          "topic": "Food, drinks and café",
+          "tags": [
+            "A1",
+            "Food,"
+          ]
+        },
+        {
+          "id": "a1-s09-l56-w11",
+          "sk": "dám si polievku",
+          "uk": "я візьму суп",
+          "pronunciationUk": "dаm si polievku",
+          "exampleSk": "dám si polievku.",
+          "exampleUk": "я візьму суп.",
+          "level": "A1",
+          "topic": "Food, drinks and café",
+          "tags": [
+            "A1",
+            "Food,"
+          ]
+        },
+        {
+          "id": "a1-s09-l56-w12",
+          "sk": "koľko to stojí?",
+          "uk": "скільки це коштує?",
+          "pronunciationUk": "koльko to stojі?",
+          "exampleSk": "koľko to stojí?",
+          "exampleUk": "скільки це коштує?",
+          "level": "A1",
+          "topic": "Food, drinks and café",
+          "tags": [
+            "A1",
+            "Food,"
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "a1-s09-l56-e01",
+          "lessonId": "a1-s09-l56",
+          "type": "multiple_choice_translation",
+          "question": "Що означає káva?",
+          "options": [
+            "кава",
+            "чай",
+            "суп"
+          ],
+          "correctAnswer": "кава",
+          "explanation": "káva означає «кава».",
+          "wordIds": [
+            "a1-s09-l56-w01"
+          ],
+          "order": 1,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s09-l56-e02",
+          "lessonId": "a1-s09-l56",
+          "type": "multiple_choice_translation",
+          "question": "Як сказати це словацькою?",
+          "options": [
+            "čaj",
+            "šalát",
+            "mäso"
+          ],
+          "correctAnswer": "čaj",
+          "explanation": "Правильний варіант — перша фраза.",
+          "wordIds": [
+            "a1-s09-l56-w02"
+          ],
+          "order": 2,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s09-l56-e03",
+          "lessonId": "a1-s09-l56",
+          "type": "match_pairs",
+          "question": "З’єднай слово з перекладом.",
+          "options": [
+            "polievka",
+            "суп",
+            "šalát",
+            "салат"
+          ],
+          "correctAnswer": [
+            "polievka|суп",
+            "šalát|салат"
+          ],
+          "explanation": "Зістав значення.",
+          "wordIds": [
+            "a1-s09-l56-w03",
+            "a1-s09-l56-w04"
+          ],
+          "order": 3,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s09-l56-e04",
+          "lessonId": "a1-s09-l56",
+          "type": "fill_blank",
+          "question": "Доповни правильним варіантом.",
+          "options": [
+            "mäso",
+            "ovocie",
+            "mám rád kávu"
+          ],
+          "correctAnswer": "mäso",
+          "explanation": "Правильно: mäso.",
+          "wordIds": [
+            "a1-s09-l56-w05"
+          ],
+          "order": 4,
+          "difficulty": "easy",
+          "button": "Далі",
+          "fullSentence": "mäso."
+        },
+        {
+          "id": "a1-s09-l56-e05",
+          "lessonId": "a1-s09-l56",
+          "type": "dropdown_blank",
+          "question": "Обери правильний варіант.",
+          "sentenceParts": [
+            {
+              "text": "Обери: "
+            },
+            {
+              "blankId": "b1",
+              "options": [
+                "ovocie",
+                "mám rád kávu",
+                "nemám rád čaj"
+              ],
+              "correct": "ovocie"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "correctAnswer": "ovocie",
+          "explanation": "Правильний варіант відповідає вивченій одиниці.",
+          "wordIds": [
+            "a1-s09-l56-w06"
+          ],
+          "order": 5,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s09-l56-e06",
+          "lessonId": "a1-s09-l56",
+          "type": "sentence_order",
+          "question": "Розташуй слова правильно.",
+          "tokens": [
+            "mám",
+            "rád",
+            "kávu."
+          ],
+          "correctOrder": [
+            "mám",
+            "rád",
+            "kávu."
+          ],
+          "explanation": "Правильно: mám rád kávu.",
+          "wordIds": [
+            "a1-s09-l56-w07"
+          ],
+          "order": 6,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s09-l56-e07",
+          "lessonId": "a1-s09-l56",
+          "type": "sentence_builder",
+          "question": "Склади правильну фразу.",
+          "tokens": [
+            "nemám",
+            "rád",
+            "čaj."
+          ],
+          "correctSentence": "nemám rád čaj.",
+          "explanation": "Правильно: nemám rád čaj.",
+          "wordIds": [
+            "a1-s09-l56-w08"
+          ],
+          "order": 7,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s09-l56-e08",
+          "lessonId": "a1-s09-l56",
+          "type": "meaning_in_context",
+          "question": "Що означає фраза?",
+          "context": "chcem vodu.",
+          "target": "chcem vodu",
+          "options": [
+            {
+              "id": "a",
+              "text": "я хочу воду",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": "я хотів би каву",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": "я візьму суп",
+              "correct": false
+            }
+          ],
+          "explanation": "Зістав значення за контекстом.",
+          "wordIds": [
+            "a1-s09-l56-w09"
+          ],
+          "order": 8,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s09-l56-e09",
+          "lessonId": "a1-s09-l56",
+          "type": "natural_phrase",
+          "question": "Обери природну фразу.",
+          "situation": "я хотів би каву",
+          "options": [
+            {
+              "id": "a",
+              "sk": "prosím si kávu",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "dám si polievku",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "koľko to stojí?",
+              "correct": false
+            }
+          ],
+          "wordIds": [
+            "a1-s09-l56-w10",
+            "a1-s09-l56-w11",
+            "a1-s09-l56-w12"
+          ],
+          "order": 9,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s09-l56-e10",
+          "lessonId": "a1-s09-l56",
+          "type": "multiple_select",
+          "question": "Обери правильні фрази.",
+          "options": [
+            {
+              "id": "a",
+              "sk": "káva",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "mäso",
+              "correct": true
+            },
+            {
+              "id": "c",
+              "sk": "koľko to stojí?",
+              "correct": false
+            },
+            {
+              "id": "d",
+              "sk": "Som zelenina.",
+              "correct": false
+            }
+          ],
+          "explanation": "Обери два правильні варіанти.",
+          "wordIds": [
+            "a1-s09-l56-w01",
+            "a1-s09-l56-w05"
+          ],
+          "order": 10,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s09-l56-e11",
+          "lessonId": "a1-s09-l56",
+          "type": "reading_comprehension",
+          "question": "Прочитай короткий текст.",
+          "text": "káva. šalát. mám rád kávu.",
+          "questions": [
+            {
+              "question": "Що сказано першим?",
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "káva.",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "čaj.",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "polievka.",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "wordIds": [
+            "a1-s09-l56-w01",
+            "a1-s09-l56-w04",
+            "a1-s09-l56-w07"
+          ],
+          "order": 11,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s09-l56-e12",
+          "lessonId": "a1-s09-l56",
+          "type": "dialogue_choose_reply",
+          "question": "Обери правильну відповідь.",
+          "dialogue": [
+            {
+              "speaker": "A",
+              "text": "Ako to povieš po slovensky?"
+            },
+            {
+              "speaker": "B",
+              "text": "dám si polievku."
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "dám si polievku.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "káva.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "čaj.",
+              "correct": false
+            }
+          ],
+          "wordIds": [
+            "a1-s09-l56-w11"
+          ],
+          "order": 12,
+          "difficulty": "medium",
+          "button": "Далі"
+        }
+      ],
+      "finalSituation": {
+        "screenType": "final_life_situation",
+        "title": "Ситуація з життя",
+        "scenario": "Ти опинився в реальній ситуації, пов’язаній із темою «Food, drinks and café».",
+        "question": "Яка фраза найкраще підходить?",
+        "options": [
+          "prosím si kávu.",
+          "dám si polievku.",
+          "koľko to stojí?"
+        ],
+        "correctAnswer": "1",
+        "translation": "я хотів би каву.",
+        "explanation": "Обери фразу, яка найточніше виконує комунікативне завдання.",
+        "button": "Перевірити"
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": "Урок завершено",
+        "text": "Ти потренував ключову лексику теми «Food, drinks and café».",
+        "nowYouKnow": [
+          "káva — кава",
+          "čaj — чай",
+          "prosím si kávu — я хотів би каву"
+        ],
+        "result": "+30 XP",
+        "newWordsCount": 12,
+        "exercisesCompleted": 12,
+        "mistakesMessage": "Матеріал із помилками додано до повторення.",
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "nextLesson": "V obchode"
+      }
+    }
+  ]
+}

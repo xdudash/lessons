@@ -1,0 +1,729 @@
+{
+  "lessons": [
+    {
+      "id": "a1-s13-l75",
+      "sectionId": "a1_s13",
+      "level": "A1",
+      "title": "Potrebujem pomoc",
+      "topic": "Body, health, problems and help",
+      "description": "Навчися використовувати основні слова й моделі теми: Body, health, problems and help.",
+      "order": 75,
+      "xpReward": 25,
+      "estimatedMinutes": 27,
+      "isPublished": false,
+      "intro": "Розберемо практичні слова й готові моделі для теми «Body, health, problems and help».",
+      "completionMessage": "Ти вже можеш використовувати базові слова й моделі теми «Body, health, problems and help».",
+      "updatedAt": "2026-09-12T12:00:00Z",
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": "Potrebujem pomoc",
+        "shortDescription": "Практична словацька: Body, health, problems and help.",
+        "outcomes": [
+          "розуміти ключову лексику",
+          "будувати прості фрази",
+          "використовувати навичку в контексті"
+        ],
+        "newWords": [
+          "som unavený",
+          "som chorý",
+          "bolí ma hlava",
+          "bolí ma hrdlo",
+          "potrebujem lekára",
+          "potrebujem liek",
+          "kde je lekáreň?",
+          "prosím pomoc",
+          "mám teplotu",
+          "nemôžem chodiť",
+          "čo mi je?",
+          "potrebujem pomoc"
+        ],
+        "exercisesCount": 12,
+        "reward": "25 XP",
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "screenType": "theory",
+          "order": 1,
+          "title": "Potrebujem pomoc: основа",
+          "text": "Опрацюй перші ключові одиниці разом із готовими прикладами.",
+          "examples": [
+            {
+              "sk": "som unavený.",
+              "uk": "я втомлений."
+            },
+            {
+              "sk": "som chorý.",
+              "uk": "я хворий."
+            }
+          ],
+          "exampleSk": "som unavený.",
+          "exampleUk": "я втомлений.",
+          "shortRule": "Вчи фразу разом із її значенням і контекстом.",
+          "button": "Далі"
+        },
+        {
+          "screenType": "theory",
+          "order": 2,
+          "title": "Potrebujem pomoc: практика",
+          "text": "Поєднай нові одиниці та використай їх у коротких реальних ситуаціях.",
+          "examples": [
+            {
+              "sk": "kde je lekáreň?",
+              "uk": "де аптека?"
+            },
+            {
+              "sk": "nemôžem chodiť.",
+              "uk": "я не можу ходити."
+            }
+          ],
+          "exampleSk": "nemôžem chodiť.",
+          "exampleUk": "я не можу ходити.",
+          "shortRule": "Перенось вивчену модель у новий контекст.",
+          "button": "Далі"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": "Potrebujem pomoc",
+        "description": "Повтори ключову лексику уроку.",
+        "items": [
+          {
+            "wordId": "a1-s13-l75-w01",
+            "sk": "som unavený",
+            "uk": "я втомлений",
+            "pronunciationUk": "som unavenи",
+            "exampleSk": "som unavený.",
+            "exampleUk": "я втомлений."
+          },
+          {
+            "wordId": "a1-s13-l75-w02",
+            "sk": "som chorý",
+            "uk": "я хворий",
+            "pronunciationUk": "som chorи",
+            "exampleSk": "som chorý.",
+            "exampleUk": "я хворий."
+          },
+          {
+            "wordId": "a1-s13-l75-w03",
+            "sk": "bolí ma hlava",
+            "uk": "у мене болить голова",
+            "pronunciationUk": "bolі ma hlava",
+            "exampleSk": "bolí ma hlava.",
+            "exampleUk": "у мене болить голова."
+          },
+          {
+            "wordId": "a1-s13-l75-w04",
+            "sk": "bolí ma hrdlo",
+            "uk": "у мене болить горло",
+            "pronunciationUk": "bolі ma hrdlo",
+            "exampleSk": "bolí ma hrdlo.",
+            "exampleUk": "у мене болить горло."
+          },
+          {
+            "wordId": "a1-s13-l75-w05",
+            "sk": "potrebujem lekára",
+            "uk": "мені потрібен лікар",
+            "pronunciationUk": "potrebujem lekаra",
+            "exampleSk": "potrebujem lekára.",
+            "exampleUk": "мені потрібен лікар."
+          },
+          {
+            "wordId": "a1-s13-l75-w06",
+            "sk": "potrebujem liek",
+            "uk": "мені потрібні ліки",
+            "pronunciationUk": "potrebujem liek",
+            "exampleSk": "potrebujem liek.",
+            "exampleUk": "мені потрібні ліки."
+          },
+          {
+            "wordId": "a1-s13-l75-w07",
+            "sk": "kde je lekáreň?",
+            "uk": "де аптека?",
+            "pronunciationUk": "kde je lekаreнь?",
+            "exampleSk": "kde je lekáreň?",
+            "exampleUk": "де аптека?"
+          },
+          {
+            "wordId": "a1-s13-l75-w08",
+            "sk": "prosím pomoc",
+            "uk": "допоможіть, будь ласка",
+            "pronunciationUk": "prosіm pomoc",
+            "exampleSk": "prosím pomoc.",
+            "exampleUk": "допоможіть, будь ласка."
+          },
+          {
+            "wordId": "a1-s13-l75-w09",
+            "sk": "mám teplotu",
+            "uk": "у мене температура",
+            "pronunciationUk": "mаm teplotu",
+            "exampleSk": "mám teplotu.",
+            "exampleUk": "у мене температура."
+          },
+          {
+            "wordId": "a1-s13-l75-w10",
+            "sk": "nemôžem chodiť",
+            "uk": "я не можу ходити",
+            "pronunciationUk": "nemуожem chodiть",
+            "exampleSk": "nemôžem chodiť.",
+            "exampleUk": "я не можу ходити."
+          },
+          {
+            "wordId": "a1-s13-l75-w11",
+            "sk": "čo mi je?",
+            "uk": "що зі мною?",
+            "pronunciationUk": "чo mi je?",
+            "exampleSk": "čo mi je?",
+            "exampleUk": "що зі мною?"
+          },
+          {
+            "wordId": "a1-s13-l75-w12",
+            "sk": "potrebujem pomoc",
+            "uk": "мені потрібна допомога",
+            "pronunciationUk": "potrebujem pomoc",
+            "exampleSk": "potrebujem pomoc.",
+            "exampleUk": "мені потрібна допомога."
+          }
+        ],
+        "button": "Почати вправи"
+      },
+      "words": [
+        {
+          "id": "a1-s13-l75-w01",
+          "sk": "som unavený",
+          "uk": "я втомлений",
+          "pronunciationUk": "som unavenи",
+          "exampleSk": "som unavený.",
+          "exampleUk": "я втомлений.",
+          "level": "A1",
+          "topic": "Body, health, problems and help",
+          "tags": [
+            "A1",
+            "Body,"
+          ]
+        },
+        {
+          "id": "a1-s13-l75-w02",
+          "sk": "som chorý",
+          "uk": "я хворий",
+          "pronunciationUk": "som chorи",
+          "exampleSk": "som chorý.",
+          "exampleUk": "я хворий.",
+          "level": "A1",
+          "topic": "Body, health, problems and help",
+          "tags": [
+            "A1",
+            "Body,"
+          ]
+        },
+        {
+          "id": "a1-s13-l75-w03",
+          "sk": "bolí ma hlava",
+          "uk": "у мене болить голова",
+          "pronunciationUk": "bolі ma hlava",
+          "exampleSk": "bolí ma hlava.",
+          "exampleUk": "у мене болить голова.",
+          "level": "A1",
+          "topic": "Body, health, problems and help",
+          "tags": [
+            "A1",
+            "Body,"
+          ]
+        },
+        {
+          "id": "a1-s13-l75-w04",
+          "sk": "bolí ma hrdlo",
+          "uk": "у мене болить горло",
+          "pronunciationUk": "bolі ma hrdlo",
+          "exampleSk": "bolí ma hrdlo.",
+          "exampleUk": "у мене болить горло.",
+          "level": "A1",
+          "topic": "Body, health, problems and help",
+          "tags": [
+            "A1",
+            "Body,"
+          ]
+        },
+        {
+          "id": "a1-s13-l75-w05",
+          "sk": "potrebujem lekára",
+          "uk": "мені потрібен лікар",
+          "pronunciationUk": "potrebujem lekаra",
+          "exampleSk": "potrebujem lekára.",
+          "exampleUk": "мені потрібен лікар.",
+          "level": "A1",
+          "topic": "Body, health, problems and help",
+          "tags": [
+            "A1",
+            "Body,"
+          ]
+        },
+        {
+          "id": "a1-s13-l75-w06",
+          "sk": "potrebujem liek",
+          "uk": "мені потрібні ліки",
+          "pronunciationUk": "potrebujem liek",
+          "exampleSk": "potrebujem liek.",
+          "exampleUk": "мені потрібні ліки.",
+          "level": "A1",
+          "topic": "Body, health, problems and help",
+          "tags": [
+            "A1",
+            "Body,"
+          ]
+        },
+        {
+          "id": "a1-s13-l75-w07",
+          "sk": "kde je lekáreň?",
+          "uk": "де аптека?",
+          "pronunciationUk": "kde je lekаreнь?",
+          "exampleSk": "kde je lekáreň?",
+          "exampleUk": "де аптека?",
+          "level": "A1",
+          "topic": "Body, health, problems and help",
+          "tags": [
+            "A1",
+            "Body,"
+          ]
+        },
+        {
+          "id": "a1-s13-l75-w08",
+          "sk": "prosím pomoc",
+          "uk": "допоможіть, будь ласка",
+          "pronunciationUk": "prosіm pomoc",
+          "exampleSk": "prosím pomoc.",
+          "exampleUk": "допоможіть, будь ласка.",
+          "level": "A1",
+          "topic": "Body, health, problems and help",
+          "tags": [
+            "A1",
+            "Body,"
+          ]
+        },
+        {
+          "id": "a1-s13-l75-w09",
+          "sk": "mám teplotu",
+          "uk": "у мене температура",
+          "pronunciationUk": "mаm teplotu",
+          "exampleSk": "mám teplotu.",
+          "exampleUk": "у мене температура.",
+          "level": "A1",
+          "topic": "Body, health, problems and help",
+          "tags": [
+            "A1",
+            "Body,"
+          ]
+        },
+        {
+          "id": "a1-s13-l75-w10",
+          "sk": "nemôžem chodiť",
+          "uk": "я не можу ходити",
+          "pronunciationUk": "nemуожem chodiть",
+          "exampleSk": "nemôžem chodiť.",
+          "exampleUk": "я не можу ходити.",
+          "level": "A1",
+          "topic": "Body, health, problems and help",
+          "tags": [
+            "A1",
+            "Body,"
+          ]
+        },
+        {
+          "id": "a1-s13-l75-w11",
+          "sk": "čo mi je?",
+          "uk": "що зі мною?",
+          "pronunciationUk": "чo mi je?",
+          "exampleSk": "čo mi je?",
+          "exampleUk": "що зі мною?",
+          "level": "A1",
+          "topic": "Body, health, problems and help",
+          "tags": [
+            "A1",
+            "Body,"
+          ]
+        },
+        {
+          "id": "a1-s13-l75-w12",
+          "sk": "potrebujem pomoc",
+          "uk": "мені потрібна допомога",
+          "pronunciationUk": "potrebujem pomoc",
+          "exampleSk": "potrebujem pomoc.",
+          "exampleUk": "мені потрібна допомога.",
+          "level": "A1",
+          "topic": "Body, health, problems and help",
+          "tags": [
+            "A1",
+            "Body,"
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "a1-s13-l75-e01",
+          "lessonId": "a1-s13-l75",
+          "type": "multiple_choice_translation",
+          "question": "Що означає som unavený?",
+          "options": [
+            "я втомлений",
+            "я хворий",
+            "у мене болить голова"
+          ],
+          "correctAnswer": "я втомлений",
+          "explanation": "som unavený означає «я втомлений».",
+          "wordIds": [
+            "a1-s13-l75-w01"
+          ],
+          "order": 1,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s13-l75-e02",
+          "lessonId": "a1-s13-l75",
+          "type": "multiple_choice_translation",
+          "question": "Як сказати це словацькою?",
+          "options": [
+            "som chorý",
+            "bolí ma hrdlo",
+            "potrebujem lekára"
+          ],
+          "correctAnswer": "som chorý",
+          "explanation": "Правильний варіант — перша фраза.",
+          "wordIds": [
+            "a1-s13-l75-w02"
+          ],
+          "order": 2,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s13-l75-e03",
+          "lessonId": "a1-s13-l75",
+          "type": "match_pairs",
+          "question": "З’єднай слово з перекладом.",
+          "options": [
+            "bolí ma hlava",
+            "у мене болить голова",
+            "bolí ma hrdlo",
+            "у мене болить горло"
+          ],
+          "correctAnswer": [
+            "bolí ma hlava|у мене болить голова",
+            "bolí ma hrdlo|у мене болить горло"
+          ],
+          "explanation": "Зістав значення.",
+          "wordIds": [
+            "a1-s13-l75-w03",
+            "a1-s13-l75-w04"
+          ],
+          "order": 3,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s13-l75-e04",
+          "lessonId": "a1-s13-l75",
+          "type": "fill_blank",
+          "question": "Доповни правильним варіантом.",
+          "options": [
+            "potrebujem lekára",
+            "potrebujem liek",
+            "kde je lekáreň?"
+          ],
+          "correctAnswer": "potrebujem lekára",
+          "explanation": "Правильно: potrebujem lekára.",
+          "wordIds": [
+            "a1-s13-l75-w05"
+          ],
+          "order": 4,
+          "difficulty": "easy",
+          "button": "Далі",
+          "fullSentence": "potrebujem lekára."
+        },
+        {
+          "id": "a1-s13-l75-e05",
+          "lessonId": "a1-s13-l75",
+          "type": "dropdown_blank",
+          "question": "Обери правильний варіант.",
+          "sentenceParts": [
+            {
+              "text": "Обери: "
+            },
+            {
+              "blankId": "b1",
+              "options": [
+                "potrebujem liek",
+                "kde je lekáreň?",
+                "prosím pomoc"
+              ],
+              "correct": "potrebujem liek"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "correctAnswer": "potrebujem liek",
+          "explanation": "Правильний варіант відповідає вивченій одиниці.",
+          "wordIds": [
+            "a1-s13-l75-w06"
+          ],
+          "order": 5,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s13-l75-e06",
+          "lessonId": "a1-s13-l75",
+          "type": "sentence_order",
+          "question": "Розташуй слова правильно.",
+          "tokens": [
+            "kde",
+            "je",
+            "lekáreň?"
+          ],
+          "correctOrder": [
+            "kde",
+            "je",
+            "lekáreň?"
+          ],
+          "explanation": "Правильно: kde je lekáreň?",
+          "wordIds": [
+            "a1-s13-l75-w07"
+          ],
+          "order": 6,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s13-l75-e07",
+          "lessonId": "a1-s13-l75",
+          "type": "sentence_builder",
+          "question": "Склади правильну фразу.",
+          "tokens": [
+            "prosím",
+            "pomoc."
+          ],
+          "correctSentence": "prosím pomoc.",
+          "explanation": "Правильно: prosím pomoc.",
+          "wordIds": [
+            "a1-s13-l75-w08"
+          ],
+          "order": 7,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s13-l75-e08",
+          "lessonId": "a1-s13-l75",
+          "type": "meaning_in_context",
+          "question": "Що означає фраза?",
+          "context": "mám teplotu.",
+          "target": "mám teplotu",
+          "options": [
+            {
+              "id": "a",
+              "text": "у мене температура",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": "я не можу ходити",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": "що зі мною?",
+              "correct": false
+            }
+          ],
+          "explanation": "Зістав значення за контекстом.",
+          "wordIds": [
+            "a1-s13-l75-w09"
+          ],
+          "order": 8,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s13-l75-e09",
+          "lessonId": "a1-s13-l75",
+          "type": "natural_phrase",
+          "question": "Обери природну фразу.",
+          "situation": "я не можу ходити",
+          "options": [
+            {
+              "id": "a",
+              "sk": "nemôžem chodiť",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "čo mi je?",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "potrebujem pomoc",
+              "correct": false
+            }
+          ],
+          "wordIds": [
+            "a1-s13-l75-w10",
+            "a1-s13-l75-w11",
+            "a1-s13-l75-w12"
+          ],
+          "order": 9,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s13-l75-e10",
+          "lessonId": "a1-s13-l75",
+          "type": "multiple_select",
+          "question": "Обери правильні фрази.",
+          "options": [
+            {
+              "id": "a",
+              "sk": "som unavený",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "potrebujem lekára",
+              "correct": true
+            },
+            {
+              "id": "c",
+              "sk": "potrebujem pomoc",
+              "correct": false
+            },
+            {
+              "id": "d",
+              "sk": "Som zelenina.",
+              "correct": false
+            }
+          ],
+          "explanation": "Обери два правильні варіанти.",
+          "wordIds": [
+            "a1-s13-l75-w01",
+            "a1-s13-l75-w05"
+          ],
+          "order": 10,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s13-l75-e11",
+          "lessonId": "a1-s13-l75",
+          "type": "reading_comprehension",
+          "question": "Прочитай короткий текст.",
+          "text": "som unavený. bolí ma hrdlo. kde je lekáreň?",
+          "questions": [
+            {
+              "question": "Що сказано першим?",
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "som unavený.",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "som chorý.",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "bolí ma hlava.",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "wordIds": [
+            "a1-s13-l75-w01",
+            "a1-s13-l75-w04",
+            "a1-s13-l75-w07"
+          ],
+          "order": 11,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s13-l75-e12",
+          "lessonId": "a1-s13-l75",
+          "type": "dialogue_choose_reply",
+          "question": "Обери правильну відповідь.",
+          "dialogue": [
+            {
+              "speaker": "A",
+              "text": "Ako to povieš po slovensky?"
+            },
+            {
+              "speaker": "B",
+              "text": "čo mi je?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "čo mi je?",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "som unavený.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "som chorý.",
+              "correct": false
+            }
+          ],
+          "wordIds": [
+            "a1-s13-l75-w11"
+          ],
+          "order": 12,
+          "difficulty": "medium",
+          "button": "Далі"
+        }
+      ],
+      "finalSituation": {
+        "screenType": "final_life_situation",
+        "title": "Ситуація з життя",
+        "scenario": "Ти опинився в реальній ситуації, пов’язаній із темою «Body, health, problems and help».",
+        "question": "Яка фраза найкраще підходить?",
+        "options": [
+          "nemôžem chodiť.",
+          "čo mi je?",
+          "potrebujem pomoc."
+        ],
+        "correctAnswer": "1",
+        "translation": "я не можу ходити.",
+        "explanation": "Обери фразу, яка найточніше виконує комунікативне завдання.",
+        "button": "Перевірити"
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": "Урок завершено",
+        "text": "Ти потренував ключову лексику теми «Body, health, problems and help».",
+        "nowYouKnow": [
+          "som unavený — я втомлений",
+          "som chorý — я хворий",
+          "nemôžem chodiť — я не можу ходити"
+        ],
+        "result": "+25 XP",
+        "newWordsCount": 12,
+        "exercisesCompleted": 12,
+        "mistakesMessage": "Матеріал із помилками додано до повторення.",
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "nextLesson": "Čo mi je?"
+      }
+    }
+  ]
+}

@@ -1,0 +1,728 @@
+{
+  "lessons": [
+    {
+      "id": "a1-s14-l79",
+      "sectionId": "a1_s14",
+      "level": "A1",
+      "title": "Nakupovanie a služby",
+      "topic": "A1 integration: real life",
+      "description": "Навчися використовувати основні слова й моделі теми: A1 integration: real life.",
+      "order": 79,
+      "xpReward": 25,
+      "estimatedMinutes": 27,
+      "isPublished": false,
+      "intro": "Розберемо практичні слова й готові моделі для теми «A1 integration: real life».",
+      "completionMessage": "Ти вже можеш використовувати базові слова й моделі теми «A1 integration: real life».",
+      "updatedAt": "2026-09-12T12:00:00Z",
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": "Nakupovanie a služby",
+        "shortDescription": "Практична словацька: A1 integration: real life.",
+        "outcomes": [
+          "розуміти ключову лексику",
+          "будувати прості фрази",
+          "використовувати навичку в контексті"
+        ],
+        "newWords": [
+          "volám sa",
+          "som z",
+          "bývam v",
+          "mám rodinu",
+          "mám prácu",
+          "môj byt",
+          "ráno pracujem",
+          "idem do mesta",
+          "hľadám stanicu",
+          "chcem kávu",
+          "koľko to stojí?",
+          "chcem to kúpiť"
+        ],
+        "exercisesCount": 12,
+        "reward": "25 XP",
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "screenType": "theory",
+          "order": 1,
+          "title": "Nakupovanie a služby: основа",
+          "text": "Опрацюй перші ключові одиниці разом із готовими прикладами.",
+          "examples": [
+            {
+              "sk": "volám sa.",
+              "uk": "мене звати."
+            },
+            {
+              "sk": "som z.",
+              "uk": "я з."
+            }
+          ],
+          "exampleSk": "volám sa.",
+          "exampleUk": "мене звати.",
+          "shortRule": "Вчи фразу разом із її значенням і контекстом.",
+          "button": "Далі"
+        },
+        {
+          "screenType": "theory",
+          "order": 2,
+          "title": "Nakupovanie a služby: практика",
+          "text": "Поєднай нові одиниці та використай їх у коротких реальних ситуаціях.",
+          "examples": [
+            {
+              "sk": "ráno pracujem.",
+              "uk": "вранці я працюю."
+            },
+            {
+              "sk": "chcem kávu.",
+              "uk": "я хочу каву."
+            }
+          ],
+          "exampleSk": "chcem kávu.",
+          "exampleUk": "я хочу каву.",
+          "shortRule": "Перенось вивчену модель у новий контекст.",
+          "button": "Далі"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": "Nakupovanie a služby",
+        "description": "Повтори ключову лексику уроку.",
+        "items": [
+          {
+            "wordId": "a1-s14-l79-w01",
+            "sk": "volám sa",
+            "uk": "мене звати",
+            "pronunciationUk": "volаm sa",
+            "exampleSk": "volám sa.",
+            "exampleUk": "мене звати."
+          },
+          {
+            "wordId": "a1-s14-l79-w02",
+            "sk": "som z",
+            "uk": "я з",
+            "pronunciationUk": "som z",
+            "exampleSk": "som z.",
+            "exampleUk": "я з."
+          },
+          {
+            "wordId": "a1-s14-l79-w03",
+            "sk": "bývam v",
+            "uk": "я живу в",
+            "pronunciationUk": "bиvam v",
+            "exampleSk": "bývam v.",
+            "exampleUk": "я живу в."
+          },
+          {
+            "wordId": "a1-s14-l79-w04",
+            "sk": "mám rodinu",
+            "uk": "у мене є родина",
+            "pronunciationUk": "mаm rodinu",
+            "exampleSk": "mám rodinu.",
+            "exampleUk": "у мене є родина."
+          },
+          {
+            "wordId": "a1-s14-l79-w05",
+            "sk": "mám prácu",
+            "uk": "у мене є робота",
+            "pronunciationUk": "mаm prаcu",
+            "exampleSk": "mám prácu.",
+            "exampleUk": "у мене є робота."
+          },
+          {
+            "wordId": "a1-s14-l79-w06",
+            "sk": "môj byt",
+            "uk": "моя квартира",
+            "pronunciationUk": "mуоj byt",
+            "exampleSk": "môj byt.",
+            "exampleUk": "моя квартира."
+          },
+          {
+            "wordId": "a1-s14-l79-w07",
+            "sk": "ráno pracujem",
+            "uk": "вранці я працюю",
+            "pronunciationUk": "rаno pracujem",
+            "exampleSk": "ráno pracujem.",
+            "exampleUk": "вранці я працюю."
+          },
+          {
+            "wordId": "a1-s14-l79-w08",
+            "sk": "idem do mesta",
+            "uk": "я йду в місто",
+            "pronunciationUk": "idem do mesta",
+            "exampleSk": "idem do mesta.",
+            "exampleUk": "я йду в місто."
+          },
+          {
+            "wordId": "a1-s14-l79-w09",
+            "sk": "hľadám stanicu",
+            "uk": "я шукаю станцію",
+            "pronunciationUk": "hльadаm stanicu",
+            "exampleSk": "hľadám stanicu.",
+            "exampleUk": "я шукаю станцію."
+          },
+          {
+            "wordId": "a1-s14-l79-w10",
+            "sk": "chcem kávu",
+            "uk": "я хочу каву",
+            "pronunciationUk": "chcem kаvu",
+            "exampleSk": "chcem kávu.",
+            "exampleUk": "я хочу каву."
+          },
+          {
+            "wordId": "a1-s14-l79-w11",
+            "sk": "koľko to stojí?",
+            "uk": "скільки це коштує?",
+            "pronunciationUk": "koльko to stojі?",
+            "exampleSk": "koľko to stojí?",
+            "exampleUk": "скільки це коштує?"
+          },
+          {
+            "wordId": "a1-s14-l79-w12",
+            "sk": "chcem to kúpiť",
+            "uk": "я хочу це купити",
+            "pronunciationUk": "chcem to kуpiть",
+            "exampleSk": "chcem to kúpiť.",
+            "exampleUk": "я хочу це купити."
+          }
+        ],
+        "button": "Почати вправи"
+      },
+      "words": [
+        {
+          "id": "a1-s14-l79-w01",
+          "sk": "volám sa",
+          "uk": "мене звати",
+          "pronunciationUk": "volаm sa",
+          "exampleSk": "volám sa.",
+          "exampleUk": "мене звати.",
+          "level": "A1",
+          "topic": "A1 integration: real life",
+          "tags": [
+            "A1",
+            "A1"
+          ]
+        },
+        {
+          "id": "a1-s14-l79-w02",
+          "sk": "som z",
+          "uk": "я з",
+          "pronunciationUk": "som z",
+          "exampleSk": "som z.",
+          "exampleUk": "я з.",
+          "level": "A1",
+          "topic": "A1 integration: real life",
+          "tags": [
+            "A1",
+            "A1"
+          ]
+        },
+        {
+          "id": "a1-s14-l79-w03",
+          "sk": "bývam v",
+          "uk": "я живу в",
+          "pronunciationUk": "bиvam v",
+          "exampleSk": "bývam v.",
+          "exampleUk": "я живу в.",
+          "level": "A1",
+          "topic": "A1 integration: real life",
+          "tags": [
+            "A1",
+            "A1"
+          ]
+        },
+        {
+          "id": "a1-s14-l79-w04",
+          "sk": "mám rodinu",
+          "uk": "у мене є родина",
+          "pronunciationUk": "mаm rodinu",
+          "exampleSk": "mám rodinu.",
+          "exampleUk": "у мене є родина.",
+          "level": "A1",
+          "topic": "A1 integration: real life",
+          "tags": [
+            "A1",
+            "A1"
+          ]
+        },
+        {
+          "id": "a1-s14-l79-w05",
+          "sk": "mám prácu",
+          "uk": "у мене є робота",
+          "pronunciationUk": "mаm prаcu",
+          "exampleSk": "mám prácu.",
+          "exampleUk": "у мене є робота.",
+          "level": "A1",
+          "topic": "A1 integration: real life",
+          "tags": [
+            "A1",
+            "A1"
+          ]
+        },
+        {
+          "id": "a1-s14-l79-w06",
+          "sk": "môj byt",
+          "uk": "моя квартира",
+          "pronunciationUk": "mуоj byt",
+          "exampleSk": "môj byt.",
+          "exampleUk": "моя квартира.",
+          "level": "A1",
+          "topic": "A1 integration: real life",
+          "tags": [
+            "A1",
+            "A1"
+          ]
+        },
+        {
+          "id": "a1-s14-l79-w07",
+          "sk": "ráno pracujem",
+          "uk": "вранці я працюю",
+          "pronunciationUk": "rаno pracujem",
+          "exampleSk": "ráno pracujem.",
+          "exampleUk": "вранці я працюю.",
+          "level": "A1",
+          "topic": "A1 integration: real life",
+          "tags": [
+            "A1",
+            "A1"
+          ]
+        },
+        {
+          "id": "a1-s14-l79-w08",
+          "sk": "idem do mesta",
+          "uk": "я йду в місто",
+          "pronunciationUk": "idem do mesta",
+          "exampleSk": "idem do mesta.",
+          "exampleUk": "я йду в місто.",
+          "level": "A1",
+          "topic": "A1 integration: real life",
+          "tags": [
+            "A1",
+            "A1"
+          ]
+        },
+        {
+          "id": "a1-s14-l79-w09",
+          "sk": "hľadám stanicu",
+          "uk": "я шукаю станцію",
+          "pronunciationUk": "hльadаm stanicu",
+          "exampleSk": "hľadám stanicu.",
+          "exampleUk": "я шукаю станцію.",
+          "level": "A1",
+          "topic": "A1 integration: real life",
+          "tags": [
+            "A1",
+            "A1"
+          ]
+        },
+        {
+          "id": "a1-s14-l79-w10",
+          "sk": "chcem kávu",
+          "uk": "я хочу каву",
+          "pronunciationUk": "chcem kаvu",
+          "exampleSk": "chcem kávu.",
+          "exampleUk": "я хочу каву.",
+          "level": "A1",
+          "topic": "A1 integration: real life",
+          "tags": [
+            "A1",
+            "A1"
+          ]
+        },
+        {
+          "id": "a1-s14-l79-w11",
+          "sk": "koľko to stojí?",
+          "uk": "скільки це коштує?",
+          "pronunciationUk": "koльko to stojі?",
+          "exampleSk": "koľko to stojí?",
+          "exampleUk": "скільки це коштує?",
+          "level": "A1",
+          "topic": "A1 integration: real life",
+          "tags": [
+            "A1",
+            "A1"
+          ]
+        },
+        {
+          "id": "a1-s14-l79-w12",
+          "sk": "chcem to kúpiť",
+          "uk": "я хочу це купити",
+          "pronunciationUk": "chcem to kуpiть",
+          "exampleSk": "chcem to kúpiť.",
+          "exampleUk": "я хочу це купити.",
+          "level": "A1",
+          "topic": "A1 integration: real life",
+          "tags": [
+            "A1",
+            "A1"
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "a1-s14-l79-e01",
+          "lessonId": "a1-s14-l79",
+          "type": "multiple_choice_translation",
+          "question": "Що означає volám sa?",
+          "options": [
+            "мене звати",
+            "я з",
+            "я живу в"
+          ],
+          "correctAnswer": "мене звати",
+          "explanation": "volám sa означає «мене звати».",
+          "wordIds": [
+            "a1-s14-l79-w01"
+          ],
+          "order": 1,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s14-l79-e02",
+          "lessonId": "a1-s14-l79",
+          "type": "multiple_choice_translation",
+          "question": "Як сказати це словацькою?",
+          "options": [
+            "som z",
+            "mám rodinu",
+            "mám prácu"
+          ],
+          "correctAnswer": "som z",
+          "explanation": "Правильний варіант — перша фраза.",
+          "wordIds": [
+            "a1-s14-l79-w02"
+          ],
+          "order": 2,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s14-l79-e03",
+          "lessonId": "a1-s14-l79",
+          "type": "match_pairs",
+          "question": "З’єднай слово з перекладом.",
+          "options": [
+            "bývam v",
+            "я живу в",
+            "mám rodinu",
+            "у мене є родина"
+          ],
+          "correctAnswer": [
+            "bývam v|я живу в",
+            "mám rodinu|у мене є родина"
+          ],
+          "explanation": "Зістав значення.",
+          "wordIds": [
+            "a1-s14-l79-w03",
+            "a1-s14-l79-w04"
+          ],
+          "order": 3,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s14-l79-e04",
+          "lessonId": "a1-s14-l79",
+          "type": "fill_blank",
+          "question": "Доповни правильним варіантом.",
+          "options": [
+            "mám prácu",
+            "môj byt",
+            "ráno pracujem"
+          ],
+          "correctAnswer": "mám prácu",
+          "explanation": "Правильно: mám prácu.",
+          "wordIds": [
+            "a1-s14-l79-w05"
+          ],
+          "order": 4,
+          "difficulty": "easy",
+          "button": "Далі",
+          "fullSentence": "mám prácu."
+        },
+        {
+          "id": "a1-s14-l79-e05",
+          "lessonId": "a1-s14-l79",
+          "type": "dropdown_blank",
+          "question": "Обери правильний варіант.",
+          "sentenceParts": [
+            {
+              "text": "Обери: "
+            },
+            {
+              "blankId": "b1",
+              "options": [
+                "môj byt",
+                "ráno pracujem",
+                "idem do mesta"
+              ],
+              "correct": "môj byt"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "correctAnswer": "môj byt",
+          "explanation": "Правильний варіант відповідає вивченій одиниці.",
+          "wordIds": [
+            "a1-s14-l79-w06"
+          ],
+          "order": 5,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s14-l79-e06",
+          "lessonId": "a1-s14-l79",
+          "type": "sentence_order",
+          "question": "Розташуй слова правильно.",
+          "tokens": [
+            "ráno",
+            "pracujem."
+          ],
+          "correctOrder": [
+            "ráno",
+            "pracujem."
+          ],
+          "explanation": "Правильно: ráno pracujem.",
+          "wordIds": [
+            "a1-s14-l79-w07"
+          ],
+          "order": 6,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s14-l79-e07",
+          "lessonId": "a1-s14-l79",
+          "type": "sentence_builder",
+          "question": "Склади правильну фразу.",
+          "tokens": [
+            "idem",
+            "do",
+            "mesta."
+          ],
+          "correctSentence": "idem do mesta.",
+          "explanation": "Правильно: idem do mesta.",
+          "wordIds": [
+            "a1-s14-l79-w08"
+          ],
+          "order": 7,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s14-l79-e08",
+          "lessonId": "a1-s14-l79",
+          "type": "meaning_in_context",
+          "question": "Що означає фраза?",
+          "context": "hľadám stanicu.",
+          "target": "hľadám stanicu",
+          "options": [
+            {
+              "id": "a",
+              "text": "я шукаю станцію",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": "я хочу каву",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": "скільки це коштує?",
+              "correct": false
+            }
+          ],
+          "explanation": "Зістав значення за контекстом.",
+          "wordIds": [
+            "a1-s14-l79-w09"
+          ],
+          "order": 8,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s14-l79-e09",
+          "lessonId": "a1-s14-l79",
+          "type": "natural_phrase",
+          "question": "Обери природну фразу.",
+          "situation": "я хочу каву",
+          "options": [
+            {
+              "id": "a",
+              "sk": "chcem kávu",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "koľko to stojí?",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "chcem to kúpiť",
+              "correct": false
+            }
+          ],
+          "wordIds": [
+            "a1-s14-l79-w10",
+            "a1-s14-l79-w11",
+            "a1-s14-l79-w12"
+          ],
+          "order": 9,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s14-l79-e10",
+          "lessonId": "a1-s14-l79",
+          "type": "multiple_select",
+          "question": "Обери правильні фрази.",
+          "options": [
+            {
+              "id": "a",
+              "sk": "volám sa",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "mám prácu",
+              "correct": true
+            },
+            {
+              "id": "c",
+              "sk": "chcem to kúpiť",
+              "correct": false
+            },
+            {
+              "id": "d",
+              "sk": "Som zelenina.",
+              "correct": false
+            }
+          ],
+          "explanation": "Обери два правильні варіанти.",
+          "wordIds": [
+            "a1-s14-l79-w01",
+            "a1-s14-l79-w05"
+          ],
+          "order": 10,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s14-l79-e11",
+          "lessonId": "a1-s14-l79",
+          "type": "reading_comprehension",
+          "question": "Прочитай короткий текст.",
+          "text": "volám sa. mám rodinu. ráno pracujem.",
+          "questions": [
+            {
+              "question": "Що сказано першим?",
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "volám sa.",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "som z.",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "bývam v.",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "wordIds": [
+            "a1-s14-l79-w01",
+            "a1-s14-l79-w04",
+            "a1-s14-l79-w07"
+          ],
+          "order": 11,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s14-l79-e12",
+          "lessonId": "a1-s14-l79",
+          "type": "dialogue_choose_reply",
+          "question": "Обери правильну відповідь.",
+          "dialogue": [
+            {
+              "speaker": "A",
+              "text": "Ako to povieš po slovensky?"
+            },
+            {
+              "speaker": "B",
+              "text": "koľko to stojí?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "koľko to stojí?",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "volám sa.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "som z.",
+              "correct": false
+            }
+          ],
+          "wordIds": [
+            "a1-s14-l79-w11"
+          ],
+          "order": 12,
+          "difficulty": "medium",
+          "button": "Далі"
+        }
+      ],
+      "finalSituation": {
+        "screenType": "final_life_situation",
+        "title": "Ситуація з життя",
+        "scenario": "Ти опинився в реальній ситуації, пов’язаній із темою «A1 integration: real life».",
+        "question": "Яка фраза найкраще підходить?",
+        "options": [
+          "chcem kávu.",
+          "koľko to stojí?",
+          "chcem to kúpiť."
+        ],
+        "correctAnswer": "1",
+        "translation": "я хочу каву.",
+        "explanation": "Обери фразу, яка найточніше виконує комунікативне завдання.",
+        "button": "Перевірити"
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": "Урок завершено",
+        "text": "Ти потренував ключову лексику теми «A1 integration: real life».",
+        "nowYouKnow": [
+          "volám sa — мене звати",
+          "som z — я з",
+          "chcem kávu — я хочу каву"
+        ],
+        "result": "+25 XP",
+        "newWordsCount": 12,
+        "exercisesCompleted": 12,
+        "mistakesMessage": "Матеріал із помилками додано до повторення.",
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "nextLesson": "Spoločenský deň"
+      }
+    }
+  ]
+}

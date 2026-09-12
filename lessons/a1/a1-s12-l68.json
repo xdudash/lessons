@@ -1,0 +1,727 @@
+{
+  "lessons": [
+    {
+      "id": "a1-s12-l68",
+      "sectionId": "a1_s12",
+      "level": "A1",
+      "title": "Vo voľnom čase",
+      "topic": "Free time, interests, plans and social communication",
+      "description": "Навчися використовувати основні слова й моделі теми: Free time, interests, plans and social communication.",
+      "order": 68,
+      "xpReward": 25,
+      "estimatedMinutes": 27,
+      "isPublished": false,
+      "intro": "Розберемо практичні слова й готові моделі для теми «Free time, interests, plans and social communication».",
+      "completionMessage": "Ти вже можеш використовувати базові слова й моделі теми «Free time, interests, plans and social communication».",
+      "updatedAt": "2026-09-12T12:00:00Z",
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": "Vo voľnom čase",
+        "shortDescription": "Практична словацька: Free time, interests, plans and social communication.",
+        "outcomes": [
+          "розуміти ключову лексику",
+          "будувати прості фрази",
+          "використовувати навичку в контексті"
+        ],
+        "newWords": [
+          "pozerám film",
+          "športujem",
+          "chodím na prechádzku",
+          "mám rád hudbu",
+          "nemám rád futbal",
+          "páči sa mi film",
+          "poďme spolu",
+          "môžeme ísť",
+          "chceš ísť?",
+          "dnes mám čas",
+          "zajtra nemám čas",
+          "stretneme sa večer"
+        ],
+        "exercisesCount": 12,
+        "reward": "25 XP",
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "screenType": "theory",
+          "order": 1,
+          "title": "Vo voľnom čase: основа",
+          "text": "Опрацюй перші ключові одиниці разом із готовими прикладами.",
+          "examples": [
+            {
+              "sk": "pozerám film.",
+              "uk": "дивлюся фільм."
+            },
+            {
+              "sk": "športujem.",
+              "uk": "займаюся спортом."
+            }
+          ],
+          "exampleSk": "pozerám film.",
+          "exampleUk": "дивлюся фільм.",
+          "shortRule": "Вчи фразу разом із її значенням і контекстом.",
+          "button": "Далі"
+        },
+        {
+          "screenType": "theory",
+          "order": 2,
+          "title": "Vo voľnom čase: практика",
+          "text": "Поєднай нові одиниці та використай їх у коротких реальних ситуаціях.",
+          "examples": [
+            {
+              "sk": "poďme spolu.",
+              "uk": "ходімо разом."
+            },
+            {
+              "sk": "dnes mám čas.",
+              "uk": "сьогодні я маю час."
+            }
+          ],
+          "exampleSk": "dnes mám čas.",
+          "exampleUk": "сьогодні я маю час.",
+          "shortRule": "Перенось вивчену модель у новий контекст.",
+          "button": "Далі"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": "Vo voľnom čase",
+        "description": "Повтори ключову лексику уроку.",
+        "items": [
+          {
+            "wordId": "a1-s12-l68-w01",
+            "sk": "pozerám film",
+            "uk": "дивлюся фільм",
+            "pronunciationUk": "pozerаm film",
+            "exampleSk": "pozerám film.",
+            "exampleUk": "дивлюся фільм."
+          },
+          {
+            "wordId": "a1-s12-l68-w02",
+            "sk": "športujem",
+            "uk": "займаюся спортом",
+            "pronunciationUk": "шportujem",
+            "exampleSk": "športujem.",
+            "exampleUk": "займаюся спортом."
+          },
+          {
+            "wordId": "a1-s12-l68-w03",
+            "sk": "chodím na prechádzku",
+            "uk": "ходжу на прогулянку",
+            "pronunciationUk": "chodіm na prechаdzku",
+            "exampleSk": "chodím na prechádzku.",
+            "exampleUk": "ходжу на прогулянку."
+          },
+          {
+            "wordId": "a1-s12-l68-w04",
+            "sk": "mám rád hudbu",
+            "uk": "я люблю музику",
+            "pronunciationUk": "mаm rаd hudbu",
+            "exampleSk": "mám rád hudbu.",
+            "exampleUk": "я люблю музику."
+          },
+          {
+            "wordId": "a1-s12-l68-w05",
+            "sk": "nemám rád futbal",
+            "uk": "я не люблю футбол",
+            "pronunciationUk": "nemаm rаd futbal",
+            "exampleSk": "nemám rád futbal.",
+            "exampleUk": "я не люблю футбол."
+          },
+          {
+            "wordId": "a1-s12-l68-w06",
+            "sk": "páči sa mi film",
+            "uk": "мені подобається фільм",
+            "pronunciationUk": "pачi sa mi film",
+            "exampleSk": "páči sa mi film.",
+            "exampleUk": "мені подобається фільм."
+          },
+          {
+            "wordId": "a1-s12-l68-w07",
+            "sk": "poďme spolu",
+            "uk": "ходімо разом",
+            "pronunciationUk": "poдьme spolu",
+            "exampleSk": "poďme spolu.",
+            "exampleUk": "ходімо разом."
+          },
+          {
+            "wordId": "a1-s12-l68-w08",
+            "sk": "môžeme ísť",
+            "uk": "ми можемо піти",
+            "pronunciationUk": "mуожeme іsть",
+            "exampleSk": "môžeme ísť.",
+            "exampleUk": "ми можемо піти."
+          },
+          {
+            "wordId": "a1-s12-l68-w09",
+            "sk": "chceš ísť?",
+            "uk": "хочеш піти?",
+            "pronunciationUk": "chceш іsть?",
+            "exampleSk": "chceš ísť?",
+            "exampleUk": "хочеш піти?"
+          },
+          {
+            "wordId": "a1-s12-l68-w10",
+            "sk": "dnes mám čas",
+            "uk": "сьогодні я маю час",
+            "pronunciationUk": "dnes mаm чas",
+            "exampleSk": "dnes mám čas.",
+            "exampleUk": "сьогодні я маю час."
+          },
+          {
+            "wordId": "a1-s12-l68-w11",
+            "sk": "zajtra nemám čas",
+            "uk": "завтра я не маю часу",
+            "pronunciationUk": "zajtra nemаm чas",
+            "exampleSk": "zajtra nemám čas.",
+            "exampleUk": "завтра я не маю часу."
+          },
+          {
+            "wordId": "a1-s12-l68-w12",
+            "sk": "stretneme sa večer",
+            "uk": "зустрінемося ввечері",
+            "pronunciationUk": "stretneme sa veчer",
+            "exampleSk": "stretneme sa večer.",
+            "exampleUk": "зустрінемося ввечері."
+          }
+        ],
+        "button": "Почати вправи"
+      },
+      "words": [
+        {
+          "id": "a1-s12-l68-w01",
+          "sk": "pozerám film",
+          "uk": "дивлюся фільм",
+          "pronunciationUk": "pozerаm film",
+          "exampleSk": "pozerám film.",
+          "exampleUk": "дивлюся фільм.",
+          "level": "A1",
+          "topic": "Free time, interests, plans and social communication",
+          "tags": [
+            "A1",
+            "Free"
+          ]
+        },
+        {
+          "id": "a1-s12-l68-w02",
+          "sk": "športujem",
+          "uk": "займаюся спортом",
+          "pronunciationUk": "шportujem",
+          "exampleSk": "športujem.",
+          "exampleUk": "займаюся спортом.",
+          "level": "A1",
+          "topic": "Free time, interests, plans and social communication",
+          "tags": [
+            "A1",
+            "Free"
+          ]
+        },
+        {
+          "id": "a1-s12-l68-w03",
+          "sk": "chodím na prechádzku",
+          "uk": "ходжу на прогулянку",
+          "pronunciationUk": "chodіm na prechаdzku",
+          "exampleSk": "chodím na prechádzku.",
+          "exampleUk": "ходжу на прогулянку.",
+          "level": "A1",
+          "topic": "Free time, interests, plans and social communication",
+          "tags": [
+            "A1",
+            "Free"
+          ]
+        },
+        {
+          "id": "a1-s12-l68-w04",
+          "sk": "mám rád hudbu",
+          "uk": "я люблю музику",
+          "pronunciationUk": "mаm rаd hudbu",
+          "exampleSk": "mám rád hudbu.",
+          "exampleUk": "я люблю музику.",
+          "level": "A1",
+          "topic": "Free time, interests, plans and social communication",
+          "tags": [
+            "A1",
+            "Free"
+          ]
+        },
+        {
+          "id": "a1-s12-l68-w05",
+          "sk": "nemám rád futbal",
+          "uk": "я не люблю футбол",
+          "pronunciationUk": "nemаm rаd futbal",
+          "exampleSk": "nemám rád futbal.",
+          "exampleUk": "я не люблю футбол.",
+          "level": "A1",
+          "topic": "Free time, interests, plans and social communication",
+          "tags": [
+            "A1",
+            "Free"
+          ]
+        },
+        {
+          "id": "a1-s12-l68-w06",
+          "sk": "páči sa mi film",
+          "uk": "мені подобається фільм",
+          "pronunciationUk": "pачi sa mi film",
+          "exampleSk": "páči sa mi film.",
+          "exampleUk": "мені подобається фільм.",
+          "level": "A1",
+          "topic": "Free time, interests, plans and social communication",
+          "tags": [
+            "A1",
+            "Free"
+          ]
+        },
+        {
+          "id": "a1-s12-l68-w07",
+          "sk": "poďme spolu",
+          "uk": "ходімо разом",
+          "pronunciationUk": "poдьme spolu",
+          "exampleSk": "poďme spolu.",
+          "exampleUk": "ходімо разом.",
+          "level": "A1",
+          "topic": "Free time, interests, plans and social communication",
+          "tags": [
+            "A1",
+            "Free"
+          ]
+        },
+        {
+          "id": "a1-s12-l68-w08",
+          "sk": "môžeme ísť",
+          "uk": "ми можемо піти",
+          "pronunciationUk": "mуожeme іsть",
+          "exampleSk": "môžeme ísť.",
+          "exampleUk": "ми можемо піти.",
+          "level": "A1",
+          "topic": "Free time, interests, plans and social communication",
+          "tags": [
+            "A1",
+            "Free"
+          ]
+        },
+        {
+          "id": "a1-s12-l68-w09",
+          "sk": "chceš ísť?",
+          "uk": "хочеш піти?",
+          "pronunciationUk": "chceш іsть?",
+          "exampleSk": "chceš ísť?",
+          "exampleUk": "хочеш піти?",
+          "level": "A1",
+          "topic": "Free time, interests, plans and social communication",
+          "tags": [
+            "A1",
+            "Free"
+          ]
+        },
+        {
+          "id": "a1-s12-l68-w10",
+          "sk": "dnes mám čas",
+          "uk": "сьогодні я маю час",
+          "pronunciationUk": "dnes mаm чas",
+          "exampleSk": "dnes mám čas.",
+          "exampleUk": "сьогодні я маю час.",
+          "level": "A1",
+          "topic": "Free time, interests, plans and social communication",
+          "tags": [
+            "A1",
+            "Free"
+          ]
+        },
+        {
+          "id": "a1-s12-l68-w11",
+          "sk": "zajtra nemám čas",
+          "uk": "завтра я не маю часу",
+          "pronunciationUk": "zajtra nemаm чas",
+          "exampleSk": "zajtra nemám čas.",
+          "exampleUk": "завтра я не маю часу.",
+          "level": "A1",
+          "topic": "Free time, interests, plans and social communication",
+          "tags": [
+            "A1",
+            "Free"
+          ]
+        },
+        {
+          "id": "a1-s12-l68-w12",
+          "sk": "stretneme sa večer",
+          "uk": "зустрінемося ввечері",
+          "pronunciationUk": "stretneme sa veчer",
+          "exampleSk": "stretneme sa večer.",
+          "exampleUk": "зустрінемося ввечері.",
+          "level": "A1",
+          "topic": "Free time, interests, plans and social communication",
+          "tags": [
+            "A1",
+            "Free"
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "a1-s12-l68-e01",
+          "lessonId": "a1-s12-l68",
+          "type": "multiple_choice_translation",
+          "question": "Що означає pozerám film?",
+          "options": [
+            "дивлюся фільм",
+            "займаюся спортом",
+            "ходжу на прогулянку"
+          ],
+          "correctAnswer": "дивлюся фільм",
+          "explanation": "pozerám film означає «дивлюся фільм».",
+          "wordIds": [
+            "a1-s12-l68-w01"
+          ],
+          "order": 1,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s12-l68-e02",
+          "lessonId": "a1-s12-l68",
+          "type": "multiple_choice_translation",
+          "question": "Як сказати це словацькою?",
+          "options": [
+            "športujem",
+            "mám rád hudbu",
+            "nemám rád futbal"
+          ],
+          "correctAnswer": "športujem",
+          "explanation": "Правильний варіант — перша фраза.",
+          "wordIds": [
+            "a1-s12-l68-w02"
+          ],
+          "order": 2,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s12-l68-e03",
+          "lessonId": "a1-s12-l68",
+          "type": "match_pairs",
+          "question": "З’єднай слово з перекладом.",
+          "options": [
+            "chodím na prechádzku",
+            "ходжу на прогулянку",
+            "mám rád hudbu",
+            "я люблю музику"
+          ],
+          "correctAnswer": [
+            "chodím na prechádzku|ходжу на прогулянку",
+            "mám rád hudbu|я люблю музику"
+          ],
+          "explanation": "Зістав значення.",
+          "wordIds": [
+            "a1-s12-l68-w03",
+            "a1-s12-l68-w04"
+          ],
+          "order": 3,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s12-l68-e04",
+          "lessonId": "a1-s12-l68",
+          "type": "fill_blank",
+          "question": "Доповни правильним варіантом.",
+          "options": [
+            "nemám rád futbal",
+            "páči sa mi film",
+            "poďme spolu"
+          ],
+          "correctAnswer": "nemám rád futbal",
+          "explanation": "Правильно: nemám rád futbal.",
+          "wordIds": [
+            "a1-s12-l68-w05"
+          ],
+          "order": 4,
+          "difficulty": "easy",
+          "button": "Далі",
+          "fullSentence": "nemám rád futbal."
+        },
+        {
+          "id": "a1-s12-l68-e05",
+          "lessonId": "a1-s12-l68",
+          "type": "dropdown_blank",
+          "question": "Обери правильний варіант.",
+          "sentenceParts": [
+            {
+              "text": "Обери: "
+            },
+            {
+              "blankId": "b1",
+              "options": [
+                "páči sa mi film",
+                "poďme spolu",
+                "môžeme ísť"
+              ],
+              "correct": "páči sa mi film"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "correctAnswer": "páči sa mi film",
+          "explanation": "Правильний варіант відповідає вивченій одиниці.",
+          "wordIds": [
+            "a1-s12-l68-w06"
+          ],
+          "order": 5,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s12-l68-e06",
+          "lessonId": "a1-s12-l68",
+          "type": "sentence_order",
+          "question": "Розташуй слова правильно.",
+          "tokens": [
+            "poďme",
+            "spolu."
+          ],
+          "correctOrder": [
+            "poďme",
+            "spolu."
+          ],
+          "explanation": "Правильно: poďme spolu.",
+          "wordIds": [
+            "a1-s12-l68-w07"
+          ],
+          "order": 6,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s12-l68-e07",
+          "lessonId": "a1-s12-l68",
+          "type": "sentence_builder",
+          "question": "Склади правильну фразу.",
+          "tokens": [
+            "môžeme",
+            "ísť."
+          ],
+          "correctSentence": "môžeme ísť.",
+          "explanation": "Правильно: môžeme ísť.",
+          "wordIds": [
+            "a1-s12-l68-w08"
+          ],
+          "order": 7,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s12-l68-e08",
+          "lessonId": "a1-s12-l68",
+          "type": "meaning_in_context",
+          "question": "Що означає фраза?",
+          "context": "chceš ísť?",
+          "target": "chceš ísť?",
+          "options": [
+            {
+              "id": "a",
+              "text": "хочеш піти?",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": "сьогодні я маю час",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": "завтра я не маю часу",
+              "correct": false
+            }
+          ],
+          "explanation": "Зістав значення за контекстом.",
+          "wordIds": [
+            "a1-s12-l68-w09"
+          ],
+          "order": 8,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s12-l68-e09",
+          "lessonId": "a1-s12-l68",
+          "type": "natural_phrase",
+          "question": "Обери природну фразу.",
+          "situation": "сьогодні я маю час",
+          "options": [
+            {
+              "id": "a",
+              "sk": "dnes mám čas",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "zajtra nemám čas",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "stretneme sa večer",
+              "correct": false
+            }
+          ],
+          "wordIds": [
+            "a1-s12-l68-w10",
+            "a1-s12-l68-w11",
+            "a1-s12-l68-w12"
+          ],
+          "order": 9,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s12-l68-e10",
+          "lessonId": "a1-s12-l68",
+          "type": "multiple_select",
+          "question": "Обери правильні фрази.",
+          "options": [
+            {
+              "id": "a",
+              "sk": "pozerám film",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "nemám rád futbal",
+              "correct": true
+            },
+            {
+              "id": "c",
+              "sk": "stretneme sa večer",
+              "correct": false
+            },
+            {
+              "id": "d",
+              "sk": "Som zelenina.",
+              "correct": false
+            }
+          ],
+          "explanation": "Обери два правильні варіанти.",
+          "wordIds": [
+            "a1-s12-l68-w01",
+            "a1-s12-l68-w05"
+          ],
+          "order": 10,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s12-l68-e11",
+          "lessonId": "a1-s12-l68",
+          "type": "reading_comprehension",
+          "question": "Прочитай короткий текст.",
+          "text": "pozerám film. mám rád hudbu. poďme spolu.",
+          "questions": [
+            {
+              "question": "Що сказано першим?",
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "pozerám film.",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "športujem.",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "chodím na prechádzku.",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "wordIds": [
+            "a1-s12-l68-w01",
+            "a1-s12-l68-w04",
+            "a1-s12-l68-w07"
+          ],
+          "order": 11,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s12-l68-e12",
+          "lessonId": "a1-s12-l68",
+          "type": "dialogue_choose_reply",
+          "question": "Обери правильну відповідь.",
+          "dialogue": [
+            {
+              "speaker": "A",
+              "text": "Ako to povieš po slovensky?"
+            },
+            {
+              "speaker": "B",
+              "text": "zajtra nemám čas."
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "zajtra nemám čas.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "pozerám film.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "športujem.",
+              "correct": false
+            }
+          ],
+          "wordIds": [
+            "a1-s12-l68-w11"
+          ],
+          "order": 12,
+          "difficulty": "medium",
+          "button": "Далі"
+        }
+      ],
+      "finalSituation": {
+        "screenType": "final_life_situation",
+        "title": "Ситуація з життя",
+        "scenario": "Ти опинився в реальній ситуації, пов’язаній із темою «Free time, interests, plans and social communication».",
+        "question": "Яка фраза найкраще підходить?",
+        "options": [
+          "dnes mám čas.",
+          "zajtra nemám čas.",
+          "stretneme sa večer."
+        ],
+        "correctAnswer": "1",
+        "translation": "сьогодні я маю час.",
+        "explanation": "Обери фразу, яка найточніше виконує комунікативне завдання.",
+        "button": "Перевірити"
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": "Урок завершено",
+        "text": "Ти потренував ключову лексику теми «Free time, interests, plans and social communication».",
+        "nowYouKnow": [
+          "pozerám film — дивлюся фільм",
+          "športujem — займаюся спортом",
+          "dnes mám čas — сьогодні я маю час"
+        ],
+        "result": "+25 XP",
+        "newWordsCount": 12,
+        "exercisesCompleted": 12,
+        "mistakesMessage": "Матеріал із помилками додано до повторення.",
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "nextLesson": "Páči sa mi"
+      }
+    }
+  ]
+}

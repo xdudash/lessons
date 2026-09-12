@@ -1,0 +1,724 @@
+{
+  "lessons": [
+    {
+      "id": "a1-s10-l60",
+      "sectionId": "a1_s10",
+      "level": "A1",
+      "title": "Oblečenie",
+      "topic": "Shopping, money, clothing and services",
+      "description": "Навчися використовувати основні слова й моделі теми: Shopping, money, clothing and services.",
+      "order": 60,
+      "xpReward": 25,
+      "estimatedMinutes": 27,
+      "isPublished": false,
+      "intro": "Розберемо практичні слова й готові моделі для теми «Shopping, money, clothing and services».",
+      "completionMessage": "Ти вже можеш використовувати базові слова й моделі теми «Shopping, money, clothing and services».",
+      "updatedAt": "2026-09-12T12:00:00Z",
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": "Oblečenie",
+        "shortDescription": "Практична словацька: Shopping, money, clothing and services.",
+        "outcomes": [
+          "розуміти ключову лексику",
+          "будувати прості фрази",
+          "використовувати навичку в контексті"
+        ],
+        "newWords": [
+          "platím kartou",
+          "chcem to vymeniť",
+          "účtenku, prosím",
+          "obchod",
+          "tričko",
+          "košeľa",
+          "nohavice",
+          "topánky",
+          "bunda",
+          "čierny",
+          "biely",
+          "modrý"
+        ],
+        "exercisesCount": 12,
+        "reward": "25 XP",
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "screenType": "theory",
+          "order": 1,
+          "title": "Oblečenie: основа",
+          "text": "Опрацюй перші ключові одиниці разом із готовими прикладами.",
+          "examples": [
+            {
+              "sk": "platím kartou.",
+              "uk": "я плачу карткою."
+            },
+            {
+              "sk": "chcem to vymeniť.",
+              "uk": "я хочу це обміняти."
+            }
+          ],
+          "exampleSk": "platím kartou.",
+          "exampleUk": "я плачу карткою.",
+          "shortRule": "Вчи фразу разом із її значенням і контекстом.",
+          "button": "Далі"
+        },
+        {
+          "screenType": "theory",
+          "order": 2,
+          "title": "Oblečenie: практика",
+          "text": "Поєднай нові одиниці та використай їх у коротких реальних ситуаціях.",
+          "examples": [
+            {
+              "sk": "nohavice.",
+              "uk": "штани."
+            },
+            {
+              "sk": "čierny.",
+              "uk": "чорний."
+            }
+          ],
+          "exampleSk": "čierny.",
+          "exampleUk": "чорний.",
+          "shortRule": "Перенось вивчену модель у новий контекст.",
+          "button": "Далі"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": "Oblečenie",
+        "description": "Повтори ключову лексику уроку.",
+        "items": [
+          {
+            "wordId": "a1-s10-l60-w01",
+            "sk": "platím kartou",
+            "uk": "я плачу карткою",
+            "pronunciationUk": "platіm kartou",
+            "exampleSk": "platím kartou.",
+            "exampleUk": "я плачу карткою."
+          },
+          {
+            "wordId": "a1-s10-l60-w02",
+            "sk": "chcem to vymeniť",
+            "uk": "я хочу це обміняти",
+            "pronunciationUk": "chcem to vymeniть",
+            "exampleSk": "chcem to vymeniť.",
+            "exampleUk": "я хочу це обміняти."
+          },
+          {
+            "wordId": "a1-s10-l60-w03",
+            "sk": "účtenku, prosím",
+            "uk": "чек, будь ласка",
+            "pronunciationUk": "учtenku, prosіm",
+            "exampleSk": "účtenku, prosím.",
+            "exampleUk": "чек, будь ласка."
+          },
+          {
+            "wordId": "a1-s10-l60-w04",
+            "sk": "obchod",
+            "uk": "магазин",
+            "pronunciationUk": "obchod",
+            "exampleSk": "obchod.",
+            "exampleUk": "магазин."
+          },
+          {
+            "wordId": "a1-s10-l60-w05",
+            "sk": "tričko",
+            "uk": "футболка",
+            "pronunciationUk": "triчko",
+            "exampleSk": "tričko.",
+            "exampleUk": "футболка."
+          },
+          {
+            "wordId": "a1-s10-l60-w06",
+            "sk": "košeľa",
+            "uk": "сорочка",
+            "pronunciationUk": "koшeльa",
+            "exampleSk": "košeľa.",
+            "exampleUk": "сорочка."
+          },
+          {
+            "wordId": "a1-s10-l60-w07",
+            "sk": "nohavice",
+            "uk": "штани",
+            "pronunciationUk": "nohavice",
+            "exampleSk": "nohavice.",
+            "exampleUk": "штани."
+          },
+          {
+            "wordId": "a1-s10-l60-w08",
+            "sk": "topánky",
+            "uk": "взуття",
+            "pronunciationUk": "topаnky",
+            "exampleSk": "topánky.",
+            "exampleUk": "взуття."
+          },
+          {
+            "wordId": "a1-s10-l60-w09",
+            "sk": "bunda",
+            "uk": "куртка",
+            "pronunciationUk": "bunda",
+            "exampleSk": "bunda.",
+            "exampleUk": "куртка."
+          },
+          {
+            "wordId": "a1-s10-l60-w10",
+            "sk": "čierny",
+            "uk": "чорний",
+            "pronunciationUk": "чierny",
+            "exampleSk": "čierny.",
+            "exampleUk": "чорний."
+          },
+          {
+            "wordId": "a1-s10-l60-w11",
+            "sk": "biely",
+            "uk": "білий",
+            "pronunciationUk": "biely",
+            "exampleSk": "biely.",
+            "exampleUk": "білий."
+          },
+          {
+            "wordId": "a1-s10-l60-w12",
+            "sk": "modrý",
+            "uk": "синій",
+            "pronunciationUk": "modrи",
+            "exampleSk": "modrý.",
+            "exampleUk": "синій."
+          }
+        ],
+        "button": "Почати вправи"
+      },
+      "words": [
+        {
+          "id": "a1-s10-l60-w01",
+          "sk": "platím kartou",
+          "uk": "я плачу карткою",
+          "pronunciationUk": "platіm kartou",
+          "exampleSk": "platím kartou.",
+          "exampleUk": "я плачу карткою.",
+          "level": "A1",
+          "topic": "Shopping, money, clothing and services",
+          "tags": [
+            "A1",
+            "Shopping,"
+          ]
+        },
+        {
+          "id": "a1-s10-l60-w02",
+          "sk": "chcem to vymeniť",
+          "uk": "я хочу це обміняти",
+          "pronunciationUk": "chcem to vymeniть",
+          "exampleSk": "chcem to vymeniť.",
+          "exampleUk": "я хочу це обміняти.",
+          "level": "A1",
+          "topic": "Shopping, money, clothing and services",
+          "tags": [
+            "A1",
+            "Shopping,"
+          ]
+        },
+        {
+          "id": "a1-s10-l60-w03",
+          "sk": "účtenku, prosím",
+          "uk": "чек, будь ласка",
+          "pronunciationUk": "учtenku, prosіm",
+          "exampleSk": "účtenku, prosím.",
+          "exampleUk": "чек, будь ласка.",
+          "level": "A1",
+          "topic": "Shopping, money, clothing and services",
+          "tags": [
+            "A1",
+            "Shopping,"
+          ]
+        },
+        {
+          "id": "a1-s10-l60-w04",
+          "sk": "obchod",
+          "uk": "магазин",
+          "pronunciationUk": "obchod",
+          "exampleSk": "obchod.",
+          "exampleUk": "магазин.",
+          "level": "A1",
+          "topic": "Shopping, money, clothing and services",
+          "tags": [
+            "A1",
+            "Shopping,"
+          ]
+        },
+        {
+          "id": "a1-s10-l60-w05",
+          "sk": "tričko",
+          "uk": "футболка",
+          "pronunciationUk": "triчko",
+          "exampleSk": "tričko.",
+          "exampleUk": "футболка.",
+          "level": "A1",
+          "topic": "Shopping, money, clothing and services",
+          "tags": [
+            "A1",
+            "Shopping,"
+          ]
+        },
+        {
+          "id": "a1-s10-l60-w06",
+          "sk": "košeľa",
+          "uk": "сорочка",
+          "pronunciationUk": "koшeльa",
+          "exampleSk": "košeľa.",
+          "exampleUk": "сорочка.",
+          "level": "A1",
+          "topic": "Shopping, money, clothing and services",
+          "tags": [
+            "A1",
+            "Shopping,"
+          ]
+        },
+        {
+          "id": "a1-s10-l60-w07",
+          "sk": "nohavice",
+          "uk": "штани",
+          "pronunciationUk": "nohavice",
+          "exampleSk": "nohavice.",
+          "exampleUk": "штани.",
+          "level": "A1",
+          "topic": "Shopping, money, clothing and services",
+          "tags": [
+            "A1",
+            "Shopping,"
+          ]
+        },
+        {
+          "id": "a1-s10-l60-w08",
+          "sk": "topánky",
+          "uk": "взуття",
+          "pronunciationUk": "topаnky",
+          "exampleSk": "topánky.",
+          "exampleUk": "взуття.",
+          "level": "A1",
+          "topic": "Shopping, money, clothing and services",
+          "tags": [
+            "A1",
+            "Shopping,"
+          ]
+        },
+        {
+          "id": "a1-s10-l60-w09",
+          "sk": "bunda",
+          "uk": "куртка",
+          "pronunciationUk": "bunda",
+          "exampleSk": "bunda.",
+          "exampleUk": "куртка.",
+          "level": "A1",
+          "topic": "Shopping, money, clothing and services",
+          "tags": [
+            "A1",
+            "Shopping,"
+          ]
+        },
+        {
+          "id": "a1-s10-l60-w10",
+          "sk": "čierny",
+          "uk": "чорний",
+          "pronunciationUk": "чierny",
+          "exampleSk": "čierny.",
+          "exampleUk": "чорний.",
+          "level": "A1",
+          "topic": "Shopping, money, clothing and services",
+          "tags": [
+            "A1",
+            "Shopping,"
+          ]
+        },
+        {
+          "id": "a1-s10-l60-w11",
+          "sk": "biely",
+          "uk": "білий",
+          "pronunciationUk": "biely",
+          "exampleSk": "biely.",
+          "exampleUk": "білий.",
+          "level": "A1",
+          "topic": "Shopping, money, clothing and services",
+          "tags": [
+            "A1",
+            "Shopping,"
+          ]
+        },
+        {
+          "id": "a1-s10-l60-w12",
+          "sk": "modrý",
+          "uk": "синій",
+          "pronunciationUk": "modrи",
+          "exampleSk": "modrý.",
+          "exampleUk": "синій.",
+          "level": "A1",
+          "topic": "Shopping, money, clothing and services",
+          "tags": [
+            "A1",
+            "Shopping,"
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "a1-s10-l60-e01",
+          "lessonId": "a1-s10-l60",
+          "type": "multiple_choice_translation",
+          "question": "Що означає platím kartou?",
+          "options": [
+            "я плачу карткою",
+            "я хочу це обміняти",
+            "чек, будь ласка"
+          ],
+          "correctAnswer": "я плачу карткою",
+          "explanation": "platím kartou означає «я плачу карткою».",
+          "wordIds": [
+            "a1-s10-l60-w01"
+          ],
+          "order": 1,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s10-l60-e02",
+          "lessonId": "a1-s10-l60",
+          "type": "multiple_choice_translation",
+          "question": "Як сказати це словацькою?",
+          "options": [
+            "chcem to vymeniť",
+            "obchod",
+            "tričko"
+          ],
+          "correctAnswer": "chcem to vymeniť",
+          "explanation": "Правильний варіант — перша фраза.",
+          "wordIds": [
+            "a1-s10-l60-w02"
+          ],
+          "order": 2,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s10-l60-e03",
+          "lessonId": "a1-s10-l60",
+          "type": "match_pairs",
+          "question": "З’єднай слово з перекладом.",
+          "options": [
+            "účtenku, prosím",
+            "чек, будь ласка",
+            "obchod",
+            "магазин"
+          ],
+          "correctAnswer": [
+            "účtenku, prosím|чек, будь ласка",
+            "obchod|магазин"
+          ],
+          "explanation": "Зістав значення.",
+          "wordIds": [
+            "a1-s10-l60-w03",
+            "a1-s10-l60-w04"
+          ],
+          "order": 3,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s10-l60-e04",
+          "lessonId": "a1-s10-l60",
+          "type": "fill_blank",
+          "question": "Доповни правильним варіантом.",
+          "options": [
+            "tričko",
+            "košeľa",
+            "nohavice"
+          ],
+          "correctAnswer": "tričko",
+          "explanation": "Правильно: tričko.",
+          "wordIds": [
+            "a1-s10-l60-w05"
+          ],
+          "order": 4,
+          "difficulty": "easy",
+          "button": "Далі",
+          "fullSentence": "tričko."
+        },
+        {
+          "id": "a1-s10-l60-e05",
+          "lessonId": "a1-s10-l60",
+          "type": "dropdown_blank",
+          "question": "Обери правильний варіант.",
+          "sentenceParts": [
+            {
+              "text": "Обери: "
+            },
+            {
+              "blankId": "b1",
+              "options": [
+                "košeľa",
+                "nohavice",
+                "topánky"
+              ],
+              "correct": "košeľa"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "correctAnswer": "košeľa",
+          "explanation": "Правильний варіант відповідає вивченій одиниці.",
+          "wordIds": [
+            "a1-s10-l60-w06"
+          ],
+          "order": 5,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s10-l60-e06",
+          "lessonId": "a1-s10-l60",
+          "type": "sentence_order",
+          "question": "Розташуй слова правильно.",
+          "tokens": [
+            "nohavice."
+          ],
+          "correctOrder": [
+            "nohavice."
+          ],
+          "explanation": "Правильно: nohavice.",
+          "wordIds": [
+            "a1-s10-l60-w07"
+          ],
+          "order": 6,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s10-l60-e07",
+          "lessonId": "a1-s10-l60",
+          "type": "sentence_builder",
+          "question": "Склади правильну фразу.",
+          "tokens": [
+            "topánky."
+          ],
+          "correctSentence": "topánky.",
+          "explanation": "Правильно: topánky.",
+          "wordIds": [
+            "a1-s10-l60-w08"
+          ],
+          "order": 7,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s10-l60-e08",
+          "lessonId": "a1-s10-l60",
+          "type": "meaning_in_context",
+          "question": "Що означає фраза?",
+          "context": "bunda.",
+          "target": "bunda",
+          "options": [
+            {
+              "id": "a",
+              "text": "куртка",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": "чорний",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": "білий",
+              "correct": false
+            }
+          ],
+          "explanation": "Зістав значення за контекстом.",
+          "wordIds": [
+            "a1-s10-l60-w09"
+          ],
+          "order": 8,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s10-l60-e09",
+          "lessonId": "a1-s10-l60",
+          "type": "natural_phrase",
+          "question": "Обери природну фразу.",
+          "situation": "чорний",
+          "options": [
+            {
+              "id": "a",
+              "sk": "čierny",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "biely",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "modrý",
+              "correct": false
+            }
+          ],
+          "wordIds": [
+            "a1-s10-l60-w10",
+            "a1-s10-l60-w11",
+            "a1-s10-l60-w12"
+          ],
+          "order": 9,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s10-l60-e10",
+          "lessonId": "a1-s10-l60",
+          "type": "multiple_select",
+          "question": "Обери правильні фрази.",
+          "options": [
+            {
+              "id": "a",
+              "sk": "platím kartou",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "tričko",
+              "correct": true
+            },
+            {
+              "id": "c",
+              "sk": "modrý",
+              "correct": false
+            },
+            {
+              "id": "d",
+              "sk": "Som zelenina.",
+              "correct": false
+            }
+          ],
+          "explanation": "Обери два правильні варіанти.",
+          "wordIds": [
+            "a1-s10-l60-w01",
+            "a1-s10-l60-w05"
+          ],
+          "order": 10,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s10-l60-e11",
+          "lessonId": "a1-s10-l60",
+          "type": "reading_comprehension",
+          "question": "Прочитай короткий текст.",
+          "text": "platím kartou. obchod. nohavice.",
+          "questions": [
+            {
+              "question": "Що сказано першим?",
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "platím kartou.",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "chcem to vymeniť.",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "účtenku, prosím.",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "wordIds": [
+            "a1-s10-l60-w01",
+            "a1-s10-l60-w04",
+            "a1-s10-l60-w07"
+          ],
+          "order": 11,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s10-l60-e12",
+          "lessonId": "a1-s10-l60",
+          "type": "dialogue_choose_reply",
+          "question": "Обери правильну відповідь.",
+          "dialogue": [
+            {
+              "speaker": "A",
+              "text": "Ako to povieš po slovensky?"
+            },
+            {
+              "speaker": "B",
+              "text": "biely."
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "biely.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "platím kartou.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "chcem to vymeniť.",
+              "correct": false
+            }
+          ],
+          "wordIds": [
+            "a1-s10-l60-w11"
+          ],
+          "order": 12,
+          "difficulty": "medium",
+          "button": "Далі"
+        }
+      ],
+      "finalSituation": {
+        "screenType": "final_life_situation",
+        "title": "Ситуація з життя",
+        "scenario": "Ти опинився в реальній ситуації, пов’язаній із темою «Shopping, money, clothing and services».",
+        "question": "Яка фраза найкраще підходить?",
+        "options": [
+          "čierny.",
+          "biely.",
+          "modrý."
+        ],
+        "correctAnswer": "1",
+        "translation": "чорний.",
+        "explanation": "Обери фразу, яка найточніше виконує комунікативне завдання.",
+        "button": "Перевірити"
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": "Урок завершено",
+        "text": "Ти потренував ключову лексику теми «Shopping, money, clothing and services».",
+        "nowYouKnow": [
+          "platím kartou — я плачу карткою",
+          "chcem to vymeniť — я хочу це обміняти",
+          "čierny — чорний"
+        ],
+        "result": "+25 XP",
+        "newWordsCount": 12,
+        "exercisesCompleted": 12,
+        "mistakesMessage": "Матеріал із помилками додано до повторення.",
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "nextLesson": "Chcem to"
+      }
+    }
+  ]
+}

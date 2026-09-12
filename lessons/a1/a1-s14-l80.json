@@ -1,0 +1,728 @@
+{
+  "lessons": [
+    {
+      "id": "a1-s14-l80",
+      "sectionId": "a1_s14",
+      "level": "A1",
+      "title": "Spoločenský deň",
+      "topic": "A1 integration: real life",
+      "description": "Навчися використовувати основні слова й моделі теми: A1 integration: real life.",
+      "order": 80,
+      "xpReward": 25,
+      "estimatedMinutes": 27,
+      "isPublished": false,
+      "intro": "Розберемо практичні слова й готові моделі для теми «A1 integration: real life».",
+      "completionMessage": "Ти вже можеш використовувати базові слова й моделі теми «A1 integration: real life».",
+      "updatedAt": "2026-09-12T12:00:00Z",
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": "Spoločenský deň",
+        "shortDescription": "Практична словацька: A1 integration: real life.",
+        "outcomes": [
+          "розуміти ключову лексику",
+          "будувати прості фрази",
+          "використовувати навичку в контексті"
+        ],
+        "newWords": [
+          "mám rodinu",
+          "mám prácu",
+          "môj byt",
+          "ráno pracujem",
+          "idem do mesta",
+          "hľadám stanicu",
+          "chcem kávu",
+          "koľko to stojí?",
+          "chcem to kúpiť",
+          "stretneme sa večer",
+          "môžeme ísť spolu",
+          "nemám čas"
+        ],
+        "exercisesCount": 12,
+        "reward": "25 XP",
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "screenType": "theory",
+          "order": 1,
+          "title": "Spoločenský deň: основа",
+          "text": "Опрацюй перші ключові одиниці разом із готовими прикладами.",
+          "examples": [
+            {
+              "sk": "mám rodinu.",
+              "uk": "у мене є родина."
+            },
+            {
+              "sk": "mám prácu.",
+              "uk": "у мене є робота."
+            }
+          ],
+          "exampleSk": "mám rodinu.",
+          "exampleUk": "у мене є родина.",
+          "shortRule": "Вчи фразу разом із її значенням і контекстом.",
+          "button": "Далі"
+        },
+        {
+          "screenType": "theory",
+          "order": 2,
+          "title": "Spoločenský deň: практика",
+          "text": "Поєднай нові одиниці та використай їх у коротких реальних ситуаціях.",
+          "examples": [
+            {
+              "sk": "chcem kávu.",
+              "uk": "я хочу каву."
+            },
+            {
+              "sk": "stretneme sa večer.",
+              "uk": "зустрінемося ввечері."
+            }
+          ],
+          "exampleSk": "stretneme sa večer.",
+          "exampleUk": "зустрінемося ввечері.",
+          "shortRule": "Перенось вивчену модель у новий контекст.",
+          "button": "Далі"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": "Spoločenský deň",
+        "description": "Повтори ключову лексику уроку.",
+        "items": [
+          {
+            "wordId": "a1-s14-l80-w01",
+            "sk": "mám rodinu",
+            "uk": "у мене є родина",
+            "pronunciationUk": "mаm rodinu",
+            "exampleSk": "mám rodinu.",
+            "exampleUk": "у мене є родина."
+          },
+          {
+            "wordId": "a1-s14-l80-w02",
+            "sk": "mám prácu",
+            "uk": "у мене є робота",
+            "pronunciationUk": "mаm prаcu",
+            "exampleSk": "mám prácu.",
+            "exampleUk": "у мене є робота."
+          },
+          {
+            "wordId": "a1-s14-l80-w03",
+            "sk": "môj byt",
+            "uk": "моя квартира",
+            "pronunciationUk": "mуоj byt",
+            "exampleSk": "môj byt.",
+            "exampleUk": "моя квартира."
+          },
+          {
+            "wordId": "a1-s14-l80-w04",
+            "sk": "ráno pracujem",
+            "uk": "вранці я працюю",
+            "pronunciationUk": "rаno pracujem",
+            "exampleSk": "ráno pracujem.",
+            "exampleUk": "вранці я працюю."
+          },
+          {
+            "wordId": "a1-s14-l80-w05",
+            "sk": "idem do mesta",
+            "uk": "я йду в місто",
+            "pronunciationUk": "idem do mesta",
+            "exampleSk": "idem do mesta.",
+            "exampleUk": "я йду в місто."
+          },
+          {
+            "wordId": "a1-s14-l80-w06",
+            "sk": "hľadám stanicu",
+            "uk": "я шукаю станцію",
+            "pronunciationUk": "hльadаm stanicu",
+            "exampleSk": "hľadám stanicu.",
+            "exampleUk": "я шукаю станцію."
+          },
+          {
+            "wordId": "a1-s14-l80-w07",
+            "sk": "chcem kávu",
+            "uk": "я хочу каву",
+            "pronunciationUk": "chcem kаvu",
+            "exampleSk": "chcem kávu.",
+            "exampleUk": "я хочу каву."
+          },
+          {
+            "wordId": "a1-s14-l80-w08",
+            "sk": "koľko to stojí?",
+            "uk": "скільки це коштує?",
+            "pronunciationUk": "koльko to stojі?",
+            "exampleSk": "koľko to stojí?",
+            "exampleUk": "скільки це коштує?"
+          },
+          {
+            "wordId": "a1-s14-l80-w09",
+            "sk": "chcem to kúpiť",
+            "uk": "я хочу це купити",
+            "pronunciationUk": "chcem to kуpiть",
+            "exampleSk": "chcem to kúpiť.",
+            "exampleUk": "я хочу це купити."
+          },
+          {
+            "wordId": "a1-s14-l80-w10",
+            "sk": "stretneme sa večer",
+            "uk": "зустрінемося ввечері",
+            "pronunciationUk": "stretneme sa veчer",
+            "exampleSk": "stretneme sa večer.",
+            "exampleUk": "зустрінемося ввечері."
+          },
+          {
+            "wordId": "a1-s14-l80-w11",
+            "sk": "môžeme ísť spolu",
+            "uk": "ми можемо піти разом",
+            "pronunciationUk": "mуожeme іsть spolu",
+            "exampleSk": "môžeme ísť spolu.",
+            "exampleUk": "ми можемо піти разом."
+          },
+          {
+            "wordId": "a1-s14-l80-w12",
+            "sk": "nemám čas",
+            "uk": "я не маю часу",
+            "pronunciationUk": "nemаm чas",
+            "exampleSk": "nemám čas.",
+            "exampleUk": "я не маю часу."
+          }
+        ],
+        "button": "Почати вправи"
+      },
+      "words": [
+        {
+          "id": "a1-s14-l80-w01",
+          "sk": "mám rodinu",
+          "uk": "у мене є родина",
+          "pronunciationUk": "mаm rodinu",
+          "exampleSk": "mám rodinu.",
+          "exampleUk": "у мене є родина.",
+          "level": "A1",
+          "topic": "A1 integration: real life",
+          "tags": [
+            "A1",
+            "A1"
+          ]
+        },
+        {
+          "id": "a1-s14-l80-w02",
+          "sk": "mám prácu",
+          "uk": "у мене є робота",
+          "pronunciationUk": "mаm prаcu",
+          "exampleSk": "mám prácu.",
+          "exampleUk": "у мене є робота.",
+          "level": "A1",
+          "topic": "A1 integration: real life",
+          "tags": [
+            "A1",
+            "A1"
+          ]
+        },
+        {
+          "id": "a1-s14-l80-w03",
+          "sk": "môj byt",
+          "uk": "моя квартира",
+          "pronunciationUk": "mуоj byt",
+          "exampleSk": "môj byt.",
+          "exampleUk": "моя квартира.",
+          "level": "A1",
+          "topic": "A1 integration: real life",
+          "tags": [
+            "A1",
+            "A1"
+          ]
+        },
+        {
+          "id": "a1-s14-l80-w04",
+          "sk": "ráno pracujem",
+          "uk": "вранці я працюю",
+          "pronunciationUk": "rаno pracujem",
+          "exampleSk": "ráno pracujem.",
+          "exampleUk": "вранці я працюю.",
+          "level": "A1",
+          "topic": "A1 integration: real life",
+          "tags": [
+            "A1",
+            "A1"
+          ]
+        },
+        {
+          "id": "a1-s14-l80-w05",
+          "sk": "idem do mesta",
+          "uk": "я йду в місто",
+          "pronunciationUk": "idem do mesta",
+          "exampleSk": "idem do mesta.",
+          "exampleUk": "я йду в місто.",
+          "level": "A1",
+          "topic": "A1 integration: real life",
+          "tags": [
+            "A1",
+            "A1"
+          ]
+        },
+        {
+          "id": "a1-s14-l80-w06",
+          "sk": "hľadám stanicu",
+          "uk": "я шукаю станцію",
+          "pronunciationUk": "hльadаm stanicu",
+          "exampleSk": "hľadám stanicu.",
+          "exampleUk": "я шукаю станцію.",
+          "level": "A1",
+          "topic": "A1 integration: real life",
+          "tags": [
+            "A1",
+            "A1"
+          ]
+        },
+        {
+          "id": "a1-s14-l80-w07",
+          "sk": "chcem kávu",
+          "uk": "я хочу каву",
+          "pronunciationUk": "chcem kаvu",
+          "exampleSk": "chcem kávu.",
+          "exampleUk": "я хочу каву.",
+          "level": "A1",
+          "topic": "A1 integration: real life",
+          "tags": [
+            "A1",
+            "A1"
+          ]
+        },
+        {
+          "id": "a1-s14-l80-w08",
+          "sk": "koľko to stojí?",
+          "uk": "скільки це коштує?",
+          "pronunciationUk": "koльko to stojі?",
+          "exampleSk": "koľko to stojí?",
+          "exampleUk": "скільки це коштує?",
+          "level": "A1",
+          "topic": "A1 integration: real life",
+          "tags": [
+            "A1",
+            "A1"
+          ]
+        },
+        {
+          "id": "a1-s14-l80-w09",
+          "sk": "chcem to kúpiť",
+          "uk": "я хочу це купити",
+          "pronunciationUk": "chcem to kуpiть",
+          "exampleSk": "chcem to kúpiť.",
+          "exampleUk": "я хочу це купити.",
+          "level": "A1",
+          "topic": "A1 integration: real life",
+          "tags": [
+            "A1",
+            "A1"
+          ]
+        },
+        {
+          "id": "a1-s14-l80-w10",
+          "sk": "stretneme sa večer",
+          "uk": "зустрінемося ввечері",
+          "pronunciationUk": "stretneme sa veчer",
+          "exampleSk": "stretneme sa večer.",
+          "exampleUk": "зустрінемося ввечері.",
+          "level": "A1",
+          "topic": "A1 integration: real life",
+          "tags": [
+            "A1",
+            "A1"
+          ]
+        },
+        {
+          "id": "a1-s14-l80-w11",
+          "sk": "môžeme ísť spolu",
+          "uk": "ми можемо піти разом",
+          "pronunciationUk": "mуожeme іsть spolu",
+          "exampleSk": "môžeme ísť spolu.",
+          "exampleUk": "ми можемо піти разом.",
+          "level": "A1",
+          "topic": "A1 integration: real life",
+          "tags": [
+            "A1",
+            "A1"
+          ]
+        },
+        {
+          "id": "a1-s14-l80-w12",
+          "sk": "nemám čas",
+          "uk": "я не маю часу",
+          "pronunciationUk": "nemаm чas",
+          "exampleSk": "nemám čas.",
+          "exampleUk": "я не маю часу.",
+          "level": "A1",
+          "topic": "A1 integration: real life",
+          "tags": [
+            "A1",
+            "A1"
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "a1-s14-l80-e01",
+          "lessonId": "a1-s14-l80",
+          "type": "multiple_choice_translation",
+          "question": "Що означає mám rodinu?",
+          "options": [
+            "у мене є родина",
+            "у мене є робота",
+            "моя квартира"
+          ],
+          "correctAnswer": "у мене є родина",
+          "explanation": "mám rodinu означає «у мене є родина».",
+          "wordIds": [
+            "a1-s14-l80-w01"
+          ],
+          "order": 1,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s14-l80-e02",
+          "lessonId": "a1-s14-l80",
+          "type": "multiple_choice_translation",
+          "question": "Як сказати це словацькою?",
+          "options": [
+            "mám prácu",
+            "ráno pracujem",
+            "idem do mesta"
+          ],
+          "correctAnswer": "mám prácu",
+          "explanation": "Правильний варіант — перша фраза.",
+          "wordIds": [
+            "a1-s14-l80-w02"
+          ],
+          "order": 2,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s14-l80-e03",
+          "lessonId": "a1-s14-l80",
+          "type": "match_pairs",
+          "question": "З’єднай слово з перекладом.",
+          "options": [
+            "môj byt",
+            "моя квартира",
+            "ráno pracujem",
+            "вранці я працюю"
+          ],
+          "correctAnswer": [
+            "môj byt|моя квартира",
+            "ráno pracujem|вранці я працюю"
+          ],
+          "explanation": "Зістав значення.",
+          "wordIds": [
+            "a1-s14-l80-w03",
+            "a1-s14-l80-w04"
+          ],
+          "order": 3,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s14-l80-e04",
+          "lessonId": "a1-s14-l80",
+          "type": "fill_blank",
+          "question": "Доповни правильним варіантом.",
+          "options": [
+            "idem do mesta",
+            "hľadám stanicu",
+            "chcem kávu"
+          ],
+          "correctAnswer": "idem do mesta",
+          "explanation": "Правильно: idem do mesta.",
+          "wordIds": [
+            "a1-s14-l80-w05"
+          ],
+          "order": 4,
+          "difficulty": "easy",
+          "button": "Далі",
+          "fullSentence": "idem do mesta."
+        },
+        {
+          "id": "a1-s14-l80-e05",
+          "lessonId": "a1-s14-l80",
+          "type": "dropdown_blank",
+          "question": "Обери правильний варіант.",
+          "sentenceParts": [
+            {
+              "text": "Обери: "
+            },
+            {
+              "blankId": "b1",
+              "options": [
+                "hľadám stanicu",
+                "chcem kávu",
+                "koľko to stojí?"
+              ],
+              "correct": "hľadám stanicu"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "correctAnswer": "hľadám stanicu",
+          "explanation": "Правильний варіант відповідає вивченій одиниці.",
+          "wordIds": [
+            "a1-s14-l80-w06"
+          ],
+          "order": 5,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s14-l80-e06",
+          "lessonId": "a1-s14-l80",
+          "type": "sentence_order",
+          "question": "Розташуй слова правильно.",
+          "tokens": [
+            "chcem",
+            "kávu."
+          ],
+          "correctOrder": [
+            "chcem",
+            "kávu."
+          ],
+          "explanation": "Правильно: chcem kávu.",
+          "wordIds": [
+            "a1-s14-l80-w07"
+          ],
+          "order": 6,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s14-l80-e07",
+          "lessonId": "a1-s14-l80",
+          "type": "sentence_builder",
+          "question": "Склади правильну фразу.",
+          "tokens": [
+            "koľko",
+            "to",
+            "stojí?"
+          ],
+          "correctSentence": "koľko to stojí?",
+          "explanation": "Правильно: koľko to stojí?",
+          "wordIds": [
+            "a1-s14-l80-w08"
+          ],
+          "order": 7,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s14-l80-e08",
+          "lessonId": "a1-s14-l80",
+          "type": "meaning_in_context",
+          "question": "Що означає фраза?",
+          "context": "chcem to kúpiť.",
+          "target": "chcem to kúpiť",
+          "options": [
+            {
+              "id": "a",
+              "text": "я хочу це купити",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": "зустрінемося ввечері",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": "ми можемо піти разом",
+              "correct": false
+            }
+          ],
+          "explanation": "Зістав значення за контекстом.",
+          "wordIds": [
+            "a1-s14-l80-w09"
+          ],
+          "order": 8,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s14-l80-e09",
+          "lessonId": "a1-s14-l80",
+          "type": "natural_phrase",
+          "question": "Обери природну фразу.",
+          "situation": "зустрінемося ввечері",
+          "options": [
+            {
+              "id": "a",
+              "sk": "stretneme sa večer",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "môžeme ísť spolu",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "nemám čas",
+              "correct": false
+            }
+          ],
+          "wordIds": [
+            "a1-s14-l80-w10",
+            "a1-s14-l80-w11",
+            "a1-s14-l80-w12"
+          ],
+          "order": 9,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s14-l80-e10",
+          "lessonId": "a1-s14-l80",
+          "type": "multiple_select",
+          "question": "Обери правильні фрази.",
+          "options": [
+            {
+              "id": "a",
+              "sk": "mám rodinu",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "idem do mesta",
+              "correct": true
+            },
+            {
+              "id": "c",
+              "sk": "nemám čas",
+              "correct": false
+            },
+            {
+              "id": "d",
+              "sk": "Som zelenina.",
+              "correct": false
+            }
+          ],
+          "explanation": "Обери два правильні варіанти.",
+          "wordIds": [
+            "a1-s14-l80-w01",
+            "a1-s14-l80-w05"
+          ],
+          "order": 10,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s14-l80-e11",
+          "lessonId": "a1-s14-l80",
+          "type": "reading_comprehension",
+          "question": "Прочитай короткий текст.",
+          "text": "mám rodinu. ráno pracujem. chcem kávu.",
+          "questions": [
+            {
+              "question": "Що сказано першим?",
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "mám rodinu.",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "mám prácu.",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "môj byt.",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "wordIds": [
+            "a1-s14-l80-w01",
+            "a1-s14-l80-w04",
+            "a1-s14-l80-w07"
+          ],
+          "order": 11,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s14-l80-e12",
+          "lessonId": "a1-s14-l80",
+          "type": "dialogue_choose_reply",
+          "question": "Обери правильну відповідь.",
+          "dialogue": [
+            {
+              "speaker": "A",
+              "text": "Ako to povieš po slovensky?"
+            },
+            {
+              "speaker": "B",
+              "text": "môžeme ísť spolu."
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "môžeme ísť spolu.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "mám rodinu.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "mám prácu.",
+              "correct": false
+            }
+          ],
+          "wordIds": [
+            "a1-s14-l80-w11"
+          ],
+          "order": 12,
+          "difficulty": "medium",
+          "button": "Далі"
+        }
+      ],
+      "finalSituation": {
+        "screenType": "final_life_situation",
+        "title": "Ситуація з життя",
+        "scenario": "Ти опинився в реальній ситуації, пов’язаній із темою «A1 integration: real life».",
+        "question": "Яка фраза найкраще підходить?",
+        "options": [
+          "stretneme sa večer.",
+          "môžeme ísť spolu.",
+          "nemám čas."
+        ],
+        "correctAnswer": "1",
+        "translation": "зустрінемося ввечері.",
+        "explanation": "Обери фразу, яка найточніше виконує комунікативне завдання.",
+        "button": "Перевірити"
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": "Урок завершено",
+        "text": "Ти потренував ключову лексику теми «A1 integration: real life».",
+        "nowYouKnow": [
+          "mám rodinu — у мене є родина",
+          "mám prácu — у мене є робота",
+          "stretneme sa večer — зустрінемося ввечері"
+        ],
+        "result": "+25 XP",
+        "newWordsCount": 12,
+        "exercisesCompleted": 12,
+        "mistakesMessage": "Матеріал із помилками додано до повторення.",
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "nextLesson": "A1 v praxi"
+      }
+    }
+  ]
+}

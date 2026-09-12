@@ -1,0 +1,724 @@
+{
+  "lessons": [
+    {
+      "id": "a1-s07-l40",
+      "sectionId": "a1_s07",
+      "level": "A1",
+      "title": "Koľko je hodín?",
+      "topic": "Numbers, quantity, time and dates",
+      "description": "Навчися використовувати основні слова й моделі теми: Numbers, quantity, time and dates.",
+      "order": 40,
+      "xpReward": 25,
+      "estimatedMinutes": 27,
+      "isPublished": false,
+      "intro": "Розберемо практичні слова й готові моделі для теми «Numbers, quantity, time and dates».",
+      "completionMessage": "Ти вже можеш використовувати базові слова й моделі теми «Numbers, quantity, time and dates».",
+      "updatedAt": "2026-09-12T12:00:00Z",
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": "Koľko je hodín?",
+        "shortDescription": "Практична словацька: Numbers, quantity, time and dates.",
+        "outcomes": [
+          "розуміти ключову лексику",
+          "будувати прості фрази",
+          "використовувати навичку в контексті"
+        ],
+        "newWords": [
+          "veľa",
+          "málo",
+          "tridsať rokov",
+          "Koľko je hodín?",
+          "Sú tri hodiny.",
+          "v pondelok",
+          "dnes",
+          "zajtra",
+          "v piatok o tretej",
+          "nula",
+          "jeden",
+          "dva"
+        ],
+        "exercisesCount": 12,
+        "reward": "25 XP",
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "screenType": "theory",
+          "order": 1,
+          "title": "Koľko je hodín?: основа",
+          "text": "Опрацюй перші ключові одиниці разом із готовими прикладами.",
+          "examples": [
+            {
+              "sk": "veľa.",
+              "uk": "багато."
+            },
+            {
+              "sk": "málo.",
+              "uk": "мало."
+            }
+          ],
+          "exampleSk": "veľa.",
+          "exampleUk": "багато.",
+          "shortRule": "Вчи фразу разом із її значенням і контекстом.",
+          "button": "Далі"
+        },
+        {
+          "screenType": "theory",
+          "order": 2,
+          "title": "Koľko je hodín?: практика",
+          "text": "Поєднай нові одиниці та використай їх у коротких реальних ситуаціях.",
+          "examples": [
+            {
+              "sk": "dnes.",
+              "uk": "сьогодні."
+            },
+            {
+              "sk": "nula.",
+              "uk": "нуль."
+            }
+          ],
+          "exampleSk": "nula.",
+          "exampleUk": "нуль.",
+          "shortRule": "Перенось вивчену модель у новий контекст.",
+          "button": "Далі"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": "Koľko je hodín?",
+        "description": "Повтори ключову лексику уроку.",
+        "items": [
+          {
+            "wordId": "a1-s07-l40-w01",
+            "sk": "veľa",
+            "uk": "багато",
+            "pronunciationUk": "veльa",
+            "exampleSk": "veľa.",
+            "exampleUk": "багато."
+          },
+          {
+            "wordId": "a1-s07-l40-w02",
+            "sk": "málo",
+            "uk": "мало",
+            "pronunciationUk": "mаlo",
+            "exampleSk": "málo.",
+            "exampleUk": "мало."
+          },
+          {
+            "wordId": "a1-s07-l40-w03",
+            "sk": "tridsať rokov",
+            "uk": "тридцять років",
+            "pronunciationUk": "tridsaть rokov",
+            "exampleSk": "tridsať rokov.",
+            "exampleUk": "тридцять років."
+          },
+          {
+            "wordId": "a1-s07-l40-w04",
+            "sk": "Koľko je hodín?",
+            "uk": "Котра година?",
+            "pronunciationUk": "Koльko je hodіn?",
+            "exampleSk": "Koľko je hodín?",
+            "exampleUk": "Котра година?"
+          },
+          {
+            "wordId": "a1-s07-l40-w05",
+            "sk": "Sú tri hodiny.",
+            "uk": "Третя година.",
+            "pronunciationUk": "Sу tri hodiny.",
+            "exampleSk": "Sú tri hodiny.",
+            "exampleUk": "Третя година."
+          },
+          {
+            "wordId": "a1-s07-l40-w06",
+            "sk": "v pondelok",
+            "uk": "у понеділок",
+            "pronunciationUk": "v pondelok",
+            "exampleSk": "v pondelok.",
+            "exampleUk": "у понеділок."
+          },
+          {
+            "wordId": "a1-s07-l40-w07",
+            "sk": "dnes",
+            "uk": "сьогодні",
+            "pronunciationUk": "dnes",
+            "exampleSk": "dnes.",
+            "exampleUk": "сьогодні."
+          },
+          {
+            "wordId": "a1-s07-l40-w08",
+            "sk": "zajtra",
+            "uk": "завтра",
+            "pronunciationUk": "zajtra",
+            "exampleSk": "zajtra.",
+            "exampleUk": "завтра."
+          },
+          {
+            "wordId": "a1-s07-l40-w09",
+            "sk": "v piatok o tretej",
+            "uk": "у п’ятницю о третій",
+            "pronunciationUk": "v piatok o tretej",
+            "exampleSk": "v piatok o tretej.",
+            "exampleUk": "у п’ятницю о третій."
+          },
+          {
+            "wordId": "a1-s07-l40-w10",
+            "sk": "nula",
+            "uk": "нуль",
+            "pronunciationUk": "nula",
+            "exampleSk": "nula.",
+            "exampleUk": "нуль."
+          },
+          {
+            "wordId": "a1-s07-l40-w11",
+            "sk": "jeden",
+            "uk": "один",
+            "pronunciationUk": "jeden",
+            "exampleSk": "jeden.",
+            "exampleUk": "один."
+          },
+          {
+            "wordId": "a1-s07-l40-w12",
+            "sk": "dva",
+            "uk": "два",
+            "pronunciationUk": "dva",
+            "exampleSk": "dva.",
+            "exampleUk": "два."
+          }
+        ],
+        "button": "Почати вправи"
+      },
+      "words": [
+        {
+          "id": "a1-s07-l40-w01",
+          "sk": "veľa",
+          "uk": "багато",
+          "pronunciationUk": "veльa",
+          "exampleSk": "veľa.",
+          "exampleUk": "багато.",
+          "level": "A1",
+          "topic": "Numbers, quantity, time and dates",
+          "tags": [
+            "A1",
+            "Numbers,"
+          ]
+        },
+        {
+          "id": "a1-s07-l40-w02",
+          "sk": "málo",
+          "uk": "мало",
+          "pronunciationUk": "mаlo",
+          "exampleSk": "málo.",
+          "exampleUk": "мало.",
+          "level": "A1",
+          "topic": "Numbers, quantity, time and dates",
+          "tags": [
+            "A1",
+            "Numbers,"
+          ]
+        },
+        {
+          "id": "a1-s07-l40-w03",
+          "sk": "tridsať rokov",
+          "uk": "тридцять років",
+          "pronunciationUk": "tridsaть rokov",
+          "exampleSk": "tridsať rokov.",
+          "exampleUk": "тридцять років.",
+          "level": "A1",
+          "topic": "Numbers, quantity, time and dates",
+          "tags": [
+            "A1",
+            "Numbers,"
+          ]
+        },
+        {
+          "id": "a1-s07-l40-w04",
+          "sk": "Koľko je hodín?",
+          "uk": "Котра година?",
+          "pronunciationUk": "Koльko je hodіn?",
+          "exampleSk": "Koľko je hodín?",
+          "exampleUk": "Котра година?",
+          "level": "A1",
+          "topic": "Numbers, quantity, time and dates",
+          "tags": [
+            "A1",
+            "Numbers,"
+          ]
+        },
+        {
+          "id": "a1-s07-l40-w05",
+          "sk": "Sú tri hodiny.",
+          "uk": "Третя година.",
+          "pronunciationUk": "Sу tri hodiny.",
+          "exampleSk": "Sú tri hodiny.",
+          "exampleUk": "Третя година.",
+          "level": "A1",
+          "topic": "Numbers, quantity, time and dates",
+          "tags": [
+            "A1",
+            "Numbers,"
+          ]
+        },
+        {
+          "id": "a1-s07-l40-w06",
+          "sk": "v pondelok",
+          "uk": "у понеділок",
+          "pronunciationUk": "v pondelok",
+          "exampleSk": "v pondelok.",
+          "exampleUk": "у понеділок.",
+          "level": "A1",
+          "topic": "Numbers, quantity, time and dates",
+          "tags": [
+            "A1",
+            "Numbers,"
+          ]
+        },
+        {
+          "id": "a1-s07-l40-w07",
+          "sk": "dnes",
+          "uk": "сьогодні",
+          "pronunciationUk": "dnes",
+          "exampleSk": "dnes.",
+          "exampleUk": "сьогодні.",
+          "level": "A1",
+          "topic": "Numbers, quantity, time and dates",
+          "tags": [
+            "A1",
+            "Numbers,"
+          ]
+        },
+        {
+          "id": "a1-s07-l40-w08",
+          "sk": "zajtra",
+          "uk": "завтра",
+          "pronunciationUk": "zajtra",
+          "exampleSk": "zajtra.",
+          "exampleUk": "завтра.",
+          "level": "A1",
+          "topic": "Numbers, quantity, time and dates",
+          "tags": [
+            "A1",
+            "Numbers,"
+          ]
+        },
+        {
+          "id": "a1-s07-l40-w09",
+          "sk": "v piatok o tretej",
+          "uk": "у п’ятницю о третій",
+          "pronunciationUk": "v piatok o tretej",
+          "exampleSk": "v piatok o tretej.",
+          "exampleUk": "у п’ятницю о третій.",
+          "level": "A1",
+          "topic": "Numbers, quantity, time and dates",
+          "tags": [
+            "A1",
+            "Numbers,"
+          ]
+        },
+        {
+          "id": "a1-s07-l40-w10",
+          "sk": "nula",
+          "uk": "нуль",
+          "pronunciationUk": "nula",
+          "exampleSk": "nula.",
+          "exampleUk": "нуль.",
+          "level": "A1",
+          "topic": "Numbers, quantity, time and dates",
+          "tags": [
+            "A1",
+            "Numbers,"
+          ]
+        },
+        {
+          "id": "a1-s07-l40-w11",
+          "sk": "jeden",
+          "uk": "один",
+          "pronunciationUk": "jeden",
+          "exampleSk": "jeden.",
+          "exampleUk": "один.",
+          "level": "A1",
+          "topic": "Numbers, quantity, time and dates",
+          "tags": [
+            "A1",
+            "Numbers,"
+          ]
+        },
+        {
+          "id": "a1-s07-l40-w12",
+          "sk": "dva",
+          "uk": "два",
+          "pronunciationUk": "dva",
+          "exampleSk": "dva.",
+          "exampleUk": "два.",
+          "level": "A1",
+          "topic": "Numbers, quantity, time and dates",
+          "tags": [
+            "A1",
+            "Numbers,"
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "a1-s07-l40-e01",
+          "lessonId": "a1-s07-l40",
+          "type": "multiple_choice_translation",
+          "question": "Що означає veľa?",
+          "options": [
+            "багато",
+            "мало",
+            "тридцять років"
+          ],
+          "correctAnswer": "багато",
+          "explanation": "veľa означає «багато».",
+          "wordIds": [
+            "a1-s07-l40-w01"
+          ],
+          "order": 1,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s07-l40-e02",
+          "lessonId": "a1-s07-l40",
+          "type": "multiple_choice_translation",
+          "question": "Як сказати це словацькою?",
+          "options": [
+            "málo",
+            "Koľko je hodín?",
+            "Sú tri hodiny."
+          ],
+          "correctAnswer": "málo",
+          "explanation": "Правильний варіант — перша фраза.",
+          "wordIds": [
+            "a1-s07-l40-w02"
+          ],
+          "order": 2,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s07-l40-e03",
+          "lessonId": "a1-s07-l40",
+          "type": "match_pairs",
+          "question": "З’єднай слово з перекладом.",
+          "options": [
+            "tridsať rokov",
+            "тридцять років",
+            "Koľko je hodín?",
+            "Котра година?"
+          ],
+          "correctAnswer": [
+            "tridsať rokov|тридцять років",
+            "Koľko je hodín?|Котра година?"
+          ],
+          "explanation": "Зістав значення.",
+          "wordIds": [
+            "a1-s07-l40-w03",
+            "a1-s07-l40-w04"
+          ],
+          "order": 3,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s07-l40-e04",
+          "lessonId": "a1-s07-l40",
+          "type": "fill_blank",
+          "question": "Доповни правильним варіантом.",
+          "options": [
+            "Sú tri hodiny.",
+            "v pondelok",
+            "dnes"
+          ],
+          "correctAnswer": "Sú tri hodiny.",
+          "explanation": "Правильно: Sú tri hodiny..",
+          "wordIds": [
+            "a1-s07-l40-w05"
+          ],
+          "order": 4,
+          "difficulty": "easy",
+          "button": "Далі",
+          "fullSentence": "Sú tri hodiny."
+        },
+        {
+          "id": "a1-s07-l40-e05",
+          "lessonId": "a1-s07-l40",
+          "type": "dropdown_blank",
+          "question": "Обери правильний варіант.",
+          "sentenceParts": [
+            {
+              "text": "Обери: "
+            },
+            {
+              "blankId": "b1",
+              "options": [
+                "v pondelok",
+                "dnes",
+                "zajtra"
+              ],
+              "correct": "v pondelok"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "correctAnswer": "v pondelok",
+          "explanation": "Правильний варіант відповідає вивченій одиниці.",
+          "wordIds": [
+            "a1-s07-l40-w06"
+          ],
+          "order": 5,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s07-l40-e06",
+          "lessonId": "a1-s07-l40",
+          "type": "sentence_order",
+          "question": "Розташуй слова правильно.",
+          "tokens": [
+            "dnes."
+          ],
+          "correctOrder": [
+            "dnes."
+          ],
+          "explanation": "Правильно: dnes.",
+          "wordIds": [
+            "a1-s07-l40-w07"
+          ],
+          "order": 6,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s07-l40-e07",
+          "lessonId": "a1-s07-l40",
+          "type": "sentence_builder",
+          "question": "Склади правильну фразу.",
+          "tokens": [
+            "zajtra."
+          ],
+          "correctSentence": "zajtra.",
+          "explanation": "Правильно: zajtra.",
+          "wordIds": [
+            "a1-s07-l40-w08"
+          ],
+          "order": 7,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s07-l40-e08",
+          "lessonId": "a1-s07-l40",
+          "type": "meaning_in_context",
+          "question": "Що означає фраза?",
+          "context": "v piatok o tretej.",
+          "target": "v piatok o tretej",
+          "options": [
+            {
+              "id": "a",
+              "text": "у п’ятницю о третій",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": "нуль",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": "один",
+              "correct": false
+            }
+          ],
+          "explanation": "Зістав значення за контекстом.",
+          "wordIds": [
+            "a1-s07-l40-w09"
+          ],
+          "order": 8,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s07-l40-e09",
+          "lessonId": "a1-s07-l40",
+          "type": "natural_phrase",
+          "question": "Обери природну фразу.",
+          "situation": "нуль",
+          "options": [
+            {
+              "id": "a",
+              "sk": "nula",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "jeden",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "dva",
+              "correct": false
+            }
+          ],
+          "wordIds": [
+            "a1-s07-l40-w10",
+            "a1-s07-l40-w11",
+            "a1-s07-l40-w12"
+          ],
+          "order": 9,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s07-l40-e10",
+          "lessonId": "a1-s07-l40",
+          "type": "multiple_select",
+          "question": "Обери правильні фрази.",
+          "options": [
+            {
+              "id": "a",
+              "sk": "veľa",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Sú tri hodiny.",
+              "correct": true
+            },
+            {
+              "id": "c",
+              "sk": "dva",
+              "correct": false
+            },
+            {
+              "id": "d",
+              "sk": "Som zelenina.",
+              "correct": false
+            }
+          ],
+          "explanation": "Обери два правильні варіанти.",
+          "wordIds": [
+            "a1-s07-l40-w01",
+            "a1-s07-l40-w05"
+          ],
+          "order": 10,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s07-l40-e11",
+          "lessonId": "a1-s07-l40",
+          "type": "reading_comprehension",
+          "question": "Прочитай короткий текст.",
+          "text": "veľa. Koľko je hodín? dnes.",
+          "questions": [
+            {
+              "question": "Що сказано першим?",
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "veľa.",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "málo.",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "tridsať rokov.",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "wordIds": [
+            "a1-s07-l40-w01",
+            "a1-s07-l40-w04",
+            "a1-s07-l40-w07"
+          ],
+          "order": 11,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s07-l40-e12",
+          "lessonId": "a1-s07-l40",
+          "type": "dialogue_choose_reply",
+          "question": "Обери правильну відповідь.",
+          "dialogue": [
+            {
+              "speaker": "A",
+              "text": "Ako to povieš po slovensky?"
+            },
+            {
+              "speaker": "B",
+              "text": "jeden."
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "jeden.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "veľa.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "málo.",
+              "correct": false
+            }
+          ],
+          "wordIds": [
+            "a1-s07-l40-w11"
+          ],
+          "order": 12,
+          "difficulty": "medium",
+          "button": "Далі"
+        }
+      ],
+      "finalSituation": {
+        "screenType": "final_life_situation",
+        "title": "Ситуація з життя",
+        "scenario": "Ти опинився в реальній ситуації, пов’язаній із темою «Numbers, quantity, time and dates».",
+        "question": "Яка фраза найкраще підходить?",
+        "options": [
+          "nula.",
+          "jeden.",
+          "dva."
+        ],
+        "correctAnswer": "1",
+        "translation": "нуль.",
+        "explanation": "Обери фразу, яка найточніше виконує комунікативне завдання.",
+        "button": "Перевірити"
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": "Урок завершено",
+        "text": "Ти потренував ключову лексику теми «Numbers, quantity, time and dates».",
+        "nowYouKnow": [
+          "veľa — багато",
+          "málo — мало",
+          "nula — нуль"
+        ],
+        "result": "+25 XP",
+        "newWordsCount": 12,
+        "exercisesCompleted": 12,
+        "mistakesMessage": "Матеріал із помилками додано до повторення.",
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "nextLesson": "Dni a časti dňa"
+      }
+    }
+  ]
+}

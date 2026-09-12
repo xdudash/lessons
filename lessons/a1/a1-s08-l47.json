@@ -1,0 +1,724 @@
+{
+  "lessons": [
+    {
+      "id": "a1-s08-l47",
+      "sectionId": "a1_s08",
+      "level": "A1",
+      "title": "V meste a do mesta",
+      "topic": "City, place and movement",
+      "description": "Навчися використовувати основні слова й моделі теми: City, place and movement.",
+      "order": 47,
+      "xpReward": 25,
+      "estimatedMinutes": 27,
+      "isPublished": false,
+      "intro": "Розберемо практичні слова й готові моделі для теми «City, place and movement».",
+      "completionMessage": "Ти вже можеш використовувати базові слова й моделі теми «City, place and movement».",
+      "updatedAt": "2026-09-12T12:00:00Z",
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": "V meste a do mesta",
+        "shortDescription": "Практична словацька: City, place and movement.",
+        "outcomes": [
+          "розуміти ключову лексику",
+          "будувати прості фрази",
+          "використовувати навичку в контексті"
+        ],
+        "newWords": [
+          "kde je banka?",
+          "vpravo",
+          "vľavo",
+          "rovno",
+          "na rohu",
+          "idem autobusom",
+          "banka",
+          "pošta",
+          "stanica",
+          "obchod",
+          "lekáreň",
+          "reštaurácia"
+        ],
+        "exercisesCount": 12,
+        "reward": "25 XP",
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "screenType": "theory",
+          "order": 1,
+          "title": "V meste a do mesta: основа",
+          "text": "Опрацюй перші ключові одиниці разом із готовими прикладами.",
+          "examples": [
+            {
+              "sk": "kde je banka?",
+              "uk": "де банк?"
+            },
+            {
+              "sk": "vpravo.",
+              "uk": "праворуч."
+            }
+          ],
+          "exampleSk": "kde je banka?",
+          "exampleUk": "де банк?",
+          "shortRule": "Вчи фразу разом із її значенням і контекстом.",
+          "button": "Далі"
+        },
+        {
+          "screenType": "theory",
+          "order": 2,
+          "title": "V meste a do mesta: практика",
+          "text": "Поєднай нові одиниці та використай їх у коротких реальних ситуаціях.",
+          "examples": [
+            {
+              "sk": "banka.",
+              "uk": "банк."
+            },
+            {
+              "sk": "obchod.",
+              "uk": "магазин."
+            }
+          ],
+          "exampleSk": "obchod.",
+          "exampleUk": "магазин.",
+          "shortRule": "Перенось вивчену модель у новий контекст.",
+          "button": "Далі"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": "V meste a do mesta",
+        "description": "Повтори ключову лексику уроку.",
+        "items": [
+          {
+            "wordId": "a1-s08-l47-w01",
+            "sk": "kde je banka?",
+            "uk": "де банк?",
+            "pronunciationUk": "kde je banka?",
+            "exampleSk": "kde je banka?",
+            "exampleUk": "де банк?"
+          },
+          {
+            "wordId": "a1-s08-l47-w02",
+            "sk": "vpravo",
+            "uk": "праворуч",
+            "pronunciationUk": "vpravo",
+            "exampleSk": "vpravo.",
+            "exampleUk": "праворуч."
+          },
+          {
+            "wordId": "a1-s08-l47-w03",
+            "sk": "vľavo",
+            "uk": "ліворуч",
+            "pronunciationUk": "vльavo",
+            "exampleSk": "vľavo.",
+            "exampleUk": "ліворуч."
+          },
+          {
+            "wordId": "a1-s08-l47-w04",
+            "sk": "rovno",
+            "uk": "прямо",
+            "pronunciationUk": "rovno",
+            "exampleSk": "rovno.",
+            "exampleUk": "прямо."
+          },
+          {
+            "wordId": "a1-s08-l47-w05",
+            "sk": "na rohu",
+            "uk": "на розі",
+            "pronunciationUk": "na rohu",
+            "exampleSk": "na rohu.",
+            "exampleUk": "на розі."
+          },
+          {
+            "wordId": "a1-s08-l47-w06",
+            "sk": "idem autobusom",
+            "uk": "я їду автобусом",
+            "pronunciationUk": "idem autobusom",
+            "exampleSk": "idem autobusom.",
+            "exampleUk": "я їду автобусом."
+          },
+          {
+            "wordId": "a1-s08-l47-w07",
+            "sk": "banka",
+            "uk": "банк",
+            "pronunciationUk": "banka",
+            "exampleSk": "banka.",
+            "exampleUk": "банк."
+          },
+          {
+            "wordId": "a1-s08-l47-w08",
+            "sk": "pošta",
+            "uk": "пошта",
+            "pronunciationUk": "poшta",
+            "exampleSk": "pošta.",
+            "exampleUk": "пошта."
+          },
+          {
+            "wordId": "a1-s08-l47-w09",
+            "sk": "stanica",
+            "uk": "станція",
+            "pronunciationUk": "stanica",
+            "exampleSk": "stanica.",
+            "exampleUk": "станція."
+          },
+          {
+            "wordId": "a1-s08-l47-w10",
+            "sk": "obchod",
+            "uk": "магазин",
+            "pronunciationUk": "obchod",
+            "exampleSk": "obchod.",
+            "exampleUk": "магазин."
+          },
+          {
+            "wordId": "a1-s08-l47-w11",
+            "sk": "lekáreň",
+            "uk": "аптека",
+            "pronunciationUk": "lekаreнь",
+            "exampleSk": "lekáreň.",
+            "exampleUk": "аптека."
+          },
+          {
+            "wordId": "a1-s08-l47-w12",
+            "sk": "reštaurácia",
+            "uk": "ресторан",
+            "pronunciationUk": "reшtaurаcia",
+            "exampleSk": "reštaurácia.",
+            "exampleUk": "ресторан."
+          }
+        ],
+        "button": "Почати вправи"
+      },
+      "words": [
+        {
+          "id": "a1-s08-l47-w01",
+          "sk": "kde je banka?",
+          "uk": "де банк?",
+          "pronunciationUk": "kde je banka?",
+          "exampleSk": "kde je banka?",
+          "exampleUk": "де банк?",
+          "level": "A1",
+          "topic": "City, place and movement",
+          "tags": [
+            "A1",
+            "City,"
+          ]
+        },
+        {
+          "id": "a1-s08-l47-w02",
+          "sk": "vpravo",
+          "uk": "праворуч",
+          "pronunciationUk": "vpravo",
+          "exampleSk": "vpravo.",
+          "exampleUk": "праворуч.",
+          "level": "A1",
+          "topic": "City, place and movement",
+          "tags": [
+            "A1",
+            "City,"
+          ]
+        },
+        {
+          "id": "a1-s08-l47-w03",
+          "sk": "vľavo",
+          "uk": "ліворуч",
+          "pronunciationUk": "vльavo",
+          "exampleSk": "vľavo.",
+          "exampleUk": "ліворуч.",
+          "level": "A1",
+          "topic": "City, place and movement",
+          "tags": [
+            "A1",
+            "City,"
+          ]
+        },
+        {
+          "id": "a1-s08-l47-w04",
+          "sk": "rovno",
+          "uk": "прямо",
+          "pronunciationUk": "rovno",
+          "exampleSk": "rovno.",
+          "exampleUk": "прямо.",
+          "level": "A1",
+          "topic": "City, place and movement",
+          "tags": [
+            "A1",
+            "City,"
+          ]
+        },
+        {
+          "id": "a1-s08-l47-w05",
+          "sk": "na rohu",
+          "uk": "на розі",
+          "pronunciationUk": "na rohu",
+          "exampleSk": "na rohu.",
+          "exampleUk": "на розі.",
+          "level": "A1",
+          "topic": "City, place and movement",
+          "tags": [
+            "A1",
+            "City,"
+          ]
+        },
+        {
+          "id": "a1-s08-l47-w06",
+          "sk": "idem autobusom",
+          "uk": "я їду автобусом",
+          "pronunciationUk": "idem autobusom",
+          "exampleSk": "idem autobusom.",
+          "exampleUk": "я їду автобусом.",
+          "level": "A1",
+          "topic": "City, place and movement",
+          "tags": [
+            "A1",
+            "City,"
+          ]
+        },
+        {
+          "id": "a1-s08-l47-w07",
+          "sk": "banka",
+          "uk": "банк",
+          "pronunciationUk": "banka",
+          "exampleSk": "banka.",
+          "exampleUk": "банк.",
+          "level": "A1",
+          "topic": "City, place and movement",
+          "tags": [
+            "A1",
+            "City,"
+          ]
+        },
+        {
+          "id": "a1-s08-l47-w08",
+          "sk": "pošta",
+          "uk": "пошта",
+          "pronunciationUk": "poшta",
+          "exampleSk": "pošta.",
+          "exampleUk": "пошта.",
+          "level": "A1",
+          "topic": "City, place and movement",
+          "tags": [
+            "A1",
+            "City,"
+          ]
+        },
+        {
+          "id": "a1-s08-l47-w09",
+          "sk": "stanica",
+          "uk": "станція",
+          "pronunciationUk": "stanica",
+          "exampleSk": "stanica.",
+          "exampleUk": "станція.",
+          "level": "A1",
+          "topic": "City, place and movement",
+          "tags": [
+            "A1",
+            "City,"
+          ]
+        },
+        {
+          "id": "a1-s08-l47-w10",
+          "sk": "obchod",
+          "uk": "магазин",
+          "pronunciationUk": "obchod",
+          "exampleSk": "obchod.",
+          "exampleUk": "магазин.",
+          "level": "A1",
+          "topic": "City, place and movement",
+          "tags": [
+            "A1",
+            "City,"
+          ]
+        },
+        {
+          "id": "a1-s08-l47-w11",
+          "sk": "lekáreň",
+          "uk": "аптека",
+          "pronunciationUk": "lekаreнь",
+          "exampleSk": "lekáreň.",
+          "exampleUk": "аптека.",
+          "level": "A1",
+          "topic": "City, place and movement",
+          "tags": [
+            "A1",
+            "City,"
+          ]
+        },
+        {
+          "id": "a1-s08-l47-w12",
+          "sk": "reštaurácia",
+          "uk": "ресторан",
+          "pronunciationUk": "reшtaurаcia",
+          "exampleSk": "reštaurácia.",
+          "exampleUk": "ресторан.",
+          "level": "A1",
+          "topic": "City, place and movement",
+          "tags": [
+            "A1",
+            "City,"
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "a1-s08-l47-e01",
+          "lessonId": "a1-s08-l47",
+          "type": "multiple_choice_translation",
+          "question": "Що означає kde je banka??",
+          "options": [
+            "де банк?",
+            "праворуч",
+            "ліворуч"
+          ],
+          "correctAnswer": "де банк?",
+          "explanation": "kde je banka? означає «де банк?».",
+          "wordIds": [
+            "a1-s08-l47-w01"
+          ],
+          "order": 1,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s08-l47-e02",
+          "lessonId": "a1-s08-l47",
+          "type": "multiple_choice_translation",
+          "question": "Як сказати це словацькою?",
+          "options": [
+            "vpravo",
+            "rovno",
+            "na rohu"
+          ],
+          "correctAnswer": "vpravo",
+          "explanation": "Правильний варіант — перша фраза.",
+          "wordIds": [
+            "a1-s08-l47-w02"
+          ],
+          "order": 2,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s08-l47-e03",
+          "lessonId": "a1-s08-l47",
+          "type": "match_pairs",
+          "question": "З’єднай слово з перекладом.",
+          "options": [
+            "vľavo",
+            "ліворуч",
+            "rovno",
+            "прямо"
+          ],
+          "correctAnswer": [
+            "vľavo|ліворуч",
+            "rovno|прямо"
+          ],
+          "explanation": "Зістав значення.",
+          "wordIds": [
+            "a1-s08-l47-w03",
+            "a1-s08-l47-w04"
+          ],
+          "order": 3,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s08-l47-e04",
+          "lessonId": "a1-s08-l47",
+          "type": "fill_blank",
+          "question": "Доповни правильним варіантом.",
+          "options": [
+            "na rohu",
+            "idem autobusom",
+            "banka"
+          ],
+          "correctAnswer": "na rohu",
+          "explanation": "Правильно: na rohu.",
+          "wordIds": [
+            "a1-s08-l47-w05"
+          ],
+          "order": 4,
+          "difficulty": "easy",
+          "button": "Далі",
+          "fullSentence": "na rohu."
+        },
+        {
+          "id": "a1-s08-l47-e05",
+          "lessonId": "a1-s08-l47",
+          "type": "dropdown_blank",
+          "question": "Обери правильний варіант.",
+          "sentenceParts": [
+            {
+              "text": "Обери: "
+            },
+            {
+              "blankId": "b1",
+              "options": [
+                "idem autobusom",
+                "banka",
+                "pošta"
+              ],
+              "correct": "idem autobusom"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "correctAnswer": "idem autobusom",
+          "explanation": "Правильний варіант відповідає вивченій одиниці.",
+          "wordIds": [
+            "a1-s08-l47-w06"
+          ],
+          "order": 5,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s08-l47-e06",
+          "lessonId": "a1-s08-l47",
+          "type": "sentence_order",
+          "question": "Розташуй слова правильно.",
+          "tokens": [
+            "banka."
+          ],
+          "correctOrder": [
+            "banka."
+          ],
+          "explanation": "Правильно: banka.",
+          "wordIds": [
+            "a1-s08-l47-w07"
+          ],
+          "order": 6,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s08-l47-e07",
+          "lessonId": "a1-s08-l47",
+          "type": "sentence_builder",
+          "question": "Склади правильну фразу.",
+          "tokens": [
+            "pošta."
+          ],
+          "correctSentence": "pošta.",
+          "explanation": "Правильно: pošta.",
+          "wordIds": [
+            "a1-s08-l47-w08"
+          ],
+          "order": 7,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s08-l47-e08",
+          "lessonId": "a1-s08-l47",
+          "type": "meaning_in_context",
+          "question": "Що означає фраза?",
+          "context": "stanica.",
+          "target": "stanica",
+          "options": [
+            {
+              "id": "a",
+              "text": "станція",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": "магазин",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": "аптека",
+              "correct": false
+            }
+          ],
+          "explanation": "Зістав значення за контекстом.",
+          "wordIds": [
+            "a1-s08-l47-w09"
+          ],
+          "order": 8,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s08-l47-e09",
+          "lessonId": "a1-s08-l47",
+          "type": "natural_phrase",
+          "question": "Обери природну фразу.",
+          "situation": "магазин",
+          "options": [
+            {
+              "id": "a",
+              "sk": "obchod",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "lekáreň",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "reštaurácia",
+              "correct": false
+            }
+          ],
+          "wordIds": [
+            "a1-s08-l47-w10",
+            "a1-s08-l47-w11",
+            "a1-s08-l47-w12"
+          ],
+          "order": 9,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s08-l47-e10",
+          "lessonId": "a1-s08-l47",
+          "type": "multiple_select",
+          "question": "Обери правильні фрази.",
+          "options": [
+            {
+              "id": "a",
+              "sk": "kde je banka?",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "na rohu",
+              "correct": true
+            },
+            {
+              "id": "c",
+              "sk": "reštaurácia",
+              "correct": false
+            },
+            {
+              "id": "d",
+              "sk": "Som zelenina.",
+              "correct": false
+            }
+          ],
+          "explanation": "Обери два правильні варіанти.",
+          "wordIds": [
+            "a1-s08-l47-w01",
+            "a1-s08-l47-w05"
+          ],
+          "order": 10,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s08-l47-e11",
+          "lessonId": "a1-s08-l47",
+          "type": "reading_comprehension",
+          "question": "Прочитай короткий текст.",
+          "text": "kde je banka? rovno. banka.",
+          "questions": [
+            {
+              "question": "Що сказано першим?",
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "kde je banka?",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "vpravo.",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "vľavo.",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "wordIds": [
+            "a1-s08-l47-w01",
+            "a1-s08-l47-w04",
+            "a1-s08-l47-w07"
+          ],
+          "order": 11,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s08-l47-e12",
+          "lessonId": "a1-s08-l47",
+          "type": "dialogue_choose_reply",
+          "question": "Обери правильну відповідь.",
+          "dialogue": [
+            {
+              "speaker": "A",
+              "text": "Ako to povieš po slovensky?"
+            },
+            {
+              "speaker": "B",
+              "text": "lekáreň."
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "lekáreň.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "kde je banka?",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "vpravo.",
+              "correct": false
+            }
+          ],
+          "wordIds": [
+            "a1-s08-l47-w11"
+          ],
+          "order": 12,
+          "difficulty": "medium",
+          "button": "Далі"
+        }
+      ],
+      "finalSituation": {
+        "screenType": "final_life_situation",
+        "title": "Ситуація з життя",
+        "scenario": "Ти опинився в реальній ситуації, пов’язаній із темою «City, place and movement».",
+        "question": "Яка фраза найкраще підходить?",
+        "options": [
+          "obchod.",
+          "lekáreň.",
+          "reštaurácia."
+        ],
+        "correctAnswer": "1",
+        "translation": "магазин.",
+        "explanation": "Обери фразу, яка найточніше виконує комунікативне завдання.",
+        "button": "Перевірити"
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": "Урок завершено",
+        "text": "Ти потренував ключову лексику теми «City, place and movement».",
+        "nowYouKnow": [
+          "kde je banka? — де банк?",
+          "vpravo — праворуч",
+          "obchod — магазин"
+        ],
+        "result": "+25 XP",
+        "newWordsCount": 12,
+        "exercisesCompleted": 12,
+        "mistakesMessage": "Матеріал із помилками додано до повторення.",
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "nextLesson": "Ako sa tam dostanem?"
+      }
+    }
+  ]
+}

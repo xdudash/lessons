@@ -1,14 +1,14 @@
 {
   "lessons": [
     {
-      "id": "a1-s06-l31",
+      "id": "a1-s06-l37",
       "sectionId": "a1_s06",
       "level": "A1",
-      "title": "Čo robím každý deň",
+      "title": "Môj deň od rána do večera",
       "topic": "Actions and my everyday day",
       "description": "Навчися використовувати основні слова й моделі теми: Actions and my everyday day.",
-      "order": 31,
-      "xpReward": 25,
+      "order": 37,
+      "xpReward": 30,
       "estimatedMinutes": 27,
       "isPublished": false,
       "intro": "Розберемо практичні слова й готові моделі для теми «Actions and my everyday day».",
@@ -16,7 +16,7 @@
       "updatedAt": "2026-09-12T12:00:00Z",
       "startScreen": {
         "screenType": "lesson_start",
-        "title": "Čo robím každý deň",
+        "title": "Môj deň od rána do večera",
         "shortDescription": "Практична словацька: Actions and my everyday day.",
         "outcomes": [
           "розуміти ключову лексику",
@@ -38,14 +38,14 @@
           "večer idem spať"
         ],
         "exercisesCount": 12,
-        "reward": "25 XP",
+        "reward": "30 XP",
         "button": "Почати урок"
       },
       "theoryScreens": [
         {
           "screenType": "theory",
           "order": 1,
-          "title": "Čo robím každý deň: основа",
+          "title": "Môj deň od rána do večera: основа",
           "text": "Опрацюй перші ключові одиниці разом із готовими прикладами.",
           "examples": [
             {
@@ -65,7 +65,7 @@
         {
           "screenType": "theory",
           "order": 2,
-          "title": "Čo robím každý deň: практика",
+          "title": "Môj deň od rána do večera: практика",
           "text": "Поєднай нові одиниці та використай їх у коротких реальних ситуаціях.",
           "examples": [
             {
@@ -85,11 +85,11 @@
       ],
       "wordsScreen": {
         "screenType": "lesson_words",
-        "title": "Čo robím každý deň",
+        "title": "Môj deň od rána do večera",
         "description": "Повтори ключову лексику уроку.",
         "items": [
           {
-            "wordId": "a1-s06-l31-w01",
+            "wordId": "a1-s06-l37-w01",
             "sk": "vstávam",
             "uk": "встаю",
             "pronunciationUk": "vstаvam",
@@ -97,7 +97,7 @@
             "exampleUk": "встаю."
           },
           {
-            "wordId": "a1-s06-l31-w02",
+            "wordId": "a1-s06-l37-w02",
             "sk": "raňajkujem",
             "uk": "снідаю",
             "pronunciationUk": "raньajkujem",
@@ -105,7 +105,7 @@
             "exampleUk": "снідаю."
           },
           {
-            "wordId": "a1-s06-l31-w03",
+            "wordId": "a1-s06-l37-w03",
             "sk": "pracujem",
             "uk": "працюю",
             "pronunciationUk": "pracujem",
@@ -113,7 +113,7 @@
             "exampleUk": "працюю."
           },
           {
-            "wordId": "a1-s06-l31-w04",
+            "wordId": "a1-s06-l37-w04",
             "sk": "študujem",
             "uk": "навчаюся",
             "pronunciationUk": "шtudujem",
@@ -121,7 +121,7 @@
             "exampleUk": "навчаюся."
           },
           {
-            "wordId": "a1-s06-l31-w05",
+            "wordId": "a1-s06-l37-w05",
             "sk": "čítam",
             "uk": "читаю",
             "pronunciationUk": "чіtam",
@@ -129,7 +129,7 @@
             "exampleUk": "читаю."
           },
           {
-            "wordId": "a1-s06-l31-w06",
+            "wordId": "a1-s06-l37-w06",
             "sk": "píšem",
             "uk": "пишу",
             "pronunciationUk": "pішem",
@@ -137,7 +137,7 @@
             "exampleUk": "пишу."
           },
           {
-            "wordId": "a1-s06-l31-w07",
+            "wordId": "a1-s06-l37-w07",
             "sk": "počúvam",
             "uk": "слухаю",
             "pronunciationUk": "poчуvam",
@@ -145,7 +145,7 @@
             "exampleUk": "слухаю."
           },
           {
-            "wordId": "a1-s06-l31-w08",
+            "wordId": "a1-s06-l37-w08",
             "sk": "jem obed",
             "uk": "обідаю",
             "pronunciationUk": "jem obed",
@@ -153,7 +153,7 @@
             "exampleUk": "обідаю."
           },
           {
-            "wordId": "a1-s06-l31-w09",
+            "wordId": "a1-s06-l37-w09",
             "sk": "idem domov",
             "uk": "іду додому",
             "pronunciationUk": "idem domov",
@@ -161,7 +161,7 @@
             "exampleUk": "іду додому."
           },
           {
-            "wordId": "a1-s06-l31-w10",
+            "wordId": "a1-s06-l37-w10",
             "sk": "vraciam sa domov",
             "uk": "повертаюся додому",
             "pronunciationUk": "vraciam sa domov",
@@ -169,7 +169,7 @@
             "exampleUk": "повертаюся додому."
           },
           {
-            "wordId": "a1-s06-l31-w11",
+            "wordId": "a1-s06-l37-w11",
             "sk": "oddychujem",
             "uk": "відпочиваю",
             "pronunciationUk": "oddychujem",
@@ -177,7 +177,7 @@
             "exampleUk": "відпочиваю."
           },
           {
-            "wordId": "a1-s06-l31-w12",
+            "wordId": "a1-s06-l37-w12",
             "sk": "večer idem spať",
             "uk": "увечері йду спати",
             "pronunciationUk": "veчer idem spaть",
@@ -189,7 +189,7 @@
       },
       "words": [
         {
-          "id": "a1-s06-l31-w01",
+          "id": "a1-s06-l37-w01",
           "sk": "vstávam",
           "uk": "встаю",
           "pronunciationUk": "vstаvam",
@@ -203,7 +203,7 @@
           ]
         },
         {
-          "id": "a1-s06-l31-w02",
+          "id": "a1-s06-l37-w02",
           "sk": "raňajkujem",
           "uk": "снідаю",
           "pronunciationUk": "raньajkujem",
@@ -217,7 +217,7 @@
           ]
         },
         {
-          "id": "a1-s06-l31-w03",
+          "id": "a1-s06-l37-w03",
           "sk": "pracujem",
           "uk": "працюю",
           "pronunciationUk": "pracujem",
@@ -231,7 +231,7 @@
           ]
         },
         {
-          "id": "a1-s06-l31-w04",
+          "id": "a1-s06-l37-w04",
           "sk": "študujem",
           "uk": "навчаюся",
           "pronunciationUk": "шtudujem",
@@ -245,7 +245,7 @@
           ]
         },
         {
-          "id": "a1-s06-l31-w05",
+          "id": "a1-s06-l37-w05",
           "sk": "čítam",
           "uk": "читаю",
           "pronunciationUk": "чіtam",
@@ -259,7 +259,7 @@
           ]
         },
         {
-          "id": "a1-s06-l31-w06",
+          "id": "a1-s06-l37-w06",
           "sk": "píšem",
           "uk": "пишу",
           "pronunciationUk": "pішem",
@@ -273,7 +273,7 @@
           ]
         },
         {
-          "id": "a1-s06-l31-w07",
+          "id": "a1-s06-l37-w07",
           "sk": "počúvam",
           "uk": "слухаю",
           "pronunciationUk": "poчуvam",
@@ -287,7 +287,7 @@
           ]
         },
         {
-          "id": "a1-s06-l31-w08",
+          "id": "a1-s06-l37-w08",
           "sk": "jem obed",
           "uk": "обідаю",
           "pronunciationUk": "jem obed",
@@ -301,7 +301,7 @@
           ]
         },
         {
-          "id": "a1-s06-l31-w09",
+          "id": "a1-s06-l37-w09",
           "sk": "idem domov",
           "uk": "іду додому",
           "pronunciationUk": "idem domov",
@@ -315,7 +315,7 @@
           ]
         },
         {
-          "id": "a1-s06-l31-w10",
+          "id": "a1-s06-l37-w10",
           "sk": "vraciam sa domov",
           "uk": "повертаюся додому",
           "pronunciationUk": "vraciam sa domov",
@@ -329,7 +329,7 @@
           ]
         },
         {
-          "id": "a1-s06-l31-w11",
+          "id": "a1-s06-l37-w11",
           "sk": "oddychujem",
           "uk": "відпочиваю",
           "pronunciationUk": "oddychujem",
@@ -343,7 +343,7 @@
           ]
         },
         {
-          "id": "a1-s06-l31-w12",
+          "id": "a1-s06-l37-w12",
           "sk": "večer idem spať",
           "uk": "увечері йду спати",
           "pronunciationUk": "veчer idem spaть",
@@ -359,8 +359,8 @@
       ],
       "exercises": [
         {
-          "id": "a1-s06-l31-e01",
-          "lessonId": "a1-s06-l31",
+          "id": "a1-s06-l37-e01",
+          "lessonId": "a1-s06-l37",
           "type": "multiple_choice_translation",
           "question": "Що означає vstávam?",
           "options": [
@@ -371,15 +371,15 @@
           "correctAnswer": "встаю",
           "explanation": "vstávam означає «встаю».",
           "wordIds": [
-            "a1-s06-l31-w01"
+            "a1-s06-l37-w01"
           ],
           "order": 1,
           "difficulty": "easy",
           "button": "Далі"
         },
         {
-          "id": "a1-s06-l31-e02",
-          "lessonId": "a1-s06-l31",
+          "id": "a1-s06-l37-e02",
+          "lessonId": "a1-s06-l37",
           "type": "multiple_choice_translation",
           "question": "Як сказати це словацькою?",
           "options": [
@@ -390,15 +390,15 @@
           "correctAnswer": "raňajkujem",
           "explanation": "Правильний варіант — перша фраза.",
           "wordIds": [
-            "a1-s06-l31-w02"
+            "a1-s06-l37-w02"
           ],
           "order": 2,
           "difficulty": "easy",
           "button": "Далі"
         },
         {
-          "id": "a1-s06-l31-e03",
-          "lessonId": "a1-s06-l31",
+          "id": "a1-s06-l37-e03",
+          "lessonId": "a1-s06-l37",
           "type": "match_pairs",
           "question": "З’єднай слово з перекладом.",
           "options": [
@@ -413,16 +413,16 @@
           ],
           "explanation": "Зістав значення.",
           "wordIds": [
-            "a1-s06-l31-w03",
-            "a1-s06-l31-w04"
+            "a1-s06-l37-w03",
+            "a1-s06-l37-w04"
           ],
           "order": 3,
           "difficulty": "easy",
           "button": "Далі"
         },
         {
-          "id": "a1-s06-l31-e04",
-          "lessonId": "a1-s06-l31",
+          "id": "a1-s06-l37-e04",
+          "lessonId": "a1-s06-l37",
           "type": "fill_blank",
           "question": "Доповни правильним варіантом.",
           "options": [
@@ -433,7 +433,7 @@
           "correctAnswer": "čítam",
           "explanation": "Правильно: čítam.",
           "wordIds": [
-            "a1-s06-l31-w05"
+            "a1-s06-l37-w05"
           ],
           "order": 4,
           "difficulty": "easy",
@@ -441,8 +441,8 @@
           "fullSentence": "čítam."
         },
         {
-          "id": "a1-s06-l31-e05",
-          "lessonId": "a1-s06-l31",
+          "id": "a1-s06-l37-e05",
+          "lessonId": "a1-s06-l37",
           "type": "dropdown_blank",
           "question": "Обери правильний варіант.",
           "sentenceParts": [
@@ -465,15 +465,15 @@
           "correctAnswer": "píšem",
           "explanation": "Правильний варіант відповідає вивченій одиниці.",
           "wordIds": [
-            "a1-s06-l31-w06"
+            "a1-s06-l37-w06"
           ],
           "order": 5,
           "difficulty": "easy",
           "button": "Далі"
         },
         {
-          "id": "a1-s06-l31-e06",
-          "lessonId": "a1-s06-l31",
+          "id": "a1-s06-l37-e06",
+          "lessonId": "a1-s06-l37",
           "type": "sentence_order",
           "question": "Розташуй слова правильно.",
           "tokens": [
@@ -484,15 +484,15 @@
           ],
           "explanation": "Правильно: počúvam.",
           "wordIds": [
-            "a1-s06-l31-w07"
+            "a1-s06-l37-w07"
           ],
           "order": 6,
           "difficulty": "medium",
           "button": "Далі"
         },
         {
-          "id": "a1-s06-l31-e07",
-          "lessonId": "a1-s06-l31",
+          "id": "a1-s06-l37-e07",
+          "lessonId": "a1-s06-l37",
           "type": "sentence_builder",
           "question": "Склади правильну фразу.",
           "tokens": [
@@ -502,15 +502,15 @@
           "correctSentence": "jem obed.",
           "explanation": "Правильно: jem obed.",
           "wordIds": [
-            "a1-s06-l31-w08"
+            "a1-s06-l37-w08"
           ],
           "order": 7,
           "difficulty": "medium",
           "button": "Далі"
         },
         {
-          "id": "a1-s06-l31-e08",
-          "lessonId": "a1-s06-l31",
+          "id": "a1-s06-l37-e08",
+          "lessonId": "a1-s06-l37",
           "type": "meaning_in_context",
           "question": "Що означає фраза?",
           "context": "idem domov.",
@@ -534,15 +534,15 @@
           ],
           "explanation": "Зістав значення за контекстом.",
           "wordIds": [
-            "a1-s06-l31-w09"
+            "a1-s06-l37-w09"
           ],
           "order": 8,
           "difficulty": "medium",
           "button": "Далі"
         },
         {
-          "id": "a1-s06-l31-e09",
-          "lessonId": "a1-s06-l31",
+          "id": "a1-s06-l37-e09",
+          "lessonId": "a1-s06-l37",
           "type": "natural_phrase",
           "question": "Обери природну фразу.",
           "situation": "повертаюся додому",
@@ -564,17 +564,17 @@
             }
           ],
           "wordIds": [
-            "a1-s06-l31-w10",
-            "a1-s06-l31-w11",
-            "a1-s06-l31-w12"
+            "a1-s06-l37-w10",
+            "a1-s06-l37-w11",
+            "a1-s06-l37-w12"
           ],
           "order": 9,
           "difficulty": "medium",
           "button": "Далі"
         },
         {
-          "id": "a1-s06-l31-e10",
-          "lessonId": "a1-s06-l31",
+          "id": "a1-s06-l37-e10",
+          "lessonId": "a1-s06-l37",
           "type": "multiple_select",
           "question": "Обери правильні фрази.",
           "options": [
@@ -601,16 +601,16 @@
           ],
           "explanation": "Обери два правильні варіанти.",
           "wordIds": [
-            "a1-s06-l31-w01",
-            "a1-s06-l31-w05"
+            "a1-s06-l37-w01",
+            "a1-s06-l37-w05"
           ],
           "order": 10,
           "difficulty": "medium",
           "button": "Далі"
         },
         {
-          "id": "a1-s06-l31-e11",
-          "lessonId": "a1-s06-l31",
+          "id": "a1-s06-l37-e11",
+          "lessonId": "a1-s06-l37",
           "type": "reading_comprehension",
           "question": "Прочитай короткий текст.",
           "text": "vstávam. študujem. počúvam.",
@@ -637,17 +637,17 @@
             }
           ],
           "wordIds": [
-            "a1-s06-l31-w01",
-            "a1-s06-l31-w04",
-            "a1-s06-l31-w07"
+            "a1-s06-l37-w01",
+            "a1-s06-l37-w04",
+            "a1-s06-l37-w07"
           ],
           "order": 11,
           "difficulty": "medium",
           "button": "Далі"
         },
         {
-          "id": "a1-s06-l31-e12",
-          "lessonId": "a1-s06-l31",
+          "id": "a1-s06-l37-e12",
+          "lessonId": "a1-s06-l37",
           "type": "dialogue_choose_reply",
           "question": "Обери правильну відповідь.",
           "dialogue": [
@@ -678,7 +678,7 @@
             }
           ],
           "wordIds": [
-            "a1-s06-l31-w11"
+            "a1-s06-l37-w11"
           ],
           "order": 12,
           "difficulty": "medium",
@@ -709,7 +709,7 @@
           "raňajkujem — снідаю",
           "vraciam sa domov — повертаюся додому"
         ],
-        "result": "+25 XP",
+        "result": "+30 XP",
         "newWordsCount": 12,
         "exercisesCompleted": 12,
         "mistakesMessage": "Матеріал із помилками додано до повторення.",
@@ -718,7 +718,7 @@
           "Повторити урок",
           "Тренувати помилки"
         ],
-        "nextLesson": "Ako sa menia slovesá"
+        "nextLesson": "Čísla a množstvo"
       }
     }
   ]

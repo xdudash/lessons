@@ -1,0 +1,728 @@
+{
+  "lessons": [
+    {
+      "id": "a1-s10-l58",
+      "sectionId": "a1_s10",
+      "level": "A1",
+      "title": "Koľko to stojí?",
+      "topic": "Shopping, money, clothing and services",
+      "description": "Навчися використовувати основні слова й моделі теми: Shopping, money, clothing and services.",
+      "order": 58,
+      "xpReward": 25,
+      "estimatedMinutes": 27,
+      "isPublished": false,
+      "intro": "Розберемо практичні слова й готові моделі для теми «Shopping, money, clothing and services».",
+      "completionMessage": "Ти вже можеш використовувати базові слова й моделі теми «Shopping, money, clothing and services».",
+      "updatedAt": "2026-09-12T12:00:00Z",
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": "Koľko to stojí?",
+        "shortDescription": "Практична словацька: Shopping, money, clothing and services.",
+        "outcomes": [
+          "розуміти ключову лексику",
+          "будувати прості фрази",
+          "використовувати навичку в контексті"
+        ],
+        "newWords": [
+          "veľkosť M",
+          "koľko to stojí?",
+          "je to lacné",
+          "je to drahé",
+          "chcem toto tričko",
+          "prosím tašku",
+          "platím kartou",
+          "chcem to vymeniť",
+          "účtenku, prosím",
+          "obchod",
+          "tričko",
+          "košeľa"
+        ],
+        "exercisesCount": 12,
+        "reward": "25 XP",
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "screenType": "theory",
+          "order": 1,
+          "title": "Koľko to stojí?: основа",
+          "text": "Опрацюй перші ключові одиниці разом із готовими прикладами.",
+          "examples": [
+            {
+              "sk": "veľkosť M.",
+              "uk": "розмір M."
+            },
+            {
+              "sk": "koľko to stojí?",
+              "uk": "скільки це коштує?"
+            }
+          ],
+          "exampleSk": "veľkosť M.",
+          "exampleUk": "розмір M.",
+          "shortRule": "Вчи фразу разом із її значенням і контекстом.",
+          "button": "Далі"
+        },
+        {
+          "screenType": "theory",
+          "order": 2,
+          "title": "Koľko to stojí?: практика",
+          "text": "Поєднай нові одиниці та використай їх у коротких реальних ситуаціях.",
+          "examples": [
+            {
+              "sk": "platím kartou.",
+              "uk": "я плачу карткою."
+            },
+            {
+              "sk": "obchod.",
+              "uk": "магазин."
+            }
+          ],
+          "exampleSk": "obchod.",
+          "exampleUk": "магазин.",
+          "shortRule": "Перенось вивчену модель у новий контекст.",
+          "button": "Далі"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": "Koľko to stojí?",
+        "description": "Повтори ключову лексику уроку.",
+        "items": [
+          {
+            "wordId": "a1-s10-l58-w01",
+            "sk": "veľkosť M",
+            "uk": "розмір M",
+            "pronunciationUk": "veльkosть M",
+            "exampleSk": "veľkosť M.",
+            "exampleUk": "розмір M."
+          },
+          {
+            "wordId": "a1-s10-l58-w02",
+            "sk": "koľko to stojí?",
+            "uk": "скільки це коштує?",
+            "pronunciationUk": "koльko to stojі?",
+            "exampleSk": "koľko to stojí?",
+            "exampleUk": "скільки це коштує?"
+          },
+          {
+            "wordId": "a1-s10-l58-w03",
+            "sk": "je to lacné",
+            "uk": "це дешево",
+            "pronunciationUk": "je to lacnе",
+            "exampleSk": "je to lacné.",
+            "exampleUk": "це дешево."
+          },
+          {
+            "wordId": "a1-s10-l58-w04",
+            "sk": "je to drahé",
+            "uk": "це дорого",
+            "pronunciationUk": "je to drahе",
+            "exampleSk": "je to drahé.",
+            "exampleUk": "це дорого."
+          },
+          {
+            "wordId": "a1-s10-l58-w05",
+            "sk": "chcem toto tričko",
+            "uk": "я хочу цю футболку",
+            "pronunciationUk": "chcem toto triчko",
+            "exampleSk": "chcem toto tričko.",
+            "exampleUk": "я хочу цю футболку."
+          },
+          {
+            "wordId": "a1-s10-l58-w06",
+            "sk": "prosím tašku",
+            "uk": "будь ласка, пакет",
+            "pronunciationUk": "prosіm taшku",
+            "exampleSk": "prosím tašku.",
+            "exampleUk": "будь ласка, пакет."
+          },
+          {
+            "wordId": "a1-s10-l58-w07",
+            "sk": "platím kartou",
+            "uk": "я плачу карткою",
+            "pronunciationUk": "platіm kartou",
+            "exampleSk": "platím kartou.",
+            "exampleUk": "я плачу карткою."
+          },
+          {
+            "wordId": "a1-s10-l58-w08",
+            "sk": "chcem to vymeniť",
+            "uk": "я хочу це обміняти",
+            "pronunciationUk": "chcem to vymeniть",
+            "exampleSk": "chcem to vymeniť.",
+            "exampleUk": "я хочу це обміняти."
+          },
+          {
+            "wordId": "a1-s10-l58-w09",
+            "sk": "účtenku, prosím",
+            "uk": "чек, будь ласка",
+            "pronunciationUk": "учtenku, prosіm",
+            "exampleSk": "účtenku, prosím.",
+            "exampleUk": "чек, будь ласка."
+          },
+          {
+            "wordId": "a1-s10-l58-w10",
+            "sk": "obchod",
+            "uk": "магазин",
+            "pronunciationUk": "obchod",
+            "exampleSk": "obchod.",
+            "exampleUk": "магазин."
+          },
+          {
+            "wordId": "a1-s10-l58-w11",
+            "sk": "tričko",
+            "uk": "футболка",
+            "pronunciationUk": "triчko",
+            "exampleSk": "tričko.",
+            "exampleUk": "футболка."
+          },
+          {
+            "wordId": "a1-s10-l58-w12",
+            "sk": "košeľa",
+            "uk": "сорочка",
+            "pronunciationUk": "koшeльa",
+            "exampleSk": "košeľa.",
+            "exampleUk": "сорочка."
+          }
+        ],
+        "button": "Почати вправи"
+      },
+      "words": [
+        {
+          "id": "a1-s10-l58-w01",
+          "sk": "veľkosť M",
+          "uk": "розмір M",
+          "pronunciationUk": "veльkosть M",
+          "exampleSk": "veľkosť M.",
+          "exampleUk": "розмір M.",
+          "level": "A1",
+          "topic": "Shopping, money, clothing and services",
+          "tags": [
+            "A1",
+            "Shopping,"
+          ]
+        },
+        {
+          "id": "a1-s10-l58-w02",
+          "sk": "koľko to stojí?",
+          "uk": "скільки це коштує?",
+          "pronunciationUk": "koльko to stojі?",
+          "exampleSk": "koľko to stojí?",
+          "exampleUk": "скільки це коштує?",
+          "level": "A1",
+          "topic": "Shopping, money, clothing and services",
+          "tags": [
+            "A1",
+            "Shopping,"
+          ]
+        },
+        {
+          "id": "a1-s10-l58-w03",
+          "sk": "je to lacné",
+          "uk": "це дешево",
+          "pronunciationUk": "je to lacnе",
+          "exampleSk": "je to lacné.",
+          "exampleUk": "це дешево.",
+          "level": "A1",
+          "topic": "Shopping, money, clothing and services",
+          "tags": [
+            "A1",
+            "Shopping,"
+          ]
+        },
+        {
+          "id": "a1-s10-l58-w04",
+          "sk": "je to drahé",
+          "uk": "це дорого",
+          "pronunciationUk": "je to drahе",
+          "exampleSk": "je to drahé.",
+          "exampleUk": "це дорого.",
+          "level": "A1",
+          "topic": "Shopping, money, clothing and services",
+          "tags": [
+            "A1",
+            "Shopping,"
+          ]
+        },
+        {
+          "id": "a1-s10-l58-w05",
+          "sk": "chcem toto tričko",
+          "uk": "я хочу цю футболку",
+          "pronunciationUk": "chcem toto triчko",
+          "exampleSk": "chcem toto tričko.",
+          "exampleUk": "я хочу цю футболку.",
+          "level": "A1",
+          "topic": "Shopping, money, clothing and services",
+          "tags": [
+            "A1",
+            "Shopping,"
+          ]
+        },
+        {
+          "id": "a1-s10-l58-w06",
+          "sk": "prosím tašku",
+          "uk": "будь ласка, пакет",
+          "pronunciationUk": "prosіm taшku",
+          "exampleSk": "prosím tašku.",
+          "exampleUk": "будь ласка, пакет.",
+          "level": "A1",
+          "topic": "Shopping, money, clothing and services",
+          "tags": [
+            "A1",
+            "Shopping,"
+          ]
+        },
+        {
+          "id": "a1-s10-l58-w07",
+          "sk": "platím kartou",
+          "uk": "я плачу карткою",
+          "pronunciationUk": "platіm kartou",
+          "exampleSk": "platím kartou.",
+          "exampleUk": "я плачу карткою.",
+          "level": "A1",
+          "topic": "Shopping, money, clothing and services",
+          "tags": [
+            "A1",
+            "Shopping,"
+          ]
+        },
+        {
+          "id": "a1-s10-l58-w08",
+          "sk": "chcem to vymeniť",
+          "uk": "я хочу це обміняти",
+          "pronunciationUk": "chcem to vymeniть",
+          "exampleSk": "chcem to vymeniť.",
+          "exampleUk": "я хочу це обміняти.",
+          "level": "A1",
+          "topic": "Shopping, money, clothing and services",
+          "tags": [
+            "A1",
+            "Shopping,"
+          ]
+        },
+        {
+          "id": "a1-s10-l58-w09",
+          "sk": "účtenku, prosím",
+          "uk": "чек, будь ласка",
+          "pronunciationUk": "учtenku, prosіm",
+          "exampleSk": "účtenku, prosím.",
+          "exampleUk": "чек, будь ласка.",
+          "level": "A1",
+          "topic": "Shopping, money, clothing and services",
+          "tags": [
+            "A1",
+            "Shopping,"
+          ]
+        },
+        {
+          "id": "a1-s10-l58-w10",
+          "sk": "obchod",
+          "uk": "магазин",
+          "pronunciationUk": "obchod",
+          "exampleSk": "obchod.",
+          "exampleUk": "магазин.",
+          "level": "A1",
+          "topic": "Shopping, money, clothing and services",
+          "tags": [
+            "A1",
+            "Shopping,"
+          ]
+        },
+        {
+          "id": "a1-s10-l58-w11",
+          "sk": "tričko",
+          "uk": "футболка",
+          "pronunciationUk": "triчko",
+          "exampleSk": "tričko.",
+          "exampleUk": "футболка.",
+          "level": "A1",
+          "topic": "Shopping, money, clothing and services",
+          "tags": [
+            "A1",
+            "Shopping,"
+          ]
+        },
+        {
+          "id": "a1-s10-l58-w12",
+          "sk": "košeľa",
+          "uk": "сорочка",
+          "pronunciationUk": "koшeльa",
+          "exampleSk": "košeľa.",
+          "exampleUk": "сорочка.",
+          "level": "A1",
+          "topic": "Shopping, money, clothing and services",
+          "tags": [
+            "A1",
+            "Shopping,"
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "a1-s10-l58-e01",
+          "lessonId": "a1-s10-l58",
+          "type": "multiple_choice_translation",
+          "question": "Що означає veľkosť M?",
+          "options": [
+            "розмір M",
+            "скільки це коштує?",
+            "це дешево"
+          ],
+          "correctAnswer": "розмір M",
+          "explanation": "veľkosť M означає «розмір M».",
+          "wordIds": [
+            "a1-s10-l58-w01"
+          ],
+          "order": 1,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s10-l58-e02",
+          "lessonId": "a1-s10-l58",
+          "type": "multiple_choice_translation",
+          "question": "Як сказати це словацькою?",
+          "options": [
+            "koľko to stojí?",
+            "je to drahé",
+            "chcem toto tričko"
+          ],
+          "correctAnswer": "koľko to stojí?",
+          "explanation": "Правильний варіант — перша фраза.",
+          "wordIds": [
+            "a1-s10-l58-w02"
+          ],
+          "order": 2,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s10-l58-e03",
+          "lessonId": "a1-s10-l58",
+          "type": "match_pairs",
+          "question": "З’єднай слово з перекладом.",
+          "options": [
+            "je to lacné",
+            "це дешево",
+            "je to drahé",
+            "це дорого"
+          ],
+          "correctAnswer": [
+            "je to lacné|це дешево",
+            "je to drahé|це дорого"
+          ],
+          "explanation": "Зістав значення.",
+          "wordIds": [
+            "a1-s10-l58-w03",
+            "a1-s10-l58-w04"
+          ],
+          "order": 3,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s10-l58-e04",
+          "lessonId": "a1-s10-l58",
+          "type": "fill_blank",
+          "question": "Доповни правильним варіантом.",
+          "options": [
+            "chcem toto tričko",
+            "prosím tašku",
+            "platím kartou"
+          ],
+          "correctAnswer": "chcem toto tričko",
+          "explanation": "Правильно: chcem toto tričko.",
+          "wordIds": [
+            "a1-s10-l58-w05"
+          ],
+          "order": 4,
+          "difficulty": "easy",
+          "button": "Далі",
+          "fullSentence": "chcem toto tričko."
+        },
+        {
+          "id": "a1-s10-l58-e05",
+          "lessonId": "a1-s10-l58",
+          "type": "dropdown_blank",
+          "question": "Обери правильний варіант.",
+          "sentenceParts": [
+            {
+              "text": "Обери: "
+            },
+            {
+              "blankId": "b1",
+              "options": [
+                "prosím tašku",
+                "platím kartou",
+                "chcem to vymeniť"
+              ],
+              "correct": "prosím tašku"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "correctAnswer": "prosím tašku",
+          "explanation": "Правильний варіант відповідає вивченій одиниці.",
+          "wordIds": [
+            "a1-s10-l58-w06"
+          ],
+          "order": 5,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s10-l58-e06",
+          "lessonId": "a1-s10-l58",
+          "type": "sentence_order",
+          "question": "Розташуй слова правильно.",
+          "tokens": [
+            "platím",
+            "kartou."
+          ],
+          "correctOrder": [
+            "platím",
+            "kartou."
+          ],
+          "explanation": "Правильно: platím kartou.",
+          "wordIds": [
+            "a1-s10-l58-w07"
+          ],
+          "order": 6,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s10-l58-e07",
+          "lessonId": "a1-s10-l58",
+          "type": "sentence_builder",
+          "question": "Склади правильну фразу.",
+          "tokens": [
+            "chcem",
+            "to",
+            "vymeniť."
+          ],
+          "correctSentence": "chcem to vymeniť.",
+          "explanation": "Правильно: chcem to vymeniť.",
+          "wordIds": [
+            "a1-s10-l58-w08"
+          ],
+          "order": 7,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s10-l58-e08",
+          "lessonId": "a1-s10-l58",
+          "type": "meaning_in_context",
+          "question": "Що означає фраза?",
+          "context": "účtenku, prosím.",
+          "target": "účtenku, prosím",
+          "options": [
+            {
+              "id": "a",
+              "text": "чек, будь ласка",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": "магазин",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": "футболка",
+              "correct": false
+            }
+          ],
+          "explanation": "Зістав значення за контекстом.",
+          "wordIds": [
+            "a1-s10-l58-w09"
+          ],
+          "order": 8,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s10-l58-e09",
+          "lessonId": "a1-s10-l58",
+          "type": "natural_phrase",
+          "question": "Обери природну фразу.",
+          "situation": "магазин",
+          "options": [
+            {
+              "id": "a",
+              "sk": "obchod",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "tričko",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "košeľa",
+              "correct": false
+            }
+          ],
+          "wordIds": [
+            "a1-s10-l58-w10",
+            "a1-s10-l58-w11",
+            "a1-s10-l58-w12"
+          ],
+          "order": 9,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s10-l58-e10",
+          "lessonId": "a1-s10-l58",
+          "type": "multiple_select",
+          "question": "Обери правильні фрази.",
+          "options": [
+            {
+              "id": "a",
+              "sk": "veľkosť M",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "chcem toto tričko",
+              "correct": true
+            },
+            {
+              "id": "c",
+              "sk": "košeľa",
+              "correct": false
+            },
+            {
+              "id": "d",
+              "sk": "Som zelenina.",
+              "correct": false
+            }
+          ],
+          "explanation": "Обери два правильні варіанти.",
+          "wordIds": [
+            "a1-s10-l58-w01",
+            "a1-s10-l58-w05"
+          ],
+          "order": 10,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s10-l58-e11",
+          "lessonId": "a1-s10-l58",
+          "type": "reading_comprehension",
+          "question": "Прочитай короткий текст.",
+          "text": "veľkosť M. je to drahé. platím kartou.",
+          "questions": [
+            {
+              "question": "Що сказано першим?",
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "veľkosť M.",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "koľko to stojí?",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "je to lacné.",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "wordIds": [
+            "a1-s10-l58-w01",
+            "a1-s10-l58-w04",
+            "a1-s10-l58-w07"
+          ],
+          "order": 11,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s10-l58-e12",
+          "lessonId": "a1-s10-l58",
+          "type": "dialogue_choose_reply",
+          "question": "Обери правильну відповідь.",
+          "dialogue": [
+            {
+              "speaker": "A",
+              "text": "Ako to povieš po slovensky?"
+            },
+            {
+              "speaker": "B",
+              "text": "tričko."
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "tričko.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "veľkosť M.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "koľko to stojí?",
+              "correct": false
+            }
+          ],
+          "wordIds": [
+            "a1-s10-l58-w11"
+          ],
+          "order": 12,
+          "difficulty": "medium",
+          "button": "Далі"
+        }
+      ],
+      "finalSituation": {
+        "screenType": "final_life_situation",
+        "title": "Ситуація з життя",
+        "scenario": "Ти опинився в реальній ситуації, пов’язаній із темою «Shopping, money, clothing and services».",
+        "question": "Яка фраза найкраще підходить?",
+        "options": [
+          "obchod.",
+          "tričko.",
+          "košeľa."
+        ],
+        "correctAnswer": "1",
+        "translation": "магазин.",
+        "explanation": "Обери фразу, яка найточніше виконує комунікативне завдання.",
+        "button": "Перевірити"
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": "Урок завершено",
+        "text": "Ти потренував ключову лексику теми «Shopping, money, clothing and services».",
+        "nowYouKnow": [
+          "veľkosť M — розмір M",
+          "koľko to stojí? — скільки це коштує?",
+          "obchod — магазин"
+        ],
+        "result": "+25 XP",
+        "newWordsCount": 12,
+        "exercisesCompleted": 12,
+        "mistakesMessage": "Матеріал із помилками додано до повторення.",
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "nextLesson": "Farba a veľkosť"
+      }
+    }
+  ]
+}

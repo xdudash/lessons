@@ -1,1 +1,729 @@
-{"lessons":[{"id":"a1-s06-l34","sectionId":"a1_s06","level":"A1","title":"Byť a mať","topic":"Глаголи бути й мати","description":"Навчися використовувати byť і mať у простих реченнях про себе та своє оточення.","order":34,"xpReward":25,"estimatedMinutes":25,"isPublished":false,"intro":"Poďme pracovať s dvoma veľmi частими дієсловами: byť і mať.","completionMessage":"Ти вже можеш сказати, хто ти, де ти і що маєш.","updatedAt":"2026-09-12T12:00:00Z","startScreen":{"screenType":"lesson_start","title":"Byť a mať","shortDescription":"Використовуй byť і mať у простих фразах.","outcomes":["будувати речення з som a mám","розуміти si, je, má","говорити про простий стан і володіння"],"newWords":["som","mám","si","máš","je","má","sme","máme","doma","čas","práca","rodina"],"exercisesCount":12,"reward":"25 XP","button":"Почати урок"},"theoryScreens":[{"screenType":"theory","order":1,"title":"Byť","text":"Форми som, si, je та sme використовуємо, щоб сказати, хто ми або де ми.","examples":[{"sk":"Som doma.","uk":"Я вдома."},{"sk":"Si doma.","uk":"Ти вдома."}],"exampleSk":"Som doma.","exampleUk":"Я вдома.","shortRule":"ja → som; ty → si; on/ona → je; my → sme.","button":"Далі"},{"screenType":"theory","order":2,"title":"Mať","text":"Форми mám, máš, má та máme використовуємо, щоб сказати, що хтось має.","examples":[{"sk":"Mám čas.","uk":"Я маю час."},{"sk":"Má čas.","uk":"Він/вона має час."}],"exampleSk":"Mám čas.","exampleUk":"Я маю час.","shortRule":"ja → mám; ty → máš; on/ona → má; my → máme.","button":"Далі"}],"wordsScreen":{"screenType":"lesson_words","title":"Byť a mať","description":"Повтори базові форми двох частих дієслів.","items":[{"wordId":"a1-s06-l34-w01","sk":"som","uk":"є, являюсь","pronunciationUk":"сом","exampleSk":"Som doma.","exampleUk":"Я вдома."},{"wordId":"a1-s06-l34-w02","sk":"mám","uk":"маю","pronunciationUk":"мам","exampleSk":"Mám čas.","exampleUk":"Я маю час."},{"wordId":"a1-s06-l34-w03","sk":"si","uk":"є, являєшся","pronunciationUk":"сі","exampleSk":"Si doma.","exampleUk":"Ти вдома."},{"wordId":"a1-s06-l34-w04","sk":"máš","uk":"маєш","pronunciationUk":"маш","exampleSk":"Máš čas.","exampleUk":"Ти маєш час."},{"wordId":"a1-s06-l34-w05","sk":"je","uk":"є","pronunciationUk":"є","exampleSk":"Je doma.","exampleUk":"Він/вона вдома."},{"wordId":"a1-s06-l34-w06","sk":"má","uk":"має","pronunciationUk":"ма","exampleSk":"Má čas.","exampleUk":"Він/вона має час."},{"wordId":"a1-s06-l34-w07","sk":"sme","uk":"є, являємося","pronunciationUk":"сме","exampleSk":"Sme doma.","exampleUk":"Ми вдома."},{"wordId":"a1-s06-l34-w08","sk":"máme","uk":"маємо","pronunciationUk":"маме","exampleSk":"Máme čas.","exampleUk":"Ми маємо час."},{"wordId":"a1-s06-l34-w09","sk":"doma","uk":"вдома","pronunciationUk":"дома","exampleSk":"Som doma.","exampleUk":"Я вдома."},{"wordId":"a1-s06-l34-w10","sk":"čas","uk":"час","pronunciationUk":"час","exampleSk":"Mám čas.","exampleUk":"Я маю час."},{"wordId":"a1-s06-l34-w11","sk":"práca","uk":"робота","pronunciationUk":"праца","exampleSk":"Som v práci.","exampleUk":"Я на роботі."},{"wordId":"a1-s06-l34-w12","sk":"rodina","uk":"родина","pronunciationUk":"родіна","exampleSk":"Mám rodinu.","exampleUk":"У мене є родина."}],"words":[{"id":"a1-s06-l34-w01","sk":"som","uk":"є, являюсь","pronunciationUk":"сом","exampleSk":"Som doma.","exampleUk":"Я вдома.","level":"A1","topic":"Byť a mať","tags":["A1","byť"]},{"id":"a1-s06-l34-w02","sk":"mám","uk":"маю","pronunciationUk":"мам","exampleSk":"Mám čas.","exampleUk":"Я маю час.","level":"A1","topic":"Byť a mať","tags":["A1","mať"]},{"id":"a1-s06-l34-w03","sk":"si","uk":"є, являєшся","pronunciationUk":"сі","exampleSk":"Si doma.","exampleUk":"Ти вдома.","level":"A1","topic":"Byť a mať","tags":["A1","byť"]},{"id":"a1-s06-l34-w04","sk":"máš","uk":"маєш","pronunciationUk":"маш","exampleSk":"Máš čas.","exampleUk":"Ти маєш час.","level":"A1","topic":"Byť a mať","tags":["A1","mať"]},{"id":"a1-s06-l34-w05","sk":"je","uk":"є","pronunciationUk":"є","exampleSk":"Je doma.","exampleUk":"Він/вона вдома.","level":"A1","topic":"Byť a mať","tags":["A1","byť"]},{"id":"a1-s06-l34-w06","sk":"má","uk":"має","pronunciationUk":"ма","exampleSk":"Má čas.","exampleUk":"Він/вона має час.","level":"A1","topic":"Byť a mať","tags":["A1","mať"]},{"id":"a1-s06-l34-w07","sk":"sme","uk":"є, являємося","pronunciationUk":"сме","exampleSk":"Sme doma.","exampleUk":"Ми вдома.","level":"A1","topic":"Byť a mať","tags":["A1","byť"]},{"id":"a1-s06-l34-w08","sk":"máme","uk":"маємо","pronunciationUk":"маме","exampleSk":"Máme čas.","exampleUk":"Ми маємо час.","level":"A1","topic":"Byť a mať","tags":["A1","mať"]},{"id":"a1-s06-l34-w09","sk":"doma","uk":"вдома","pronunciationUk":"дома","exampleSk":"Som doma.","exampleUk":"Я вдома.","level":"A1","topic":"Byť a mať","tags":["A1","місце"]},{"id":"a1-s06-l34-w10","sk":"čas","uk":"час","pronunciationUk":"час","exampleSk":"Mám čas.","exampleUk":"Я маю час.","level":"A1","topic":"Byť a mať","tags":["A1","час"]},{"id":"a1-s06-l34-w11","sk":"práca","uk":"робота","pronunciationUk":"праца","exampleSk":"Som v práci.","exampleUk":"Я на роботі.","level":"A1","topic":"Byť a mať","tags":["A1","робота"]},{"id":"a1-s06-l34-w12","sk":"rodina","uk":"родина","pronunciationUk":"родіна","exampleSk":"Mám rodinu.","exampleUk":"У мене є родина.","level":"A1","topic":"Byť a mať","tags":["A1","родина"]}],"exercises":[{"id":"a1-s06-l34-e01","lessonId":"a1-s06-l34","type":"multiple_choice_translation","question":"Що означає mám?","options":["маю","є","маєш"],"correctAnswer":"маю","explanation":"mám — форма «я маю».","wordIds":["a1-s06-l34-w02"],"order":1,"difficulty":"easy","button":"Далі"},{"id":"a1-s06-l34-e02","lessonId":"a1-s06-l34","type":"multiple_choice_translation","question":"Як сказати «Я вдома»?","options":["Som doma.","Mám doma.","Si doma."],"correctAnswer":"Som doma.","explanation":"Som — форма byť для ja.","wordIds":["a1-s06-l34-w01","a1-s06-l34-w09"],"order":2,"difficulty":"easy","button":"Далі"},{"id":"a1-s06-l34-e03","lessonId":"a1-s06-l34","type":"match_pairs","question":"З’єднай форму з перекладом.","options":["som","я є","mám","я маю","si","ти є","máš","ти маєш"],"correctAnswer":["som|я є","mám|я маю","si|ти є","máš|ти маєш"],"explanation":"Розрізняй форми byť і mať.","wordIds":["a1-s06-l34-w01","a1-s06-l34-w02","a1-s06-l34-w03","a1-s06-l34-w04"],"order":3,"difficulty":"easy","button":"Далі"},{"id":"a1-s06-l34-e04","lessonId":"a1-s06-l34","type":"fill_blank","question":"Доповни: Ja ___ doma.","options":["som","mám","si"],"correctAnswer":"som","explanation":"Для ja з byť використовуємо som.","wordIds":["a1-s06-l34-w01"],"order":4,"difficulty":"easy","button":"Далі","fullSentence":"Ja som doma."},{"id":"a1-s06-l34-e05","lessonId":"a1-s06-l34","type":"dropdown_blank","question":"Обери форму: Ty ___ čas.","sentenceParts":[{"text":"Ty "},{"blankId":"b1","options":["máš","mám","má"],"correct":"máš"},{"text":" čas."}],"correctAnswer":"máš","explanation":"Для ty з mať використовуємо máš.","wordIds":["a1-s06-l34-w04","a1-s06-l34-w10"],"order":5,"difficulty":"easy","button":"Далі"},{"id":"a1-s06-l34-e06","lessonId":"a1-s06-l34","type":"sentence_order","question":"Розташуй слова правильно.","tokens":["Máme","čas."],"correctOrder":["Máme","čas."],"explanation":"Правильно: Máme čas.","wordIds":["a1-s06-l34-w08","a1-s06-l34-w10"],"order":6,"difficulty":"easy","button":"Далі"},{"id":"a1-s06-l34-e07","lessonId":"a1-s06-l34","type":"sentence_builder","question":"Склади: «Ми вдома».","tokens":["Sme","doma."],"correctSentence":"Sme doma.","explanation":"Sme — форма byť для my.","wordIds":["a1-s06-l34-w07","a1-s06-l34-w09"],"order":7,"difficulty":"medium","button":"Далі"},{"id":"a1-s06-l34-e08","lessonId":"a1-s06-l34","type":"meaning_in_context","question":"Що означає Má čas?","context":"Má čas.","target":"Má","options":[{"id":"a","text":"має","correct":true},{"id":"b","text":"маю","correct":false},{"id":"c","text":"маєш","correct":false}],"explanation":"má — форма mať для on/ona.","wordIds":["a1-s06-l34-w06"],"order":8,"difficulty":"medium","button":"Далі"},{"id":"a1-s06-l34-e09","lessonId":"a1-s06-l34","type":"natural_phrase","question":"Обери природне речення.","situation":"Ти кажеш, що маєш час.","options":[{"id":"a","sk":"Mám čas.","correct":true},{"id":"b","sk":"Som čas.","correct":false},{"id":"c","sk":"Máš čas.","correct":false}],"wordIds":["a1-s06-l34-w02","a1-s06-l34-w10"],"order":9,"difficulty":"medium","button":"Далі"},{"id":"a1-s06-l34-e10","lessonId":"a1-s06-l34","type":"multiple_select","question":"Обери правильні речення.","options":[{"id":"a","sk":"Som doma.","correct":true},{"id":"b","sk":"Mám čas.","correct":true},{"id":"c","sk":"Si doma.","correct":true},{"id":"d","sk":"Som čas.","correct":false}],"explanation":"Byť і mať мають різні значення.","wordIds":["a1-s06-l34-w01","a1-s06-l34-w02","a1-s06-l34-w03"],"order":10,"difficulty":"medium","button":"Далі"},{"id":"a1-s06-l34-e11","lessonId":"a1-s06-l34","type":"reading_comprehension","question":"Прочитай короткий текст.","text":"Som doma. Mám čas. Sme spolu.","questions":[{"question":"Хто має час?","options":[{"id":"a","sk":"Ja.","correct":true},{"id":"b","sk":"Ona.","correct":false},{"id":"c","sk":"Oni.","correct":false}]}],"wordIds":["a1-s06-l34-w01","a1-s06-l34-w02","a1-s06-l34-w07","a1-s06-l34-w10"],"order":11,"difficulty":"medium","button":"Далі"},{"id":"a1-s06-l34-e12","lessonId":"a1-s06-l34","type":"dialogue_choose_reply","question":"Обери правильну відповідь.","dialogue":[{"speaker":"A","text":"Máš čas?"},{"speaker":"B","text":"Áno, mám čas."}],"options":[{"id":"a","sk":"Áno, mám čas.","correct":true},{"id":"b","sk":"Nie, som čas.","correct":false},{"id":"c","sk":"Som doma?","correct":false}],"wordIds":["a1-s06-l34-w04","a1-s06-l34-w02","a1-s06-l34-w10"],"order":12,"difficulty":"medium","button":"Далі"}],"finalSituation":{"screenType":"final_life_situation","title":"Скажи про себе","scenario":"Ти розповідаєш співрозмовнику, де ти і що маєш.","question":"Який варіант правильно поєднує byť і mať?","options":["Som doma. Mám čas.","Mám doma. Som čas.","Si doma. Máš čas."],"correctAnswer":"1","translation":"Я вдома. Я маю час.","explanation":"Для ja: som із byť і mám із mať.","button":"Перевірити"},"resultScreen":{"screenType":"lesson_result","title":"Урок завершено","text":"Ти вже розрізняєш базові форми byť і mať.","nowYouKnow":["som — я є","mám — я маю","si — ти є","máš — ти маєш"],"result":"+25 XP","newWordsCount":12,"exercisesCompleted":12,"mistakesMessage":"Матеріал із помилками додано до повторення.","buttons":["Продовжити","Повторити урок","Тренувати помилки"],"nextLesson":"Každý deň sa učím"}}]}
+{
+  "lessons": [
+    {
+      "id": "a1-s06-l34",
+      "sectionId": "a1_s06",
+      "level": "A1",
+      "title": "Byť a mať",
+      "topic": "Actions and my everyday day",
+      "description": "Навчися використовувати основні слова й моделі теми: Actions and my everyday day.",
+      "order": 34,
+      "xpReward": 25,
+      "estimatedMinutes": 27,
+      "isPublished": false,
+      "intro": "Розберемо практичні слова й готові моделі для теми «Actions and my everyday day».",
+      "completionMessage": "Ти вже можеш використовувати базові слова й моделі теми «Actions and my everyday day».",
+      "updatedAt": "2026-09-12T12:00:00Z",
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": "Byť a mať",
+        "shortDescription": "Практична словацька: Actions and my everyday day.",
+        "outcomes": [
+          "розуміти ключову лексику",
+          "будувати прості фрази",
+          "використовувати навичку в контексті"
+        ],
+        "newWords": [
+          "vraciam sa domov",
+          "oddychujem",
+          "večer idem spať",
+          "som doma",
+          "mám čas",
+          "učím sa každý deň",
+          "dnes nepracujem",
+          "zajtra nejdem do práce",
+          "každý deň sa umývam",
+          "vstávam",
+          "raňajkujem",
+          "pracujem"
+        ],
+        "exercisesCount": 12,
+        "reward": "25 XP",
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "screenType": "theory",
+          "order": 1,
+          "title": "Byť a mať: основа",
+          "text": "Опрацюй перші ключові одиниці разом із готовими прикладами.",
+          "examples": [
+            {
+              "sk": "vraciam sa domov.",
+              "uk": "повертаюся додому."
+            },
+            {
+              "sk": "oddychujem.",
+              "uk": "відпочиваю."
+            }
+          ],
+          "exampleSk": "vraciam sa domov.",
+          "exampleUk": "повертаюся додому.",
+          "shortRule": "Вчи фразу разом із її значенням і контекстом.",
+          "button": "Далі"
+        },
+        {
+          "screenType": "theory",
+          "order": 2,
+          "title": "Byť a mať: практика",
+          "text": "Поєднай нові одиниці та використай їх у коротких реальних ситуаціях.",
+          "examples": [
+            {
+              "sk": "dnes nepracujem.",
+              "uk": "сьогодні я не працюю."
+            },
+            {
+              "sk": "vstávam.",
+              "uk": "встаю."
+            }
+          ],
+          "exampleSk": "vstávam.",
+          "exampleUk": "встаю.",
+          "shortRule": "Перенось вивчену модель у новий контекст.",
+          "button": "Далі"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": "Byť a mať",
+        "description": "Повтори ключову лексику уроку.",
+        "items": [
+          {
+            "wordId": "a1-s06-l34-w01",
+            "sk": "vraciam sa domov",
+            "uk": "повертаюся додому",
+            "pronunciationUk": "vraciam sa domov",
+            "exampleSk": "vraciam sa domov.",
+            "exampleUk": "повертаюся додому."
+          },
+          {
+            "wordId": "a1-s06-l34-w02",
+            "sk": "oddychujem",
+            "uk": "відпочиваю",
+            "pronunciationUk": "oddychujem",
+            "exampleSk": "oddychujem.",
+            "exampleUk": "відпочиваю."
+          },
+          {
+            "wordId": "a1-s06-l34-w03",
+            "sk": "večer idem spať",
+            "uk": "увечері йду спати",
+            "pronunciationUk": "veчer idem spaть",
+            "exampleSk": "večer idem spať.",
+            "exampleUk": "увечері йду спати."
+          },
+          {
+            "wordId": "a1-s06-l34-w04",
+            "sk": "som doma",
+            "uk": "я вдома",
+            "pronunciationUk": "som doma",
+            "exampleSk": "som doma.",
+            "exampleUk": "я вдома."
+          },
+          {
+            "wordId": "a1-s06-l34-w05",
+            "sk": "mám čas",
+            "uk": "я маю час",
+            "pronunciationUk": "mаm чas",
+            "exampleSk": "mám čas.",
+            "exampleUk": "я маю час."
+          },
+          {
+            "wordId": "a1-s06-l34-w06",
+            "sk": "učím sa každý deň",
+            "uk": "я вчуся щодня",
+            "pronunciationUk": "uчіm sa kaжdи deнь",
+            "exampleSk": "učím sa každý deň.",
+            "exampleUk": "я вчуся щодня."
+          },
+          {
+            "wordId": "a1-s06-l34-w07",
+            "sk": "dnes nepracujem",
+            "uk": "сьогодні я не працюю",
+            "pronunciationUk": "dnes nepracujem",
+            "exampleSk": "dnes nepracujem.",
+            "exampleUk": "сьогодні я не працюю."
+          },
+          {
+            "wordId": "a1-s06-l34-w08",
+            "sk": "zajtra nejdem do práce",
+            "uk": "завтра я не йду на роботу",
+            "pronunciationUk": "zajtra nejdem do prаce",
+            "exampleSk": "zajtra nejdem do práce.",
+            "exampleUk": "завтра я не йду на роботу."
+          },
+          {
+            "wordId": "a1-s06-l34-w09",
+            "sk": "každý deň sa umývam",
+            "uk": "я щодня вмиваюся",
+            "pronunciationUk": "kaжdи deнь sa umиvam",
+            "exampleSk": "každý deň sa umývam.",
+            "exampleUk": "я щодня вмиваюся."
+          },
+          {
+            "wordId": "a1-s06-l34-w10",
+            "sk": "vstávam",
+            "uk": "встаю",
+            "pronunciationUk": "vstаvam",
+            "exampleSk": "vstávam.",
+            "exampleUk": "встаю."
+          },
+          {
+            "wordId": "a1-s06-l34-w11",
+            "sk": "raňajkujem",
+            "uk": "снідаю",
+            "pronunciationUk": "raньajkujem",
+            "exampleSk": "raňajkujem.",
+            "exampleUk": "снідаю."
+          },
+          {
+            "wordId": "a1-s06-l34-w12",
+            "sk": "pracujem",
+            "uk": "працюю",
+            "pronunciationUk": "pracujem",
+            "exampleSk": "pracujem.",
+            "exampleUk": "працюю."
+          }
+        ],
+        "button": "Почати вправи"
+      },
+      "words": [
+        {
+          "id": "a1-s06-l34-w01",
+          "sk": "vraciam sa domov",
+          "uk": "повертаюся додому",
+          "pronunciationUk": "vraciam sa domov",
+          "exampleSk": "vraciam sa domov.",
+          "exampleUk": "повертаюся додому.",
+          "level": "A1",
+          "topic": "Actions and my everyday day",
+          "tags": [
+            "A1",
+            "Actions"
+          ]
+        },
+        {
+          "id": "a1-s06-l34-w02",
+          "sk": "oddychujem",
+          "uk": "відпочиваю",
+          "pronunciationUk": "oddychujem",
+          "exampleSk": "oddychujem.",
+          "exampleUk": "відпочиваю.",
+          "level": "A1",
+          "topic": "Actions and my everyday day",
+          "tags": [
+            "A1",
+            "Actions"
+          ]
+        },
+        {
+          "id": "a1-s06-l34-w03",
+          "sk": "večer idem spať",
+          "uk": "увечері йду спати",
+          "pronunciationUk": "veчer idem spaть",
+          "exampleSk": "večer idem spať.",
+          "exampleUk": "увечері йду спати.",
+          "level": "A1",
+          "topic": "Actions and my everyday day",
+          "tags": [
+            "A1",
+            "Actions"
+          ]
+        },
+        {
+          "id": "a1-s06-l34-w04",
+          "sk": "som doma",
+          "uk": "я вдома",
+          "pronunciationUk": "som doma",
+          "exampleSk": "som doma.",
+          "exampleUk": "я вдома.",
+          "level": "A1",
+          "topic": "Actions and my everyday day",
+          "tags": [
+            "A1",
+            "Actions"
+          ]
+        },
+        {
+          "id": "a1-s06-l34-w05",
+          "sk": "mám čas",
+          "uk": "я маю час",
+          "pronunciationUk": "mаm чas",
+          "exampleSk": "mám čas.",
+          "exampleUk": "я маю час.",
+          "level": "A1",
+          "topic": "Actions and my everyday day",
+          "tags": [
+            "A1",
+            "Actions"
+          ]
+        },
+        {
+          "id": "a1-s06-l34-w06",
+          "sk": "učím sa každý deň",
+          "uk": "я вчуся щодня",
+          "pronunciationUk": "uчіm sa kaжdи deнь",
+          "exampleSk": "učím sa každý deň.",
+          "exampleUk": "я вчуся щодня.",
+          "level": "A1",
+          "topic": "Actions and my everyday day",
+          "tags": [
+            "A1",
+            "Actions"
+          ]
+        },
+        {
+          "id": "a1-s06-l34-w07",
+          "sk": "dnes nepracujem",
+          "uk": "сьогодні я не працюю",
+          "pronunciationUk": "dnes nepracujem",
+          "exampleSk": "dnes nepracujem.",
+          "exampleUk": "сьогодні я не працюю.",
+          "level": "A1",
+          "topic": "Actions and my everyday day",
+          "tags": [
+            "A1",
+            "Actions"
+          ]
+        },
+        {
+          "id": "a1-s06-l34-w08",
+          "sk": "zajtra nejdem do práce",
+          "uk": "завтра я не йду на роботу",
+          "pronunciationUk": "zajtra nejdem do prаce",
+          "exampleSk": "zajtra nejdem do práce.",
+          "exampleUk": "завтра я не йду на роботу.",
+          "level": "A1",
+          "topic": "Actions and my everyday day",
+          "tags": [
+            "A1",
+            "Actions"
+          ]
+        },
+        {
+          "id": "a1-s06-l34-w09",
+          "sk": "každý deň sa umývam",
+          "uk": "я щодня вмиваюся",
+          "pronunciationUk": "kaжdи deнь sa umиvam",
+          "exampleSk": "každý deň sa umývam.",
+          "exampleUk": "я щодня вмиваюся.",
+          "level": "A1",
+          "topic": "Actions and my everyday day",
+          "tags": [
+            "A1",
+            "Actions"
+          ]
+        },
+        {
+          "id": "a1-s06-l34-w10",
+          "sk": "vstávam",
+          "uk": "встаю",
+          "pronunciationUk": "vstаvam",
+          "exampleSk": "vstávam.",
+          "exampleUk": "встаю.",
+          "level": "A1",
+          "topic": "Actions and my everyday day",
+          "tags": [
+            "A1",
+            "Actions"
+          ]
+        },
+        {
+          "id": "a1-s06-l34-w11",
+          "sk": "raňajkujem",
+          "uk": "снідаю",
+          "pronunciationUk": "raньajkujem",
+          "exampleSk": "raňajkujem.",
+          "exampleUk": "снідаю.",
+          "level": "A1",
+          "topic": "Actions and my everyday day",
+          "tags": [
+            "A1",
+            "Actions"
+          ]
+        },
+        {
+          "id": "a1-s06-l34-w12",
+          "sk": "pracujem",
+          "uk": "працюю",
+          "pronunciationUk": "pracujem",
+          "exampleSk": "pracujem.",
+          "exampleUk": "працюю.",
+          "level": "A1",
+          "topic": "Actions and my everyday day",
+          "tags": [
+            "A1",
+            "Actions"
+          ]
+        }
+      ],
+      "exercises": [
+        {
+          "id": "a1-s06-l34-e01",
+          "lessonId": "a1-s06-l34",
+          "type": "multiple_choice_translation",
+          "question": "Що означає vraciam sa domov?",
+          "options": [
+            "повертаюся додому",
+            "відпочиваю",
+            "увечері йду спати"
+          ],
+          "correctAnswer": "повертаюся додому",
+          "explanation": "vraciam sa domov означає «повертаюся додому».",
+          "wordIds": [
+            "a1-s06-l34-w01"
+          ],
+          "order": 1,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s06-l34-e02",
+          "lessonId": "a1-s06-l34",
+          "type": "multiple_choice_translation",
+          "question": "Як сказати це словацькою?",
+          "options": [
+            "oddychujem",
+            "som doma",
+            "mám čas"
+          ],
+          "correctAnswer": "oddychujem",
+          "explanation": "Правильний варіант — перша фраза.",
+          "wordIds": [
+            "a1-s06-l34-w02"
+          ],
+          "order": 2,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s06-l34-e03",
+          "lessonId": "a1-s06-l34",
+          "type": "match_pairs",
+          "question": "З’єднай слово з перекладом.",
+          "options": [
+            "večer idem spať",
+            "увечері йду спати",
+            "som doma",
+            "я вдома"
+          ],
+          "correctAnswer": [
+            "večer idem spať|увечері йду спати",
+            "som doma|я вдома"
+          ],
+          "explanation": "Зістав значення.",
+          "wordIds": [
+            "a1-s06-l34-w03",
+            "a1-s06-l34-w04"
+          ],
+          "order": 3,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s06-l34-e04",
+          "lessonId": "a1-s06-l34",
+          "type": "fill_blank",
+          "question": "Доповни правильним варіантом.",
+          "options": [
+            "mám čas",
+            "učím sa každý deň",
+            "dnes nepracujem"
+          ],
+          "correctAnswer": "mám čas",
+          "explanation": "Правильно: mám čas.",
+          "wordIds": [
+            "a1-s06-l34-w05"
+          ],
+          "order": 4,
+          "difficulty": "easy",
+          "button": "Далі",
+          "fullSentence": "mám čas."
+        },
+        {
+          "id": "a1-s06-l34-e05",
+          "lessonId": "a1-s06-l34",
+          "type": "dropdown_blank",
+          "question": "Обери правильний варіант.",
+          "sentenceParts": [
+            {
+              "text": "Обери: "
+            },
+            {
+              "blankId": "b1",
+              "options": [
+                "učím sa každý deň",
+                "dnes nepracujem",
+                "zajtra nejdem do práce"
+              ],
+              "correct": "učím sa každý deň"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "correctAnswer": "učím sa každý deň",
+          "explanation": "Правильний варіант відповідає вивченій одиниці.",
+          "wordIds": [
+            "a1-s06-l34-w06"
+          ],
+          "order": 5,
+          "difficulty": "easy",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s06-l34-e06",
+          "lessonId": "a1-s06-l34",
+          "type": "sentence_order",
+          "question": "Розташуй слова правильно.",
+          "tokens": [
+            "dnes",
+            "nepracujem."
+          ],
+          "correctOrder": [
+            "dnes",
+            "nepracujem."
+          ],
+          "explanation": "Правильно: dnes nepracujem.",
+          "wordIds": [
+            "a1-s06-l34-w07"
+          ],
+          "order": 6,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s06-l34-e07",
+          "lessonId": "a1-s06-l34",
+          "type": "sentence_builder",
+          "question": "Склади правильну фразу.",
+          "tokens": [
+            "zajtra",
+            "nejdem",
+            "do",
+            "práce."
+          ],
+          "correctSentence": "zajtra nejdem do práce.",
+          "explanation": "Правильно: zajtra nejdem do práce.",
+          "wordIds": [
+            "a1-s06-l34-w08"
+          ],
+          "order": 7,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s06-l34-e08",
+          "lessonId": "a1-s06-l34",
+          "type": "meaning_in_context",
+          "question": "Що означає фраза?",
+          "context": "každý deň sa umývam.",
+          "target": "každý deň sa umývam",
+          "options": [
+            {
+              "id": "a",
+              "text": "я щодня вмиваюся",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": "встаю",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": "снідаю",
+              "correct": false
+            }
+          ],
+          "explanation": "Зістав значення за контекстом.",
+          "wordIds": [
+            "a1-s06-l34-w09"
+          ],
+          "order": 8,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s06-l34-e09",
+          "lessonId": "a1-s06-l34",
+          "type": "natural_phrase",
+          "question": "Обери природну фразу.",
+          "situation": "встаю",
+          "options": [
+            {
+              "id": "a",
+              "sk": "vstávam",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "raňajkujem",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "pracujem",
+              "correct": false
+            }
+          ],
+          "wordIds": [
+            "a1-s06-l34-w10",
+            "a1-s06-l34-w11",
+            "a1-s06-l34-w12"
+          ],
+          "order": 9,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s06-l34-e10",
+          "lessonId": "a1-s06-l34",
+          "type": "multiple_select",
+          "question": "Обери правильні фрази.",
+          "options": [
+            {
+              "id": "a",
+              "sk": "vraciam sa domov",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "mám čas",
+              "correct": true
+            },
+            {
+              "id": "c",
+              "sk": "pracujem",
+              "correct": false
+            },
+            {
+              "id": "d",
+              "sk": "Som zelenina.",
+              "correct": false
+            }
+          ],
+          "explanation": "Обери два правильні варіанти.",
+          "wordIds": [
+            "a1-s06-l34-w01",
+            "a1-s06-l34-w05"
+          ],
+          "order": 10,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s06-l34-e11",
+          "lessonId": "a1-s06-l34",
+          "type": "reading_comprehension",
+          "question": "Прочитай короткий текст.",
+          "text": "vraciam sa domov. som doma. dnes nepracujem.",
+          "questions": [
+            {
+              "question": "Що сказано першим?",
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "vraciam sa domov.",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "oddychujem.",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "večer idem spať.",
+                  "correct": false
+                }
+              ]
+            }
+          ],
+          "wordIds": [
+            "a1-s06-l34-w01",
+            "a1-s06-l34-w04",
+            "a1-s06-l34-w07"
+          ],
+          "order": 11,
+          "difficulty": "medium",
+          "button": "Далі"
+        },
+        {
+          "id": "a1-s06-l34-e12",
+          "lessonId": "a1-s06-l34",
+          "type": "dialogue_choose_reply",
+          "question": "Обери правильну відповідь.",
+          "dialogue": [
+            {
+              "speaker": "A",
+              "text": "Ako to povieš po slovensky?"
+            },
+            {
+              "speaker": "B",
+              "text": "raňajkujem."
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "raňajkujem.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "vraciam sa domov.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "oddychujem.",
+              "correct": false
+            }
+          ],
+          "wordIds": [
+            "a1-s06-l34-w11"
+          ],
+          "order": 12,
+          "difficulty": "medium",
+          "button": "Далі"
+        }
+      ],
+      "finalSituation": {
+        "screenType": "final_life_situation",
+        "title": "Ситуація з життя",
+        "scenario": "Ти опинився в реальній ситуації, пов’язаній із темою «Actions and my everyday day».",
+        "question": "Яка фраза найкраще підходить?",
+        "options": [
+          "vstávam.",
+          "raňajkujem.",
+          "pracujem."
+        ],
+        "correctAnswer": "1",
+        "translation": "встаю.",
+        "explanation": "Обери фразу, яка найточніше виконує комунікативне завдання.",
+        "button": "Перевірити"
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": "Урок завершено",
+        "text": "Ти потренував ключову лексику теми «Actions and my everyday day».",
+        "nowYouKnow": [
+          "vraciam sa domov — повертаюся додому",
+          "oddychujem — відпочиваю",
+          "vstávam — встаю"
+        ],
+        "result": "+25 XP",
+        "newWordsCount": 12,
+        "exercisesCompleted": 12,
+        "mistakesMessage": "Матеріал із помилками додано до повторення.",
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "nextLesson": "Každý deň sa učím"
+      }
+    }
+  ]
+}
