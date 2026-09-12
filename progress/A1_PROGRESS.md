@@ -20,6 +20,7 @@ COMPLETED:
 - Rebuilt S02 L04 around the new communicative function of introducing/identifying another person: `Kto je to?` → `To je...`, contrast with `To som...`, `môj/moja`, 20 exercises, reading, dialogues, production, 3-step final scenario and result screen. QA FULL PASS.
 - Rebuilt S02 L05 as an integration/transfer lesson combining identity, group, origin/residence and introducing another person. It uses retrieval and situational choice rather than introducing unnecessary new grammar; 22 exercises, reading, dialogues, production, 3-step final scenario and result screen. QA FULL PASS in `audits/A1_S02_L05_QA.md`.
 - Rebuilt S02 L06 around language ability and comprehension management: `Hovorím po...`, `Rozumiem`, `Nerozumiem`, `Prosím, zopakujte`; 2 theory screens, 6 target expressions, 20 exercises, contextual meaning, dialogues, 2-question reading, real-message production, 3-step final scenario and result screen. QA FULL PASS in `audits/A1_S02_L06_QA.md`.
+- Rebuilt S02 L07 around contact information: phone number, e-mail, and verifying/correcting contact details. It contains 2 theory screens, 6 target expressions, 22 exercises, contextual meaning, dialogues, 2-question reading, real-message production, 3-step final scenario and result screen. QA FULL PASS in `audits/A1_S02_L07_QA.md`.
 
 HISTORICAL WORK UNDER SUPERSEDED MODEL:
 - The previous A1 1,000-slot map and 750-slot expansion registry were created under the former quota model.
@@ -56,7 +57,8 @@ S02 REBUILD STATUS:
 - L04: REBUILT + QA FULL PASS — introducing/identifying another person with `Kto je to?` / `To je...`; contrast with self-reference and `môj/moja`.
 - L05: REBUILT + QA FULL PASS — integration/transfer of identity, group, origin/residence and third-person introduction; no unnecessary new grammar.
 - L06: REBUILT + QA FULL PASS — language ability and comprehension management with `Hovorím po...`, `Rozumiem`, `Nerozumiem`, `Prosím, zopakujte`.
-- L07–L10: AUDITED, not yet rebuilt.
+- L07: REBUILT + QA FULL PASS — contact information: phone number, e-mail, and verification/correction of details.
+- L08–L10: AUDITED, not yet rebuilt.
 
 UNRESOLVED:
 - Complete A1 remapping of every existing section's L01–L10 against grammar, vocabulary, communicative functions, prerequisites and mastery outcomes.
@@ -66,7 +68,7 @@ UNRESOLVED:
 - Full external Slovak CEFR/RLD verification remains pending.
 
 NEXT TASK:
-- Rebuild **S02 L07** under Architecture v2. Introduce the next distinct communicative function while preserving retrieval of the established identity, origin/residence and language-management system.
+- Rebuild **S02 L08** under Architecture v2. Introduce the next distinct communicative function while preserving retrieval of the established identity, origin/residence, language-management and contact-information system.
 
 DEPENDENCIES:
 - `MASTER.md`
