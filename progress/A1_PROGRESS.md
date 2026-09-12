@@ -2,7 +2,7 @@
 
 ## Status
 
-**IN_PROGRESS — Section 01 QA**
+**IN_PROGRESS — Section 02 production**
 
 ## Active production model
 - Complete Slovak A1–C2 course.
@@ -10,37 +10,41 @@
 - Lesson count is derived from atomic targets, prerequisites, review, transfer and mastery evidence.
 - No filler lessons.
 - GitHub `main` is the authoritative durable state.
+- Student-facing instructions and exercise prompts are in Ukrainian; Slovak is the target language being learned/tested.
 
-## A1 architecture
+## Current A1 architecture
 A1 currently has 14 thematic units with an initial working estimate of 82 lessons. The 82 count is provisional and is not a quota.
 
-## Section 01 — Sounds, reading and basic word structure
-Six lessons are rebuilt from a clean importable lesson contract:
-1. `a1-s01-l01` — Slovenská abeceda
-2. `a1-s01-l02` — Samohlásky a spoluhlásky
-3. `a1-s01-l03` — Slabikotvorné r, ŕ, l, ĺ
-4. `a1-s01-l04` — Mäkké spoluhlásky a výslovnosť
-5. `a1-s01-l05` — Dĺžka, dvojhlásky a rytmus
-6. `a1-s01-l06` — Prízvuk, intonácia a krátke správy
+## Section 01
+Section 01 — Sounds, reading and basic word structure — 6 lessons.
+The six lesson files remain in `lessons/a1/` and are considered draft pending dedicated semantic/import QA.
 
-The previous six lesson files were deleted before this rebuild. The obsolete A1_S01_S05 batch QA artifact was also removed.
+## Current production
+### A1 Section 02 — Me, you, he/she: introductions and personal data
+Current planned lessons:
+1. Kto som?
+2. Ja, ty, on, ona, ono
+3. My, vy, oni, ony
+4. Pozdravy a lúčenie
+5. Ako sa voláš?
+6. Meno, vek, národnosť, adresa a telefón
+7. Krátke predstavenie
 
-## Import contract
-The files use the application's supported top-level import envelope:
-`{"lessons":[...]}`
+All seven current lesson files have been authored in the real SlovakGo lesson contract.
 
-Each lesson contains metadata, words, theory screens, start screen, words screen, 16 exercises, interactive final situation and result screen. Exercise types are limited to the application's declared exercise library.
+## Lesson quality model
+Each lesson follows the complete lesson envelope and the quality arc:
+**TARGET → THEORY → EXAMPLES → VOCABULARY → CONTROLLED PRACTICE → CONTEXT → PRODUCTION → COMMUNICATION → REAL LIFE → MASTERY EVIDENCE**.
 
-## QA gate
-Before Section 01 is marked production-final:
-1. JSON parse check
-2. importer contract check against `parseImportJson`
-3. Slovak language/orthography QA
-4. exercise-answer QA
-5. pedagogy and progression QA
-6. localization QA
-7. mastery/transfer QA
-8. final GitHub tree verification
+## Import/language contract
+- Repository lesson JSON uses the actual SlovakGo `Lesson` contract.
+- The file is wrapped as `{"lessons":[...]}` for import.
+- Student-facing instructions, questions, hints and explanatory feedback are Ukrainian.
+- Slovak is used for target-language forms and answer choices where the learner is testing Slovak.
+- Do not return to Slovak-only exercise instructions.
+
+## QA
+A dedicated import/semantic QA pass is required after the section batch is written. Passing JSON syntax alone is not enough.
 
 ## Next task
-Run the complete Section 01 QA gate. Do not add Section 02 until Section 01 passes.
+Run Section 02 import/semantic QA, repair hard failures, then continue with Section 03.
