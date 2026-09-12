@@ -30,7 +30,7 @@ Section 02 was rebuilt from seven narrow lessons into five denser lessons:
 The five-lesson design increases lexical depth, contextual practice and transfer while preserving the section outcomes. Dedicated semantic/import QA remains a separate gate.
 
 ## Section 03 — Čísla a údaje
-Section 03 has now been produced as six coherent lessons, following the current pedagogical architecture for this section:
+Section 03 has now been produced as six coherent lessons:
 
 1. `a1-s03-l12` — Čísla 0–20 — number recognition, naming and Koľko?
 2. `a1-s03-l13` — Vek a čísla — age questions and answers
@@ -47,9 +47,11 @@ The section progresses from isolated number recognition to functional numerical 
 ### QA status
 - File/tree presence: PASS — `a1-s03-l12` through `a1-s03-l17` are present in `lessons/a1/`.
 - Lesson numbering: PASS — sequence follows Section 02's l07–l11 and Section 03 continues at l12.
-- Cross-reference repair: PASS — detected broken `l12` sequence and broken `l17` word reference were repaired before continuing.
+- Cross-reference repair: PASS — broken `l12` sequence, cross-lesson word references in `l13`, and the `l17` word reference issue were repaired.
+- Localization repair: PASS for reviewed defects — mixed Slovak fragments inside Ukrainian learner-facing text were removed from the rebuilt `l13`, `l14`, and `l16` lessons.
+- `l13` and `l16` were rebuilt rather than patched blindly where the previous version had multiple semantic/localization issues.
 - Structural JSON: authored in valid `{"lessons":[...]}` form; dedicated semantic/import QA remains to be run as a separate gate.
 - Importer: NOT CLAIMED — no actual application importer run is available in this environment.
 
 ## Next task
-Run dedicated semantic/import QA on Section 03, repair every hard failure, then proceed to the next coherent section/batch according to the repository protocol.
+Run dedicated semantic/import QA on the full Section 03 as a batch, inspect every exercise and final situation, repair every remaining hard failure, then proceed to the next coherent section/batch according to the repository protocol.
