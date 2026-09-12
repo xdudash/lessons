@@ -18,7 +18,9 @@ COMPLETED:
 - Rebuilt S01 L08 to gold-standard depth: 22 exercises, 13 types, reading, dialogues, real-life practice and 3-step final scenario. QA FULL PASS.
 - Rebuilt S01 L09 as a genuine integrated first-meeting lesson: 20 exercises, 13 types, 2 theory blocks, 2 reading tasks, dialogue/real-life transfer, 3-step final scenario and result screen. QA FULL PASS.
 - Rebuilt S01 L10 as the Section 01 mastery/check lesson: 22 exercises, 13 types, review/strategy theory, reading, dialogue, writing, real-life practice, 3-step final scenario and result screen. QA FULL PASS. QA file: `audits/A1_S01_L10_QA.md`.
-- Performed the S01 L01–L10 consistency review after L07 QA: the section now has a clear progression from first exposure (L01–L04), integrated retrieval (L05), targeted orthography/comprehension work (L06–L08), integrated transfer (L09), and mastery/check (L10). No later lesson production is authorized until the section-level architecture is preserved.
+- Performed the S01 L01–L10 consistency review after L07 QA: the section now has a clear progression from first exposure (L01–L04), integrated retrieval (L05), targeted orthography/comprehension work (L06–L08), integrated transfer (L09), and mastery/check (L10).
+- Audited the existing S02 L01–L10 baseline under Architecture v2. The old versions were not accepted automatically because several lessons repeat prior theory instead of progressing the S02 dependency chain.
+- Rebuilt S02 L01 as the new S02 entry lesson: 2 theory screens, 6 target expressions, 20 exercises, 14 exercise types, reading with 2 questions, contextual meaning work, dialogues, real-life production, 3-step final scenario and result screen. QA FULL PASS in `audits/A1_S02_L01_QA.md`.
 
 HISTORICAL WORK UNDER SUPERSEDED MODEL:
 - The previous A1 1,000-slot map and 750-slot expansion registry were created under the former quota model.
@@ -48,6 +50,10 @@ S01 REBUILD STATUS:
 - L09: REBUILT + QA FULL PASS — integrated first-meeting scenario.
 - L10: REBUILT + QA FULL PASS — section mastery/check.
 
+S02 REBUILD STATUS:
+- L01: REBUILT + QA FULL PASS — `ja som / ty si / on/ona je`; pronoun→form decision; controlled practice → contextual comprehension → dialogue → production.
+- L02–L10: AUDITED, not yet rebuilt.
+
 UNRESOLVED:
 - Complete A1 remapping of every existing section's L01–L10 against grammar, vocabulary, communicative functions, prerequisites and mastery outcomes.
 - Determine the true number of A1 lessons required after remapping and mastery analysis.
@@ -56,7 +62,7 @@ UNRESOLVED:
 - Full external Slovak CEFR/RLD verification remains pending.
 
 NEXT TASK:
-- Begin **S02 L01–L10 architecture audit/rebuild**, using the same content-led standard established for S01. Do not automatically preserve the old 10-lesson shape if the pedagogy requires a different count.
+- Rebuild **S02 L02** under Architecture v2. Preserve the dependency order: L01 establishes `ja som / ty si / on/ona je`; L02 should extend the system without simply repeating L01 theory.
 
 DEPENDENCIES:
 - `MASTER.md`
