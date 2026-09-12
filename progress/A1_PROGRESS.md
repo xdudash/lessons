@@ -12,18 +12,12 @@ COMPLETED:
 - Registered the user's `A1-S01-L01` as the canonical gold-standard lesson reference in `curriculum/GOLD_STANDARD_LESSON.md`.
 - Adopted content-led Course Architecture v2 in `curriculum/COURSE_ARCHITECTURE_V2.md` and `MASTER.md`.
 - Audited A1 Section 01 L01–L10 against the gold standard: L01 remains GOLD; L02–L10 require revision for pedagogical alignment, sequencing and repeated theory rather than for structural density.
-- Rebuilt and committed `lessons/a1/a1-s01-l02.json` against Architecture v2. Commit: `c3b7e4984c5d0c23eca693c7a90bd49b63c53d54`.
-- Rebuilt and committed `lessons/a1/a1-s01-l03.json`. Commit: `c2e95b65d4482ab72f0548f87d84dc100313cb71`.
-- Rebuilt and committed `lessons/a1/a1-s01-l04.json`. Commit: `c70285a031b8e13cf3f2a4b06e0156783ac5af2e`.
-- Rebuilt and committed `lessons/a1/a1-s01-l05.json`. Commit: `2f67b1895fa16674210e2b11019d21277204e872`.
-- QA for S01 L03–L05 recorded as FULL PASS in `audits/A1_S01_L03_L05_QA.md`. Commit: `c94572f214f97dbb1d37ca501965b0f8260ac246`.
-- Rebuilt S01 L06 to materially match the gold lesson's depth rather than only its minimum structure: 2 theory screens, 6 target expressions, 20 exercises, 13 exercise types, 3 final-situation steps and a result screen. Commit: `1d289bde24a1111f58525fa8737de9a7be4c77d7`.
-- QA for S01 L06 recorded as FULL PASS. Commit: `2d8e34f07926c8386e867c63d4a25ed04a0c3f55`.
-- Rebuilt S01 L07 around vowel-length discrimination and expanded it to gold-standard depth: 20 exercises, 13 exercise types, reading, dialogues, contextual practice and a 3-step final scenario. Commit: `215f9725a667a0bf033e7fa57edd85942936dd2a`.
-- Rebuilt S01 L08 to gold-standard depth: 22 exercises, 13 exercise types, reading, dialogues, real-life practice and a 3-step final scenario. Commit: `27e8c61b29a6c132ea8ae11d3191a96f106aee8b`.
-- QA for S01 L08 recorded as FULL PASS. Commit: `3ab6a45167c74739b0ac2bdba5814b77f96a9ef9`.
-- Rebuilt S01 L09 as a genuine integrated first-meeting lesson: 20 exercises, 13 types, 2 theory blocks, 2 reading tasks, dialogue/real-life transfer, 3-step final scenario and result screen. Commit: `01900d85030beef68b13e46574efe6ec40cc96fc`.
-- QA for S01 L09 recorded as FULL PASS. Commit: `8837a4ed9de408e3ed3d47f45241fcc16171f380`.
+- Rebuilt S01 L02–L05 against Architecture v2.
+- Rebuilt S01 L06 to materially match the gold lesson's depth: 20 exercises, 13 types, 3 final-situation steps and result screen. QA FULL PASS.
+- Rebuilt S01 L07 around vowel-length discrimination and expanded it to gold-standard depth: 20 exercises, 13 types, reading, dialogues, contextual practice and 3-step final scenario. QA follow-up remains unresolved.
+- Rebuilt S01 L08 to gold-standard depth: 22 exercises, 13 types, reading, dialogues, real-life practice and 3-step final scenario. QA FULL PASS.
+- Rebuilt S01 L09 as a genuine integrated first-meeting lesson: 20 exercises, 13 types, 2 theory blocks, 2 reading tasks, dialogue/real-life transfer, 3-step final scenario and result screen. QA FULL PASS.
+- Rebuilt S01 L10 as the Section 01 mastery/check lesson: 22 exercises, 13 types, review/strategy theory, reading, dialogue, writing, real-life practice, 3-step final scenario and result screen. QA FULL PASS. QA file: `audits/A1_S01_L10_QA.md`.
 
 HISTORICAL WORK UNDER SUPERSEDED MODEL:
 - The previous A1 1,000-slot map and 750-slot expansion registry were created under the former quota model.
@@ -51,10 +45,11 @@ S01 REBUILD STATUS:
 - L07: REBUILT — vowel-length discrimination expanded to gold-standard depth; final QA follow-up remains required.
 - L08: REBUILT + QA FULL PASS — classroom instructions, comprehension repair and polite repetition requests.
 - L09: REBUILT + QA FULL PASS — integrated first-meeting scenario.
+- L10: REBUILT + QA FULL PASS — section mastery/check.
 
 UNRESOLVED:
 - QA S01 L07 against the canonical schema and gold-standard quality.
-- Rebuild and QA S01 L10.
+- Close Section 01 consistency review after L07 QA.
 - Complete A1 remapping of every existing section's L01–L10 against grammar, vocabulary, communicative functions, prerequisites and mastery outcomes.
 - Determine the true number of A1 lessons required after remapping and mastery analysis.
 - Review/revision plan for S01 L11–L40 under Architecture v2.
@@ -62,7 +57,7 @@ UNRESOLVED:
 - Full external Slovak CEFR/RLD verification remains pending.
 
 NEXT TASK:
-- Rebuild **S01 L10** as the true Section 01 mastery/check lesson, then QA it. Do not generate later lessons yet.
+- QA **S01 L07** against the canonical schema and gold-standard quality. Then perform a consistency review of S01 L01–L10 before moving to the next section. Do not generate later lessons yet.
 
 DEPENDENCIES:
 - `MASTER.md`
