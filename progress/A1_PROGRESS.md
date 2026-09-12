@@ -2,7 +2,7 @@
 
 ## Status
 
-**IN_PROGRESS — Section 03 produced; semantic/import QA pending**
+**IN_PROGRESS — Section 03 produced; semantic/import QA in final repair pass**
 
 ## Active production model
 - Complete Slovak A1–C2 course.
@@ -40,18 +40,19 @@ Section 03 has now been produced as six coherent lessons:
 6. `a1-s03-l17` — Čísla v praxi — integrated numerical information across real situations
 
 ### Lesson design
-The Section 03 lessons use the importer-compatible lesson JSON structure established by the project's known-working examples and the active `AGENTS.md` contract. Vocabulary is deliberately richer than the old six-item baseline where useful; each lesson contains meaningful new items and repeated functional language.
+The Section 03 lessons use the importer-compatible lesson JSON structure established by the project's known-working examples and the active `AGENTS.md` contract. Vocabulary is richer than the old six-item baseline where useful; repeated functional vocabulary is retained for review and transfer.
 
-The section progresses from isolated number recognition to functional numerical communication. It covers age, phone numbers, addresses, price, quantity and integrated identification of what a numerical question is asking for.
+The section progresses from isolated number recognition to functional numerical communication: age, phone numbers, addresses, prices, quantities and integrated identification of what a numerical question is asking for.
 
 ### QA status
 - File/tree presence: PASS — `a1-s03-l12` through `a1-s03-l17` are present in `lessons/a1/`.
-- Lesson numbering: PASS — sequence follows Section 02's l07–l11 and Section 03 continues at l12.
-- Cross-reference repair: PASS — broken `l12` sequence, cross-lesson word references in `l13`, and the `l17` word reference issue were repaired.
-- Localization repair: PASS for reviewed defects — mixed Slovak fragments inside Ukrainian learner-facing text were removed from the rebuilt `l13`, `l14`, and `l16` lessons.
-- `l13` and `l16` were rebuilt rather than patched blindly where the previous version had multiple semantic/localization issues.
-- Structural JSON: authored in valid `{"lessons":[...]}` form; dedicated semantic/import QA remains to be run as a separate gate.
-- Importer: NOT CLAIMED — no actual application importer run is available in this environment.
+- Lesson numbering: PASS — Section 02 ends at `l11`; Section 03 continues at `l12`.
+- Cross-reference repair: PASS for reviewed references; cross-lesson `wordId` errors found during QA were removed.
+- Vocabulary coverage: `l12` repaired so the declared 0–20 range is represented in the lesson vocabulary.
+- Localization repair: reviewed mixed Slovak fragments inside Ukrainian learner-facing text in `l13`, `l14` and `l16`; repaired.
+- Exercise integrity: repaired identified sequence/order and answer-reference defects during QA.
+- Structural JSON: all Section 03 lesson files use the required `{"lessons":[...]}` envelope.
+- Importer: NOT CLAIMED — the actual application importer is not available in this environment.
 
 ## Next task
-Run dedicated semantic/import QA on the full Section 03 as a batch, inspect every exercise and final situation, repair every remaining hard failure, then proceed to the next coherent section/batch according to the repository protocol.
+Perform the final semantic review of all exercises/final situations for `l12–l17` and, where possible, run the real application import test. Only after those gates pass should Section 03 be marked complete and production move to the next section/batch.
