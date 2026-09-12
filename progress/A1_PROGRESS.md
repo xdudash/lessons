@@ -16,7 +16,8 @@ COMPLETED:
 - Rebuilt S02 L01 as the new S02 entry lesson: 2 theory screens, 6 target expressions, 20 exercises, 14 exercise types, reading with 2 questions, contextual meaning work, dialogues, real-life production, 3-step final scenario and result screen. QA FULL PASS.
 - Rebuilt S02 L02 as the group/plural identity lesson: 2 theory screens, 6 target expressions, 20 exercises, 3 final-situation steps and result screen. QA FULL PASS.
 - Rebuilt S02 L03 around origin vs residence: 2 theory screens, 6 target expressions, 20 exercises, reading, dialogues, contextual meaning, real-message production, and a 3-step final scenario. QA FULL PASS.
-- Rebuilt S02 L04 around the new communicative function of introducing/identifying another person: `Kto je to?` → `To je...`, contrast with `To som...`, `môj/moja`, 20 exercises, reading, dialogues, production, 3-step final scenario and result screen. QA FULL PASS in `audits/A1_S02_L04_QA.md`.
+- Rebuilt S02 L04 around the new communicative function of introducing/identifying another person: `Kto je to?` → `To je...`, contrast with `To som...`, `môj/moja`, 20 exercises, reading, dialogues, production, 3-step final scenario and result screen. QA FULL PASS.
+- Rebuilt S02 L05 as an integration/transfer lesson combining identity, group, origin/residence and introducing another person. It uses retrieval and situational choice rather than introducing unnecessary new grammar; 22 exercises, reading, dialogues, production, 3-step final scenario and result screen. QA FULL PASS in `audits/A1_S02_L05_QA.md`.
 
 HISTORICAL WORK UNDER SUPERSEDED MODEL:
 - The previous A1 1,000-slot map and 750-slot expansion registry were created under the former quota model.
@@ -41,7 +42,7 @@ S01 REBUILD STATUS:
 - L04: REBUILT — focused on politeness functions.
 - L05: REBUILT — genuine integrated retrieval/review with minimal new grammar.
 - L06: REBUILT + QA FULL PASS — spelling/name-writing task expanded to a gold-standard depth.
-- L07: REBUILT + QA FULL PASS — vowel-length discrimination expanded to gold-standard depth.
+- L07: REBUILT + QA FULL PASS — vowel-length discrimination expanded to a gold-standard depth.
 - L08: REBUILT + QA FULL PASS — classroom instructions, comprehension repair and polite repetition requests.
 - L09: REBUILT + QA FULL PASS — integrated first-meeting scenario.
 - L10: REBUILT + QA FULL PASS — section mastery/check.
@@ -51,7 +52,8 @@ S02 REBUILD STATUS:
 - L02: REBUILT + QA FULL PASS — group identity with `my / sme`, `Kto sme?`, group roles and productive transfer.
 - L03: REBUILT + QA FULL PASS — origin vs residence; `Odkiaľ?` / `Som z...` vs `Kde bývam?` / `Bývam v...`; meaningful transfer.
 - L04: REBUILT + QA FULL PASS — introducing/identifying another person with `Kto je to?` / `To je...`; contrast with self-reference and `môj/moja`.
-- L05–L10: AUDITED, not yet rebuilt.
+- L05: REBUILT + QA FULL PASS — integration/transfer of identity, group, origin/residence and third-person introduction; no unnecessary new grammar.
+- L06–L10: AUDITED, not yet rebuilt.
 
 UNRESOLVED:
 - Complete A1 remapping of every existing section's L01–L10 against grammar, vocabulary, communicative functions, prerequisites and mastery outcomes.
@@ -61,7 +63,7 @@ UNRESOLVED:
 - Full external Slovak CEFR/RLD verification remains pending.
 
 NEXT TASK:
-- Rebuild **S02 L05** under Architecture v2 as an integration/transfer lesson, combining identity, group, origin/residence and introducing another person without introducing unnecessary new grammar.
+- Rebuild **S02 L06** under Architecture v2. Introduce a distinct communicative function beyond the identity/origin block while preserving retrieval of the established identity system.
 
 DEPENDENCIES:
 - `MASTER.md`
