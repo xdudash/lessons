@@ -14,10 +14,11 @@ COMPLETED:
 - Audited A1 Section 01 L01–L10 against the gold standard: L01 remains GOLD; L02–L10 require revision for pedagogical alignment, sequencing and repeated theory rather than for structural density.
 - Rebuilt S01 L02–L05 against Architecture v2.
 - Rebuilt S01 L06 to materially match the gold lesson's depth: 20 exercises, 13 types, 3 final-situation steps and result screen. QA FULL PASS.
-- Rebuilt S01 L07 around vowel-length discrimination and expanded it to gold-standard depth: 20 exercises, 13 types, reading, dialogues, contextual practice and 3-step final scenario. QA follow-up remains unresolved.
+- Rebuilt S01 L07 around vowel-length discrimination and expanded it to gold-standard depth: 20 exercises, 13 types, reading, dialogues, contextual practice and 3-step final scenario. QA FULL PASS recorded in `audits/A1_S01_L07_QA.md`.
 - Rebuilt S01 L08 to gold-standard depth: 22 exercises, 13 types, reading, dialogues, real-life practice and 3-step final scenario. QA FULL PASS.
 - Rebuilt S01 L09 as a genuine integrated first-meeting lesson: 20 exercises, 13 types, 2 theory blocks, 2 reading tasks, dialogue/real-life transfer, 3-step final scenario and result screen. QA FULL PASS.
 - Rebuilt S01 L10 as the Section 01 mastery/check lesson: 22 exercises, 13 types, review/strategy theory, reading, dialogue, writing, real-life practice, 3-step final scenario and result screen. QA FULL PASS. QA file: `audits/A1_S01_L10_QA.md`.
+- Performed the S01 L01–L10 consistency review after L07 QA: the section now has a clear progression from first exposure (L01–L04), integrated retrieval (L05), targeted orthography/comprehension work (L06–L08), integrated transfer (L09), and mastery/check (L10). No later lesson production is authorized until the section-level architecture is preserved.
 
 HISTORICAL WORK UNDER SUPERSEDED MODEL:
 - The previous A1 1,000-slot map and 750-slot expansion registry were created under the former quota model.
@@ -42,14 +43,12 @@ S01 REBUILD STATUS:
 - L04: REBUILT — focused on politeness functions.
 - L05: REBUILT — genuine integrated retrieval/review with minimal new grammar.
 - L06: REBUILT + QA FULL PASS — spelling/name-writing task expanded to a gold-standard depth.
-- L07: REBUILT — vowel-length discrimination expanded to gold-standard depth; final QA follow-up remains required.
+- L07: REBUILT + QA FULL PASS — vowel-length discrimination expanded to gold-standard depth.
 - L08: REBUILT + QA FULL PASS — classroom instructions, comprehension repair and polite repetition requests.
 - L09: REBUILT + QA FULL PASS — integrated first-meeting scenario.
 - L10: REBUILT + QA FULL PASS — section mastery/check.
 
 UNRESOLVED:
-- QA S01 L07 against the canonical schema and gold-standard quality.
-- Close Section 01 consistency review after L07 QA.
 - Complete A1 remapping of every existing section's L01–L10 against grammar, vocabulary, communicative functions, prerequisites and mastery outcomes.
 - Determine the true number of A1 lessons required after remapping and mastery analysis.
 - Review/revision plan for S01 L11–L40 under Architecture v2.
@@ -57,7 +56,7 @@ UNRESOLVED:
 - Full external Slovak CEFR/RLD verification remains pending.
 
 NEXT TASK:
-- QA **S01 L07** against the canonical schema and gold-standard quality. Then perform a consistency review of S01 L01–L10 before moving to the next section. Do not generate later lessons yet.
+- Begin **S02 L01–L10 architecture audit/rebuild**, using the same content-led standard established for S01. Do not automatically preserve the old 10-lesson shape if the pedagogy requires a different count.
 
 DEPENDENCIES:
 - `MASTER.md`
