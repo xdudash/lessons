@@ -1,545 +1,138 @@
-# AGENTS.md — Mandatory lesson-production workflow
+# AGENTS.md — SlovakGo A1 production contract
 
-## Purpose
-This file is the durable operating contract for every agent working in this repository. Read it before editing or creating lessons. Repository truth beats assumptions, shortcuts, or a previous agent's chat claims.
+## Source of truth
+Read the current repository state before editing. The authoritative course roadmap is `curriculum/A1_MASTER_LESSON_PLAN.md`. Curriculum architecture is `curriculum/COURSE_ARCHITECTURE_V2.md`. The lesson format must follow the known-working importer example `lesson-181-a1_slovakgo.json` as a FORMAT CONTRACT ONLY: its number is not lesson numbering.
 
-## 1. Source of truth and instruction precedence
-- GitHub `main` is the authoritative durable state.
-- Read and follow `README.md`, `MASTER.md`, `AGENT_PROTOCOL.md`, `curriculum/COURSE_ARCHITECTURE_V2.md`, `curriculum/GOLD_STANDARD_LESSON.md`, relevant `knowledge/*`, `progress/*`, `audits/*`, and the actual lesson files.
-- When the user supplies a known-working importer example, inspect the actual file and use its real field structure. Do not invent a new JSON schema from memory.
-- The current working repository and its importer-compatible examples take precedence over an agent's assumptions.
+`main` is the durable source of truth. Never trust an old conversation message over the current repository.
 
-## 2. CRITICAL: FORMAT IS NOT NUMBERING
-A user-provided working example such as `lesson-181-a1_slovakgo.json` is an **example of importer-compatible FORMAT**.
+## Language rules
+- Target language: Slovak (`slovenčina`). Never substitute Slovenian (`slovenščina`).
+- Learner-facing instructions, explanations and UI text: Ukrainian.
+- Slovak examples stay Slovak; Ukrainian translations stay Ukrainian.
 
-It is NOT a template for lesson numbering, lesson IDs, section IDs, or file names.
+## Numbering and curriculum
+Lesson IDs and filenames come from `A1_MASTER_LESSON_PLAN.md`, not from the example lesson.
+Never invent a new numbering scheme.
+Never use “3 lessons per section”. A production batch may contain 3 sections, while each section keeps its own planned lesson count.
+Never leave duplicate legacy lesson files when a canonical lesson replaces them.
 
-The section determines numbering. Example:
-- Section 01 ends at `a1-s01-l06`.
-- Section 02 therefore uses `a1-s02-l07`, `a1-s02-l08`, `a1-s02-l09`, etc.
+## Canonical lesson JSON
+Every lesson is a single top-level object with exactly:
 
-Never copy `181` into a new section merely because `lesson-181-a1_slovakgo.json` was used as the format reference.
+```json
+{"lessons":[{"id":"..."}]}
+```
 
-For every new lesson, independently determine:
-- section ID;
-- next lesson number;
-- lesson ID;
-- file name;
-- `order`;
-- previous/next lesson links.
+The lesson uses this canonical screen/order contract:
+`metadata → startScreen → theoryScreens → wordsScreen → words → exercises → finalSituation → resultScreen`.
 
-All of these must match the actual repository sequence.
+Core lesson metadata:
+- `id`: `a1-sNN-lNN` and must match the filename stem.
+- `sectionId`: matching `a1_sNN` section.
+- `level`: `A1`.
+- `title`, `topic`, `description`, `intro`, `completionMessage`.
+- `order` must equal the lesson number.
+- `xpReward`, `estimatedMinutes`, `isPublished`, `updatedAt`.
 
-## 3. LANGUAGE: SLOVAK, NOT SLOVENIAN
-- Target language being learned/tested: **Slovak — slovenčina**.
-- **Do not use Slovenian — slovenščina.**
-- Student-facing instructions, prompts, explanations, hints, feedback and learning UI text: **Ukrainian** unless a repository instruction explicitly says otherwise.
-- Slovak examples, answers, target phrases and vocabulary must be actual Slovak.
-- Do not accidentally translate Slovak forms into Slovenian or use Slovenian grammar/vocabulary.
-- Be especially careful with strings that look superficially similar across Slovak and Slovenian.
+`startScreen`:
+- `screenType: "lesson_start"`
+- `title`, `shortDescription`, `outcomes`
+- `newWords`: the lesson's local vocabulary list
+- `exercisesCount`
+- `reward`
+- `button`
 
-## 4. PEDAGOGICAL ARCHITECTURE
-Lesson count is determined by pedagogical need, not an arbitrary quota.
-- Prefer fewer, denser lessons when targets can be combined without sacrificing mastery.
-- Do not create filler lessons to reach a number.
-- Do not make a lesson artificially short just to save time.
-- Increase vocabulary when needed to make the lesson communicatively useful and sufficiently rich.
-- More vocabulary is good when it is purposeful, teachable, reused and connected to the lesson target.
-- Never inflate vocabulary counts with irrelevant or decorative words.
-- New vocabulary should appear in theory/examples and be reused in exercises and context whenever practical.
-- Progression should support: introduce → stabilize → contrast → transfer → integrate → mastery.
-- A lesson is not merely a list of words or a repetitive quiz. It needs a coherent learning arc and evidence of learning.
+`theoryScreens`:
+- at least 2 theory screens;
+- clear Ukrainian explanation;
+- Slovak examples with Ukrainian translations;
+- teach the target before testing it;
+- explain grammar/patterns only to the depth needed for the lesson.
 
-## 5. THE REAL IMPORTER JSON CONTRACT
-When a working lesson JSON is available, use its actual structure as the importer contract.
+`wordsScreen`:
+- `screenType: "lesson_words"`
+- `title`, `description`, `items`, `button`;
+- every item uses `wordId`, not `id`;
+- item `wordId`s exactly match the lesson's local `words` IDs.
 
-### Canonical envelope
+`words`:
+- each item has a unique local `id` such as `a1-s02-l07-w01`;
+- `sk`, `uk`, `pronunciationUk`, `exampleSk`, `exampleUk`, `level`, `topic`, `tags`;
+- Slovak field `sk` must contain Slovak, not Cyrillic.
+
+`exercises`:
+- normally 12 exercises for the dense lesson format unless the approved lesson design explicitly says otherwise;
+- every exercise has local `id`, matching `lessonId`, supported `type`, `question`, `order`, `difficulty`, `button` and the fields required by its type;
+- supported types: `multiple_choice_translation`, `reverse_translation`, `match_pairs`, `fill_blank`, `dropdown_blank`, `sentence_order`, `sentence_builder`, `meaning_in_context`, `natural_phrase`, `multiple_select`, `reading_comprehension`, `dialogue_choose_reply`;
+- every `wordIds` entry must resolve inside the same lesson;
+- never reference another lesson's word IDs;
+- `correctAnswer` must be an actually offered answer;
+- `sentence_order` token list and `correctOrder` must represent exactly the same sentence;
+- `sentence_builder` tokens and `correctSentence` must match exactly;
+- `dropdown_blank` blank definition, options and `correctAnswer` must agree;
+- object-option types must have exactly the intended number of correct choices;
+- distractors must be plausible and unambiguously wrong.
+
+`finalSituation` must use the importer contract:
 ```json
 {
-  "lessons": [
-    {
-      "id": "a1-sXX-lYY",
-      "sectionId": "a1_sXX",
-      "level": "A1",
-      "title": "Slovak lesson title",
-      "topic": "Українська тема",
-      "description": "Український опис",
-      "order": 7,
-      "xpReward": 25,
-      "estimatedMinutes": 25,
-      "isPublished": false,
-      "intro": "Український вступ",
-      "completionMessage": "Українське повідомлення про завершення",
-      "updatedAt": "2026-09-12T12:00:00.000Z",
-
-      "startScreen": {
-        "screenType": "lesson_start",
-        "title": "Kto som?",
-        "shortDescription": "Український короткий опис",
-        "outcomes": [
-          "Український результат 1",
-          "Український результат 2",
-          "Український результат 3"
-        ],
-        "newWords": ["ja", "som", "kto"],
-        "exercisesCount": 12,
-        "reward": "25 XP",
-        "button": "Почати урок"
-      },
-
-      "theoryScreens": [
-        {
-          "screenType": "theory",
-          "order": 1,
-          "title": "Український заголовок",
-          "text": "Українське пояснення правила.",
-          "examples": [
-            {"sk": "Ja som Nina.", "uk": "Я Ніна."}
-          ],
-          "exampleSk": "Ja som Nina.",
-          "exampleUk": "Я Ніна.",
-          "shortRule": "Українське коротке правило",
-          "button": "Далі"
-        }
-      ],
-
-      "wordsScreen": {
-        "screenType": "lesson_words",
-        "title": "Слова й моделі уроку",
-        "description": "Український опис роботи зі словами",
-        "items": [
-          {
-            "wordId": "a1-sXX-lYY-w01",
-            "sk": "ja",
-            "uk": "я",
-            "pronunciationUk": "я",
-            "exampleSk": "Ja som Nina.",
-            "exampleUk": "Я Ніна."
-          }
-        ],
-        "button": "Почати вправи"
-      },
-
-      "words": [
-        {
-          "id": "a1-sXX-lYY-w01",
-          "sk": "ja",
-          "uk": "я",
-          "pronunciationUk": "я",
-          "exampleSk": "Ja som Nina.",
-          "exampleUk": "Я Ніна.",
-          "level": "A1",
-          "topic": "Українська назва теми",
-          "tags": ["A1", "займенники"]
-        }
-      ],
-
-      "exercises": [
-        {
-          "id": "a1-sXX-lYY-e01",
-          "lessonId": "a1-sXX-lYY",
-          "type": "multiple_choice_translation",
-          "question": "Українське питання",
-          "options": ["ja", "ty", "on", "ona"],
-          "correctAnswer": "ja",
-          "explanation": "Українське пояснення",
-          "wordIds": ["a1-sXX-lYY-w01"],
-          "order": 1,
-          "difficulty": "easy",
-          "button": "Далі"
-        }
-      ],
-
-      "finalSituation": {
-        "screenType": "final_life_situation",
-        "title": "Український заголовок",
-        "scenario": "Український реальний контекст",
-        "question": "Українське завдання",
-        "options": [
-          "Slovak option 1",
-          "Slovak option 2"
-        ],
-        "correctAnswer": "1",
-        "translation": "Український переклад/пояснення",
-        "explanation": "Українське пояснення",
-        "button": "Перевірити"
-      },
-
-      "resultScreen": {
-        "screenType": "lesson_result",
-        "title": "Урок завершено",
-        "text": "Український текст",
-        "nowYouKnow": ["ja — я", "som — я є"],
-        "result": "+25 XP",
-        "newWordsCount": 16,
-        "exercisesCompleted": 12,
-        "mistakesMessage": "Матеріал із помилками додано до повторення.",
-        "buttons": [
-          "Продовжити",
-          "Повторити урок",
-          "Тренувати помилки"
-        ],
-        "nextLesson": "Next lesson title or null when unknown"
-      }
-    }
-  ]
+  "screenType":"final_life_situation",
+  "title":"...",
+  "scenario":"...",
+  "question":"...",
+  "options":["..."],
+  "correctAnswer":"1",
+  "translation":"...",
+  "explanation":"...",
+  "button":"Перевірити"
 }
 ```
+It must test transfer in a realistic situation, not repeat a trivial vocabulary question.
 
-### Important structural rules
-- The top-level object must have `"lessons": [...]`.
-- Lesson-level scalar fields must remain scalar when the working importer example uses scalars.
-- Do **not** replace scalar fields with invented localization objects such as `{ "sk": ..., "uk": ..., "ru": ..., "en": ... }` unless the actual importer contract explicitly requires them.
-- `startScreen`, `theoryScreens`, `wordsScreen`, `words`, `exercises`, `finalSituation`, and `resultScreen` belong to the lesson contract when present in the working example.
-- Preserve the actual working field names and value types.
-- Do not add made-up fields just because they seem useful.
-- Do not remove pedagogically or technically required fields to simplify the JSON.
-- A syntactically valid JSON file can still be importer-invalid. Syntax is necessary, not sufficient.
-
-## 6. THEORY SCREEN RULES
-Theory exists to teach what the exercises later require.
-Each theory screen should contain the real fields supported by the working contract, typically:
-- `screenType: "theory"`;
-- `order`;
-- Ukrainian `title`;
-- Ukrainian `text`;
-- `examples` with actual Slovak `sk` and Ukrainian `uk`;
-- `exampleSk`;
-- `exampleUk`;
-- Ukrainian `shortRule`;
-- `button`.
-
-Do not teach a form that is never practiced. Do not test a form the theory did not support.
-
-The number of theory screens is not a blind quota. Current accepted Section 02 lessons are denser and may use four theory screens even though older quality notes mention two as a minimum/reference.
-
-## 7. WORDS / VOCABULARY RULES
-Vocabulary is a working teaching set, not a cosmetic count.
-
-For each `words` item:
-- `id` must be unique within the lesson and referenced consistently.
-- `sk` is Slovak.
-- `uk` is Ukrainian meaning.
-- `pronunciationUk` is a Ukrainian-friendly pronunciation aid when the project uses it.
-- `exampleSk` must be actual Slovak and natural.
-- `exampleUk` must accurately translate the Slovak.
-- `level`, `topic`, and `tags` must be coherent.
-
-`wordsScreen.items[*].wordId` must reference an existing `words[*].id`.
-
-Prefer approximately 12–20+ meaningful lexical items in a substantial lesson when that density is useful. This is a design guideline, not a quota.
-
-Word count may be higher when the communication target benefits from it. More words are preferred to a thin lesson when they remain purposeful and are actually practiced.
-
-Avoid duplicates such as teaching the same item twice under slightly different labels unless there is a clear pedagogical reason (for example, a useful fixed expression vs an independently useful word).
-
-## 8. EXERCISE CONTRACT
-Use only exercise types and field structures that are evidenced by a real working lesson. Do not invent an exercise schema.
-
-Common working types include:
-
-### `multiple_choice_translation`
-Typical fields:
+`resultScreen` must use the importer contract:
 ```json
 {
-  "id": "a1-sXX-lYY-e01",
-  "lessonId": "a1-sXX-lYY",
-  "type": "multiple_choice_translation",
-  "question": "Українське питання",
-  "options": ["Slovak 1", "Slovak 2", "Slovak 3"],
-  "correctAnswer": "Slovak 1",
-  "explanation": "Українське пояснення",
-  "wordIds": ["a1-sXX-lYY-w01"],
-  "order": 1,
-  "difficulty": "easy",
-  "button": "Далі"
+  "screenType":"lesson_result",
+  "title":"Урок завершено",
+  "text":"...",
+  "nowYouKnow":["..."],
+  "result":"+15 XP",
+  "newWordsCount":4,
+  "exercisesCompleted":12,
+  "mistakesMessage":"...",
+  "buttons":["..."],
+  "nextLesson":"..."
 }
 ```
+For the final canonical lesson, `nextLesson` is `null`.
 
-### `match_pairs`
-Typical working pattern:
-- `options` is a flat array alternating source and meaning strings;
-- `correctAnswer` is an array such as `["ja|я", "profesia|професія"]`.
+## Content quality
+Each lesson must have a clear atomic purpose, not generic filler.
+Vocabulary should be rich enough to support real communication and should be reused across theory, exercises and the final situation. Do not inflate vocabulary artificially.
+Exercise progression should move from recognition to controlled production to contextual use/transfer.
+Do not test untaught grammar or vocabulary just because it is easy to generate.
+Use natural Slovak and natural Ukrainian. Fix typos, accidental mixed languages and malformed transliteration before commit.
 
-### `fill_blank`
-Typical working fields:
-- `question`;
-- `options`;
-- `correctAnswer`;
-- `explanation`;
-- `wordIds`;
-- optional `fullSentence`.
+## Production workflow — one pass
+1. Read the current master plan, relevant architecture/knowledge docs, current progress and current `main` tree.
+2. Inspect one known-working importer example when the format is involved.
+3. Build the complete lesson map for the target section(s): exact IDs, lesson purposes, targets, prerequisites, vocabulary ownership and transfer evidence.
+4. Draft the whole batch before repository writes.
+5. Run batch-wide structural and semantic QA before writing.
+6. If a defect class appears, fix the generation rule/template and rerun the full batch QA; do not patch one occurrence and assume the rest are clean.
+7. Only after clean QA, write to `main`.
+8. Read every changed file back from `main` and compare to the intended version.
+9. Verify no obsolete/duplicate lesson files remain and all sequential links are correct.
+10. Update `progress/A1_PROGRESS.md` only after the repository state is durable.
 
-### `dropdown_blank`
-Typical working fields:
-- `sentenceParts` containing text segments and a blank object such as:
-```json
-{"blankId":"b1","options":["si","som","je"],"correct":"si"}
-```
+## Hard-failure gate
+STOP → IDENTIFY → REPAIR THE RULE → REVALIDATE THE WHOLE AFFECTED SET → COMMIT.
 
-### `sentence_builder`
-Typical working fields:
-- `tokens`;
-- `correctSentence`.
+Do not continue production on top of a known hard failure.
+Do not claim “import PASS” unless the real application importer was actually run.
+Distinguish JSON parse PASS, importer-contract PASS, semantic/adversarial QA PASS, and real application import PASS.
 
-### `sentence_order`
-Typical working fields:
-- `tokens`;
-- `correctOrder`.
-
-### `dialogue_choose_reply`
-Typical working fields:
-- `dialogue` array containing speaker and Slovak utterance;
-- options with IDs, Slovak text and `correct` boolean.
-
-### `correct_error`
-Typical working fields:
-- `sentence`;
-- `acceptedAnswers`.
-
-### `reading_comprehension`
-Typical working fields:
-- `text`;
-- `questions`, whose options carry the correct answer according to the real working format.
-
-### `meaning_in_context`
-Typical working fields:
-- `context`;
-- `target`;
-- options with IDs, Ukrainian `text`, and `correct` boolean.
-
-### `natural_phrase`
-Typical working fields:
-- `situation`;
-- options with IDs, Slovak `sk`, and `correct` boolean.
-
-### `multiple_select`
-Typical working fields:
-- options with IDs, Slovak `sk`, and `correct` boolean;
-- more than one option may be correct.
-
-Never assume a type is valid merely because its name sounds reasonable. Inspect a working example first.
-
-## 9. EXERCISE QUALITY
-Exercises must test the lesson target, not merely repeat the same sentence.
-A strong lesson should vary recognition, controlled use, contextual meaning, sentence construction, dialogue/reading and transfer when appropriate.
-
-For every exercise check:
-- the prompt is solvable from the supplied data;
-- exactly the intended answer is correct unless the type explicitly supports multiple answers;
-- `correctAnswer` matches `options` where the type requires it;
-- every referenced `wordIds` exists;
-- sentence-builder answers use exactly the supplied tokens;
-- sentence-order answers use exactly the supplied tokens and correct order;
-- accepted answers actually solve the sentence;
-- distractors are plausible but wrong for a reason taught by the lesson;
-- explanations are correct and in Ukrainian;
-- no exercise tests knowledge that was never introduced.
-
-Avoid repetitive blocks of the same exercise type unless repetition itself is pedagogically justified.
-
-## 10. FINAL SITUATION / TRANSFER
-The final situation is not another trivial multiple-choice translation.
-It should demonstrate that the learner can use the lesson target in a realistic context.
-
-Typical structure when the working contract uses it:
-- `screenType: "final_life_situation"`;
-- Ukrainian `title`;
-- Ukrainian `scenario`;
-- Ukrainian `question`;
-- Slovak answer options;
-- `correctAnswer` matching the actual option numbering convention;
-- Ukrainian `translation` and `explanation`;
-- `button`.
-
-The final task should test transfer to a new or more integrated context, not simply repeat an earlier exercise word-for-word.
-
-## 11. RESULT SCREEN
-Keep the result structure compatible with the working importer.
-`nextLesson` must point to a real next lesson when known. Use `null` when the next lesson is not yet defined rather than inventing a destination.
-
-## 12. LESSON NUMBERING AND REFERENCES
-For every lesson, these must agree:
-- file name;
-- `id`;
-- section ID;
-- `order`;
-- exercise `lessonId` values;
-- word IDs;
-- `wordsScreen.items[*].wordId`;
-- `finalSituation`/result identifiers when used;
-- `nextLesson`.
-
-Before generating a new file, inspect the repository to determine the actual next number. Never infer it from a sample file number.
-
-## 13. REQUIRED PRODUCTION WORKFLOW
-### A. Read first
-Before changing anything:
-1. Read repository instructions.
-2. Read `README.md`, `MASTER.md`, `AGENT_PROTOCOL.md`.
-3. Read relevant curriculum/knowledge/progress/audit files.
-4. Inspect current `main` tree and recent commits.
-5. Inspect the relevant existing section.
-6. Inspect a known-working importer-compatible lesson example.
-7. Determine exact section numbering.
-
-### B. Design before generation
-Define:
-- CEFR outcomes;
-- grammar/function targets;
-- vocabulary/function set;
-- prerequisites;
-- ownership of new vocabulary;
-- review/transfer needs;
-- purpose of each lesson;
-- mastery evidence;
-- pedagogically justified lesson count.
-
-### C. Build
-Construct JSON from the real importer contract, not from memory or a generic lesson template.
-
-### D. Pre-GitHub validation
-Every file must pass all applicable checks before being written to GitHub:
-- valid JSON syntax;
-- complete file, not truncated;
-- exactly the required top-level envelope;
-- no duplicate keys;
-- no accidental extra nesting;
-- no Python list/dict serialization;
-- braces/brackets/quotes correct;
-- required fields present;
-- correct field types;
-- lesson ID and filename agree;
-- section numbering correct;
-- all internal references resolve;
-- `wordIds` resolve;
-- `correctAnswer` values are coherent with the exercise type;
-- no malformed Unicode;
-- no accidental Slovenian;
-- learner-facing instructions in Ukrainian.
-
-### E. Semantic QA
-Check:
-- Slovak grammar and naturalness;
-- morphology and agreement;
-- meaning;
-- CEFR appropriateness;
-- prerequisites;
-- exercise logic;
-- accepted answers;
-- distractors;
-- dialogues;
-- reading/context;
-- final transfer situation;
-- localization completeness.
-
-### F. Adversarial QA
-Try to break each lesson:
-- Can each exercise be solved from its own data?
-- Does every marked answer actually answer the prompt?
-- Are all `correct` flags correct?
-- Does every `correctOrder` use exactly the supplied tokens?
-- Are accepted answers valid?
-- Is any Ukrainian field accidentally a serialized object/array?
-- Is any Slovak sentence unnatural?
-- Is the theory sufficient for the exercises?
-- Is the lesson merely repetitive?
-- Does the final situation prove transfer/mastery?
-
-### G. Batch/section QA
-Check the section as a whole:
-- full target coverage;
-- sensible progression;
-- vocabulary ownership;
-- meaningful repetition;
-- no unnecessary overlap;
-- no prerequisite violations;
-- no redundant lessons;
-- strong mastery evidence.
-
-### H. Replace, do not duplicate
-When rebuilding a section:
-- replace obsolete section files;
-- remove temporary/mistaken duplicate files;
-- never leave two competing versions of the same lesson/section in `main`.
-
-### I. GitHub verification
-After writing files:
-1. Read them back from `main`.
-2. Verify the actual stored content, not only the outgoing payload.
-3. Verify the section directory/tree contains exactly the intended sequence.
-4. Verify old mistaken files are gone.
-5. Verify recent commit(s) and branch state.
-6. Update progress documentation only after durable state is correct.
-
-## 14. IMPORT QA HONESTY
-Do not say "passes import" unless the actual importer was run successfully.
-These are different claims:
-- JSON parses;
-- structure matches the known working contract;
-- semantic QA passed;
-- the application importer accepted it.
-
-Report only the checks actually completed.
-
-If the importer cannot be run from the available environment, state that limitation explicitly.
-
-## 15. CURRENT SECTION 02 REFERENCE
-Section 02 is currently five denser lessons:
-1. `a1-s02-l07` — Kto som?
-2. `a1-s02-l08` — Ja, ty, on, ona, ono
-3. `a1-s02-l09` — Zoznámime sa
-4. `a1-s02-l10` — O mne
-5. `a1-s02-l11` — Predstavím sa
-
-These are the current accepted Section 02 lesson numbers. Their format follows the user's working importer example, while their numbering remains the Section 02 sequence.
-
-## 16. GOLD STANDARD VS IMPORT CONTRACT
-`curriculum/GOLD_STANDARD_LESSON.md` defines lesson-quality expectations: completeness, density, learner flow, varied practice, context, production and mastery evidence.
-
-It is not a reason to invent a different importer schema.
-
-Numeric examples such as "2 theory screens", "6 vocabulary items", or "16 exercises" are quality/reference guidance, not universal blind quotas. A richer lesson may legitimately contain more vocabulary or a different number of theory screens/exercises when pedagogically justified and compatible with the real importer contract.
-
-When a user supplies a known-working importer example, preserve its actual field names and types. When in doubt, inspect the working file instead of guessing.
-
-## 17. FAILURE PROTOCOL
-If a hard defect is found:
-
-**STOP. Do not continue producing dependent content.**
-
-1. Identify the defect.
-2. Repair it.
-3. Parse again.
-4. Re-run semantic and adversarial checks.
-5. Commit the repair.
-6. Re-read GitHub state.
-7. Continue only when the repository is clean.
-
-Never hide a defect by changing progress documentation.
-
-## 18. USER CONTINUATION SIGNAL
-The user's `+` means: execute the next repository-defined production task without asking what to do next, unless the repository contains a genuine blocker requiring user input.
-
-## 19. ANTI-ERROR CHECKLIST — RUN BEFORE EVERY COMMIT
-Ask explicitly:
-
-- Am I copying the **FORMAT**, not the sample's numbering?
-- What is the actual next lesson number in the target section?
-- Is the target language **Slovak / slovenčina**, not Slovenian / slovenščina?
-- Are learner-facing instructions **Ukrainian**?
-- Am I using the **real importer contract**, not an invented schema?
-- Did I preserve field names and value types from the working example?
-- Did I increase vocabulary when useful rather than artificially limiting it?
-- Is every new word purposeful and actually practiced?
-- Are all `wordIds` and `lessonId` references valid?
-- Does every exercise's answer logic work?
-- Does the final situation demonstrate transfer?
-- Did I replace old files rather than create duplicates?
-- Did I re-read the actual files from GitHub after writing?
-- Did I distinguish JSON/schema QA from actual importer QA?
-
-If any answer is uncertain, stop and inspect the repository/example before committing.
-
-## 20. CORE RULE
-**Quality and repository truth beat speed. A smaller number of valid, meaningful lessons is better than a larger number of broken, thin, or duplicated lessons.**
+## Repository hygiene
+Do not maintain parallel instruction documents that restate or contradict this file. Keep one canonical agent instruction file.
+Keep the master lesson plan authoritative; keep progress factual and current; keep architecture/knowledge documents only when they contain unique, still-valid project information.
+Delete or rewrite obsolete generated lessons, stale audits and old protocol documents instead of leaving competing truths in the repository.
