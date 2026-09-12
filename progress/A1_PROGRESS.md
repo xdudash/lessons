@@ -2,7 +2,7 @@
 
 ## Status
 
-**IN_PROGRESS — Section 02 production**
+**IN_PROGRESS — Section 02 rebuilt**
 
 ## Active production model
 - Complete Slovak A1–C2 course.
@@ -13,38 +13,34 @@
 - Student-facing instructions and exercise prompts are in Ukrainian; Slovak is the target language being learned/tested.
 
 ## Current A1 architecture
-A1 currently has 14 thematic units with an initial working estimate of 82 lessons. The 82 count is provisional and is not a quota.
+A1 currently has 14 thematic units. The working total remains provisional and is not a quota.
 
 ## Section 01
 Section 01 — Sounds, reading and basic word structure — 6 lessons.
-The six lesson files remain in `lessons/a1/` and are considered draft pending dedicated semantic/import QA.
+The six lesson files remain in `lessons/a1/` and require dedicated semantic/import QA.
 
-## Current production
-### A1 Section 02 — Me, you, he/she: introductions and personal data
-Current planned lessons:
-1. Kto som?
-2. Ja, ty, on, ona, ono
-3. My, vy, oni, ony
-4. Pozdravy a lúčenie
-5. Ako sa voláš?
-6. Meno, vek, národnosť, adresa a telefón
-7. Krátke predstavenie
+## Section 02 — O mne
+Section 02 has been rebuilt from seven narrow lessons into five denser lessons. The five-lesson design preserves the section outcomes while increasing lexical depth, contextual practice and transfer.
 
-All seven current lesson files have been authored in the real SlovakGo lesson contract.
+### Lesson sequence
+1. `a1-s02-l07` — Kto som? — identity, byť, professions, languages and basic self-description
+2. `a1-s02-l08` — Ja, ty, on, ona, ono — singular pronouns, agreement cues and reference in context
+3. `a1-s02-l09` — Zoznámime sa — greetings, formal/informal contact, asking and giving names, polite meeting formulas
+4. `a1-s02-l10` — O mne — age, origin, residence, city, address, phone number and languages
+5. `a1-s02-l11` — Predstavím sa — integrated introduction, form completion, question-answer exchange, short message and transfer
 
-## Lesson quality model
-Each lesson follows the complete lesson envelope and the quality arc:
-**TARGET → THEORY → EXAMPLES → VOCABULARY → CONTROLLED PRACTICE → CONTEXT → PRODUCTION → COMMUNICATION → REAL LIFE → MASTERY EVIDENCE**.
+### Lesson design
+Each lesson is a complete lesson envelope with:
+- 2 theory screens;
+- expanded working vocabulary, normally 12–20 meaningful lexical items/phrases;
+- 16 varied exercises;
+- contextual reading/dialogue practice;
+- production-oriented transfer;
+- 3-step final real-life situation;
+- Ukrainian learner-facing instructions with Slovak target language.
 
-## Import/language contract
-- Repository lesson JSON uses the actual SlovakGo `Lesson` contract.
-- The file is wrapped as `{"lessons":[...]}` for import.
-- Student-facing instructions, questions, hints and explanatory feedback are Ukrainian.
-- Slovak is used for target-language forms and answer choices where the learner is testing Slovak.
-- Do not return to Slovak-only exercise instructions.
-
-## QA
-A dedicated import/semantic QA pass is required after the section batch is written. Passing JSON syntax alone is not enough.
+### QA policy
+Section 02 is considered rebuilt only after JSON parsing, structural checks, Slovak naturalness, exercise-answer validity, localization, progression and overlap checks pass.
 
 ## Next task
-Run Section 02 import/semantic QA, repair hard failures, then continue with Section 03.
+Run dedicated semantic/import QA on the rebuilt Section 02, repair any hard failures, then proceed to Section 03.
