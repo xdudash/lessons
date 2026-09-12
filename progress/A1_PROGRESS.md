@@ -11,10 +11,33 @@ COMPLETED:
 - Stored the complete item-level matrix durably in GitHub at `knowledge/a1_vocab_matrix/A1_COMPLETE.json.gz.b64`.
 - Registered the user's `A1-S01-L01` as the canonical gold-standard lesson reference in `curriculum/GOLD_STANDARD_LESSON.md`.
 - Added the exact user-provided canonical gold-standard lesson JSON to `lessons/a1/a1-s01-l01.json` unchanged; source SHA-256: `791187eccecc56fe7617706392f2d1e2d3bdce9af8b7c274505439c98ea91cd0`.
-- Adopted content-led Course Architecture v2 in `curriculum/COURSE_ARCHITECTURE_V2.md` and `MASTER.md`.
+- Adopted content-led Course Architecture v2 in `curriculum/COURSE_ARCHITECTURE_V2.md`.
 - Audited and rebuilt S01 L01–L10 under Architecture v2.
-- Rebuilt S02 L01–L07 under Architecture v2; all recorded QA FULL PASS.
-- Rebuilt S02 L08 around the distinct communicative function of arranging a simple meeting by day/time: `Kedy sa stretneme?`, `Môžeme sa stretnúť...`, `v pondelok`, `o tretej`, `Dobre?`. It contains 2 theory screens, 6 target expressions, 16 exercises, contextual meaning, dialogue, reading, real-life production and a 3-step final situation. QA FULL PASS in `audits/A1_S02_L08_QA.md`.
+- Rebuilt S02 L01–L08 under Architecture v2; all recorded QA FULL PASS.
+- Rebuilt S02 L09–L12 as an accelerated batch under Architecture v2; batch QA FULL PASS in `audits/A1_S02_L09_L12_QA.md`.
+
+S01 REBUILD STATUS:
+- L01: GOLD — preserved unchanged.
+- L02–L10: REBUILT + QA FULL PASS.
+
+S02 REBUILD STATUS:
+- L01: REBUILT + QA FULL PASS — `ja som / ty si / on/ona je`.
+- L02: REBUILT + QA FULL PASS — group identity with `my / sme`.
+- L03: REBUILT + QA FULL PASS — origin vs residence.
+- L04: REBUILT + QA FULL PASS — introducing/identifying another person.
+- L05: REBUILT + QA FULL PASS — integration/transfer.
+- L06: REBUILT + QA FULL PASS — language ability and comprehension management.
+- L07: REBUILT + QA FULL PASS — contact information.
+- L08: REBUILT + QA FULL PASS — arranging a simple meeting by day/time.
+- L09: REBUILT + QA FULL PASS — agreeing on a meeting place.
+- L10: REBUILT + QA FULL PASS — inviting, accepting and declining a simple invitation.
+- L11: REBUILT + QA FULL PASS — giving a simple home address and linking it to residence.
+- L12: REBUILT + QA FULL PASS — simple registration and checking personal data.
+
+ACCELERATED BATCH NOTE:
+- Production now uses multi-lesson batches when schema and pedagogical verification remain reliable.
+- The batch L09–L12 was committed together, followed by one QA artifact and one progress update.
+- Lesson count remains dynamic; no filler lessons are created merely to increase the number.
 
 HISTORICAL WORK UNDER SUPERSEDED MODEL:
 - The previous A1 1,000-slot map and 750-slot expansion registry were created under the former quota model.
@@ -32,21 +55,6 @@ KEY FINDINGS:
 - Application/UI limitations must not cause pedagogical fields or lesson depth to be removed.
 - Lesson quality must be judged by actual instructional depth and learner work, not by hitting a fixed exercise count.
 
-S01 REBUILD STATUS:
-- L01: GOLD — preserved unchanged.
-- L02–L10: REBUILT + QA FULL PASS.
-
-S02 REBUILD STATUS:
-- L01: REBUILT + QA FULL PASS — `ja som / ty si / on/ona je`.
-- L02: REBUILT + QA FULL PASS — group identity with `my / sme`.
-- L03: REBUILT + QA FULL PASS — origin vs residence.
-- L04: REBUILT + QA FULL PASS — introducing/identifying another person.
-- L05: REBUILT + QA FULL PASS — integration/transfer.
-- L06: REBUILT + QA FULL PASS — language ability and comprehension management.
-- L07: REBUILT + QA FULL PASS — contact information.
-- L08: REBUILT + QA FULL PASS — arranging a simple meeting by day/time.
-- L09–L10: AUDITED, not yet rebuilt.
-
 UNRESOLVED:
 - Complete A1 remapping of every existing section's L01–L10 against grammar, vocabulary, communicative functions, prerequisites and mastery outcomes.
 - Determine the true number of A1 lessons required after remapping and mastery analysis.
@@ -55,7 +63,7 @@ UNRESOLVED:
 - Full external Slovak CEFR/RLD verification remains pending.
 
 NEXT TASK:
-- Continue the accelerated batch workflow with the next S02 lesson set, starting at **S02 L09**. Generate in batches where quality and schema verification remain reliable; do not create filler lessons solely to increase the count.
+- Continue the accelerated batch workflow with **S02 L13–L17**. Generate in batches where quality and schema verification remain reliable; do not create filler lessons solely to increase the count.
 
 DEPENDENCIES:
 - `MASTER.md`
