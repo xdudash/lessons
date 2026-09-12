@@ -3,76 +3,37 @@
 STATUS: IN_PROGRESS
 
 COMPLETED:
-- Audited the 250-lesson A1 baseline.
-- Encoded the source-derived A1 grammar, vocabulary and communicative-function inventory.
-- Encoded the A1 prerequisite graph and A1→A2 handoff dependencies.
-- Preserved the distinction between functional exposure and productive mastery.
-- Derived the complete item-level vocabulary ownership/review analysis from the authoritative 250-lesson package.
-- Stored the complete item-level matrix durably in GitHub at `knowledge/a1_vocab_matrix/A1_COMPLETE.json.gz.b64`.
-- Registered the user's `A1-S01-L01` as the canonical gold-standard lesson reference in `curriculum/GOLD_STANDARD_LESSON.md`.
-- Added the exact user-provided canonical gold-standard lesson JSON to `lessons/a1/a1-s01-l01.json` unchanged; source SHA-256: `791187eccecc56fe7617706392f2d1e2d3bdce9af8b7c274505439c98ea91cd0`.
-- Adopted content-led Course Architecture v2 in `curriculum/COURSE_ARCHITECTURE_V2.md`.
-- Audited and rebuilt S01 L01–L10 under Architecture v2.
-- Rebuilt S02 L01–L12 under Architecture v2; all recorded QA FULL PASS.
-- Rebuilt missing S02 L13–L14 under Architecture v2; QA FULL PASS in `audits/A1_S02_L13_L14_QA.md`.
-- Rebuilt S02 L15–L19 under Architecture v2; batch QA FULL PASS in `audits/A1_S02_L15_L19_QA.md`.
+- Audited the original 250-lesson A1 baseline and preserved its source-derived inventories and vocabulary matrix as reference data.
+- Adopted content-led Course Architecture v2 and the dynamic lesson-count model.
+- Registered the user's `A1-S01-L01` as the canonical gold-standard lesson reference and preserved its exact source SHA-256: `791187eccecc56fe7617706392f2d1e2d3bdce9af8b7c274505439c98ea91cd0`.
+- Rebuilt S01 L01–L10 under Architecture v2; L01 remains the canonical gold-standard lesson.
+- Removed superseded S01 L11–L40 from the active lesson tree. They were thin/fixed-slot lessons from the retired quota model and are not production-final.
+- Removed the obsolete S01 pilot QA artifacts tied specifically to the deleted L11–L40 batch.
+- Removed the obsolete fixed-slot A1 1,000-lesson map from the curriculum tree.
+- Rebuilt S02 L01–L19 under Architecture v2 with recorded QA FULL PASS.
 
-S01 REBUILD STATUS:
+S01 CURRENT STATE:
 - L01: GOLD — preserved unchanged.
 - L02–L10: REBUILT + QA FULL PASS.
+- Active S01 ends at L10 for now. No filler lessons are implied by this endpoint.
+- If the prerequisite graph later shows that an S01 function is missing, create a new Architecture v2 lesson only for that distinct pedagogical need.
 
-S02 REBUILD STATUS:
-- L01: REBUILT + QA FULL PASS — `ja som / ty si / on/ona je`.
-- L02: REBUILT + QA FULL PASS — group identity with `my / sme`.
-- L03: REBUILT + QA FULL PASS — origin vs residence.
-- L04: REBUILT + QA FULL PASS — introducing/identifying another person.
-- L05: REBUILT + QA FULL PASS — integration/transfer.
-- L06: REBUILT + QA FULL PASS — language ability and comprehension management.
-- L07: REBUILT + QA FULL PASS — contact information.
-- L08: REBUILT + QA FULL PASS — arranging a simple meeting by day/time.
-- L09: REBUILT + QA FULL PASS — agreeing on a meeting place.
-- L10: REBUILT + QA FULL PASS — inviting, accepting and declining a simple invitation.
-- L11: REBUILT + QA FULL PASS — giving a simple home address and linking it to residence.
-- L12: REBUILT + QA FULL PASS — simple registration and checking personal data.
-- L13: REBUILT + QA FULL PASS — asking and stating age.
-- L14: REBUILT + QA FULL PASS — asking about and stating occupation.
-- L15: REBUILT + QA FULL PASS — simple preferences with `Mám rád / Mám rada`.
-- L16: REBUILT + QA FULL PASS — preferred activities with familiar action verbs.
-- L17: REBUILT + QA FULL PASS — simple frequency with `často / niekedy`.
-- L18: REBUILT + QA FULL PASS — weekend activities using established preference/frequency models.
-- L19: REBUILT + QA FULL PASS — integration/mastery of personal information in a short conversation.
+S02 CURRENT STATE:
+- L01–L19: REBUILT + QA FULL PASS.
 
-ACCELERATED BATCH NOTE:
-- Production now uses multi-lesson batches when schema and pedagogical verification remain reliable.
-- L13–L14 closed the previously documented repository gap as distinct communicative functions: age and occupation.
-- L15–L19 were reviewed as one pedagogical sequence; no weak preliminary drafts were promoted to production.
-- Lesson count remains dynamic; no filler lessons are created merely to increase the number.
-
-HISTORICAL WORK UNDER SUPERSEDED MODEL:
-- The previous A1 1,000-slot map and 750-slot expansion registry were created under the former quota model.
-- S01 L11–L40 were generated and QA-approved under that former model.
-- Those lessons were removed from the active lesson tree and are not automatically accepted as final under Architecture v2.
-- The previous 10K numerical allocation is historical planning data, not a production quota.
-
-KEY FINDINGS:
-- Existing A1 baseline: 250 lessons, 25 sections × 10.
-- The former rule to skip L01–L10 and begin new production at L11 is retired.
-- Every section must now be planned from L01 onward, including the existing first ten lessons.
-- Structural validity is not equivalent to gold-standard pedagogical completeness.
-- The gold-standard lesson is the quality reference; lesson count is not.
-- Repetition remains intentional when it supports NEW → REVIEW → TRANSFER → MASTERY.
-- Application/UI limitations must not cause pedagogical fields or lesson depth to be removed.
-- Lesson quality must be judged by actual instructional depth and learner work, not by hitting a fixed exercise count.
+CLEANUP DECISION:
+- The former fixed-slot model (including the old 10K allocation and S01 L11–L40 production) is superseded.
+- Deleted lessons are not archived in the active repository. Useful functions from them may be rebuilt later in the correct section and prerequisite position rather than restored as-is.
+- Structural validity alone is not enough; lesson quality is judged by instructional depth, learner work, transfer, and mastery progression against Architecture v2 and the gold standard.
 
 UNRESOLVED:
-- Complete A1 remapping of every existing section's L01–L10 against grammar, vocabulary, communicative functions, prerequisites and mastery outcomes.
+- Complete A1 remapping of every section against grammar, vocabulary, communicative functions, prerequisites and mastery outcomes.
 - Determine the true number of A1 lessons required after remapping and mastery analysis.
-- Review/revision plan for superseded S01 L11–L40 is still required only if those functions are needed by the dynamic curriculum.
-- The title correction `a1-s08-l06` → `Bývam v byte alebo dome?` remains to be applied if not already done in the source package.
+- Apply the pending title correction `a1-s08-l06` → `Bývam v byte alebo dome?` if it is still present in the source package.
 - Full external Slovak CEFR/RLD verification remains pending.
 
 NEXT TASK:
-- Continue S02 beyond L19 with the next distinct communicative function under Architecture v2. Prefer larger multi-lesson batches when quality and schema verification remain reliable; do not create filler solely to increase count.
+- Continue S02 beyond L19 with the next distinct communicative function under Architecture v2, while keeping the dynamic lesson-count rule and performing batch QA where reliable.
 
 DEPENDENCIES:
 - `MASTER.md`
@@ -83,4 +44,3 @@ DEPENDENCIES:
 - `knowledge/A1_PREREQUISITE_GRAPH.md`
 - `knowledge/A1_VOCAB_OWNERSHIP.md`
 - `knowledge/a1_vocab_matrix/A1_COMPLETE.json.gz.b64`
-- Existing 250-lesson A1 package

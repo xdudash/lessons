@@ -1,19 +1,13 @@
 # A1 lesson production area
 
-This directory contains the **active A1 lesson files** used by the current Course Architecture v2 production workflow.
+This directory contains the **active A1 lesson files** used by the current content-led Course Architecture v2 workflow.
 
 ## Current active scope
 
-- `a1-s01-l01.json` … `a1-s01-l10.json` — Section 01 rebuilt under Architecture v2; L01 is the canonical gold-standard lesson.
-- `a1-s02-l01.json` … `a1-s02-l12.json` — Section 02 rebuilt under Architecture v2.
+- `a1-s01-l01.json` … `a1-s01-l10.json` — Section 01 current production set; L01 is the canonical gold-standard lesson.
+- `a1-s02-*` — Section 02 current production set under Architecture v2.
 
-## Archive
-
-Older S01 lessons generated under the superseded fixed-slot/quota model are kept in:
-
-`archive/s01-superseded/`
-
-They are preserved for reference and are **not production-final lessons** under Architecture v2.
+There is intentionally **no archive inside the active lesson tree**. Superseded fixed-slot lessons are deleted rather than carried forward as production content.
 
 ## Rules
 
@@ -22,3 +16,4 @@ They are preserved for reference and are **not production-final lessons** under 
 3. A lesson becomes production-final only after pedagogical and structural QA.
 4. Lesson count is dynamic and follows actual CEFR/mastery needs.
 5. Keep lesson IDs and filenames synchronized: `a1-sXX-lYY.json`.
+6. If an old lesson contains a useful function, rebuild that function where the prerequisite graph places it; do not restore the old file unchanged.
