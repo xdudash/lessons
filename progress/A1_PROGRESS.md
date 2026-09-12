@@ -22,6 +22,8 @@ COMPLETED:
 - Rebuilt S01 L07 around vowel-length discrimination and expanded it to gold-standard depth: 20 exercises, 13 exercise types, reading, dialogues, contextual practice and a 3-step final scenario. Commit: `215f9725a667a0bf033e7fa57edd85942936dd2a`.
 - Rebuilt S01 L08 to gold-standard depth: 22 exercises, 13 exercise types, reading, dialogues, real-life practice and a 3-step final scenario. Commit: `27e8c61b29a6c132ea8ae11d3191a96f106aee8b`.
 - QA for S01 L08 recorded as FULL PASS. Commit: `3ab6a45167c74739b0ac2bdba5814b77f96a9ef9`.
+- Rebuilt S01 L09 as a genuine integrated first-meeting lesson: 20 exercises, 13 types, 2 theory blocks, 2 reading tasks, dialogue/real-life transfer, 3-step final scenario and result screen. Commit: `01900d85030beef68b13e46574efe6ec40cc96fc`.
+- QA for S01 L09 recorded as FULL PASS. Commit: `8837a4ed9de408e3ed3d47f45241fcc16171f380`.
 
 HISTORICAL WORK UNDER SUPERSEDED MODEL:
 - The previous A1 1,000-slot map and 750-slot expansion registry were created under the former quota model.
@@ -48,10 +50,11 @@ S01 REBUILD STATUS:
 - L06: REBUILT + QA FULL PASS — spelling/name-writing task expanded to a gold-standard depth.
 - L07: REBUILT — vowel-length discrimination expanded to gold-standard depth; final QA follow-up remains required.
 - L08: REBUILT + QA FULL PASS — classroom instructions, comprehension repair and polite repetition requests.
+- L09: REBUILT + QA FULL PASS — integrated first-meeting scenario.
 
 UNRESOLVED:
 - QA S01 L07 against the canonical schema and gold-standard quality.
-- Rebuild and QA S01 L09–L10.
+- Rebuild and QA S01 L10.
 - Complete A1 remapping of every existing section's L01–L10 against grammar, vocabulary, communicative functions, prerequisites and mastery outcomes.
 - Determine the true number of A1 lessons required after remapping and mastery analysis.
 - Review/revision plan for S01 L11–L40 under Architecture v2.
@@ -59,7 +62,7 @@ UNRESOLVED:
 - Full external Slovak CEFR/RLD verification remains pending.
 
 NEXT TASK:
-- Rebuild and QA **S01 L09**, followed by L10. Do not generate later lessons yet.
+- Rebuild **S01 L10** as the true Section 01 mastery/check lesson, then QA it. Do not generate later lessons yet.
 
 DEPENDENCIES:
 - `MASTER.md`
