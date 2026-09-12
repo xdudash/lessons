@@ -1,14 +1,19 @@
-name: Generate canonical A1 lessons
+name: Build and QA canonical A1
 
 on:
   push:
     branches: [main]
+    paths:
+      - 'tools/build_a1.py'
+      - 'tools/build_all_a1.py'
+      - 'tools/fix_a1_generated.py'
+      - 'tools/qa_a1.py'
 
 permissions:
   contents: write
 
 jobs:
-  build-a1:
+  build-qa-a1:
     if: "!contains(github.event.head_commit.message, '[a1-generated]')"
     runs-on: ubuntu-latest
     steps:
@@ -16,14 +21,17 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Generate and validate A1
+      - name: Generate full planned A1 lessons
         run: python tools/build_all_a1.py
+      - name: Repair and normalize generated lessons
+        run: python tools/fix_a1_generated.py
+      - name: Run full structural QA
+        run: python tools/qa_a1.py
       - name: Commit generated lessons
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add lessons/a1
-          git add curriculum/A1_MASTER_LESSON_PLAN.md || true
           git diff --cached --quiet && exit 0
-          git commit -m "Generate canonical A1 lessons [a1-generated]"
+          git commit -m "Generate and QA canonical A1 lessons [a1-generated]"
           git push
