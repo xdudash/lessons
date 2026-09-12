@@ -17,6 +17,8 @@ COMPLETED:
 - Rebuilt and committed `lessons/a1/a1-s01-l04.json`. Commit: `c70285a031b8e13cf3f2a4b06e0156783ac5af2e`.
 - Rebuilt and committed `lessons/a1/a1-s01-l05.json`. Commit: `2f67b1895fa16674210e2b11019d21277204e872`.
 - QA for S01 L03–L05 recorded as FULL PASS in `audits/A1_S01_L03_L05_QA.md`. Commit: `c94572f214f97dbb1d37ca501965b0f8260ac246`.
+- Rebuilt and normalized `lessons/a1/a1-s01-l06.json` against the gold-standard envelope. Added the missing `resultScreen` and replaced the weak vocabulary example `pán Urban` with the more useful/relevant `priezvisko`. Commit: `4a0cee56d4895d8fb5837de3d1113d78dd7e4885`.
+- Rebuilt and committed `lessons/a1/a1-s01-l07.json` around the actual target of Slovak vowel-length discrimination, avoiding the former duplicated theory from L01. Commit: `d823d8a9ad505bb6dc7d7a26b0cf439fe973ace9`.
 
 HISTORICAL WORK UNDER SUPERSEDED MODEL:
 - The previous A1 1,000-slot map and 750-slot expansion registry were created under the former quota model.
@@ -33,13 +35,18 @@ KEY FINDINGS:
 - Repetition remains intentional when it supports NEW → REVIEW → TRANSFER → MASTERY.
 - Application/UI limitations must not cause pedagogical fields or lesson depth to be removed.
 
-S01 L03–L05 QA DECISIONS:
-- L03: PASS — focused ty/vy choice and si/ste contrast.
-- L04: PASS — focused politeness functions without unrelated re-teaching.
-- L05: PASS — genuine integrated retrieval/review with minimal new grammar.
+S01 REBUILD STATUS:
+- L01: GOLD — preserved unchanged.
+- L02: REBUILT — focused on `Ako sa voláš?` → `Volám sa...`.
+- L03: REBUILT — focused on `ty/vy` choice and `si/ste` contrast.
+- L04: REBUILT — focused on politeness functions.
+- L05: REBUILT — genuine integrated retrieval/review with minimal new grammar.
+- L06: REBUILT + NORMALIZED — spelling/name-writing task with complete lesson envelope.
+- L07: REBUILT — vowel-length discrimination using familiar, meaningful examples.
 
 UNRESOLVED:
-- Rebuild and QA S01 L06–L10.
+- QA S01 L06–L07 against the canonical schema and gold-standard quality before treating them as final.
+- Rebuild and QA S01 L08–L10.
 - Complete A1 remapping of every existing section's L01–L10 against grammar, vocabulary, communicative functions, prerequisites and mastery outcomes.
 - Determine the true number of A1 lessons required after remapping and mastery analysis.
 - Review/revision plan for S01 L11–L40 under Architecture v2.
@@ -47,7 +54,7 @@ UNRESOLVED:
 - Full external Slovak CEFR/RLD verification remains pending.
 
 NEXT TASK:
-- Rebuild **A1 Section 01 L06–L10** against the gold standard, preserving L01 and the rebuilt L02–L05. QA each lesson before committing. Do not generate later lessons yet.
+- QA **S01 L06–L07** against the gold standard and schema. Then rebuild **S01 L08**, followed by L09 and L10. Do not generate later lessons yet.
 
 DEPENDENCIES:
 - `MASTER.md`
