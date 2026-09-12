@@ -2,29 +2,30 @@
 
 ## Status
 
-A1 lesson production has been reset completely.
+**IN_PROGRESS — first restarted production batch**
 
-- Active lesson files: **0**
-- Active lesson QA files: **0**
-- Production model: **dynamic lesson count**
-- Minimum per section: **3 lessons**
-- Production unit: **batch of at least 5 sections**
-- No fixed quota and no filler lessons.
+## Active production model
+- Complete Slovak A1–C2 course.
+- No predetermined total lesson quota.
+- Minimum 3 lessons per section.
+- More lessons are added only when outcomes/mastery require them.
+- Production unit: batches of at least 5 sections.
+- Prefer one bulk commit per completed batch.
+- No filler lessons.
 
-## Next production cycle
+## Completed batch
 
-Wait for the explicit creation command. When production starts, the agent must:
-1. determine the pedagogically required lesson count for each section (minimum 3);
-2. account for all sections in the level and prerequisites;
-3. produce sections in batches of at least 5;
-4. QA the whole batch before committing;
-5. use the minimum practical number of Git commits, preferably one commit per batch;
-6. record progress at section/batch level.
+### A1 S01–S05
+- S01 Prvý kontakt — 3 lessons
+- S02 O mne — 3 lessons
+- S03 Čísla a údaje — 3 lessons
+- S04 Ľudia a rodina — 3 lessons
+- S05 Veci okolo nás — 3 lessons
+- Total: 15 lesson instances
+- Batch QA: `audits/A1_S01_S05_BATCH_QA.md`
 
-## Preserved foundation
+## Important production rule
+The three-lesson count above is the minimum for this initial batch, not a fixed quota. Before each future batch, determine the required count section by section from CEFR outcomes, prerequisites, target complexity, review, transfer and mastery evidence.
 
-The curriculum architecture, gold-standard lesson specification, A1 inventory, prerequisite graph, and vocabulary ownership/matrix remain as the planning foundation. They are not themselves lesson instances.
-
-## Historical note
-
-Previous generated lessons, lesson-level QA reports, pilot lesson files, and the obsolete fixed 1,000-lesson target registry were removed from the active repository during the reset. They must not be treated as current course content.
+## Next task
+Select the next batch of at least five A1 sections, map prerequisites and target ownership, determine the required lesson count for each, then generate and QA the entire batch before one bulk commit.
