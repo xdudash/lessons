@@ -12,15 +12,9 @@ COMPLETED:
 - Registered the user's `A1-S01-L01` as the canonical gold-standard lesson reference in `curriculum/GOLD_STANDARD_LESSON.md`.
 - Added the exact user-provided canonical gold-standard lesson JSON to `lessons/a1/a1-s01-l01.json` unchanged; source SHA-256: `791187eccecc56fe7617706392f2d1e2d3bdce9af8b7c274505439c98ea91cd0`.
 - Adopted content-led Course Architecture v2 in `curriculum/COURSE_ARCHITECTURE_V2.md` and `MASTER.md`.
-- Audited A1 Section 01 L01–L10 against the gold standard and rebuilt the block into a coherent progression.
-- Audited the existing S02 L01–L10 baseline under Architecture v2; old versions were not accepted automatically because several repeated prior theory instead of progressing the dependency chain.
-- Rebuilt S02 L01 as the new S02 entry lesson: 2 theory screens, 6 target expressions, 20 exercises, 14 exercise types, reading with 2 questions, contextual meaning work, dialogues, real-life production, 3-step final scenario and result screen. QA FULL PASS.
-- Rebuilt S02 L02 as the group/plural identity lesson: 2 theory screens, 6 target expressions, 20 exercises, 3 final-situation steps and result screen. QA FULL PASS.
-- Rebuilt S02 L03 around origin vs residence: 2 theory screens, 6 target expressions, 20 exercises, reading, dialogues, contextual meaning, real-message production, and a 3-step final scenario. QA FULL PASS.
-- Rebuilt S02 L04 around the new communicative function of introducing/identifying another person: `Kto je to?` → `To je...`, contrast with `To som...`, `môj/moja`, 20 exercises, reading, dialogues, production, 3-step final scenario and result screen. QA FULL PASS.
-- Rebuilt S02 L05 as an integration/transfer lesson combining identity, group, origin/residence and introducing another person. It uses retrieval and situational choice rather than introducing unnecessary new grammar; 22 exercises, reading, dialogues, production, 3-step final scenario and result screen. QA FULL PASS in `audits/A1_S02_L05_QA.md`.
-- Rebuilt S02 L06 around language ability and comprehension management: `Hovorím po...`, `Rozumiem`, `Nerozumiem`, `Prosím, zopakujte`; 2 theory screens, 6 target expressions, 20 exercises, contextual meaning, dialogues, 2-question reading, real-message production, 3-step final scenario and result screen. QA FULL PASS in `audits/A1_S02_L06_QA.md`.
-- Rebuilt S02 L07 around contact information: phone number, e-mail, and verifying/correcting contact details. It contains 2 theory screens, 6 target expressions, 22 exercises, contextual meaning, dialogues, 2-question reading, real-message production, 3-step final scenario and result screen. QA FULL PASS in `audits/A1_S02_L07_QA.md`.
+- Audited and rebuilt S01 L01–L10 under Architecture v2.
+- Rebuilt S02 L01–L07 under Architecture v2; all recorded QA FULL PASS.
+- Rebuilt S02 L08 around the distinct communicative function of arranging a simple meeting by day/time: `Kedy sa stretneme?`, `Môžeme sa stretnúť...`, `v pondelok`, `o tretej`, `Dobre?`. It contains 2 theory screens, 6 target expressions, 16 exercises, contextual meaning, dialogue, reading, real-life production and a 3-step final situation. QA FULL PASS in `audits/A1_S02_L08_QA.md`.
 
 HISTORICAL WORK UNDER SUPERSEDED MODEL:
 - The previous A1 1,000-slot map and 750-slot expansion registry were created under the former quota model.
@@ -40,25 +34,18 @@ KEY FINDINGS:
 
 S01 REBUILD STATUS:
 - L01: GOLD — preserved unchanged.
-- L02: REBUILT — focused on `Ako sa voláš?` → `Volám sa...`.
-- L03: REBUILT — focused on `ty/vy` choice and `si/ste` contrast.
-- L04: REBUILT — focused on politeness functions.
-- L05: REBUILT — genuine integrated retrieval/review with minimal new grammar.
-- L06: REBUILT + QA FULL PASS — spelling/name-writing task expanded to a gold-standard depth.
-- L07: REBUILT + QA FULL PASS — vowel-length discrimination expanded to gold-standard depth.
-- L08: REBUILT + QA FULL PASS — classroom instructions, comprehension repair and polite repetition requests.
-- L09: REBUILT + QA FULL PASS — integrated first-meeting scenario.
-- L10: REBUILT + QA FULL PASS — section mastery/check.
+- L02–L10: REBUILT + QA FULL PASS.
 
 S02 REBUILD STATUS:
-- L01: REBUILT + QA FULL PASS — `ja som / ty si / on/ona je`; pronoun→form decision; controlled practice → contextual comprehension → dialogue → production.
-- L02: REBUILT + QA FULL PASS — group identity with `my / sme`, `Kto sme?`, group roles and productive transfer.
-- L03: REBUILT + QA FULL PASS — origin vs residence; `Odkiaľ?` / `Som z...` vs `Kde bývam?` / `Bývam v...`; meaningful transfer.
-- L04: REBUILT + QA FULL PASS — introducing/identifying another person with `Kto je to?` / `To je...`; contrast with self-reference and `môj/moja`.
-- L05: REBUILT + QA FULL PASS — integration/transfer of identity, group, origin/residence and third-person introduction; no unnecessary new grammar.
-- L06: REBUILT + QA FULL PASS — language ability and comprehension management with `Hovorím po...`, `Rozumiem`, `Nerozumiem`, `Prosím, zopakujte`.
-- L07: REBUILT + QA FULL PASS — contact information: phone number, e-mail, and verification/correction of details.
-- L08–L10: AUDITED, not yet rebuilt.
+- L01: REBUILT + QA FULL PASS — `ja som / ty si / on/ona je`.
+- L02: REBUILT + QA FULL PASS — group identity with `my / sme`.
+- L03: REBUILT + QA FULL PASS — origin vs residence.
+- L04: REBUILT + QA FULL PASS — introducing/identifying another person.
+- L05: REBUILT + QA FULL PASS — integration/transfer.
+- L06: REBUILT + QA FULL PASS — language ability and comprehension management.
+- L07: REBUILT + QA FULL PASS — contact information.
+- L08: REBUILT + QA FULL PASS — arranging a simple meeting by day/time.
+- L09–L10: AUDITED, not yet rebuilt.
 
 UNRESOLVED:
 - Complete A1 remapping of every existing section's L01–L10 against grammar, vocabulary, communicative functions, prerequisites and mastery outcomes.
@@ -68,7 +55,7 @@ UNRESOLVED:
 - Full external Slovak CEFR/RLD verification remains pending.
 
 NEXT TASK:
-- Rebuild **S02 L08** under Architecture v2. Introduce the next distinct communicative function while preserving retrieval of the established identity, origin/residence, language-management and contact-information system.
+- Continue the accelerated batch workflow with the next S02 lesson set, starting at **S02 L09**. Generate in batches where quality and schema verification remain reliable; do not create filler lessons solely to increase the count.
 
 DEPENDENCIES:
 - `MASTER.md`
