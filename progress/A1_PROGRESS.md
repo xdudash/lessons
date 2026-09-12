@@ -17,8 +17,8 @@ COMPLETED:
 - Rebuilt and committed `lessons/a1/a1-s01-l04.json`. Commit: `c70285a031b8e13cf3f2a4b06e0156783ac5af2e`.
 - Rebuilt and committed `lessons/a1/a1-s01-l05.json`. Commit: `2f67b1895fa16674210e2b11019d21277204e872`.
 - QA for S01 L03–L05 recorded as FULL PASS in `audits/A1_S01_L03_L05_QA.md`. Commit: `c94572f214f97dbb1d37ca501965b0f8260ac246`.
-- Rebuilt and normalized `lessons/a1/a1-s01-l06.json` against the gold-standard envelope. Added the missing `resultScreen` and replaced the weak vocabulary example `pán Urban` with the more useful/relevant `priezvisko`. Commit: `4a0cee56d4895d8fb5837de3d1113d78dd7e4885`.
-- Rebuilt and committed `lessons/a1/a1-s01-l07.json` around the actual target of Slovak vowel-length discrimination, avoiding the former duplicated theory from L01. Commit: `d823d8a9ad505bb6dc7d7a26b0cf439fe973ace9`.
+- Rebuilt S01 L06 to materially match the gold lesson's depth rather than only its minimum structure: 2 theory screens, 6 target expressions, 20 exercises, 13 exercise types, 3 final-situation steps and a result screen. Commit: `1d289bde24a1111f58525fa8737de9a7be4c77d7`.
+- QA for S01 L06 recorded as FULL PASS in `audits/A1_S01_L06_QA.md`. Commit: `2d8e34f07926c8386e867c63d4a25ed04a0c3f55`.
 
 HISTORICAL WORK UNDER SUPERSEDED MODEL:
 - The previous A1 1,000-slot map and 750-slot expansion registry were created under the former quota model.
@@ -34,6 +34,7 @@ KEY FINDINGS:
 - The gold-standard lesson is the quality reference; lesson count is not.
 - Repetition remains intentional when it supports NEW → REVIEW → TRANSFER → MASTERY.
 - Application/UI limitations must not cause pedagogical fields or lesson depth to be removed.
+- Lesson quality must be judged by actual instructional depth and learner work, not by hitting a fixed exercise count.
 
 S01 REBUILD STATUS:
 - L01: GOLD — preserved unchanged.
@@ -41,11 +42,11 @@ S01 REBUILD STATUS:
 - L03: REBUILT — focused on `ty/vy` choice and `si/ste` contrast.
 - L04: REBUILT — focused on politeness functions.
 - L05: REBUILT — genuine integrated retrieval/review with minimal new grammar.
-- L06: REBUILT + NORMALIZED — spelling/name-writing task with complete lesson envelope.
-- L07: REBUILT — vowel-length discrimination using familiar, meaningful examples.
+- L06: REBUILT + QA FULL PASS — spelling/name-writing task expanded to a gold-standard depth.
+- L07: REBUILT — vowel-length discrimination using familiar, meaningful examples; QA still required.
 
 UNRESOLVED:
-- QA S01 L06–L07 against the canonical schema and gold-standard quality before treating them as final.
+- QA S01 L07 against the canonical schema and gold-standard quality.
 - Rebuild and QA S01 L08–L10.
 - Complete A1 remapping of every existing section's L01–L10 against grammar, vocabulary, communicative functions, prerequisites and mastery outcomes.
 - Determine the true number of A1 lessons required after remapping and mastery analysis.
@@ -54,7 +55,7 @@ UNRESOLVED:
 - Full external Slovak CEFR/RLD verification remains pending.
 
 NEXT TASK:
-- QA **S01 L06–L07** against the gold standard and schema. Then rebuild **S01 L08**, followed by L09 and L10. Do not generate later lessons yet.
+- QA **S01 L07** against the gold standard and schema. Then rebuild **S01 L08**, followed by L09 and L10. Do not generate later lessons yet.
 
 DEPENDENCIES:
 - `MASTER.md`
