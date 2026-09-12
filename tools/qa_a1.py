@@ -11,7 +11,6 @@ EXPECTED={
 TYPES={'multiple_choice_translation','reverse_translation','match_pairs','fill_blank','dropdown_blank','sentence_order','sentence_builder','meaning_in_context','natural_phrase','multiple_select','reading_comprehension','dialogue_choose_reply'}
 CYR=re.compile(r'[А-Яа-яЁёІіЇїЄєҐґ]')
 
-
 def flat_strings(x):
     if isinstance(x,str): yield x
     elif isinstance(x,list):
@@ -19,9 +18,7 @@ def flat_strings(x):
     elif isinstance(x,dict):
         for y in x.values(): yield from flat_strings(y)
 
-
 def token_norm(s): return re.findall(r'\S+',s)
-
 
 def check_file(p):
     doc=json.loads(p.read_text(encoding='utf-8'))
@@ -68,7 +65,6 @@ def check_file(p):
     rs=l['resultScreen']; assert rs.get('screenType')=='lesson_result', f'{p.name}: result screen'
     assert isinstance(l['startScreen']['newWords'],list) and len(l['startScreen']['newWords'])==12, f'{p.name}: newWords'
     return l
-
 
 def main():
     lessons=[]
