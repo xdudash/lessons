@@ -1,0 +1,153 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/xdudash/lessons/blob/main/curriculum/lesson.schema.json",
+  "title": "SlovakGo Lesson",
+  "description": "Mandatory baseline schema for every SlovakGo lesson JSON file.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["lessons"],
+  "properties": {
+    "lessons": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 1,
+      "items": {
+        "$ref": "#/$defs/lesson"
+      }
+    }
+  },
+  "$defs": {
+    "localized": {
+      "type": "object",
+      "required": ["uk"],
+      "properties": {
+        "sk": {"type": "string"},
+        "uk": {"type": "string"},
+        "ru": {"type": "string"},
+        "en": {"type": "string"}
+      },
+      "additionalProperties": false
+    },
+    "lesson": {
+      "type": "object",
+      "required": [
+        "id", "sectionId", "level", "title", "topic", "description",
+        "order", "xpReward", "estimatedMinutes", "isPublished", "intro",
+        "completionMessage", "updatedAt", "localization", "assets",
+        "startScreen", "theoryScreens", "wordsScreen", "words",
+        "exercises", "finalSituation", "resultScreen"
+      ],
+      "properties": {
+        "id": {"type": "string", "pattern": "^(a1|a2|b1|b2|c1|c2)-s\\d{2}-l\\d{2}$"},
+        "sectionId": {"type": "string", "pattern": "^(a1|a2|b1|b2|c1|c2)_s\\d{2}$"},
+        "level": {"enum": ["A1", "A2", "B1", "B2", "C1", "C2"]},
+        "title": {"$ref": "#/$defs/localized"},
+        "topic": {"$ref": "#/$defs/localized"},
+        "description": {"$ref": "#/$defs/localized"},
+        "order": {"type": "integer", "minimum": 1},
+        "xpReward": {"type": "integer", "minimum": 0},
+        "estimatedMinutes": {"type": "integer", "minimum": 1},
+        "isPublished": {"type": "boolean"},
+        "intro": {"$ref": "#/$defs/localized"},
+        "completionMessage": {"$ref": "#/$defs/localized"},
+        "updatedAt": {"type": "string"},
+        "localization": {
+          "type": "object",
+          "required": ["uiLanguages", "targetLanguage", "fallbackUiLanguage"],
+          "properties": {
+            "uiLanguages": {"type": "array", "items": {"type": "string"}, "minItems": 1},
+            "targetLanguage": {"const": "sk"},
+            "fallbackUiLanguage": {"const": "uk"}
+          },
+          "additionalProperties": false
+        },
+        "assets": {
+          "type": "object",
+          "required": ["images", "audio"],
+          "properties": {
+            "images": {"type": "object"},
+            "audio": {"type": "object"}
+          },
+          "additionalProperties": false
+        },
+        "startScreen": {"$ref": "#/$defs/startScreen"},
+        "theoryScreens": {"type": "array", "minItems": 2, "items": {"type": "object"}},
+        "wordsScreen": {"$ref": "#/$defs/wordsScreen"},
+        "words": {"type": "array", "minItems": 6, "items": {"$ref": "#/$defs/word"}},
+        "exercises": {"type": "array", "minItems": 12, "items": {"$ref": "#/$defs/exercise"}},
+        "finalSituation": {"type": "object", "required": ["id", "type", "title", "description", "steps", "passRequirement"]},
+        "resultScreen": {"type": "object", "required": ["title", "subtitle", "xpReward", "nextLesson"]}
+      },
+      "additionalProperties": true
+    },
+    "startScreen": {
+      "type": "object",
+      "required": ["title", "shortDescription", "outcomes", "newWords", "exercisesCount", "reward", "button"],
+      "properties": {
+        "screenType": {"const": "lesson_start"},
+        "title": {"type": "object"},
+        "shortDescription": {"type": "object"},
+        "outcomes": {"type": "array"},
+        "newWords": {"type": "array"},
+        "exercisesCount": {"type": "integer", "minimum": 1},
+        "reward": {"type": ["string", "number"]},
+        "button": {"type": "string"}
+      },
+      "additionalProperties": true
+    },
+    "wordsScreen": {
+      "type": "object",
+      "required": ["items"],
+      "properties": {
+        "screenType": {"const": "lesson_words"},
+        "items": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["wordId"],
+            "properties": {"wordId": {"type": "string"}},
+            "additionalProperties": true
+          }
+        }
+      },
+      "additionalProperties": true
+    },
+    "word": {
+      "type": "object",
+      "required": ["id", "sk", "uk", "level", "topic"],
+      "properties": {
+        "id": {"type": "string"},
+        "sk": {"type": "string", "minLength": 1},
+        "uk": {"type": "string", "minLength": 1},
+        "pronunciationUk": {"type": "string"},
+        "exampleSk": {"type": "string"},
+        "exampleUk": {"type": "string"},
+        "level": {"enum": ["A1", "A2", "B1", "B2", "C1", "C2"]},
+        "topic": {"type": "string"},
+        "tags": {"type": "array", "items": {"type": "string"}}
+      },
+      "additionalProperties": true
+    },
+    "exercise": {
+      "type": "object",
+      "required": ["id", "lessonId", "type", "order", "question"],
+      "properties": {
+        "id": {"type": "string"},
+        "lessonId": {"type": "string"},
+        "type": {
+          "enum": [
+            "single_choice", "multiple_select", "matching", "fill_blank",
+            "dropdown_blank", "sentence_order", "sentence_builder",
+            "meaning_in_context", "natural_phrase", "reading_comprehension",
+            "dialogue_choose_reply", "multiple_choice_translation",
+            "reverse_translation", "match_pairs"
+          ]
+        },
+        "order": {"type": "integer", "minimum": 1},
+        "question": {"type": "string", "minLength": 1},
+        "wordIds": {"type": "array", "items": {"type": "string"}}
+      },
+      "additionalProperties": true
+    }
+  }
+}
