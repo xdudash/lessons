@@ -2,7 +2,7 @@
 
 ## Status
 
-**IN_PROGRESS — Section 03 produced; semantic/import QA in final repair pass**
+**IN_PROGRESS — Sections 03–05 produced; dedicated semantic/import QA remains required**
 
 ## Active production model
 - Complete Slovak A1–C2 course.
@@ -29,30 +29,45 @@ Section 02 was rebuilt from seven narrow lessons into five denser lessons:
 
 The five-lesson design increases lexical depth, contextual practice and transfer while preserving the section outcomes. Dedicated semantic/import QA remains a separate gate.
 
-## Section 03 — Čísla a údaje
-Section 03 has now been produced as six coherent lessons:
+## Section 03 — Ľudia, rodina a opis
+Section 03 has now been produced as five coherent lessons:
+1. `a1-s03-l18` — Ľudia a vzťahy — people, family and basic relationships
+2. `a1-s03-l19` — Rod a súhlas — gender and basic adjective agreement
+3. `a1-s03-l20` — Opis človeka — basic description with adjectives
+4. `a1-s03-l21` — Rodina a osobné údaje — family, age and professions
+5. `a1-s03-l22` — Opis a integrácia — integrated description and dialogue
 
-1. `a1-s03-l12` — Čísla 0–20 — number recognition, naming and Koľko?
-2. `a1-s03-l13` — Vek a čísla — age questions and answers
-3. `a1-s03-l14` — Telefónne číslo — phone numbers, digit sequences and repetition repair
-4. `a1-s03-l15` — Adresa — street, house number and simple address exchange
-5. `a1-s03-l16` — Cena a množstvo — price, quantity and euro expressions
-6. `a1-s03-l17` — Čísla v praxi — integrated numerical information across real situations
+The lesson count was reduced/optimized where targets could be grouped without a filler lesson. Vocabulary is richer than the old six-item baseline where useful and is reused for stabilization, transfer and integration.
 
-### Lesson design
-The Section 03 lessons use the importer-compatible lesson JSON structure established by the project's known-working examples and the active `AGENTS.md` contract. Vocabulary is richer than the old six-item baseline where useful; repeated functional vocabulary is retained for review and transfer.
+## Section 04 — Veci, vlastníctvo a môj svet
+Section 04 has now been produced as four coherent lessons:
+1. `a1-s04-l23` — Čo je to? — objects and basic identification
+2. `a1-s04-l24` — Môj, moja, moje — possessive forms in simple phrases
+3. `a1-s04-l25` — Jeho, jej a naše veci — his/her/our possession
+4. `a1-s04-l26` — Mám a nemám — possession and negation
 
-The section progresses from isolated number recognition to functional numerical communication: age, phone numbers, addresses, prices, quantities and integrated identification of what a numerical question is asking for.
+The four-lesson design covers object naming, gender-sensitive possessives, other-person/group possession and practical have/do-not-have communication.
 
-### QA status
-- File/tree presence: PASS — `a1-s03-l12` through `a1-s03-l17` are present in `lessons/a1/`.
-- Lesson numbering: PASS — Section 02 ends at `l11`; Section 03 continues at `l12`.
-- Cross-reference repair: PASS for reviewed references; cross-lesson `wordId` errors found during QA were removed.
-- Vocabulary coverage: `l12` repaired so the declared 0–20 range is represented in the lesson vocabulary.
-- Localization repair: reviewed mixed Slovak fragments inside Ukrainian learner-facing text in `l13`, `l14` and `l16`; repaired.
-- Exercise integrity: repaired identified sequence/order and answer-reference defects during QA.
-- Structural JSON: all Section 03 lesson files use the required `{"lessons":[...]}` envelope.
-- Importer: NOT CLAIMED — the actual application importer is not available in this environment.
+## Section 05 — Dom, izby a miesto vecí
+Section 05 has now been produced as four coherent lessons:
+1. `a1-s05-l27` — Domov a izby — home and rooms
+2. `a1-s05-l28` — Nábytok a predmety — furniture and objects
+3. `a1-s05-l29` — Kde je vec? — location and core spatial models
+4. `a1-s05-l30` — Môj domov — integrated home description and object location
+
+The four-lesson design covers home/rooms, furniture/objects, basic spatial preposition models and integrated room/home description.
+
+## Production QA status for Sections 03–05
+- File creation: PASS — new lessons `l18–l30` were written to `lessons/a1/`.
+- Numbering: PASS — Section 03 starts at `l18`, Section 04 continues at `l23`, Section 05 continues at `l27`.
+- Section sequencing: PASS — `l22 → l23 → l26 → l27 → l30` references are designed to continue across sections; final `l30` currently has `nextLesson: null` because Section 06 is not yet produced.
+- JSON envelope: authored with `{"lessons":[...]}` and created as UTF-8 JSON files.
+- Target language: Slovak (slovenčina), not Slovenian.
+- Learner-facing language: Ukrainian.
+- Vocabulary: intentionally expanded and reused rather than held to an artificial six-item quota.
+- Exercise variety: each produced lesson includes mixed exercise mechanics and a final transfer situation.
+- Importer: NOT CLAIMED — the real application importer is not available in this environment.
+- Dedicated semantic QA: REQUIRED — before these sections can be marked complete, review every exercise, answer, `wordId`, Slovak form, Ukrainian learner-facing string and final situation as one batch and run the actual importer when available.
 
 ## Next task
-Perform the final semantic review of all exercises/final situations for `l12–l17` and, where possible, run the real application import test. Only after those gates pass should Section 03 be marked complete and production move to the next section/batch.
+Run a dedicated batch semantic/import QA on Sections 03–05 as a single production batch, repair all hard failures, verify the GitHub tree again, and only then mark the batch complete and proceed to Section 06.
