@@ -24,10 +24,10 @@ Section 02 has been rebuilt from seven narrow lessons into five denser lessons. 
 
 ### Lesson sequence
 1. `a1-s02-l07` — Kto som? — identity, byť, professions, languages and basic self-description
-2. `a1-s02-l08` — Ja, ty, on, ona, ono — singular pronouns, agreement cues and reference in context
-3. `a1-s02-l09` — Zoznámime sa — greetings, formal/informal contact, asking and giving names, polite meeting formulas
-4. `a1-s02-l10` — O mne — age, origin, residence, city, address, phone number and languages
-5. `a1-s02-l11` — Predstavím sa — integrated introduction, form completion, question-answer exchange, short message and transfer
+2. `a1-s02-l08` — Ja, ty, on, ona, ono — singular pronouns, reference and contextual use
+3. `a1-s02-l09` — Zoznámime sa — greetings, formal/informal contact, names and polite meeting formulas
+4. `a1-s02-l10` — O mne — age, origin, residence, city, address, phone number and language
+5. `a1-s02-l11` — Predstavím sa — integrated introduction, form completion, question-answer exchange and transfer
 
 ### Lesson design
 Each lesson is a complete lesson envelope with:
@@ -35,12 +35,12 @@ Each lesson is a complete lesson envelope with:
 - expanded working vocabulary, normally 12–20 meaningful lexical items/phrases;
 - 16 varied exercises;
 - contextual reading/dialogue practice;
-- production-oriented transfer;
+- transfer to a new communication context;
 - 3-step final real-life situation;
 - Ukrainian learner-facing instructions with Slovak target language.
 
-### QA policy
-Section 02 is considered rebuilt only after JSON parsing, structural checks, Slovak naturalness, exercise-answer validity, localization, progression and overlap checks pass.
+### QA status
+Structural QA was performed during reconstruction: all five files were authored with the required `{"lessons":[...]}` envelope and complete lesson fields. Dedicated semantic/import QA remains the next gate.
 
 ## Next task
 Run dedicated semantic/import QA on the rebuilt Section 02, repair any hard failures, then proceed to Section 03.
