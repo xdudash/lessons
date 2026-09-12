@@ -2,30 +2,39 @@
 
 ## Status
 
-**IN_PROGRESS — first restarted production batch**
+**IN_PROGRESS — Section 01 production**
 
 ## Active production model
 - Complete Slovak A1–C2 course.
 - No predetermined total lesson quota.
-- Minimum 3 lessons per section.
-- More lessons are added only when outcomes/mastery require them.
-- Production unit: batches of at least 5 sections.
-- Prefer one bulk commit per completed batch.
+- Lesson count is derived from atomic targets, prerequisites, review, transfer and mastery evidence.
 - No filler lessons.
+- GitHub `main` is the authoritative durable state.
 
-## Completed batch
+## Current A1 architecture
+A1 currently has 14 thematic units with an initial working estimate of 82 lessons. The 82 count is provisional and is not a quota.
 
-### A1 S01–S05
-- S01 Prvý kontakt — 3 lessons
-- S02 O mne — 3 lessons
-- S03 Čísla a údaje — 3 lessons
-- S04 Ľudia a rodina — 3 lessons
-- S05 Veci okolo nás — 3 lessons
-- Total: 15 lesson instances
-- Batch QA: `audits/A1_S01_S05_BATCH_QA.md`
+## Completed current work
 
-## Important production rule
-The three-lesson count above is the minimum for this initial batch, not a fixed quota. Before each future batch, determine the required count section by section from CEFR outcomes, prerequisites, target complexity, review, transfer and mastery evidence.
+### A1 Section 01 — Sounds, reading and basic word structure
+Current planned lessons:
+1. Slovenská abeceda
+2. Samohlásky a spoluhlásky
+3. Slabikotvorné r, ŕ, l, ĺ
+4. Mäkké spoluhlásky a výslovnosť
+5. Dĺžka, dvojhlásky a rytmus
+6. Prízvuk, intonácia a krátke správy
+
+All six current lesson files are present in `lessons/a1/`.
+
+## Lesson quality model
+Each lesson follows the complete lesson envelope and the quality arc:
+**TARGET → THEORY → EXAMPLES → VOCABULARY → CONTROLLED PRACTICE → CONTEXT → PRODUCTION → COMMUNICATION → REAL LIFE → MASTERY EVIDENCE**.
+
+The canonical gold standard remains `lessons/a1/a1-s01-l01.json` from the previous production history; its exact content is not copied as a template.
+
+## QA
+The Section 01 files have been structurally authored against the current lesson contract: top-level `lessons` envelope, metadata, theory, vocabulary, exercises, final situation and result screen. A dedicated semantic QA pass is still required before the section is considered production-final.
 
 ## Next task
-Select the next batch of at least five A1 sections, map prerequisites and target ownership, determine the required lesson count for each, then generate and QA the entire batch before one bulk commit.
+Run the Section 01 QA pass, repair any hard failures, verify the GitHub tree, and only then mark Section 01 production-final. After that continue to the next curriculum-defined section.
