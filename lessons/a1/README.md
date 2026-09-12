@@ -1,19 +1,20 @@
-# A1 lesson production area
+# A1 lesson files
 
-This directory contains the **active A1 lesson files** used by the current content-led Course Architecture v2 workflow.
+This directory contains only the current active A1 lesson JSON files.
 
 ## Current active scope
+- Section 01: `a1-s01-l01` … `a1-s01-l06`
+- Section 02: `a1-s02-l07` … `a1-s02-l11`
+- Section 03: `a1-s03-l18` … `a1-s03-l22`
+- Section 04: `a1-s04-l23` … `a1-s04-l26`
+- Section 05: `a1-s05-l27` … `a1-s05-l30`
 
-- `a1-s01-l01.json` … `a1-s01-l10.json` — Section 01 current production set; L01 is the canonical gold-standard lesson.
-- `a1-s02-*` — Section 02 current production set under Architecture v2.
-
-There is intentionally **no archive inside the active lesson tree**. Superseded fixed-slot lessons are deleted rather than carried forward as production content.
+Sections 06–14 are planned in `curriculum/A1_MASTER_LESSON_PLAN.md` and are not active lesson files yet.
 
 ## Rules
-
-1. Do not put historical/superseded lessons back into the active root.
-2. Do not create filler lessons to satisfy a numeric quota.
-3. A lesson becomes production-final only after pedagogical and structural QA.
-4. Lesson count is dynamic and follows actual CEFR/mastery needs.
-5. Keep lesson IDs and filenames synchronized: `a1-sXX-lYY.json`.
-6. If an old lesson contains a useful function, rebuild that function where the prerequisite graph places it; do not restore the old file unchanged.
+1. Do not place historical or superseded lessons in this directory.
+2. Filename and lesson `id` must match: `a1-sXX-lYY.json`.
+3. Every file must use the real importer-compatible JSON envelope.
+4. Target language is Slovak; learner-facing instructional text is Ukrainian.
+5. A lesson is not production-final until structural, semantic and adversarial QA pass.
+6. When a lesson is replaced, remove the obsolete competing file rather than keeping two versions.
