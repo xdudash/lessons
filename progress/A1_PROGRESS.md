@@ -14,6 +14,7 @@ COMPLETED:
 - Adopted content-led Course Architecture v2 in `curriculum/COURSE_ARCHITECTURE_V2.md`.
 - Audited and rebuilt S01 L01–L10 under Architecture v2.
 - Rebuilt S02 L01–L12 under Architecture v2; all recorded QA FULL PASS.
+- Rebuilt missing S02 L13–L14 under Architecture v2; QA FULL PASS in `audits/A1_S02_L13_L14_QA.md`.
 - Rebuilt S02 L15–L19 under Architecture v2; batch QA FULL PASS in `audits/A1_S02_L15_L19_QA.md`.
 
 S01 REBUILD STATUS:
@@ -33,7 +34,8 @@ S02 REBUILD STATUS:
 - L10: REBUILT + QA FULL PASS — inviting, accepting and declining a simple invitation.
 - L11: REBUILT + QA FULL PASS — giving a simple home address and linking it to residence.
 - L12: REBUILT + QA FULL PASS — simple registration and checking personal data.
-- L13–L14: REPOSITORY GAP — not falsely marked complete.
+- L13: REBUILT + QA FULL PASS — asking and stating age.
+- L14: REBUILT + QA FULL PASS — asking about and stating occupation.
 - L15: REBUILT + QA FULL PASS — simple preferences with `Mám rád / Mám rada`.
 - L16: REBUILT + QA FULL PASS — preferred activities with familiar action verbs.
 - L17: REBUILT + QA FULL PASS — simple frequency with `často / niekedy`.
@@ -42,6 +44,7 @@ S02 REBUILD STATUS:
 
 ACCELERATED BATCH NOTE:
 - Production now uses multi-lesson batches when schema and pedagogical verification remain reliable.
+- L13–L14 closed the previously documented repository gap as distinct communicative functions: age and occupation.
 - L15–L19 were reviewed as one pedagogical sequence; no weak preliminary drafts were promoted to production.
 - Lesson count remains dynamic; no filler lessons are created merely to increase the number.
 
@@ -62,7 +65,6 @@ KEY FINDINGS:
 - Lesson quality must be judged by actual instructional depth and learner work, not by hitting a fixed exercise count.
 
 UNRESOLVED:
-- Resolve the S02 L13–L14 repository gap before treating S02 as continuous end-to-end.
 - Complete A1 remapping of every existing section's L01–L10 against grammar, vocabulary, communicative functions, prerequisites and mastery outcomes.
 - Determine the true number of A1 lessons required after remapping and mastery analysis.
 - Review/revision plan for superseded S01 L11–L40 is still required only if those functions are needed by the dynamic curriculum.
@@ -70,7 +72,7 @@ UNRESOLVED:
 - Full external Slovak CEFR/RLD verification remains pending.
 
 NEXT TASK:
-- Resolve **S02 L13–L14** as the next repository/content decision, then continue the dynamic S02 sequence. Do not create filler solely to restore numbering.
+- Continue S02 beyond L19 with the next distinct communicative function under Architecture v2. Prefer larger multi-lesson batches when quality and schema verification remain reliable; do not create filler solely to increase count.
 
 DEPENDENCIES:
 - `MASTER.md`
