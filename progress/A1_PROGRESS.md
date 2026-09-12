@@ -13,8 +13,8 @@ COMPLETED:
 - Added the exact user-provided canonical gold-standard lesson JSON to `lessons/a1/a1-s01-l01.json` unchanged; source SHA-256: `791187eccecc56fe7617706392f2d1e2d3bdce9af8b7c274505439c98ea91cd0`.
 - Adopted content-led Course Architecture v2 in `curriculum/COURSE_ARCHITECTURE_V2.md`.
 - Audited and rebuilt S01 L01–L10 under Architecture v2.
-- Rebuilt S02 L01–L08 under Architecture v2; all recorded QA FULL PASS.
-- Rebuilt S02 L09–L12 as an accelerated batch under Architecture v2; batch QA FULL PASS in `audits/A1_S02_L09_L12_QA.md`.
+- Rebuilt S02 L01–L12 under Architecture v2; all recorded QA FULL PASS.
+- Rebuilt S02 L15–L19 under Architecture v2; batch QA FULL PASS in `audits/A1_S02_L15_L19_QA.md`.
 
 S01 REBUILD STATUS:
 - L01: GOLD — preserved unchanged.
@@ -33,16 +33,22 @@ S02 REBUILD STATUS:
 - L10: REBUILT + QA FULL PASS — inviting, accepting and declining a simple invitation.
 - L11: REBUILT + QA FULL PASS — giving a simple home address and linking it to residence.
 - L12: REBUILT + QA FULL PASS — simple registration and checking personal data.
+- L13–L14: REPOSITORY GAP — not falsely marked complete.
+- L15: REBUILT + QA FULL PASS — simple preferences with `Mám rád / Mám rada`.
+- L16: REBUILT + QA FULL PASS — preferred activities with familiar action verbs.
+- L17: REBUILT + QA FULL PASS — simple frequency with `často / niekedy`.
+- L18: REBUILT + QA FULL PASS — weekend activities using established preference/frequency models.
+- L19: REBUILT + QA FULL PASS — integration/mastery of personal information in a short conversation.
 
 ACCELERATED BATCH NOTE:
 - Production now uses multi-lesson batches when schema and pedagogical verification remain reliable.
-- The batch L09–L12 was committed together, followed by one QA artifact and one progress update.
+- L15–L19 were reviewed as one pedagogical sequence; no weak preliminary drafts were promoted to production.
 - Lesson count remains dynamic; no filler lessons are created merely to increase the number.
 
 HISTORICAL WORK UNDER SUPERSEDED MODEL:
 - The previous A1 1,000-slot map and 750-slot expansion registry were created under the former quota model.
 - S01 L11–L40 were generated and QA-approved under that former model.
-- Those lessons are preserved as historical generated work, but they are NOT automatically accepted as final under Architecture v2.
+- Those lessons were removed from the active lesson tree and are not automatically accepted as final under Architecture v2.
 - The previous 10K numerical allocation is historical planning data, not a production quota.
 
 KEY FINDINGS:
@@ -56,14 +62,15 @@ KEY FINDINGS:
 - Lesson quality must be judged by actual instructional depth and learner work, not by hitting a fixed exercise count.
 
 UNRESOLVED:
+- Resolve the S02 L13–L14 repository gap before treating S02 as continuous end-to-end.
 - Complete A1 remapping of every existing section's L01–L10 against grammar, vocabulary, communicative functions, prerequisites and mastery outcomes.
 - Determine the true number of A1 lessons required after remapping and mastery analysis.
-- Review/revision plan for S01 L11–L40 under Architecture v2.
+- Review/revision plan for superseded S01 L11–L40 is still required only if those functions are needed by the dynamic curriculum.
 - The title correction `a1-s08-l06` → `Bývam v byte alebo dome?` remains to be applied if not already done in the source package.
 - Full external Slovak CEFR/RLD verification remains pending.
 
 NEXT TASK:
-- Continue the accelerated batch workflow with **S02 L13–L17**. Generate in batches where quality and schema verification remain reliable; do not create filler lessons solely to increase the count.
+- Resolve **S02 L13–L14** as the next repository/content decision, then continue the dynamic S02 sequence. Do not create filler solely to restore numbering.
 
 DEPENDENCIES:
 - `MASTER.md`
