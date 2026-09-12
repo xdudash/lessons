@@ -10,6 +10,7 @@ COMPLETED:
 - Derived the complete item-level vocabulary ownership/review analysis from the authoritative 250-lesson package.
 - Stored the complete item-level matrix durably in GitHub at `knowledge/a1_vocab_matrix/A1_COMPLETE.json.gz.b64`.
 - Registered the user's `A1-S01-L01` as the canonical gold-standard lesson reference in `curriculum/GOLD_STANDARD_LESSON.md`.
+- Added the exact user-provided canonical gold-standard lesson JSON to `lessons/a1/a1-s01-l01.json` unchanged; source SHA-256: `791187eccecc56fe7617706392f2d1e2d3bdce9af8b7c274505439c98ea91cd0`.
 - Adopted content-led Course Architecture v2 in `curriculum/COURSE_ARCHITECTURE_V2.md` and `MASTER.md`.
 - Audited A1 Section 01 L01–L10 against the gold standard and rebuilt the block into a coherent progression.
 - Audited the existing S02 L01–L10 baseline under Architecture v2; old versions were not accepted automatically because several repeated prior theory instead of progressing the dependency chain.
@@ -42,7 +43,7 @@ S01 REBUILD STATUS:
 - L04: REBUILT — focused on politeness functions.
 - L05: REBUILT — genuine integrated retrieval/review with minimal new grammar.
 - L06: REBUILT + QA FULL PASS — spelling/name-writing task expanded to a gold-standard depth.
-- L07: REBUILT + QA FULL PASS — vowel-length discrimination expanded to a gold-standard depth.
+- L07: REBUILT + QA FULL PASS — vowel-length discrimination expanded to gold-standard depth.
 - L08: REBUILT + QA FULL PASS — classroom instructions, comprehension repair and polite repetition requests.
 - L09: REBUILT + QA FULL PASS — integrated first-meeting scenario.
 - L10: REBUILT + QA FULL PASS — section mastery/check.
