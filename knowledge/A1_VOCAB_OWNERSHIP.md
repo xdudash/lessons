@@ -1,29 +1,23 @@
-# SlovakGo A1 — Vocabulary Ownership & Review Matrix
+# SlovakGo A1 — Vocabulary Ownership
 
-Status: **baseline-derived planning matrix v1.0**
+## Status
+ACTIVE / planning guidance
 
-This matrix assigns each of the 1,272 unique Slovak expressions in the 250-lesson baseline an initial ownership lesson and labels each observed occurrence as NEW → REVIEW → TRANSFER → MASTERY. It is a planning control, not a claim that frequency alone proves mastery.
+Vocabulary is assigned to lessons by communicative purpose and prerequisite order. A word or phrase may intentionally recur across lessons.
 
-## Counts
+## Ownership rule
+The first lesson that deliberately teaches a lexical item as a target owns the item for planning purposes. Later appearances should have a reason:
 
-- Baseline lessons: 250
-- Vocabulary entries: 1,500
-- Unique expressions: 1,272
-- Repeated expressions: 187
-- Single-occurrence expressions needing future review planning: 1,085
+**NEW → REVIEW → TRANSFER → MASTERY**
 
-## Stage policy
+A repeated occurrence is not automatically mastery evidence. Productive use and successful transfer matter.
 
-- First observed occurrence → **NEW** (initial owner).
-- Second → **REVIEW**.
-- Third → **TRANSFER**.
-- Fourth and later → **MASTERY** (subject to QA).
-- A repeated occurrence is not automatically sufficient evidence of mastery; context, productive use and transfer still require review.
+## Lesson rules
+- Do not create duplicate lexical targets merely to fill a word-count quota.
+- Prefer phrases that support the lesson's communicative outcome.
+- Reuse important vocabulary in new contexts.
+- Keep `wordId` local to the lesson JSON unless the actual importer contract explicitly supports cross-lesson references.
+- Check neighbouring lessons before introducing a new target to avoid accidental duplication.
 
-## Data format
-
-`progress/A1_VOCAB_OWNERSHIP.json` contains every expression, translation, first owner, all baseline occurrences, stage labels and a `needs_future_review` flag.
-
-## Control rule
-
-**Do not remove repeated vocabulary.** Use the matrix to decide whether a future lesson should stabilize, contrast, transfer or assess an item. Expressions with only one baseline occurrence require deliberate future review scheduling before being treated as mastered.
+## Current source of truth
+The exact ownership map should be derived from the active lessons and the master lesson plan. The retired 250-lesson baseline and its numerical counts are not production rules and are not maintained here.
