@@ -1,185 +1,168 @@
-# SlovakGo — Agent Continuation Protocol
+# SlovakGo — Agent Protocol
 
 ## Purpose
 
-This repository is the persistent memory of the SlovakGo A1–C2, 10,000-lesson project.
+This file is the operational contract for any AI agent continuing SlovakGo. The agent must be able to continue correctly from GitHub without relying on chat history.
 
-A new AI agent MUST be able to continue the project without relying on the previous agent's chat history.
+## A. Startup — mandatory
 
-## Rule 1 — GitHub is the source of truth
+Before changing anything:
 
-Before doing any work, inspect the repository state. Do not assume what another agent completed.
+1. Read `README.md`.
+2. Read `MASTER.md`.
+3. Read `curriculum/COURSE_ARCHITECTURE_V2.md`.
+4. Read `curriculum/GOLD_STANDARD_LESSON.md`.
+5. Read relevant `knowledge/*` files.
+6. Read relevant `progress/*` and `audits/*`.
+7. Inspect the current `main` tree and recent commits.
+8. Determine the exact unfinished section/batch.
 
-Read, in this order when present:
+Never trust a previous agent's chat claim over the actual repository.
 
-1. `README.md`
-2. `MASTER.md`
-3. `MASTER_CURRICULUM_10K.md`
-4. relevant `curriculum/*`
-5. relevant `knowledge/*`
-6. `production/*`
-7. `progress/*`
-8. relevant `audits/*`
+## B. Production unit
 
-If these files disagree, the newest explicit project decision in Git history/master state wins; do not silently overwrite it.
+The production unit is **3 coherent consecutive sections**.
 
-## Rule 2 — Find the exact stopping point
+For each section:
 
-The current state is defined by committed files, not by chat memory.
+- start with 3 complete lessons when production is required;
+- allow up to 6 lessons in the batch when the section's targets justify them;
+- do not use 6 as a quota;
+- add more only in a later explicitly justified production unit.
 
-Before starting:
+The agent chooses the next three sections automatically. Do not ask the user what to produce next when the repository makes the next batch clear.
 
-- inspect recent commits;
-- inspect `progress/`;
-- identify the last completed phase/task;
-- identify incomplete or blocked tasks;
-- check for files marked `IN_PROGRESS`, `BLOCKED`, `TODO`, `NEXT`, or similar;
-- inspect the relevant audit/report before changing content.
+## C. Design before generation
 
-Never restart a completed phase merely because the current chat does not contain its details.
+For the three sections, determine:
 
-## Rule 3 — One agent = one explicit work unit
-
-Every agent must work on a bounded task.
-
-Before editing, record mentally or in the relevant progress file:
-
-- task;
-- input files;
-- output files;
-- acceptance criteria;
-- dependencies;
-- next task after completion.
-
-Do not modify unrelated areas “while you are here”.
-
-## Rule 4 — Continue, do not duplicate
-
-Before generating anything:
-
-- search for existing lessons/content covering the same target;
-- check the slot registry;
-- check progress files;
-- check review dependencies;
-- check whether another lesson already owns the target.
-
-If content already exists, improve, review, or reference it instead of creating a second copy.
-
-Legitimate repetition is allowed when it serves NEW → REVIEW → TRANSFER → MASTERY.
-
-## Rule 5 — Protect the lesson format
-
-The established/new lesson JSON format is authoritative.
-
-Never simplify lesson content to accommodate application/UI bugs.
-
-If the application cannot render a valid field, record the compatibility issue separately. Do not corrupt the pedagogical source to work around it.
-
-## Rule 6 — CEFR discipline
-
-Every lesson must have:
-
-- a clear CEFR level;
-- a defined communicative or linguistic target;
+- CEFR outcomes;
+- grammar targets;
+- vocabulary/functions;
 - prerequisites;
-- a reason for appearing at this point in the course;
-- appropriate productive expectations.
+- target ownership;
+- review and transfer needs;
+- lesson purpose;
+- mastery evidence;
+- required lesson count.
 
-Important distinction:
+Only then write lesson JSON.
 
-**functional exposure is not grammatical mastery.**
+## D. Lesson construction
 
-An A1 learner may encounter a useful phrase containing a later-system form, but the lesson must not pretend the learner has mastered the complete later grammar system.
+Use `lessons/a1/a1-s01-l01.json` as the canonical structural and quality reference.
 
-## Rule 7 — No filler
+Default complete shape:
 
-Do not create lessons merely to reach 10,000.
+- top-level `{ "lessons": [ ... ] }` envelope;
+- complete lesson metadata;
+- 2 theory screens;
+- 6 vocabulary items;
+- 16 meaningful exercises;
+- 3 final-situation steps;
+- localized learner-facing content;
+- result/completion structure.
 
-A lesson must advance at least one meaningful dimension:
+Counts may change only for a pedagogical reason. Never reduce content merely to save time.
 
-- NEW knowledge;
-- stabilization;
-- contrast;
-- transfer;
-- fluency;
-- accuracy;
-- register;
-- pragmatics;
-- integrated skills;
-- review;
-- assessment.
+## E. Hard JSON rule
 
-## Rule 8 — Review before generation
+Every generated file MUST be independently parseable JSON before it reaches GitHub.
 
-Generated content must be reviewed for:
+Mandatory checks:
 
-1. Slovak correctness and naturalness;
-2. pedagogy;
-3. CEFR fit;
-4. prerequisites;
-5. exercise validity;
-6. localization;
-7. duplication/overlap;
-8. review progression;
-9. schema validity.
+- file is complete, not truncated;
+- exactly one valid top-level JSON object;
+- top-level `lessons` exists and is an array;
+- lesson object is inside that array;
+- no duplicate keys;
+- no Python list/dict string representations;
+- no accidental extra nesting;
+- all brackets/braces are balanced;
+- required fields exist;
+- arrays contain objects of the expected form.
 
-Do not treat a generated lesson as final merely because it parses as JSON.
+A parser error is a hard stop.
 
-## Rule 9 — Atomic GitHub commits
+## F. Semantic QA
 
-Commit completed logical units with clear messages.
+After structural parsing, inspect every lesson for:
 
-Examples:
+- natural and correct Slovak;
+- correct morphology/agreement;
+- coherent meaning;
+- correct CEFR level;
+- correct prerequisite order;
+- exercises that actually test the stated target;
+- correct marked answers;
+- valid accepted answers;
+- valid sentence-builder/order solutions;
+- relevant distractors;
+- coherent dialogues;
+- coherent reading/context tasks;
+- natural phrases;
+- realistic final situations;
+- complete translations/localization.
 
-- `Audit A1 250 lessons`
-- `Add A1 grammar inventory`
-- `Add A1 prerequisite graph`
-- `Generate A1 pilot lessons 251-270`
-- `Review A1 pilot lessons 251-270`
-- `Repair A1 pilot lessons 251-270`
-- `Update course progress`
+Do not rely on templates as proof of correctness.
 
-Do not claim completion until the relevant changes are actually committed.
+## G. Adversarial QA
 
-## Rule 10 — Always leave a handoff
+Actively try to break each lesson:
 
-At the end of a work unit, update the relevant progress/handoff file with:
+- Can every exercise be solved from its own data?
+- Does the marked answer really answer the prompt?
+- Does every `correct` flag make sense?
+- Does `correctOrder` use exactly the supplied tokens?
+- Do accepted answers match the sentence?
+- Is every Slovak sentence complete and natural?
+- Is any learner-facing field accidentally a serialized array/object?
+- Is any lesson merely a reworded duplicate?
+- Is the theory sufficient for the exercises?
+- Does the final situation demonstrate the target?
 
-- `STATUS`: COMPLETE / IN_PROGRESS / BLOCKED
-- what was completed;
-- files changed;
-- important findings;
-- unresolved issues;
-- exact next recommended task;
-- dependencies for the next agent.
+If any answer is no, repair before committing.
 
-A future agent should be able to continue from the repository alone.
+## H. Batch QA
 
-## Rule 11 — Never erase evidence
+Do not QA lessons only in isolation. Also check the batch for:
 
-Audits and reports are historical project evidence.
+- target coverage;
+- progression;
+- vocabulary ownership;
+- unnecessary overlap;
+- prerequisite violations;
+- repeated exercises with no pedagogical reason;
+- missing section outcomes;
+- weak mastery evidence.
 
-Do not rewrite an old audit to make it look cleaner. If a finding changes, add a dated/versioned correction or update the master state while preserving the original audit where practical.
+## I. Git discipline
 
-## Rule 12 — If blocked
+Prefer one bulk commit for one completed three-section batch.
 
-Do not invent missing information.
+Do not make one commit per lesson.
 
-Record:
+Before reporting completion:
 
-- what is missing;
-- why it matters;
-- what can still be done safely;
-- the exact unblock action.
+1. commit changes;
+2. verify the commit exists;
+3. verify the branch points to it;
+4. verify every expected file exists in the committed tree;
+5. if anything is missing, repair immediately and verify again.
 
-Continue with independent work that does not depend on the blocker when possible.
+Never report a planned change as completed.
 
-## Standard handoff format
+## J. Progress
 
-Use this structure in progress files:
+Update durable progress only after QA has passed.
+
+Use:
 
 ```text
 STATUS: COMPLETE
+
+BATCH:
+- ...
 
 COMPLETED:
 - ...
@@ -187,40 +170,58 @@ COMPLETED:
 FILES CHANGED:
 - ...
 
-KEY FINDINGS:
-- ...
+QA:
+- JSON: PASS
+- Schema: PASS
+- Slovak: PASS
+- Exercise logic: PASS
+- Localization: PASS
+- Progression/overlap: PASS
+- GitHub tree: PASS
 
 UNRESOLVED:
-- ...
+- none / ...
 
 NEXT TASK:
 - ...
-
-DEPENDENCIES:
-- ...
 ```
 
-## Agent startup checklist
+## K. Failure protocol
 
-Before work:
+If a hard defect is found:
 
-- [ ] Read `MASTER.md`
-- [ ] Read the relevant curriculum/knowledge/production files
-- [ ] Read progress and audit state
-- [ ] Inspect recent Git commits
-- [ ] Identify exact next task
-- [ ] Check for existing work to avoid duplication
+**STOP. Do not generate dependent content.**
 
-Before finishing:
+Then:
 
-- [ ] Validate changed content
-- [ ] Run/perform applicable QA
-- [ ] Update progress/handoff
-- [ ] Commit changes
-- [ ] State the exact next task
+1. identify the defect;
+2. repair it;
+3. parse again;
+4. repeat semantic/adversarial QA;
+5. commit the repair;
+6. verify GitHub;
+7. continue only after the repository is clean.
 
-## Core principle
+## L. No filler / no rework
 
-**The project must be resumable by a completely different agent tomorrow with zero access to today's conversation.**
+Never create content merely to hit a number.
 
-If an important decision exists only in chat and not in the repository, it is not yet part of the durable project state.
+Never overwrite good content with a weaker template-generated version.
+
+Never redo a completed section without evidence that it needs revision.
+
+Never change pedagogical content to compensate for an application bug.
+
+## M. User interaction
+
+The user's continuation signal is `+`.
+
+When the user sends `+`, the agent should execute the next repository-defined production task without asking what to do next, unless the repository contains a genuine blocker requiring user input.
+
+Status messages should be concise and factual.
+
+## N. Core rule
+
+**Quality and repository truth beat speed.**
+
+A smaller number of valid lessons is better than a larger number of broken lessons.

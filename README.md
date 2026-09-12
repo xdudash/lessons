@@ -1,64 +1,66 @@
 # SlovakGo — Dynamic CEFR Course
 
-This repository is the persistent source of truth for the SlovakGo A1–C2 course.
+This repository is the persistent source of truth for the SlovakGo Slovak-language course, A1–C2.
 
-## Project model
+## Non-negotiable project model
 
-- CEFR A1–C2
-- no predetermined total lesson count
-- no fixed lesson quota per level
-- no fixed lesson quota per section
-- minimum 3 lessons per section when lessons are required
-- larger sections receive more lessons when mastery requires them
-- no filler lessons
-- production in batches of at least 5 sections
-- batch-level QA and minimal Git commits
+- The course is **dynamic**. There is no predetermined total number of lessons.
+- There is no quota such as 10,000 lessons, 1,000 A1 lessons, or 40 lessons per section.
+- Lessons are created only when they are pedagogically required.
+- A section normally starts with **at least 3 lessons** when lessons are required.
+- A section may contain **3–6 lessons in a production batch**. If mastery later requires more, that is decided explicitly from evidence; never add filler to hit six.
+- Production is done in **batches of exactly 3 consecutive/coherent sections**.
+- The agent chooses the next batch automatically from the unfinished curriculum. The user only needs to confirm continuation.
+- The repository, not chat history, is the durable project memory.
 
-## Production philosophy
+## Lesson quality
 
-The curriculum determines the number of lessons. We first define outcomes, targets, prerequisites and mastery requirements; then we create the minimum number of substantial lessons needed to achieve them.
+`curriculum/GOLD_STANDARD_LESSON.md` and the canonical `lessons/a1/a1-s01-l01.json` define the quality floor.
 
-The pedagogical progression is:
+A production lesson must preserve the complete lesson envelope and must be materially substantial. The canonical reference contains 2 theory screens, 6 vocabulary items, 16 exercises and a 3-step final situation; these are the default production shape, not excuses for thin content or blind quotas.
 
-**NEW → STABILIZE → CONTRAST → TRANSFER → INTEGRATE → MASTERY**
+Every lesson must be valid JSON and use the required top-level envelope:
 
-These are learning functions, not fixed lesson slots.
+```json
+{"lessons":[{ /* complete lesson object */ }]}
+```
 
-## Batch workflow
+Never upload a bare lesson object when the importer expects the `lessons` array.
 
-For each production batch:
+## Mandatory batch workflow
 
-1. select at least 5 consecutive/coherent unfinished sections;
-2. determine the lesson count for every selected section, minimum 3;
-3. design the complete progression for each section;
-4. generate all planned lessons;
-5. run full batch QA, including cross-lesson overlap and progression;
-6. repair failures;
-7. run QA again;
-8. update progress at batch/section level;
-9. commit the batch with one main commit whenever possible;
-10. verify GitHub state.
+For each 3-section batch:
 
-## Quality
+1. Read `MASTER.md`, `AGENT_PROTOCOL.md`, active curriculum/knowledge files and progress.
+2. Inspect the current GitHub tree. Never assume previous work exists.
+3. Determine the three sections and their actual targets.
+4. Determine **3–6 lessons per section** from pedagogy, prerequisites, review, transfer and mastery needs.
+5. Write the complete lessons.
+6. Validate every JSON file before committing.
+7. Perform content QA: Slovak naturalness/correctness, CEFR fit, exercise-answer validity, localization, progression, duplication and structure.
+8. Repair every failed item.
+9. Run the validation again.
+10. Update progress/handoff.
+11. Commit the complete batch in one main commit whenever technically possible.
+12. Verify the resulting GitHub branch and file tree before reporting completion.
 
-The supplied `A1-S01-L01` is the canonical gold-standard reference. It defines the expected completeness and density, while allowing justified variation by lesson purpose.
+**No lesson is considered completed merely because a file was generated.**
 
-Content must remain pedagogically complete even when application/UI components have compatibility problems.
+## Never optimize around application bugs
+
+If the application fails to render a valid field, keep the pedagogically correct source and record the UI problem separately. Do not remove dialogue, context, target, situation, skill, result or other valid lesson data merely to make a broken UI accept it.
+
+## Superseded models
+
+The old 10,000-lesson plan, fixed A1 1,000-slot plan and 25×40 lesson map are historical only. They must never be used as generation quotas.
 
 ## Repository map
 
-- `MASTER.md` — master project rules and state
-- `AGENT_PROTOCOL.md` — continuation and production protocol
-- `curriculum/` — active course architecture and lesson-quality standard
-- `knowledge/` — inventories, prerequisites and target ownership intelligence
-- `lessons/` — active lesson JSON files
-- `audits/` — QA and historical evidence
-- `progress/` — durable batch/section progress and handoffs
-
-## Current state
-
-The active lesson tree has been reset. No lessons are currently active. The next production command starts from the beginning under the dynamic mastery model.
-
-## Historical note
-
-The former 10,000-lesson plan and fixed 1,000-lesson A1 allocation are retired. They must not be used as production quotas.
+- `MASTER.md` — authoritative project rules
+- `AGENT_PROTOCOL.md` — exact continuation/production protocol
+- `curriculum/COURSE_ARCHITECTURE_V2.md` — curriculum model
+- `curriculum/GOLD_STANDARD_LESSON.md` — lesson quality contract
+- `knowledge/` — targets, prerequisites and vocabulary ownership
+- `lessons/` — active lesson JSON
+- `audits/` — QA evidence
+- `progress/` — durable progress and handoff state

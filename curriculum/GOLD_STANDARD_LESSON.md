@@ -1,68 +1,71 @@
 # SlovakGo — Gold Standard Lesson
 
-## Status
+## STATUS: ACTIVE
 
-**ACTIVE**
+`lessons/a1/a1-s01-l01.json` is the canonical lesson-quality reference.
 
-## Canonical reference
+Its exact content is not a template to copy. Its **completeness, density, learner flow and structural integrity** are the reference.
 
-The user's supplied `A1-S01-L01` is the canonical reference for the expected completeness, density and pedagogical architecture of a SlovakGo lesson.
+## Canonical shape
 
-This file records the standard; it does not replace the original lesson JSON.
+The reference lesson contains:
 
-## Reference characteristics
-
-The canonical lesson contains:
-
-- complete lesson envelope and metadata;
-- clear title, topic and description;
+- valid top-level `{ "lessons": [ ... ] }` JSON envelope;
+- complete metadata;
+- title/topic/description;
 - 2 theory screens;
 - 6 vocabulary items;
 - 16 exercises;
-- broad exercise-type coverage;
+- varied exercise types;
 - grammar practice;
 - vocabulary practice;
-- contextual meaning practice;
+- reading/context practice;
 - dialogue practice;
-- reading practice;
 - writing/production practice;
+- contextualized meaning;
 - natural-phrase practice;
-- multi-step real-life final situation;
+- 3-step final real-life situation;
 - localized learner-facing content;
-- lesson completion/result structure.
+- result/completion structure.
 
-## Quality interpretation
+## Quality contract
 
-The exact counts above are characteristics of the canonical reference, not blind quotas. A future lesson may legitimately differ when its pedagogical target requires it, but it must not become materially thinner merely for production speed.
+A production lesson must provide a coherent learning arc:
 
-A new lesson should be judged by whether it gives the learner a comparable **complete learning arc**:
+1. clear target;
+2. sufficient explanation;
+3. useful examples;
+4. controlled recognition/use;
+5. contextual practice;
+6. meaningful production when appropriate;
+7. communication/real-life use;
+8. evidence of learning.
 
-1. introduce or activate a clear target;
-2. explain it sufficiently;
-3. provide examples;
-4. train recognition and controlled use;
-5. train contextual use;
-6. require meaningful communication/production where appropriate;
-7. connect the target to realistic situations;
-8. provide evidence of learning or mastery.
+The exact exercise count is a reference, not a blind quota. However, a lesson must never be made materially thinner merely for speed or convenience.
 
-## Anti-patterns
+## Hard failures
 
-A lesson fails the gold-standard review when it is primarily:
+Reject the lesson if:
 
-- a short list of words;
-- a few isolated multiple-choice questions;
-- a thin repetition of another lesson;
-- a lesson whose theory is too small to support its exercises;
-- a collection of exercises without a coherent progression;
-- reduced in quality because an application component cannot currently render one of its valid fields.
+- JSON does not parse;
+- the top-level `lessons` array is missing;
+- required fields are missing;
+- the structure differs from the established schema without explicit justification;
+- exercises have incorrect answers;
+- accepted answers do not solve the task;
+- Slovak is unnatural or incorrect;
+- translations contradict the Slovak;
+- learner-facing fields contain serialized arrays/objects;
+- theory does not support the exercises;
+- the lesson is primarily a thin word list or repetitive quiz;
+- the final situation does not demonstrate the target.
 
-## Relationship to existing lessons
+## QA order
 
-The 250 existing A1 lessons are historical source material. They must be audited against this standard rather than assumed to satisfy it automatically.
+**JSON → schema → Slovak → pedagogy → exercises → localization → progression → overlap → mastery.**
 
-The standard is applied to **L01–L10 as well as every later lesson**.
+Only after all applicable gates pass is the lesson production-final.
 
-## Relationship to course size
+## UI rule
 
-Gold-standard quality replaces numerical production targets. We create enough complete lessons to achieve CEFR outcomes and mastery, and no more.
+Application rendering bugs do not justify removing valid pedagogical fields. Source quality and application compatibility are separate concerns.

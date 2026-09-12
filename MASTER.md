@@ -1,158 +1,239 @@
-# SlovakGo — Master
+# SlovakGo — Master Rules
 
-## Mission
+## 1. Mission
 
-Build a complete Slovak course from A1 through C2 with **no predetermined lesson quota**. The final lesson count is determined by CEFR outcomes, curriculum coverage, progression and demonstrated mastery.
+Build a complete Slovak course from A1 through C2. Completeness is defined by CEFR outcomes, Slovak-specific grammar/vocabulary/functions, communicative competence, progression and demonstrated mastery.
 
-The former 10,000-lesson target is retired as a production quota. It remains historical project context only.
+**The final number of lessons is not known in advance.**
 
-## Source of truth
+The old 10,000-lesson target, 1,000-lesson A1 target and 40-lessons-per-section model are retired and must not influence production.
 
-The repository is the persistent course memory. Master curriculum, grammar, competencies, lesson-quality standard, exercise mechanics, production rules, review rules, QA rules, worker protocol, and progress files are authoritative.
+## 2. Source of truth
 
-The existing 250 A1 lessons remain the historical content baseline. They are not automatically accepted as final, and they are not automatically discarded. They must be mapped and audited against the current architecture.
+GitHub `main` is the authoritative durable state. Chat is not the project database.
 
-## Gold-standard lesson
+An agent must never claim that a lesson, batch, fix or instruction exists until it has verified the actual GitHub state.
 
-The user's supplied `A1-S01-L01` is the canonical **GOLD STANDARD** for lesson quality, completeness, density and pedagogical architecture.
+## 3. Course architecture
 
-Its content must be preserved as the reference lesson. Future lessons must not copy its content, but must meet its level of completeness rather than the undersized pilot standard used previously.
-
-The gold standard demonstrates:
-
-- 2 theory screens;
-- 6 vocabulary items;
-- 16 exercises;
-- broad exercise-type coverage;
-- grammar, vocabulary, reading, dialogue and writing practice;
-- contextualized meaning work;
-- natural-phrase work;
-- a multi-step real-life final situation;
-- localized content;
-- complete lesson metadata and screen structure.
-
-Exercise count is a quality signal, not a mechanical quota. A lesson must have enough depth to achieve its target.
-
-## Course architecture v2
-
-The course is **content-led, not quota-led**.
-
-Production order:
-
-1. define CEFR outcomes;
-2. define grammar, vocabulary, communicative functions and competencies;
-3. define prerequisites and mastery gates;
-4. map existing lessons, including A1 L01–L10;
-5. identify genuine gaps and unnecessary duplication;
-6. design complete lessons to close those gaps or deepen required mastery;
-7. validate mastery;
-8. stop when the defined outcome is genuinely achieved.
-
-The number of lessons is a result of this process, not an input constraint.
-
-See `curriculum/COURSE_ARCHITECTURE_V2.md` for the detailed active architecture.
-
-## A1 L01–L10 rule
-
-Every A1 section begins with its existing L01–L10 sequence as part of the actual curriculum.
-
-They must **not be skipped** when planning the section. They must be:
-
-- mapped to targets;
-- checked for prerequisites;
-- checked for progression;
-- audited for quality against the gold standard;
-- revised where necessary;
-- used as inputs to later review and transfer decisions.
-
-The old rule "L01–L10 are fixed baseline, generate from L11" is retired.
-
-## Lesson progression
-
-The course retains the progression:
-
-**NEW → STABILIZE → CONTRAST → TRANSFER → INTEGRATE → MASTERY**
-
-These are pedagogical functions, not fixed lesson numbers. A target may require different numbers of lessons depending on complexity and learner needs.
-
-## Complete lesson principle
-
-A full lesson should normally provide a coherent arc such as:
-
-**TARGET → THEORY → EXAMPLES → VOCABULARY → CONTROLLED PRACTICE → CONTRAST → CONTEXT → PRODUCTION → COMMUNICATION → REAL LIFE → MASTERY EVIDENCE**
-
-Not every lesson needs every exercise type, but lessons must be substantially complete and appropriate to their purpose. The gold-standard lesson is the density and architecture reference.
-
-## No filler
-
-Never create lessons merely to reach a number.
-
-A lesson must advance or consolidate a meaningful target: new knowledge, stabilization, contrast, transfer, fluency, accuracy, register, pragmatics, integrated skills, review or assessment.
-
-## Repetition
-
-Repetition is intentional when it supports:
-
-**NEW → REVIEW → TRANSFER → MASTERY**.
-
-Repeated vocabulary is not inherently a defect. The learner's use should become deeper, more flexible, more accurate or more contextually appropriate.
-
-## CEFR architecture
+CEFR progression:
 
 - A1 — forms and fundamentals
 - A2 — systems and controlled expansion
 - B1 — connections and independent communication
-- B2 — composition, complex syntax, register
-- C1 — choice, precision, advanced discourse
-- C2 — control, nuance, stylistic flexibility
+- B2 — composition, complex syntax and register
+- C1 — choice, precision and advanced discourse
+- C2 — control, nuance and stylistic flexibility
 
-Important boundary:
+Core pedagogical progression:
 
-**functional exposure ≠ grammatical mastery.**
+**NEW → STABILIZE → CONTRAST → TRANSFER → INTEGRATE → MASTERY**
 
-An A1 learner may encounter a useful high-frequency phrase containing a later-system form without claiming mastery of the complete later grammar.
+These are learning functions, not fixed lesson slots.
 
-## Production loop
+**Functional exposure is not grammatical mastery.** A learner may meet a useful expression before mastering the grammar system behind it.
 
-1. Read current master state and progress.
-2. Inspect the complete relevant section, including L01–L10 where they already exist.
-3. Check grammar/vocabulary/function inventories and prerequisites.
-4. Check existing target ownership and overlap.
-5. Design a lesson that meets the current gold-standard quality expectation.
-6. Validate schema, answer validity, Slovak naturalness, pedagogy, CEFR fit and progression.
-7. Perform adversarial QA.
-8. Repair rejected content.
-9. Update progress and handoff state.
-10. Commit the completed logical unit.
+## 4. Sections and lessons
 
-## Quality hierarchy
+Each CEFR level is divided into coherent sections. The number of lessons per section is dynamic.
 
-1. Slovak correctness and naturalness
-2. Pedagogical completeness
-3. CEFR appropriateness
-4. Prerequisite correctness
-5. Exercise validity
-6. Target ownership and progression
-7. Review/mastery integrity
-8. Localization quality
-9. Schema/UI compatibility
+When a section requires production, the initial production unit contains **3–6 complete lessons**. Three is the minimum starting point; six is not a quota. More lessons may be added only when mastery evidence requires them.
 
-Application limitations must never reduce pedagogical content. Record UI incompatibilities separately.
+Never manufacture lessons to reach a number.
 
-## Existing A1 audit baseline — 250 lessons
+## 5. Production batches
 
-The earlier structural audit remains historical evidence. It confirmed 250 files, 25 sections × 10 lessons, broad exercise coverage and no exact core lesson duplicates. It also identified a title collision and several areas needing explicit curriculum mapping.
+Production is performed in batches of **3 consecutive/coherent sections**.
 
-Those findings remain relevant, but **passing a structural audit is not equivalent to meeting the new gold-standard lesson quality**.
+For every batch:
 
-## Superseded planning model
+- determine targets before writing lessons;
+- determine lesson count independently for each section;
+- create the complete lessons;
+- QA the whole batch;
+- repair failures;
+- QA again;
+- update progress;
+- make one main Git commit whenever technically possible;
+- verify the committed tree.
 
-The former `25 sections × 40 lessons = 1,000 A1 slots` model is retired as a production quota.
+Do not create one commit per lesson.
 
-`curriculum/A1_1000_MAP.md`, the previous target registry, and the previous 10K allocation are historical planning artifacts. They must not force generation of lessons that the curriculum does not need.
+## 6. Canonical lesson
 
-## Current phase
+`lessons/a1/a1-s01-l01.json` is the canonical gold-standard lesson. Its content is reference material and must not be copied.
 
-**Phase 1 — Architecture reset and A1 remapping.**
+It establishes the expected quality, density and architecture. Its reference shape includes:
 
-Next gate: formally register the gold-standard lesson, map **all existing A1 L01–L10** against targets and prerequisites, audit their completeness against the new standard, then determine the true A1 lesson requirements before generating further content.
+- complete lesson envelope;
+- 2 theory screens;
+- 6 vocabulary items;
+- 16 exercises;
+- varied exercise mechanics;
+- grammar, vocabulary, reading, dialogue and writing practice;
+- contextual meaning;
+- natural phrases;
+- multi-step final situation;
+- localization;
+- result/completion structure.
+
+These counts are a default reference, not a reason to create shallow or repetitive material.
+
+## 7. JSON contract
+
+Every lesson file intended for import MUST be a valid JSON document with this top-level shape:
+
+```json
+{
+  "lessons": [
+    { "id": "a1-sXX-lYY", "sectionId": "a1-sXX", "level": "A1" }
+  ]
+}
+```
+
+A bare lesson object is invalid for this importer.
+
+Before commit, every lesson file must be parsed by a real JSON parser. Visual inspection is not enough.
+
+Duplicate object keys, truncated JSON, Python representations, malformed arrays, missing braces and misplaced fields are hard failures.
+
+## 8. Required lesson architecture
+
+A normal full lesson contains the established complete envelope:
+
+- id
+- sectionId
+- level
+- title
+- topic
+- description
+- order
+- xpReward
+- estimatedMinutes
+- isPublished
+- intro
+- completionMessage
+- updatedAt
+- localization
+- assets
+- startScreen
+- theoryScreens
+- wordsScreen
+- words
+- exercises
+- finalSituation
+- resultScreen
+
+The canonical reference is the final authority when an implementation detail is uncertain.
+
+## 9. Exercise integrity
+
+Every exercise must be solvable from its visible data.
+
+For every exercise QA must check:
+
+- type is supported;
+- instruction matches the task;
+- prompt/context/situation matches the target;
+- options are relevant;
+- exactly the intended answers are marked correct;
+- `acceptedAnswers` actually answer the prompt;
+- ordering/building answers correspond to the supplied tokens;
+- translations do not contradict the Slovak;
+- no placeholder or list representation is serialized into learner-facing text.
+
+A lesson with invalid exercise logic is rejected even if its JSON parses.
+
+## 10. Slovak quality
+
+Slovak is the target language and is the highest-priority content constraint.
+
+Reject:
+
+- invented or malformed Slovak;
+- unnatural sentences created by templates;
+- incomplete fragments presented as complete sentences;
+- wrong inflection or agreement;
+- semantically impossible answer choices;
+- translations that change the intended meaning.
+
+When uncertain, do not guess. Mark the item for review and resolve it before commit.
+
+## 11. Localization
+
+Learner-facing UI translations must be complete and natural in the supported UI languages.
+
+Do not serialize programming-language lists, objects or debugging representations into text fields.
+
+Slovak content belongs in Slovak fields; translations belong in translation/localization objects according to the established schema.
+
+## 12. Vocabulary ownership
+
+Vocabulary may repeat when repetition has a pedagogical role:
+
+**NEW → REVIEW → TRANSFER → MASTERY**.
+
+Do not duplicate a word merely because it is convenient for a lesson template.
+
+Check existing ownership before assigning new targets.
+
+## 13. QA gates
+
+A lesson/batch is accepted only after all applicable gates pass:
+
+1. valid JSON/schema;
+2. complete lesson envelope;
+3. Slovak correctness/naturalness;
+4. CEFR fit;
+5. prerequisite correctness;
+6. exercise validity;
+7. answer correctness;
+8. localization;
+9. target ownership;
+10. progression;
+11. meaningful review/transfer;
+12. no accidental duplication;
+13. mastery contribution;
+14. GitHub state verified.
+
+**Parsing success is only the first gate.**
+
+## 14. UI compatibility
+
+Do not delete or weaken valid pedagogical fields because the application currently fails to render them.
+
+Known UI limitations are implementation issues and must be tracked separately from content quality.
+
+## 15. Existing material
+
+Historical lessons and audits are evidence, not automatic approval. Existing material must be mapped and audited before being treated as production-final.
+
+Do not silently resurrect superseded fixed-slot content.
+
+## 16. Completion definition
+
+A section is complete when its defined outcomes, prerequisites, supporting vocabulary/functions, review/transfer requirements and mastery gate are satisfied.
+
+A batch is complete only when all lessons in it pass QA and the GitHub tree has been verified.
+
+## 17. Failure handling
+
+If any hard failure appears:
+
+**STOP → IDENTIFY → REPAIR → REVALIDATE → COMMIT.**
+
+Never continue generating more dependent content on top of known invalid content.
+
+## 18. Handoff
+
+Every production unit must leave durable progress containing:
+
+- STATUS;
+- completed work;
+- files changed;
+- QA result;
+- unresolved issues;
+- exact next task;
+- dependencies.
+
+The next agent must be able to continue from GitHub alone.
