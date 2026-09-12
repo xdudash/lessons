@@ -1,14 +1,14 @@
 # SlovakGo A1 — Master Lesson Plan
 
-This is the authoritative working lesson map for the current A1 build. It combines the current approved denser Section 02–05 design with the full thematic plan for Sections 06–14.
+This is the authoritative working lesson map for the current A1 build.
 
 ## Global rules
 - Target language: Slovak (`slovenčina`).
-- Learner-facing instructions/explanations: Ukrainian.
-- `lesson-181-a1_slovakgo.json` is a format/importer reference only; its number is never copied.
-- Lesson count is derived from pedagogical targets. The present map is the current working production map, not a sacred quota.
-- Each lesson uses the real working importer contract.
-- Production happens in coherent three-section batches, but section lesson count is determined independently.
+- Learner-facing instructions and explanations: Ukrainian.
+- `lesson-181-a1_slovakgo.json` is a format/importer reference only; its number is never copied into lesson numbering.
+- Lesson IDs and counts come from this map.
+- Lesson count is a pedagogical planning value, not a quota to fill blindly.
+- Production may happen in coherent three-section batches, but each section keeps its own lesson count.
 
 ## Current working map
 | Section | Theme | Lessons | IDs |
@@ -98,4 +98,4 @@ This is the authoritative working lesson map for the current A1 build. It combin
 81. A1 v praxi — integrated survival simulation
 
 ## Numbering note
-The repository currently contains legacy numerical lessons `a1-s03-l12`–`l17`. They are historical artifacts from an earlier mapping and are not used by this canonical working map. They must not be copied into new content or used as numbering references.
+The active repository intentionally contains only the lesson files listed in the current map. The old numerical `a1-s03-l12`–`l17` files were retired and removed; their content belongs to the Section 07 topic family and must be rebuilt there when that section is produced.
