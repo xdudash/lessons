@@ -1,71 +1,67 @@
 # SlovakGo — Gold Standard Lesson
 
-## STATUS: ACTIVE
+## Status
+ACTIVE
 
-`lessons/a1/a1-s01-l01.json` is the canonical lesson-quality reference.
+The gold standard is a **quality contract**, not a rigid lesson-count template. Use the known-working importer example to preserve the real JSON contract, and use the current master plan for IDs and lesson counts.
 
-Its exact content is not a template to copy. Its **completeness, density, learner flow and structural integrity** are the reference.
-
-## Canonical shape
-
-The reference lesson contains:
-
-- valid top-level `{ "lessons": [ ... ] }` JSON envelope;
-- complete metadata;
-- title/topic/description;
-- 2 theory screens;
-- 6 vocabulary items;
-- 16 exercises;
-- varied exercise types;
-- grammar practice;
-- vocabulary practice;
-- reading/context practice;
-- dialogue practice;
-- writing/production practice;
-- contextualized meaning;
-- natural-phrase practice;
-- 3-step final real-life situation;
-- localized learner-facing content;
-- result/completion structure.
-
-## Quality contract
-
-A production lesson must provide a coherent learning arc:
+## Required learning arc
+A strong lesson should move the learner through an appropriate combination of:
 
 1. clear target;
-2. sufficient explanation;
-3. useful examples;
-4. controlled recognition/use;
+2. understandable explanation;
+3. useful Slovak examples with Ukrainian support;
+4. controlled recognition and production;
 5. contextual practice;
-6. meaningful production when appropriate;
-7. communication/real-life use;
-8. evidence of learning.
+6. communication or transfer;
+7. evidence of learning.
 
-The exact exercise count is a reference, not a blind quota. However, a lesson must never be made materially thinner merely for speed or convenience.
+## Content density
+Use enough vocabulary and examples to make the target usable. Twelve meaningful lexical items is a useful current dense-lesson reference, not a blind quota. Add or reduce when the pedagogical target requires it.
+
+## JSON contract
+Every importable file must use the real working envelope:
+
+```json
+{
+  "lessons": [
+    {
+      "id": "a1-sXX-lYY",
+      "sectionId": "a1_sXX",
+      "level": "A1",
+      "startScreen": {},
+      "theoryScreens": [],
+      "wordsScreen": {},
+      "words": [],
+      "exercises": [],
+      "finalSituation": {},
+      "resultScreen": {}
+    }
+  ]
+}
+```
+
+Field-level details and supported exercise types are maintained in `AGENTS.md`, which is the operational source of truth.
+
+## Language contract
+- Slovak (`slovenčina`) is the target language.
+- Learner-facing instructions, prompts, explanations and UI text are Ukrainian.
+- Do not use Slovenian (`slovenščina`).
 
 ## Hard failures
-
-Reject the lesson if:
-
-- JSON does not parse;
-- the top-level `lessons` array is missing;
-- required fields are missing;
-- the structure differs from the established schema without explicit justification;
-- exercises have incorrect answers;
-- accepted answers do not solve the task;
-- Slovak is unnatural or incorrect;
-- translations contradict the Slovak;
-- learner-facing fields contain serialized arrays/objects;
+Reject a lesson when:
+- JSON does not parse or is truncated;
+- it uses a non-working schema or invented field names;
+- IDs/filenames/section numbers disagree with the master plan;
+- internal `wordId` or `lessonId` references are broken;
+- marked answers are wrong or unavailable;
+- Slovak is unnatural, malformed or semantically wrong;
+- Ukrainian learner-facing text contains accidental Slovak or debugging text;
 - theory does not support the exercises;
-- the lesson is primarily a thin word list or repetitive quiz;
-- the final situation does not demonstrate the target.
+- the final situation does not demonstrate the lesson target;
+- the lesson is filler, a thin word list, or repetitive without pedagogical purpose.
 
 ## QA order
+**JSON → importer contract → Slovak → pedagogy → exercises → localization → progression → overlap → transfer → GitHub read-back.**
 
-**JSON → schema → Slovak → pedagogy → exercises → localization → progression → overlap → mastery.**
-
-Only after all applicable gates pass is the lesson production-final.
-
-## UI rule
-
-Application rendering bugs do not justify removing valid pedagogical fields. Source quality and application compatibility are separate concerns.
+Real application import is a separate gate and is only PASS when actually run.
