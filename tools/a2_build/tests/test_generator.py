@@ -1,7 +1,7 @@
 import json, tempfile, unittest
 from pathlib import Path
 from tools.a2_build.model import PlanLesson, LessonCopy, OwnedTarget
-from tools.a2_build.generator import build_lesson, example_for
+from tools.a2_build.generator import SECTION_FOCUS, build_lesson, example_for
 from tools.a2_build.qa_a2 import check_file
 
 class GeneratorTests(unittest.TestCase):
@@ -47,6 +47,11 @@ class GeneratorTests(unittest.TestCase):
                 correct=[next(opt['sk'] for opt in step['options'] if opt['correct']) for step in doc['finalSituation']['steps']]
                 self.assertEqual(correct,[model[0] for model in profile.models])
                 self.assertFalse(any('скажи:' in prompt.lower() for prompt in prompts))
+
+    def test_past_sequence_focus_uses_potom_not_porom(self):
+        text=SECTION_FOCUS[3][2]
+        self.assertIn('potom',text)
+        self.assertNotIn('porom',text)
 
     def test_temporal_adverb_uses_matching_past_context(self):
         self.assertEqual(example_for('včera','учора'), ('Včera som bol doma.','Учора я був удома.'))
