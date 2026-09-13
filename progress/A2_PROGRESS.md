@@ -1,7 +1,7 @@
 # SlovakGo A2 — Progress
 
 ## Status
-**IN PROGRESS — 54 / 90 active lessons**
+**IN PROGRESS — 72 / 90 active lessons**
 
 A2 follows `A2/LESSON_PLAN.md`. A2 expands completed A1 and uses A1 vocabulary as prerequisite/review evidence.
 
@@ -15,9 +15,9 @@ A2 follows `A2/LESSON_PLAN.md`. A2 expands completed A1 and uses A1 vocabulary a
 - S07 `l37–l42` — complete
 - S08 `l43–l48` — complete
 - S09 `l49–l54` — complete
-- S10 `l55–l60` — planned
-- S11 `l61–l66` — planned
-- S12 `l67–l72` — planned
+- S10 `l55–l60` — complete
+- S11 `l61–l66` — complete
+- S12 `l67–l72` — complete
 - S13 `l73–l78` — planned
 - S14 `l79–l84` — planned
 - S15 `l85–l90` — planned
@@ -29,4 +29,4 @@ A2 follows `A2/LESSON_PLAN.md`. A2 expands completed A1 and uses A1 vocabulary a
 - A1→A2 ownership classification (NEW/REVIEW/TRANSFER/MASTERY).
 - Ukrainian learner UI; Slovak target language; `isPublished: false`.
 
-Next production batch begins at `l55`.
+Next production batch begins at `l73`.
