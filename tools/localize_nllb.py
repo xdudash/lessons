@@ -1,11 +1,13 @@
 from __future__ import annotations
 
 import gc
+import re
 
 import localize_a1_a2 as base
 
 MODEL = "facebook/nllb-200-distilled-600M"
 TARGET_CODES = {"en": "eng_Latn", "ru": "rus_Cyrl"}
+base.WEIRD = re.compile(r"[\u0370-\u03ff\u0590-\u05ff]")
 
 
 def translate_sources(strings: list[str], target: str) -> dict[str, str]:
@@ -26,12 +28,7 @@ def translate_sources(strings: list[str], target: str) -> dict[str, str]:
         for start in range(0, len(chunks), batch_size):
             batch = chunks[start:start + batch_size]
             inputs = tokenizer(batch, return_tensors="pt", padding=True, truncation=True, max_length=384)
-            generated = model.generate(
-                **inputs,
-                forced_bos_token_id=forced_bos,
-                max_new_tokens=192,
-                num_beams=1,
-            )
+            generated = model.generate(**inputs, forced_bos_token_id=forced_bos, max_new_tokens=192, num_beams=1)
             decoded = tokenizer.batch_decode(generated, skip_special_tokens=True)
             for src, dst in zip(batch, decoded):
                 dst = dst.strip()
