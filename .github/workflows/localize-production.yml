@@ -7,6 +7,7 @@ on:
       - .github/workflows/localize-production.yml
       - tools/localize_nllb.py
       - tools/localize_a1_a2.py
+      - tools/translation_fixes.py
       - tools/test_translation_regressions.py
 
 permissions:
@@ -43,20 +44,26 @@ jobs:
           m.WEIRD = re.compile(r'[\u0370-\u03ff\u0590-\u05ff]')
           m.audit_level(os.environ['LEVEL'])
           PY
-      - name: Validate lesson schema
+      - name: Checkout current SlovakGo app contract
+        uses: actions/checkout@v4
+        with:
+          repository: xdudash/slovakGo
+          ref: main
+          path: slovakgo
+      - name: Validate against current app schema
         run: |
           python - <<'PY'
           import json, pathlib, os
           from jsonschema import Draft202012Validator
           level=os.environ['LEVEL']
-          schema=json.loads(pathlib.Path('curriculum/lesson.schema.json').read_text())
+          schema=json.loads(pathlib.Path('slovakgo/curriculum/lesson.schema.json').read_text())
           v=Draft202012Validator(schema)
           files=sorted(pathlib.Path('lessons',level).glob(f'{level}-s*-l*.json'))
           errors=[]
           for p in files:
               data=json.loads(p.read_text())
               for e in v.iter_errors(data): errors.append(f'{p.name}: {e.message}')
-          print(f'SCHEMA {level}: files={len(files)} errors={len(errors)}')
+          print(f'CURRENT SCHEMA {level}: files={len(files)} errors={len(errors)}')
           if errors:
               print('\n'.join(errors[:100])); raise SystemExit(1)
           PY
@@ -75,6 +82,8 @@ jobs:
           assert 'nextLesson' not in lessons[-1].get('resultScreen',{})
           print(level, expected, 'inventory and chain OK')
           PY
+      - name: Validate against current app runtime checker
+        run: node --experimental-strip-types slovakgo/scripts/qa-lessons.ts "lessons/$LEVEL"
       - name: Commit lesson JSON only
         run: |
           git config user.name "github-actions[bot]"
