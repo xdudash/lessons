@@ -1,16 +1,15 @@
 # A1 Progress
 
 ## Current state
-**CLEAN / STABLE**
+**Section 01 rebuilt / QA review in progress**
 
-The repository currently contains the accepted active lesson set for Sections 01–05 only. Sections 06–14 are roadmap content and are not represented by generated lesson files.
+The repository contains the accepted active lesson set for Sections 01–05. Section 01 is the current rebuilt batch and follows the authoritative master lesson map: six lessons, `l01–l06`.
 
 ## Canonical rules
 - Target language: Slovak (`slovenčina`).
 - Learner-facing instructions, explanations and UI text: Ukrainian.
 - `lesson-181-a1_slovakgo.json` is a format/importer reference only; its number is never reused for lesson numbering.
 - Lesson IDs and counts come only from `curriculum/A1_MASTER_LESSON_PLAN.md`.
-- A production batch may contain three sections, but each section keeps its own planned lesson count.
 - `main` is the source of truth.
 
 ## Active lessons
@@ -22,27 +21,23 @@ The repository currently contains the accepted active lesson set for Sections 01
 | 04 | Things, possession and my world | `l23–l26` |
 | 05 | Home, rooms and location of things | `l27–l30` |
 
-## Retired material
-- Historical numerical `a1-s03-l12`–`l17` files are retired and removed. Numbers/time/dates belong to Section 07 in the canonical plan.
-- Temporary generated `l31–l81` lesson files were removed because they were not quality-controlled to the required standard.
-- Automatic generation scripts/workflows that could recreate those temporary files were removed.
-- Duplicate documents that restated the agent protocol were removed; `AGENTS.md` is now the single agent instruction source.
-- The old `audits/A1_250_AUDIT.md` document was removed because it described an obsolete build state.
+## Section 01 production
+- `a1-s01-l01` — Slovenská abeceda
+- `a1-s01-l02` — Samohlásky a spoluhlásky
+- `a1-s01-l03` — Slabičné r a l
+- `a1-s01-l04` — Mäkké spoluhlásky
+- `a1-s01-l05` — Dĺžka a dvojhlásky
+- `a1-s01-l06` — Prízvuk, intonácia a krátke správy
+
+## QA state
+Section 01 files have been reviewed against the mandatory lesson envelope, supported exercise types, local cross-references, vocabulary/screen consistency and the semantic QA rules. L04–L05 were repaired after review to remove untaught transfer items and improve lesson-target coverage.
+
+The repository's `tools/qa_a1.py` contains a known `nextLesson` assertion that conflicts with the mandatory JSON contract/AGENTS format at the Section 01 → Section 02 boundary. Do not claim repository-wide QA PASS until that canonical inconsistency is resolved and the script is actually executed.
+
+Real application import is a separate state and must not be claimed unless actually run.
 
 ## Full roadmap
 The full 14-section roadmap and lesson-by-lesson map is maintained in:
 - `curriculum/A1_MASTER_LESSON_PLAN.md` — authoritative lesson map.
 - `curriculum/COURSE_ARCHITECTURE_V2.md` — curriculum architecture and section goals.
 - `curriculum/GOLD_STANDARD_LESSON.md` — pedagogical/lesson quality reference.
-
-## Supporting knowledge
-- `knowledge/A1_INVENTORY.md`
-- `knowledge/A1_PREREQUISITE_GRAPH.md`
-- `knowledge/A1_VOCAB_OWNERSHIP.md`
-- `knowledge/a1_vocab_matrix/README.md`
-
-## QA state
-The active lesson set is the cleaned repository state. Future rebuilt sections must pass JSON/schema checks, semantic/adversarial review and repository read-back before being marked complete. Real application import is a separate state and must not be claimed unless actually run.
-
-## Next production rule
-When future sections are created, use the master lesson plan for exact IDs/counts, use the known-working lesson JSON only for format, generate the complete section before commit, QA the complete set, then read it back from `main`. Never restore the removed universal generators.
