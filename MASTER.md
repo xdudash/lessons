@@ -5,12 +5,12 @@ Build a complete Slovak course from A1 through C2. Completeness is defined by CE
 
 ## Source of truth
 - GitHub `main` is the durable repository state.
-- `curriculum/A1_MASTER_LESSON_PLAN.md` is the authoritative current A1 lesson map.
-- `curriculum/COURSE_ARCHITECTURE_V2.md` defines the curriculum architecture and section goals.
+- A1: `curriculum/A1_MASTER_LESSON_PLAN.md`.
+- A2: `A2/LESSON_PLAN.md`.
+- B1–C2: the corresponding level-folder `LESSON_PLAN.md`.
+- `curriculum/COURSE_ARCHITECTURE_V2.md` defines curriculum architecture.
 - `AGENTS.md` is the single operational contract for AI agents.
-- `curriculum/GOLD_STANDARD_LESSON.md` defines the lesson-quality floor.
-- Level folders `A1/` through `C2/` contain the lesson plans for each CEFR level.
-- Chat history is never a substitute for checking the repository.
+- Current SlovakGo application schema/runtime behavior is the lesson-format authority when it differs from stale local assumptions.
 
 ## Language
 - Target language: Slovak (`slovenčina`).
@@ -18,71 +18,31 @@ Build a complete Slovak course from A1 through C2. Completeness is defined by CE
 - Slovenian (`slovenščina`) must never be substituted for Slovak.
 
 ## Course volume targets
-These are practical working targets for course planning, not official CEFR vocabulary quotas or rigid lesson quotas:
+Working volumes guide planning but are not CEFR quotas: A1 ~80, A2 ~90, B1 ~100, B2 ~100, C1 ~90, C2 ~70. Final counts change only through deliberate curriculum revision; never add filler just to hit a number.
 
-| Level | Target lesson volume |
-|---|---:|
-| A1 | ~80 lessons |
-| A2 | ~90 lessons |
-| B1 | ~100 lessons |
-| B2 | ~100 lessons |
-| C1 | ~90 lessons |
-| C2 | ~70 lessons |
-| **Total** | **~530 lessons** |
-
-The final count can change when curriculum and mastery evidence justify it. Do not add filler lessons solely to hit a number.
-
-For each level, the corresponding folder contains its lesson-plan document. Lesson JSON is stored separately in the active lesson tree.
-
-## A1 production model
-The current A1 plan is the working roadmap. Lesson counts come from the master lesson map and can be revised only deliberately when pedagogical evidence requires it.
-
-Production may be organized in batches of three coherent sections, but **three sections never means three lessons per section**. The section's own approved lesson count always wins.
+The current approved A2 map contains 15 sections × 6 lessons = 90 active lessons. A2 expands completed A1 rather than restarting it.
 
 ## Learning progression
-The default learning arc is:
-
-**NEW → STABILIZE → CONTRAST → TRANSFER → INTEGRATE → MASTERY**
-
+NEW → STABILIZE → CONTRAST → TRANSFER → INTEGRATE → MASTERY.
 These are learning functions, not mandatory fixed screens.
 
 ## Lesson format
-The importer-compatible lesson format is established by the known-working lesson example used by the project. In particular, `lesson-181-a1_slovakgo.json` is a **format reference only**. Its number must never be copied into lesson numbering.
-
-The canonical top-level form is:
+The canonical envelope is level-generic:
 
 ```json
-{"lessons":[{"id":"a1-sXX-lYY", "sectionId":"a1_sXX", "level":"A1"}]}
+{"lessons":[{"id":"a2-sNN-lNN", "sectionId":"a2_sNN", "level":"A2"}]}
 ```
 
-The complete lesson structure must follow `AGENTS.md` and the real working importer contract.
+The complete lesson structure follows `AGENTS.md` plus the current SlovakGo application schema/runtime checker. Do not preserve an old A1-only mechanics list as a universal contract.
 
 ## Quality gates
-A lesson is production-final only after applicable checks pass:
+A production-final lesson must pass applicable gates: JSON/schema validity; runtime-compatible envelope and exercise encoding; natural Slovak; Ukrainian learner UI; CEFR/prerequisite fit; answer integrity; vocabulary ownership/review; progression/transfer; duplicate/obsolete-file checks; and remote GitHub read-back.
 
-1. JSON/schema validity;
-2. complete importer-compatible envelope;
-3. correct and natural Slovak;
-4. learner-facing Ukrainian;
-5. CEFR and prerequisite fit;
-6. exercise integrity and answer correctness;
-7. vocabulary ownership and meaningful review;
-8. progression and transfer;
-9. no accidental duplicates or obsolete files;
-10. GitHub tree/read-back verification.
-
-Real application import is a separate gate and must never be claimed unless actually run.
+A2 additionally requires A1→A2 ownership control and a full 90-lesson chain ending at terminal `a2-s15-l90`.
 
 ## Repository hygiene
-Keep one authoritative instruction document: `AGENTS.md`.
-Keep one authoritative A1 lesson map: `curriculum/A1_MASTER_LESSON_PLAN.md`.
-Keep one lesson-plan document inside each level folder `A1/` through `C2/`.
-Do not preserve obsolete generators, protocol duplicates, retired audits or historical lesson files in the active tree.
-Do not weaken valid lesson content to work around an application bug; track UI limitations separately.
+Keep one authoritative instruction document (`AGENTS.md`) and one authoritative lesson map per level. Temporary generators, one-shot workflows and stale audits are removed after successful production unless they have continuing value.
 
 ## Failure handling
-If a hard failure appears:
-
-**STOP → IDENTIFY → REPAIR → REVALIDATE THE WHOLE AFFECTED SET → COMMIT.**
-
+STOP → IDENTIFY → REPAIR → REVALIDATE THE WHOLE AFFECTED SET → COMMIT.
 Never continue dependent production on top of a known invalid state.
