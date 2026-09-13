@@ -4,6 +4,7 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Iterable, Sequence
 from .model import PlanLesson, LessonCopy, OwnedTarget
+from .natural_examples import EXAMPLES
 
 NOW='2026-09-13T21:30:00+02:00'
 
@@ -46,6 +47,7 @@ def punct(s:str)->str:
 
 def example_for(sk:str, uk:str)->tuple[str,str]:
     low=sk.lower().strip()
+    if low in EXAMPLES: return EXAMPLES[low]
     # controlled overrides for forms that are awkward under generic templates
     special={
       'byť taký/á':('Chcem byť taký.','Я хочу бути таким.'),
