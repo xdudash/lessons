@@ -1,0 +1,49 @@
+name: Google localization A2 L01 smoke
+
+on:
+  push:
+    branches: [localize-a2-production]
+    paths:
+      - .github/workflows/google-localization-smoke.yml
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Reset L01 and localize
+        env:
+          PYTHONUNBUFFERED: '1'
+        run: |
+          git fetch origin main
+          git checkout origin/main -- lessons/a2/a2-s01-l01.json
+          PYTHONPATH=tools python - <<'PY'
+          import json
+          from pathlib import Path
+          import localize_a1_a2 as base
+          import localize_google as g
+          p=Path('lessons/a2/a2-s01-l01.json')
+          doc=json.loads(p.read_text())
+          lesson=doc['lessons'][0]
+          sources=sorted(base.collect_sources(lesson))
+          original=g.translate_many
+          def big(texts, source_lang, target_lang, *, max_chars=2800, max_items=40):
+              return original(texts, source_lang, target_lang, max_chars=max_chars, max_items=max_items)
+          g.translate_many=big
+          translator=g.make_support_translator()
+          en=translator(sources,'en'); ru=translator(sources,'ru')
+          base.migrate_lesson(lesson, base.make_localizer(ru,en))
+          g.refine_word_lexicon([doc])
+          g.anchor_slovak_examples([doc])
+          print('TITLE', json.dumps(lesson['title'], ensure_ascii=False))
+          print('DESCRIPTION', json.dumps(lesson['description'], ensure_ascii=False))
+          print('COMPLETION', json.dumps(lesson['completionMessage'], ensure_ascii=False))
+          print('OUTCOMES', json.dumps(lesson['startScreen']['outcomes'], ensure_ascii=False))
+          print('THEORY', json.dumps(lesson['theoryScreens'], ensure_ascii=False))
+          print('WORDS', json.dumps([{k:w.get(k) for k in ('sk','uk','translation','example')} for w in lesson['words']], ensure_ascii=False))
+          PY
