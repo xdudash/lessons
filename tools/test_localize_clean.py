@@ -62,7 +62,15 @@ def test_regression_templates():
     assert m.fixed_translation("ru", "Впиши словацькою: «як / ніж».") == "Напиши по-словацки: «как / чем»."
 
 
+def test_rate_limit_backoff_policy():
+    assert m.rate_limit_delay(0) == 8
+    assert m.rate_limit_delay(1) == 16
+    assert m.rate_limit_delay(2) == 32
+    assert m.rate_limit_delay(3) == 45
+
+
 if __name__ == "__main__":
     test_structure_preserved()
     test_regression_templates()
+    test_rate_limit_backoff_policy()
     print("clean localization regression tests passed")
