@@ -7,8 +7,10 @@ on:
       - .github/workflows/localize-production.yml
       - tools/localize_nllb.py
       - tools/localize_a1_a2.py
+      - tools/localize_google.py
       - tools/translation_fixes.py
       - tools/test_translation_regressions.py
+      - tools/test_preserve_shape.py
 
 permissions:
   contents: write
@@ -24,7 +26,9 @@ jobs:
         with:
           python-version: '3.11'
       - name: Translation regression tests
-        run: PYTHONPATH=tools python tools/test_translation_regressions.py
+        run: |
+          PYTHONPATH=tools python tools/test_translation_regressions.py
+          PYTHONPATH=tools python tools/test_preserve_shape.py
       - name: Install dependencies
         run: |
           python -m pip install -q torch --index-url https://download.pytorch.org/whl/cpu
