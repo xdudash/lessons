@@ -15,7 +15,29 @@ def main() -> None:
     assert [len(x) for x in batches] == [1, 2], batches
     assert sum(len(x) for x in batches) == 3
 
-    print("google batch parser tests passed")
+    assert m.choose_lexical_candidate(
+        source_uk="симпатичний",
+        uk_candidate="sympathetic",
+        uk_back="співчутливий",
+        sk_candidate="likable",
+        sk_back="симпатичний",
+    ) == "likable"
+    assert m.choose_lexical_candidate(
+        source_uk="спокійний",
+        uk_candidate="calm",
+        uk_back="спокійний",
+        sk_candidate="peaceful",
+        sk_back="мирний",
+    ) == "calm"
+    assert m.choose_lexical_candidate(
+        source_uk="милий",
+        uk_candidate="nice",
+        uk_back="приємний",
+        sk_candidate="dear",
+        sk_back="дорогий",
+    ) == "nice"
+
+    print("google batch and lexical-selection tests passed")
 
 
 if __name__ == "__main__":
