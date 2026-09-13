@@ -1,4 +1,4 @@
-name: Review generated A2 lessons
+name: Export full A2 review corpus
 
 on:
   push:
@@ -21,23 +21,9 @@ jobs:
           python-version: '3.13'
       - name: Run generator regressions
         run: python3 -m unittest discover -s tools/a2_build/tests -v
-      - name: Generate review corpus
-        run: python3 -m tools.a2_build.build --root . --out /tmp/a2 --from 1 --to 90 --manifest /tmp/a2-ownership.json
-      - name: Package representative lessons
-        shell: bash
-        run: |
-          set -euo pipefail
-          mkdir -p /tmp/a2-review
-          cp /tmp/a2/a2-s01-l01.json /tmp/a2-review/
-          cp /tmp/a2/a2-s03-l13.json /tmp/a2-review/
-          cp /tmp/a2/a2-s04-l19.json /tmp/a2-review/
-          cp /tmp/a2/a2-s06-l32.json /tmp/a2-review/
-          cp /tmp/a2/a2-s07-l40.json /tmp/a2-review/
-          cp /tmp/a2/a2-s11-l61.json /tmp/a2-review/
-          cp /tmp/a2/a2-s13-l75.json /tmp/a2-review/
-          cp /tmp/a2/a2-s14-l82.json /tmp/a2-review/
-          cp /tmp/a2/a2-s15-l90.json /tmp/a2-review/
+      - name: Generate all 90 review lessons
+        run: python3 -m tools.a2_build.build --root . --out /tmp/a2-review --from 1 --to 90 --manifest /tmp/a2-ownership.json
       - uses: actions/upload-artifact@v4
         with:
-          name: a2-review-corpus
+          name: a2-full-review-corpus
           path: /tmp/a2-review
