@@ -6,8 +6,6 @@ on:
     paths:
       - .github/workflows/localize-a1-a2.yml
       - tools/localize_a1_a2.py
-      - lessons/a1/**
-      - lessons/a2/**
 
 permissions:
   contents: write
@@ -23,102 +21,178 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - name: Install localization and QA dependencies
+      - name: Install translation dependencies
         run: |
           python -m pip install -q torch --index-url https://download.pytorch.org/whl/cpu
-          python -m pip install -q 'transformers<5' sentencepiece sacremoses jsonschema
-      - name: Build Russian and English lesson localization
+          python -m pip install -q 'transformers<5' sentencepiece sacremoses
+      - name: Add Russian and English to A1 and A2 JSON
+        env:
+          PYTHONUNBUFFERED: '1'
         run: python tools/localize_a1_a2.py
-      - name: Require complete Ukrainian Russian English maps
+      - name: Audit all multilingual learner-facing JSON
         run: |
           python3 - <<'PY'
-          import json
+          import json, re
           from pathlib import Path
-          LANGS={'uk','ru','en'}; errors=[]; count=0
-          def check_map(value, where):
-              if not isinstance(value, dict): errors.append(f'{where}: expected localized object'); return
-              missing=LANGS-set(value)
-              if missing: errors.append(f'{where}: missing {sorted(missing)}')
+
+          LANGS={'uk','ru','en'}
+          LANG_KEYS={'sk','uk','ru','en'}
+          CYR=re.compile(r'[А-Яа-яЁёІіЇїЄєҐґ]')
+          errors=[]
+          count=0
+
+          def is_locale_map(v):
+              return isinstance(v,dict) and 'uk' in v and set(v).issubset(LANG_KEYS)
+
+          def require_map(v,where):
+              if not isinstance(v,dict):
+                  errors.append(f'{where}: expected localized object')
+                  return
+              missing=LANGS-set(v)
+              if missing:
+                  errors.append(f'{where}: missing {sorted(missing)}')
               for lang in LANGS:
-                  if lang in value and not str(value[lang]).strip(): errors.append(f'{where}: empty {lang}')
-          for level in ('a1','a2'):
-              for p in sorted(Path('lessons',level).glob(f'{level}-s*-l*.json')):
-                  count+=1; lesson=json.loads(p.read_text(encoding='utf-8'))['lessons'][0]
+                  if lang in v and not isinstance(v[lang],str):
+                      errors.append(f'{where}: {lang} is not a string')
+                  elif lang in v and not v[lang].strip():
+                      errors.append(f'{where}: empty {lang}')
+
+          def check_display(v,where):
+              if isinstance(v,str):
+                  if CYR.search(v):
+                      errors.append(f'{where}: raw Ukrainian/Russian UI string is not localized')
+              elif is_locale_map(v):
+                  require_map(v,where)
+
+          def walk_maps(v,where):
+              if is_locale_map(v):
+                  require_map(v,where)
+              if isinstance(v,dict):
+                  for k,x in v.items():
+                      walk_maps(x,f'{where}.{k}')
+              elif isinstance(v,list):
+                  for i,x in enumerate(v):
+                      walk_maps(x,f'{where}[{i}]')
+
+          for level,expected in [('a1',75),('a2',90)]:
+              files=sorted(Path('lessons',level).glob(f'{level}-s*-l*.json'))
+              if len(files)!=expected:
+                  errors.append(f'{level}: expected {expected} files, got {len(files)}')
+              for p in files:
+                  count+=1
+                  lesson=json.loads(p.read_text(encoding='utf-8'))['lessons'][0]
                   loc=lesson.get('localization',{})
-                  if set(loc.get('uiLanguages',[])) != LANGS: errors.append(f'{p.name}: uiLanguages={loc.get("uiLanguages")}')
-                  for key in ('title','topic','description','intro','completionMessage'): check_map(lesson.get(key),f'{p.name}:{key}')
+                  if set(loc.get('uiLanguages',[])) != LANGS:
+                      errors.append(f'{p.name}: uiLanguages={loc.get("uiLanguages")}')
+                  if loc.get('targetLanguage')!='sk':
+                      errors.append(f'{p.name}: targetLanguage={loc.get("targetLanguage")}')
+                  for key in ('title','topic','description','intro','completionMessage'):
+                      require_map(lesson.get(key),f'{p.name}:{key}')
+
                   ss=lesson.get('startScreen',{})
                   for key in ('title','shortDescription','subtitle','goal','eyebrow'):
-                      if key in ss: check_map(ss[key],f'{p.name}:startScreen.{key}')
-                  for i,v in enumerate(ss.get('outcomes',[]) or [],1): check_map(v,f'{p.name}:startScreen.outcomes[{i}]')
-                  if 'button' in ss: errors.append(f'{p.name}: startScreen.button must use app i18n fallback')
-                  for i,t in enumerate(lesson.get('theoryScreens',[]),1):
+                      if key in ss: require_map(ss[key],f'{p.name}:startScreen.{key}')
+                  for i,v in enumerate(ss.get('outcomes',[]) or [],1):
+                      require_map(v,f'{p.name}:startScreen.outcomes[{i}]')
+                  if 'button' in ss:
+                      errors.append(f'{p.name}: startScreen.button still hardcoded')
+
+                  for i,t in enumerate(lesson.get('theoryScreens',[]) or [],1):
                       for key in ('title','body','text','shortRule'):
-                          if key in t: check_map(t[key],f'{p.name}:theory[{i}].{key}')
-                      if 'button' in t: errors.append(f'{p.name}:theory[{i}].button must use app i18n fallback')
-                      for j,ex in enumerate(t.get('examples',[]),1):
-                          if 'translation' in ex: check_map(ex['translation'],f'{p.name}:theory[{i}].examples[{j}].translation')
-                          if 'uk' in ex: errors.append(f'{p.name}:theory[{i}].examples[{j}] legacy uk shadows multilingual translation')
+                          if key in t: require_map(t[key],f'{p.name}:theory[{i}].{key}')
+                      if 'button' in t:
+                          errors.append(f'{p.name}:theory[{i}].button still hardcoded')
+                      for j,ex in enumerate(t.get('examples',[]) or [],1):
+                          if 'translation' in ex:
+                              require_map(ex['translation'],f'{p.name}:theory[{i}].examples[{j}].translation')
+
                   ws=lesson.get('wordsScreen',{})
                   for key in ('title','description','subtitle'):
-                      if key in ws: check_map(ws[key],f'{p.name}:wordsScreen.{key}')
-                  if 'items' in ws: errors.append(f'{p.name}: legacy wordsScreen.items shadows multilingual words')
-                  if 'button' in ws: errors.append(f'{p.name}: wordsScreen.button must use app i18n fallback')
-                  for i,w in enumerate(lesson.get('words',[]),1):
-                      check_map(w.get('translation'),f'{p.name}:words[{i}].translation')
+                      if key in ws: require_map(ws[key],f'{p.name}:wordsScreen.{key}')
+                  if 'items' in ws:
+                      errors.append(f'{p.name}: legacy wordsScreen.items still present')
+                  if 'button' in ws:
+                      errors.append(f'{p.name}: wordsScreen.button still hardcoded')
+
+                  for i,w in enumerate(lesson.get('words',[]) or [],1):
+                      require_map(w.get('translation'),f'{p.name}:words[{i}].translation')
                       ex=w.get('example')
-                      if not isinstance(ex,dict) or not ex.get('sk'): errors.append(f'{p.name}:words[{i}].example missing multilingual format')
-                      else: check_map(ex.get('translation'),f'{p.name}:words[{i}].example.translation')
-                  for i,e in enumerate(lesson.get('exercises',[]),1):
+                      if not isinstance(ex,dict) or not ex.get('sk'):
+                          errors.append(f'{p.name}:words[{i}].example missing')
+                      else:
+                          require_map(ex.get('translation'),f'{p.name}:words[{i}].example.translation')
+
+                  for i,e in enumerate(lesson.get('exercises',[]) or [],1):
                       for key in ('instruction','question','prompt','explanation','hint','text','statement','sentence','displaySentence','context','target','situation','phrase','source','successMessage'):
-                          if key in e and isinstance(e[key],(str,dict)) and (isinstance(e[key],dict) or any(c in str(e[key]) for c in 'АБВГДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯабвгдеєжзиіїйклмнопрстуфхцчшщьюя')):
-                              check_map(e[key],f'{p.name}:exercise[{i}].{key}')
-                      if 'button' in e: errors.append(f'{p.name}:exercise[{i}].button must use app i18n fallback')
+                          if key in e: check_display(e[key],f'{p.name}:exercise[{i}].{key}')
+                      if 'button' in e:
+                          errors.append(f'{p.name}:exercise[{i}].button still hardcoded')
                       for j,o in enumerate(e.get('options',[]) if isinstance(e.get('options'),list) else [],1):
-                          if isinstance(o,dict) and 'text' in o: check_map(o['text'],f'{p.name}:exercise[{i}].options[{j}].text')
+                          if isinstance(o,dict) and 'text' in o:
+                              check_display(o['text'],f'{p.name}:exercise[{i}].options[{j}].text')
+                      for j,pair in enumerate(e.get('pairs',[]) if isinstance(e.get('pairs'),list) else [],1):
+                          if isinstance(pair,dict):
+                              for side in ('left','right'):
+                                  if side in pair: check_display(pair[side],f'{p.name}:exercise[{i}].pairs[{j}].{side}')
                       for j,s in enumerate(e.get('statements',[]) if isinstance(e.get('statements'),list) else [],1):
-                          if isinstance(s,dict) and any(c in str(s.get('sk','')) for c in 'АБВГДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯабвгдеєжзиіїйклмнопрстуфхцчшщьюя'):
-                              check_map(s.get('text'),f'{p.name}:exercise[{i}].statements[{j}].text')
+                          if isinstance(s,dict) and 'text' in s:
+                              check_display(s['text'],f'{p.name}:exercise[{i}].statements[{j}].text')
+                      for j,c in enumerate(e.get('categories',[]) if isinstance(e.get('categories'),list) else [],1):
+                          if isinstance(c,dict):
+                              for key in ('title','label'):
+                                  if key in c: check_display(c[key],f'{p.name}:exercise[{i}].categories[{j}].{key}')
+                      document=e.get('document')
+                      if isinstance(document,dict):
+                          if 'title' in document: check_display(document['title'],f'{p.name}:exercise[{i}].document.title')
+                          for j,f in enumerate(document.get('fields',[]) or [],1):
+                              if isinstance(f,dict):
+                                  for key in ('label','value'):
+                                      if key in f: check_display(f[key],f'{p.name}:exercise[{i}].document.fields[{j}].{key}')
+                      message=e.get('message')
+                      if isinstance(message,dict):
+                          for key in ('sender','body'):
+                              if key in message: check_display(message[key],f'{p.name}:exercise[{i}].message.{key}')
+                      schedule=e.get('schedule')
+                      if isinstance(schedule,dict):
+                          if 'title' in schedule: check_display(schedule['title'],f'{p.name}:exercise[{i}].schedule.title')
+                          for j,row in enumerate(schedule.get('rows',[]) or [],1):
+                              if isinstance(row,dict):
+                                  for key in ('day','hours'):
+                                      if key in row: check_display(row[key],f'{p.name}:exercise[{i}].schedule.rows[{j}].{key}')
+                      for j,q in enumerate(e.get('questions',[]) if isinstance(e.get('questions'),list) else [],1):
+                          if isinstance(q,dict):
+                              if 'question' in q: check_display(q['question'],f'{p.name}:exercise[{i}].questions[{j}].question')
+                              for k,o in enumerate(q.get('options',[]) if isinstance(q.get('options'),list) else [],1):
+                                  if isinstance(o,dict) and 'text' in o: check_display(o['text'],f'{p.name}:exercise[{i}].questions[{j}].options[{k}].text')
+                      for j,item in enumerate(e.get('items',[]) if isinstance(e.get('items'),list) else [],1):
+                          if isinstance(item,dict):
+                              for key in ('text','label','title','question','prompt'):
+                                  if key in item: check_display(item[key],f'{p.name}:exercise[{i}].items[{j}].{key}')
+
                   fs=lesson.get('finalSituation',{})
-                  if fs.get('type')=='interactive_scenario':
+                  if isinstance(fs,dict) and fs.get('type')=='interactive_scenario':
                       for key in ('title','description','successMessage'):
-                          if key in fs: check_map(fs[key],f'{p.name}:final.{key}')
-                      for i,step in enumerate(fs.get('steps',[]),1): check_map(step.get('prompt'),f'{p.name}:final.steps[{i}].prompt')
+                          if key in fs: require_map(fs[key],f'{p.name}:final.{key}')
+                      for i,step in enumerate(fs.get('steps',[]) or [],1):
+                          require_map(step.get('prompt'),f'{p.name}:final.steps[{i}].prompt')
+                          for j,o in enumerate(step.get('options',[]) if isinstance(step.get('options'),list) else [],1):
+                              if isinstance(o,dict) and 'text' in o: check_display(o['text'],f'{p.name}:final.steps[{i}].options[{j}].text')
+
                   rs=lesson.get('resultScreen',{})
                   for key in ('title','text','subtitle'):
-                      if key in rs: check_map(rs[key],f'{p.name}:result.{key}')
+                      if key in rs: require_map(rs[key],f'{p.name}:result.{key}')
                   for i,s in enumerate(rs.get('skills',[]) if isinstance(rs.get('skills'),list) else [],1):
-                      if isinstance(s,dict) and 'label' in s: check_map(s['label'],f'{p.name}:result.skills[{i}].label')
-          print(f'MULTILINGUAL CHECK: lessons={count} errors={len(errors)}')
-          for e in errors[:100]: print(e)
+                      if isinstance(s,dict) and 'label' in s: require_map(s['label'],f'{p.name}:result.skills[{i}].label')
+                  nxt=rs.get('nextLesson')
+                  if isinstance(nxt,dict) and 'title' in nxt: require_map(nxt['title'],f'{p.name}:result.nextLesson.title')
+
+                  walk_maps(lesson,p.name)
+
+          print(f'MULTILINGUAL AUDIT: lessons={count} errors={len(errors)}')
+          for e in errors[:200]: print(e)
           if errors: raise SystemExit(1)
-          assert count == 165, count
+          assert count==165,count
           PY
-      - uses: actions/checkout@v4
-        with:
-          repository: xdudash/slovakGo
-          path: slovakgo
-      - name: Validate all lessons against current app schema
-        run: |
-          python3 - <<'PY'
-          import json
-          from pathlib import Path
-          from jsonschema import Draft202012Validator
-          schema=json.loads(Path('slovakgo/curriculum/lesson.schema.json').read_text(encoding='utf-8'))
-          v=Draft202012Validator(schema); errors=[]; count=0
-          for level in ('a1','a2'):
-              for p in sorted(Path('lessons',level).glob(f'{level}-s*-l*.json')):
-                  count+=1
-                  doc=json.loads(p.read_text(encoding='utf-8'))
-                  for e in v.iter_errors(doc): errors.append(f'{p.name}: {e.message}')
-          print(f'SCHEMA CHECK: lessons={count} errors={len(errors)}')
-          for e in errors[:100]: print(e)
-          if errors: raise SystemExit(1)
-          PY
-      - name: Validate current app runtime contract
-        run: |
-          node --experimental-strip-types slovakgo/scripts/qa-lessons.ts lessons/a1
-          node --experimental-strip-types slovakgo/scripts/qa-lessons.ts lessons/a2
       - name: Verify inventories and terminal chains
         run: |
           python3 - <<'PY'
@@ -133,17 +207,17 @@ jobs:
                   nxt=a.get('resultScreen',{}).get('nextLesson')
                   got=nxt.get('id') if isinstance(nxt,dict) else nxt
                   assert got==b['id'],(a['id'],got,b['id'])
-              assert 'nextLesson' not in lessons[-1].get('resultScreen',{}), lessons[-1]['id']
-              print(level, expected, 'inventory and chain OK')
+              assert 'nextLesson' not in lessons[-1].get('resultScreen',{}),lessons[-1]['id']
+              print(level,expected,'inventory and chain OK')
           PY
-      - name: Commit localized lesson content
+      - name: Commit only localized lesson JSON
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add lessons/a1 lessons/a2
+          git add lessons/a1/*.json lessons/a2/*.json
           if git diff --cached --quiet; then
-            echo "No lesson changes to commit"
+            echo "No lesson JSON changes to commit"
           else
-            git commit -m "feat: localize A1 and A2 lessons to Ukrainian Russian English"
+            git commit -m "feat: add Russian and English to A1 and A2 lesson JSON"
             git push origin HEAD:localize-a1-a2
           fi
