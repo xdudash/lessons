@@ -1,7 +1,7 @@
 import json, tempfile, unittest
 from pathlib import Path
 from tools.a2_build.model import PlanLesson, LessonCopy, OwnedTarget
-from tools.a2_build.generator import build_lesson
+from tools.a2_build.generator import build_lesson, example_for
 from tools.a2_build.qa_a2 import check_file
 
 class GeneratorTests(unittest.TestCase):
@@ -25,5 +25,23 @@ class GeneratorTests(unittest.TestCase):
     def test_terminal_omits_nextlesson(self):
         p,c,o=self.sample(); p=PlanLesson(15,90,'a2-s15-l90','A2 v praxi','x',p.mapped_targets); doc=build_lesson(p,c,o,None)
         self.assertNotIn('nextLesson',doc['lessons'][0]['resultScreen'])
+
+    def test_temporal_adverb_uses_matching_past_context(self):
+        self.assertEqual(example_for('včera','учора'), ('Včera som bol doma.','Учора я був удома.'))
+
+    def test_future_chunk_is_not_prefixed_with_chcem(self):
+        self.assertEqual(example_for('budem pracovať','я буду працювати'), ('Budem pracovať.','Я буду працювати.'))
+
+    def test_past_reflexive_chunk_keeps_its_tense(self):
+        self.assertEqual(example_for('stretli sme sa','ми зустрілися'), ('Stretli sme sa.','Ми зустрілися.'))
+
+    def test_unaccented_masculine_adjective_gets_copula(self):
+        self.assertEqual(example_for('aktívny','активний'), ('Je aktívny.','Він активний.'))
+
+    def test_incomplete_past_prefix_gets_a_real_completion(self):
+        self.assertEqual(example_for('ráno som','вранці я…'), ('Ráno som bol doma.','Вранці я був удома.'))
+
+    def test_temporal_noun_phrase_is_used_in_a_sentence(self):
+        self.assertEqual(example_for('minulý víkend','минулі вихідні'), ('Minulý víkend som bol doma.','Минулі вихідні я був удома.'))
 
 if __name__=='__main__': unittest.main()
