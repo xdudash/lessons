@@ -44,4 +44,19 @@ class GeneratorTests(unittest.TestCase):
     def test_temporal_noun_phrase_is_used_in_a_sentence(self):
         self.assertEqual(example_for('minulý víkend','минулі вихідні'), ('Minulý víkend som bol doma.','Минулі вихідні я був удома.'))
 
+    def test_ost_noun_is_not_mistaken_for_an_infinitive(self):
+        self.assertEqual(example_for('skúsenosť','досвід'), ('To je skúsenosť.','Це досвід.'))
+
+    def test_single_finite_future_verb_is_a_sentence(self):
+        self.assertEqual(example_for('pôjdem','я піду / поїду'), ('Pôjdem zajtra.','Я піду / поїду завтра.'))
+
+    def test_spatial_prepositional_chunk_gets_context(self):
+        self.assertEqual(example_for('na rohu','на розі'), ('Stretneme sa na rohu.','Зустрінемося на розі.'))
+
+    def test_frequency_adverb_gets_natural_context(self):
+        self.assertEqual(example_for('často','часто'), ('Často chodím pešo.','Я часто ходжу пішки.'))
+
+    def test_direction_adverb_gets_location_context(self):
+        self.assertEqual(example_for('vpravo','праворуч'), ('Obchod je vpravo.','Магазин праворуч.'))
+
 if __name__=='__main__': unittest.main()
