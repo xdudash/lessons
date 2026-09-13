@@ -56,7 +56,7 @@ def example_for(sk:str, uk:str)->tuple[str,str]:
       'kvôli tomu, že':('Meškám kvôli tomu, že nejde autobus.','Я запізнююся, бо автобус не їде.'),
       'záleží na':('Záleží na situácii.','Це залежить від ситуації.'),
       'keby':('Keby som mal čas, išiel by som.','Якби я мав час, я б пішов.'),
-      'zajtra namiesto':('Prídem zajtra namiesto dnes.','Я прийду завтра замість сьогодні.'),
+      'zajtra namiesto':('Prídem zajtra, nie dnes.','Я прийду завтра, не сьогодні.'),
       'doma byť':('Zajtra budem doma.','Завтра я буду вдома.'),
       'potreba opravy':('Je tu potreba opravy.','Тут потрібен ремонт.'),
       'radšej by som':('Radšej by som zostal doma.','Я б радше залишився вдома.'),
