@@ -1,0 +1,4177 @@
+[
+  {
+    "lessonId": "a2-s01-l01",
+    "targets": [
+      {
+        "sk": "milý",
+        "uk": "милий",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "sympatický",
+        "uk": "симпатичний",
+        "status": "NEW"
+      },
+      {
+        "sk": "veselý",
+        "uk": "веселий",
+        "status": "NEW"
+      },
+      {
+        "sk": "tichý",
+        "uk": "тихий",
+        "status": "NEW"
+      },
+      {
+        "sk": "pokojný",
+        "uk": "спокійний",
+        "status": "NEW"
+      },
+      {
+        "sk": "aktívny",
+        "uk": "активний",
+        "status": "NEW"
+      },
+      {
+        "sk": "lenivý",
+        "uk": "лінивий",
+        "status": "NEW"
+      },
+      {
+        "sk": "pracovitý",
+        "uk": "працьовитий",
+        "status": "NEW"
+      },
+      {
+        "sk": "zaujímavý",
+        "uk": "цікавий",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "byť taký/á",
+        "uk": "бути таким/такою",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s01-l02",
+    "targets": [
+      {
+        "sk": "rád",
+        "uk": "охоче / люблю",
+        "status": "NEW"
+      },
+      {
+        "sk": "nerád",
+        "uk": "неохоче / не люблю",
+        "status": "NEW"
+      },
+      {
+        "sk": "baví ma",
+        "uk": "мені подобається це робити",
+        "status": "NEW"
+      },
+      {
+        "sk": "nebaví ma",
+        "uk": "мені не подобається це робити",
+        "status": "NEW"
+      },
+      {
+        "sk": "zaujíma ma",
+        "uk": "мене цікавить",
+        "status": "NEW"
+      },
+      {
+        "sk": "nezaujíma ma",
+        "uk": "мене не цікавить",
+        "status": "NEW"
+      },
+      {
+        "sk": "často",
+        "uk": "часто",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "niekedy",
+        "uk": "іноді",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "málokedy",
+        "uk": "рідко",
+        "status": "NEW"
+      },
+      {
+        "sk": "vôbec",
+        "uk": "зовсім",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s01-l03",
+    "targets": [
+      {
+        "sk": "rodičia",
+        "uk": "батьки",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "starí rodičia",
+        "uk": "дідусь і бабуся",
+        "status": "NEW"
+      },
+      {
+        "sk": "vnuk",
+        "uk": "онук",
+        "status": "NEW"
+      },
+      {
+        "sk": "vnučka",
+        "uk": "онука",
+        "status": "NEW"
+      },
+      {
+        "sk": "strýko",
+        "uk": "дядько",
+        "status": "NEW"
+      },
+      {
+        "sk": "teta",
+        "uk": "тітка",
+        "status": "NEW"
+      },
+      {
+        "sk": "sesternica",
+        "uk": "двоюрідна сестра",
+        "status": "NEW"
+      },
+      {
+        "sk": "bratranec",
+        "uk": "двоюрідний брат",
+        "status": "NEW"
+      },
+      {
+        "sk": "ženatý",
+        "uk": "одружений",
+        "status": "NEW"
+      },
+      {
+        "sk": "vydatá",
+        "uk": "заміжня",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s01-l04",
+    "targets": [
+      {
+        "sk": "kamarát",
+        "uk": "друг",
+        "status": "NEW"
+      },
+      {
+        "sk": "kamarátka",
+        "uk": "подруга",
+        "status": "NEW"
+      },
+      {
+        "sk": "vzťah",
+        "uk": "стосунки",
+        "status": "NEW"
+      },
+      {
+        "sk": "priateľstvo",
+        "uk": "дружба",
+        "status": "NEW"
+      },
+      {
+        "sk": "poznať",
+        "uk": "знати / бути знайомим",
+        "status": "NEW"
+      },
+      {
+        "sk": "stretávať sa",
+        "uk": "зустрічатися",
+        "status": "NEW"
+      },
+      {
+        "sk": "rozumieť si",
+        "uk": "розуміти одне одного",
+        "status": "NEW"
+      },
+      {
+        "sk": "hádať sa",
+        "uk": "сваритися",
+        "status": "NEW"
+      },
+      {
+        "sk": "súhlasiť",
+        "uk": "погоджуватися",
+        "status": "NEW"
+      },
+      {
+        "sk": "nesúhlasiť",
+        "uk": "не погоджуватися",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s01-l05",
+    "targets": [
+      {
+        "sk": "vyšší",
+        "uk": "вищий",
+        "status": "NEW"
+      },
+      {
+        "sk": "nižší",
+        "uk": "нижчий",
+        "status": "NEW"
+      },
+      {
+        "sk": "mladší",
+        "uk": "молодший",
+        "status": "NEW"
+      },
+      {
+        "sk": "starší",
+        "uk": "старший",
+        "status": "NEW"
+      },
+      {
+        "sk": "podobný",
+        "uk": "схожий",
+        "status": "NEW"
+      },
+      {
+        "sk": "odlišný",
+        "uk": "відмінний / інший",
+        "status": "NEW"
+      },
+      {
+        "sk": "rovnako",
+        "uk": "однаково",
+        "status": "NEW"
+      },
+      {
+        "sk": "viac",
+        "uk": "більше",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "menej",
+        "uk": "менше",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "ako",
+        "uk": "як / ніж",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s01-l06",
+    "targets": [
+      {
+        "sk": "poznáme sa",
+        "uk": "ми знаємо одне одного",
+        "status": "NEW"
+      },
+      {
+        "sk": "poznáme sa dlho",
+        "uk": "ми давно знаємо одне одного",
+        "status": "NEW"
+      },
+      {
+        "sk": "máme veľa spoločného",
+        "uk": "у нас багато спільного",
+        "status": "NEW"
+      },
+      {
+        "sk": "pomáha mi",
+        "uk": "він/вона мені допомагає",
+        "status": "NEW"
+      },
+      {
+        "sk": "môžem sa spoľahnúť",
+        "uk": "я можу покластися",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s02-l07",
+    "targets": [
+      {
+        "sk": "bežný deň",
+        "uk": "звичайний день",
+        "status": "NEW"
+      },
+      {
+        "sk": "ráno",
+        "uk": "вранці",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "dopoludnia",
+        "uk": "до обіду",
+        "status": "NEW"
+      },
+      {
+        "sk": "popoludní",
+        "uk": "після обіду",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "večer",
+        "uk": "увечері",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "najprv",
+        "uk": "спочатку",
+        "status": "NEW"
+      },
+      {
+        "sk": "potom",
+        "uk": "потім",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "neskôr",
+        "uk": "пізніше",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "nakoniec",
+        "uk": "наприкінці",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "počas dňa",
+        "uk": "протягом дня",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s02-l08",
+    "targets": [
+      {
+        "sk": "každý deň",
+        "uk": "щодня",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "každý týždeň",
+        "uk": "щотижня",
+        "status": "NEW"
+      },
+      {
+        "sk": "dvakrát týždenne",
+        "uk": "двічі на тиждень",
+        "status": "NEW"
+      },
+      {
+        "sk": "zvyčajne",
+        "uk": "зазвичай",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "pravidelne",
+        "uk": "регулярно",
+        "status": "NEW"
+      },
+      {
+        "sk": "občas",
+        "uk": "час від часу",
+        "status": "NEW"
+      },
+      {
+        "sk": "skoro nikdy",
+        "uk": "майже ніколи",
+        "status": "NEW"
+      },
+      {
+        "sk": "raz za čas",
+        "uk": "раз по раз / інколи",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s02-l09",
+    "targets": [
+      {
+        "sk": "mať čas",
+        "uk": "мати час",
+        "status": "NEW"
+      },
+      {
+        "sk": "nemať čas",
+        "uk": "не мати часу",
+        "status": "NEW"
+      },
+      {
+        "sk": "stíhať",
+        "uk": "встигати",
+        "status": "NEW"
+      },
+      {
+        "sk": "nestíhať",
+        "uk": "не встигати",
+        "status": "NEW"
+      },
+      {
+        "sk": "ponáhľať sa",
+        "uk": "поспішати",
+        "status": "NEW"
+      },
+      {
+        "sk": "odložiť",
+        "uk": "відкласти",
+        "status": "NEW"
+      },
+      {
+        "sk": "vybaviť",
+        "uk": "залагодити / зробити справу",
+        "status": "NEW"
+      },
+      {
+        "sk": "dôležitý",
+        "uk": "важливий",
+        "status": "NEW"
+      },
+      {
+        "sk": "naliehavý",
+        "uk": "терміновий",
+        "status": "NEW"
+      },
+      {
+        "sk": "dnes už",
+        "uk": "сьогодні вже",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s02-l10",
+    "targets": [
+      {
+        "sk": "cez víkend",
+        "uk": "на вихідних",
+        "status": "NEW"
+      },
+      {
+        "sk": "upratovať",
+        "uk": "прибирати",
+        "status": "NEW"
+      },
+      {
+        "sk": "nakupovať",
+        "uk": "робити покупки",
+        "status": "NEW"
+      },
+      {
+        "sk": "variť",
+        "uk": "готувати",
+        "status": "NEW"
+      },
+      {
+        "sk": "oddychovať",
+        "uk": "відпочивати",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "navštíviť",
+        "uk": "відвідати",
+        "status": "NEW"
+      },
+      {
+        "sk": "zostať doma",
+        "uk": "залишитися вдома",
+        "status": "NEW"
+      },
+      {
+        "sk": "ísť von",
+        "uk": "піти кудись",
+        "status": "NEW"
+      },
+      {
+        "sk": "stretnúť sa",
+        "uk": "зустрітися",
+        "status": "NEW"
+      },
+      {
+        "sk": "celý deň",
+        "uk": "цілий день",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s02-l11",
+    "targets": [
+      {
+        "sk": "zvyk",
+        "uk": "звичка",
+        "status": "NEW"
+      },
+      {
+        "sk": "zvyknúť si",
+        "uk": "звикнути",
+        "status": "NEW"
+      },
+      {
+        "sk": "zmeniť",
+        "uk": "змінити",
+        "status": "NEW"
+      },
+      {
+        "sk": "začať",
+        "uk": "почати",
+        "status": "NEW"
+      },
+      {
+        "sk": "prestať",
+        "uk": "перестати",
+        "status": "NEW"
+      },
+      {
+        "sk": "menej",
+        "uk": "менше",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "viac",
+        "uk": "більше",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "zdravšie",
+        "uk": "здоровіше",
+        "status": "NEW"
+      },
+      {
+        "sk": "skôr",
+        "uk": "раніше",
+        "status": "NEW"
+      },
+      {
+        "sk": "neskôr",
+        "uk": "пізніше",
+        "status": "REVIEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s02-l12",
+    "targets": [
+      {
+        "sk": "pondelok",
+        "uk": "понеділок",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "pracovný deň",
+        "uk": "робочий день",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "voľný deň",
+        "uk": "вихідний день",
+        "status": "NEW"
+      },
+      {
+        "sk": "termín",
+        "uk": "термін",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "plánovať",
+        "uk": "планувати",
+        "status": "NEW"
+      },
+      {
+        "sk": "vybavovať",
+        "uk": "залагоджувати справи",
+        "status": "NEW"
+      },
+      {
+        "sk": "stihnúť",
+        "uk": "встигнути",
+        "status": "NEW"
+      },
+      {
+        "sk": "začínať",
+        "uk": "починати",
+        "status": "NEW"
+      },
+      {
+        "sk": "končiť",
+        "uk": "закінчувати",
+        "status": "NEW"
+      },
+      {
+        "sk": "každý týždeň",
+        "uk": "щотижня",
+        "status": "TRANSFER"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s03-l13",
+    "targets": [
+      {
+        "sk": "včera",
+        "uk": "учора",
+        "status": "NEW"
+      },
+      {
+        "sk": "ráno som",
+        "uk": "вранці я…",
+        "status": "NEW"
+      },
+      {
+        "sk": "potom som",
+        "uk": "потім я…",
+        "status": "NEW"
+      },
+      {
+        "sk": "večer som",
+        "uk": "увечері я…",
+        "status": "NEW"
+      },
+      {
+        "sk": "bol som",
+        "uk": "я був",
+        "status": "NEW"
+      },
+      {
+        "sk": "mal som",
+        "uk": "я мав",
+        "status": "NEW"
+      },
+      {
+        "sk": "robil som",
+        "uk": "я робив",
+        "status": "NEW"
+      },
+      {
+        "sk": "prišiel som",
+        "uk": "я прийшов",
+        "status": "NEW"
+      },
+      {
+        "sk": "išiel som",
+        "uk": "я пішов",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s03-l14",
+    "targets": [
+      {
+        "sk": "minulý víkend",
+        "uk": "минулі вихідні",
+        "status": "NEW"
+      },
+      {
+        "sk": "minulú sobotu",
+        "uk": "минулої суботи",
+        "status": "NEW"
+      },
+      {
+        "sk": "minulú nedeľu",
+        "uk": "минулої неділі",
+        "status": "NEW"
+      },
+      {
+        "sk": "boli sme",
+        "uk": "ми були",
+        "status": "NEW"
+      },
+      {
+        "sk": "išli sme",
+        "uk": "ми пішли / поїхали",
+        "status": "NEW"
+      },
+      {
+        "sk": "stretli sme sa",
+        "uk": "ми зустрілися",
+        "status": "NEW"
+      },
+      {
+        "sk": "zostali sme",
+        "uk": "ми залишилися",
+        "status": "NEW"
+      },
+      {
+        "sk": "navštívili sme",
+        "uk": "ми відвідали",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s03-l15",
+    "targets": [
+      {
+        "sk": "stalo sa",
+        "uk": "сталося",
+        "status": "NEW"
+      },
+      {
+        "sk": "zrazu",
+        "uk": "раптом",
+        "status": "NEW"
+      },
+      {
+        "sk": "potom",
+        "uk": "потім",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "našťastie",
+        "uk": "на щастя",
+        "status": "NEW"
+      },
+      {
+        "sk": "bohužiaľ",
+        "uk": "на жаль",
+        "status": "NEW"
+      },
+      {
+        "sk": "prekvapenie",
+        "uk": "сюрприз",
+        "status": "NEW"
+      },
+      {
+        "sk": "problém",
+        "uk": "проблема",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "nehoda",
+        "uk": "аварія / нещасний випадок",
+        "status": "NEW"
+      },
+      {
+        "sk": "zabudnúť",
+        "uk": "забути",
+        "status": "NEW"
+      },
+      {
+        "sk": "nájsť",
+        "uk": "знайти",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s03-l16",
+    "targets": [
+      {
+        "sk": "bol som v",
+        "uk": "я був у / в",
+        "status": "NEW"
+      },
+      {
+        "sk": "bol som na",
+        "uk": "я був на",
+        "status": "NEW"
+      },
+      {
+        "sk": "prišiel som do",
+        "uk": "я прийшов до / в",
+        "status": "NEW"
+      },
+      {
+        "sk": "odišiel som z",
+        "uk": "я пішов / виїхав з",
+        "status": "NEW"
+      },
+      {
+        "sk": "navštíviť",
+        "uk": "відвідати",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "centrum",
+        "uk": "центр",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "obchod",
+        "uk": "магазин",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "stanica",
+        "uk": "станція / вокзал",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "park",
+        "uk": "парк",
+        "status": "REVIEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s03-l17",
+    "targets": [
+      {
+        "sk": "bolo to",
+        "uk": "це було",
+        "status": "NEW"
+      },
+      {
+        "sk": "bolo tam",
+        "uk": "там було",
+        "status": "NEW"
+      },
+      {
+        "sk": "veľmi sa mi páčilo",
+        "uk": "мені дуже сподобалося",
+        "status": "NEW"
+      },
+      {
+        "sk": "nepáčilo sa mi",
+        "uk": "мені не сподобалося",
+        "status": "NEW"
+      },
+      {
+        "sk": "zaujímavé",
+        "uk": "цікаве",
+        "status": "NEW"
+      },
+      {
+        "sk": "nudné",
+        "uk": "нудне",
+        "status": "NEW"
+      },
+      {
+        "sk": "príjemné",
+        "uk": "приємне",
+        "status": "NEW"
+      },
+      {
+        "sk": "nepríjemné",
+        "uk": "неприємне",
+        "status": "NEW"
+      },
+      {
+        "sk": "pokojné",
+        "uk": "спокійне",
+        "status": "NEW"
+      },
+      {
+        "sk": "rušné",
+        "uk": "гамірне",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s03-l18",
+    "targets": [
+      {
+        "sk": "minulý týždeň",
+        "uk": "минулий тиждень",
+        "status": "NEW"
+      },
+      {
+        "sk": "najprv",
+        "uk": "спочатку",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "neskôr",
+        "uk": "пізніше",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "potom",
+        "uk": "потім",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "medzitým",
+        "uk": "тим часом",
+        "status": "NEW"
+      },
+      {
+        "sk": "nakoniec",
+        "uk": "наприкінці",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "stretol som sa",
+        "uk": "я зустрівся",
+        "status": "NEW"
+      },
+      {
+        "sk": "vybavil som",
+        "uk": "я владнав / зробив",
+        "status": "NEW"
+      },
+      {
+        "sk": "oddýchol som si",
+        "uk": "я відпочив",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s04-l19",
+    "targets": [
+      {
+        "sk": "zajtra",
+        "uk": "завтра",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "budem pracovať",
+        "uk": "я буду працювати",
+        "status": "NEW"
+      },
+      {
+        "sk": "budem študovať",
+        "uk": "я буду вчитися",
+        "status": "NEW"
+      },
+      {
+        "sk": "pôjdem",
+        "uk": "я піду / поїду",
+        "status": "NEW"
+      },
+      {
+        "sk": "prídem",
+        "uk": "я прийду",
+        "status": "NEW"
+      },
+      {
+        "sk": "zavolám",
+        "uk": "я зателефоную",
+        "status": "NEW"
+      },
+      {
+        "sk": "napíšem",
+        "uk": "я напишу",
+        "status": "NEW"
+      },
+      {
+        "sk": "večer budem",
+        "uk": "увечері я буду…",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s04-l20",
+    "targets": [
+      {
+        "sk": "plán",
+        "uk": "план",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "plánovať",
+        "uk": "планувати",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "rozhodnúť sa",
+        "uk": "вирішити",
+        "status": "NEW"
+      },
+      {
+        "sk": "chystať sa",
+        "uk": "збиратися щось зробити",
+        "status": "NEW"
+      },
+      {
+        "sk": "chcem",
+        "uk": "я хочу",
+        "status": "NEW"
+      },
+      {
+        "sk": "potrebujem",
+        "uk": "мені потрібно",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "musím",
+        "uk": "я мушу",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "budúci týždeň",
+        "uk": "наступного тижня",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s04-l21",
+    "targets": [
+      {
+        "sk": "možno",
+        "uk": "можливо",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "asi",
+        "uk": "мабуть",
+        "status": "NEW"
+      },
+      {
+        "sk": "pravdepodobne",
+        "uk": "ймовірно",
+        "status": "NEW"
+      },
+      {
+        "sk": "možno budem",
+        "uk": "можливо, я буду",
+        "status": "NEW"
+      },
+      {
+        "sk": "možno pôjdem",
+        "uk": "можливо, я піду",
+        "status": "NEW"
+      },
+      {
+        "sk": "myslím si",
+        "uk": "я думаю",
+        "status": "NEW"
+      },
+      {
+        "sk": "myslím, že",
+        "uk": "я думаю, що",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s04-l22",
+    "targets": [
+      {
+        "sk": "dohodnúť sa",
+        "uk": "домовитися",
+        "status": "NEW"
+      },
+      {
+        "sk": "termín",
+        "uk": "термін / час",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "stretnutie",
+        "uk": "зустріч",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "vyhovuje mi",
+        "uk": "мені підходить",
+        "status": "NEW"
+      },
+      {
+        "sk": "nevyhovuje mi",
+        "uk": "мені не підходить",
+        "status": "NEW"
+      },
+      {
+        "sk": "kedy",
+        "uk": "коли",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "kde",
+        "uk": "де",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "môžeme",
+        "uk": "ми можемо",
+        "status": "NEW"
+      },
+      {
+        "sk": "nemôžeme",
+        "uk": "ми не можемо",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s04-l23",
+    "targets": [
+      {
+        "sk": "zmeniť plán",
+        "uk": "змінити план",
+        "status": "NEW"
+      },
+      {
+        "sk": "zrušiť",
+        "uk": "скасувати",
+        "status": "NEW"
+      },
+      {
+        "sk": "presunúť",
+        "uk": "перенести",
+        "status": "NEW"
+      },
+      {
+        "sk": "neskôr",
+        "uk": "пізніше",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "skôr",
+        "uk": "раніше",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "zajtra namiesto",
+        "uk": "завтра замість…",
+        "status": "NEW"
+      },
+      {
+        "sk": "prepáč",
+        "uk": "вибач",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "žiaľ",
+        "uk": "на жаль",
+        "status": "NEW"
+      },
+      {
+        "sk": "nebude to možné",
+        "uk": "це буде неможливо",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s04-l24",
+    "targets": [
+      {
+        "sk": "cez víkend chcem",
+        "uk": "на вихідних я хочу",
+        "status": "NEW"
+      },
+      {
+        "sk": "budeme spolu",
+        "uk": "ми будемо разом",
+        "status": "NEW"
+      },
+      {
+        "sk": "pôjdeme",
+        "uk": "ми підемо / поїдемо",
+        "status": "NEW"
+      },
+      {
+        "sk": "stretneme sa",
+        "uk": "ми зустрінемося",
+        "status": "NEW"
+      },
+      {
+        "sk": "potom môžeme",
+        "uk": "потім ми можемо",
+        "status": "NEW"
+      },
+      {
+        "sk": "ak bude čas",
+        "uk": "якщо буде час",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s05-l25",
+    "targets": [
+      {
+        "sk": "obývačka",
+        "uk": "вітальня",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "spálňa",
+        "uk": "спальня",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "chodba",
+        "uk": "коридор",
+        "status": "NEW"
+      },
+      {
+        "sk": "balkón",
+        "uk": "балкон",
+        "status": "NEW"
+      },
+      {
+        "sk": "poschodie",
+        "uk": "поверх",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "sused",
+        "uk": "сусід",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "okno",
+        "uk": "вікно",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "dvere",
+        "uk": "двері",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "stena",
+        "uk": "стіна",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "podlaha",
+        "uk": "підлога",
+        "status": "REVIEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s05-l26",
+    "targets": [
+      {
+        "sk": "vpravo",
+        "uk": "праворуч",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "vľavo",
+        "uk": "ліворуч",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "hore",
+        "uk": "угорі",
+        "status": "NEW"
+      },
+      {
+        "sk": "dole",
+        "uk": "внизу",
+        "status": "NEW"
+      },
+      {
+        "sk": "vpredu",
+        "uk": "спереду",
+        "status": "NEW"
+      },
+      {
+        "sk": "vzadu",
+        "uk": "позаду",
+        "status": "NEW"
+      },
+      {
+        "sk": "vedľa",
+        "uk": "поруч",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "medzi",
+        "uk": "між",
+        "status": "NEW"
+      },
+      {
+        "sk": "oproti",
+        "uk": "навпроти",
+        "status": "NEW"
+      },
+      {
+        "sk": "blízko",
+        "uk": "близько",
+        "status": "REVIEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s05-l27",
+    "targets": [
+      {
+        "sk": "pokazený",
+        "uk": "зіпсований",
+        "status": "NEW"
+      },
+      {
+        "sk": "nefunguje",
+        "uk": "не працює",
+        "status": "NEW"
+      },
+      {
+        "sk": "opraviť",
+        "uk": "полагодити",
+        "status": "NEW"
+      },
+      {
+        "sk": "rozbité",
+        "uk": "розбите",
+        "status": "NEW"
+      },
+      {
+        "sk": "tečie",
+        "uk": "тече",
+        "status": "NEW"
+      },
+      {
+        "sk": "nesvieti",
+        "uk": "не світить",
+        "status": "NEW"
+      },
+      {
+        "sk": "nejde",
+        "uk": "не працює / не йде",
+        "status": "NEW"
+      },
+      {
+        "sk": "problém",
+        "uk": "проблема",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "potreba opravy",
+        "uk": "потреба в ремонті",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s05-l28",
+    "targets": [
+      {
+        "sk": "opravár",
+        "uk": "майстер",
+        "status": "NEW"
+      },
+      {
+        "sk": "technik",
+        "uk": "технік",
+        "status": "NEW"
+      },
+      {
+        "sk": "prísť",
+        "uk": "прийти",
+        "status": "NEW"
+      },
+      {
+        "sk": "prísť pozrieť",
+        "uk": "прийти подивитися",
+        "status": "NEW"
+      },
+      {
+        "sk": "oprava",
+        "uk": "ремонт",
+        "status": "NEW"
+      },
+      {
+        "sk": "termín",
+        "uk": "термін",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "zavolať",
+        "uk": "зателефонувати",
+        "status": "NEW"
+      },
+      {
+        "sk": "adresa",
+        "uk": "адреса",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "doma byť",
+        "uk": "бути вдома",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s05-l29",
+    "targets": [
+      {
+        "sk": "sused",
+        "uk": "сусід",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "susedka",
+        "uk": "сусідка",
+        "status": "NEW"
+      },
+      {
+        "sk": "hluk",
+        "uk": "шум",
+        "status": "NEW"
+      },
+      {
+        "sk": "ticho",
+        "uk": "тиша",
+        "status": "NEW"
+      },
+      {
+        "sk": "sťažovať sa",
+        "uk": "скаржитися",
+        "status": "NEW"
+      },
+      {
+        "sk": "rušiť",
+        "uk": "заважати",
+        "status": "NEW"
+      },
+      {
+        "sk": "prosím vás",
+        "uk": "будь ласка / прошу вас",
+        "status": "NEW"
+      },
+      {
+        "sk": "mohli by ste",
+        "uk": "чи могли б ви",
+        "status": "NEW"
+      },
+      {
+        "sk": "večer",
+        "uk": "увечері",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "ráno",
+        "uk": "вранці",
+        "status": "REVIEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s05-l30",
+    "targets": [
+      {
+        "sk": "bývať spolu",
+        "uk": "жити разом",
+        "status": "NEW"
+      },
+      {
+        "sk": "prenajímať",
+        "uk": "орендувати",
+        "status": "NEW"
+      },
+      {
+        "sk": "nájom",
+        "uk": "орендна плата",
+        "status": "NEW"
+      },
+      {
+        "sk": "účet",
+        "uk": "рахунок",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "domáce práce",
+        "uk": "домашні справи",
+        "status": "NEW"
+      },
+      {
+        "sk": "upratovanie",
+        "uk": "прибирання",
+        "status": "NEW"
+      },
+      {
+        "sk": "pokojný",
+        "uk": "спокійний",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "pohodlný",
+        "uk": "зручний",
+        "status": "REVIEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s06-l31",
+    "targets": [
+      {
+        "sk": "radnica",
+        "uk": "ратуша",
+        "status": "NEW"
+      },
+      {
+        "sk": "pošta",
+        "uk": "пошта",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "nemocnica",
+        "uk": "лікарня",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "lekáreň",
+        "uk": "аптека",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "banka",
+        "uk": "банк",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "knižnica",
+        "uk": "бібліотека",
+        "status": "NEW"
+      },
+      {
+        "sk": "námestie",
+        "uk": "площа",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "zastávka",
+        "uk": "зупинка",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "štadión",
+        "uk": "стадіон",
+        "status": "NEW"
+      },
+      {
+        "sk": "múzeum",
+        "uk": "музей",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s06-l32",
+    "targets": [
+      {
+        "sk": "dostať sa",
+        "uk": "дістатися",
+        "status": "NEW"
+      },
+      {
+        "sk": "ísť rovno",
+        "uk": "іти прямо",
+        "status": "NEW"
+      },
+      {
+        "sk": "odbočiť",
+        "uk": "повернути",
+        "status": "NEW"
+      },
+      {
+        "sk": "cez ulicu",
+        "uk": "через вулицю",
+        "status": "NEW"
+      },
+      {
+        "sk": "na rohu",
+        "uk": "на розі",
+        "status": "NEW"
+      },
+      {
+        "sk": "na konci",
+        "uk": "в кінці",
+        "status": "NEW"
+      },
+      {
+        "sk": "pri križovatke",
+        "uk": "біля перехрестя",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s06-l33",
+    "targets": [
+      {
+        "sk": "autobus",
+        "uk": "автобус",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "električka",
+        "uk": "трамвай",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "trolejbus",
+        "uk": "тролейбус",
+        "status": "NEW"
+      },
+      {
+        "sk": "vlak",
+        "uk": "поїзд",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "lístok",
+        "uk": "квиток",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "nastúpiť",
+        "uk": "сісти в транспорт",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "vystúpiť",
+        "uk": "вийти з транспорту",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "prestúpiť",
+        "uk": "пересісти",
+        "status": "NEW"
+      },
+      {
+        "sk": "zastávka",
+        "uk": "зупинка",
+        "status": "REVIEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s06-l34",
+    "targets": [
+      {
+        "sk": "vystúpiť",
+        "uk": "вийти",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "ďalšia zastávka",
+        "uk": "наступна зупинка",
+        "status": "NEW"
+      },
+      {
+        "sk": "posledná zastávka",
+        "uk": "кінцева зупинка",
+        "status": "NEW"
+      },
+      {
+        "sk": "smer",
+        "uk": "напрямок",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "linka",
+        "uk": "маршрут / лінія",
+        "status": "NEW"
+      },
+      {
+        "sk": "spoj",
+        "uk": "рейс / сполучення",
+        "status": "NEW"
+      },
+      {
+        "sk": "prestup",
+        "uk": "пересадка",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "stanica",
+        "uk": "станція / вокзал",
+        "status": "REVIEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s06-l35",
+    "targets": [
+      {
+        "sk": "trvať",
+        "uk": "тривати",
+        "status": "NEW"
+      },
+      {
+        "sk": "ako dlho",
+        "uk": "як довго",
+        "status": "NEW"
+      },
+      {
+        "sk": "asi desať minút",
+        "uk": "приблизно десять хвилин",
+        "status": "NEW"
+      },
+      {
+        "sk": "ďaleko",
+        "uk": "далеко",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "blízko",
+        "uk": "близько",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "cesta",
+        "uk": "дорога / шлях",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "vzdialenosť",
+        "uk": "відстань",
+        "status": "NEW"
+      },
+      {
+        "sk": "približne",
+        "uk": "приблизно",
+        "status": "REVIEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s06-l36",
+    "targets": [
+      {
+        "sk": "mapa",
+        "uk": "карта",
+        "status": "NEW"
+      },
+      {
+        "sk": "adresa",
+        "uk": "адреса",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "smerom",
+        "uk": "у напрямку",
+        "status": "NEW"
+      },
+      {
+        "sk": "centrum",
+        "uk": "центр",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "odtiaľ",
+        "uk": "звідти",
+        "status": "NEW"
+      },
+      {
+        "sk": "tadiaľ",
+        "uk": "цією дорогою",
+        "status": "NEW"
+      },
+      {
+        "sk": "vystúpiť",
+        "uk": "вийти",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "pokračovať",
+        "uk": "продовжувати",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s07-l37",
+    "targets": [
+      {
+        "sk": "raňajky",
+        "uk": "сніданок",
+        "status": "NEW"
+      },
+      {
+        "sk": "obed",
+        "uk": "обід",
+        "status": "NEW"
+      },
+      {
+        "sk": "večera",
+        "uk": "вечеря",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "desiata",
+        "uk": "перекус",
+        "status": "NEW"
+      },
+      {
+        "sk": "zelenina",
+        "uk": "овочі",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "ovocie",
+        "uk": "фрукти",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "mäso",
+        "uk": "м’ясо",
+        "status": "NEW"
+      },
+      {
+        "sk": "ryža",
+        "uk": "рис",
+        "status": "NEW"
+      },
+      {
+        "sk": "cestoviny",
+        "uk": "макарони",
+        "status": "NEW"
+      },
+      {
+        "sk": "polievka",
+        "uk": "суп",
+        "status": "REVIEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s07-l38",
+    "targets": [
+      {
+        "sk": "chutí mi",
+        "uk": "мені смакує",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "nechutí mi",
+        "uk": "мені не смакує",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "mám rád",
+        "uk": "я люблю",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "nemám rád",
+        "uk": "я не люблю",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "obľúbený",
+        "uk": "улюблений",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "sladký",
+        "uk": "солодкий",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "slaný",
+        "uk": "солоний",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "kyslý",
+        "uk": "кислий",
+        "status": "NEW"
+      },
+      {
+        "sk": "horký",
+        "uk": "гіркий",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s07-l39",
+    "targets": [
+      {
+        "sk": "kilo",
+        "uk": "кілограм",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "pol kila",
+        "uk": "пів кілограма",
+        "status": "NEW"
+      },
+      {
+        "sk": "liter",
+        "uk": "літр",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "pol litra",
+        "uk": "пів літра",
+        "status": "NEW"
+      },
+      {
+        "sk": "balenie",
+        "uk": "упаковка",
+        "status": "NEW"
+      },
+      {
+        "sk": "fľaša",
+        "uk": "пляшка",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "kus",
+        "uk": "штука",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "plný",
+        "uk": "повний",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "prázdny",
+        "uk": "порожній",
+        "status": "NEW"
+      },
+      {
+        "sk": "dosť",
+        "uk": "достатньо",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s07-l40",
+    "targets": [
+      {
+        "sk": "variť",
+        "uk": "варити / готувати",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "piecť",
+        "uk": "пекти",
+        "status": "NEW"
+      },
+      {
+        "sk": "krájať",
+        "uk": "різати",
+        "status": "NEW"
+      },
+      {
+        "sk": "miešať",
+        "uk": "мішати",
+        "status": "NEW"
+      },
+      {
+        "sk": "pridať",
+        "uk": "додати",
+        "status": "NEW"
+      },
+      {
+        "sk": "dať do",
+        "uk": "покласти в",
+        "status": "NEW"
+      },
+      {
+        "sk": "zohriať",
+        "uk": "підігріти",
+        "status": "NEW"
+      },
+      {
+        "sk": "ochutnať",
+        "uk": "скуштувати",
+        "status": "NEW"
+      },
+      {
+        "sk": "pripraviť",
+        "uk": "приготувати",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s07-l41",
+    "targets": [
+      {
+        "sk": "potrebovať",
+        "uk": "потребувати",
+        "status": "NEW"
+      },
+      {
+        "sk": "zoznam",
+        "uk": "список",
+        "status": "NEW"
+      },
+      {
+        "sk": "ingrediencia",
+        "uk": "інгредієнт",
+        "status": "NEW"
+      },
+      {
+        "sk": "chýbať",
+        "uk": "бракувати",
+        "status": "NEW"
+      },
+      {
+        "sk": "kúpiť",
+        "uk": "купити",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "mať doma",
+        "uk": "мати вдома",
+        "status": "NEW"
+      },
+      {
+        "sk": "pripraviť večeru",
+        "uk": "приготувати вечерю",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s07-l42",
+    "targets": [
+      {
+        "sk": "jedlo",
+        "uk": "їжа",
+        "status": "NEW"
+      },
+      {
+        "sk": "porcia",
+        "uk": "порція",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "pripravené",
+        "uk": "готове",
+        "status": "NEW"
+      },
+      {
+        "sk": "čerstvé",
+        "uk": "свіже",
+        "status": "NEW"
+      },
+      {
+        "sk": "teplé",
+        "uk": "тепле",
+        "status": "NEW"
+      },
+      {
+        "sk": "studené",
+        "uk": "холодне",
+        "status": "NEW"
+      },
+      {
+        "sk": "hladný",
+        "uk": "голодний",
+        "status": "NEW"
+      },
+      {
+        "sk": "sýty",
+        "uk": "ситий",
+        "status": "NEW"
+      },
+      {
+        "sk": "večerať",
+        "uk": "вечеряти",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s08-l43",
+    "targets": [
+      {
+        "sk": "potrebujem",
+        "uk": "мені потрібно",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "hľadám",
+        "uk": "я шукаю",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "máte",
+        "uk": "у вас є",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "oddelenie",
+        "uk": "відділ",
+        "status": "NEW"
+      },
+      {
+        "sk": "regál",
+        "uk": "полиця / стелаж",
+        "status": "NEW"
+      },
+      {
+        "sk": "tovar",
+        "uk": "товар",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "výrobok",
+        "uk": "виріб / продукт",
+        "status": "NEW"
+      },
+      {
+        "sk": "značka",
+        "uk": "марка",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s08-l44",
+    "targets": [
+      {
+        "sk": "cena",
+        "uk": "ціна",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "stáť",
+        "uk": "коштувати",
+        "status": "NEW"
+      },
+      {
+        "sk": "lacnejší",
+        "uk": "дешевший",
+        "status": "NEW"
+      },
+      {
+        "sk": "drahší",
+        "uk": "дорожчий",
+        "status": "NEW"
+      },
+      {
+        "sk": "zľava",
+        "uk": "знижка",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "akcia",
+        "uk": "акція",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "euro",
+        "uk": "євро",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "cent",
+        "uk": "цент",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "rozpočet",
+        "uk": "бюджет",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s08-l45",
+    "targets": [
+      {
+        "sk": "vyskúšať si",
+        "uk": "приміряти",
+        "status": "NEW"
+      },
+      {
+        "sk": "sedí mi",
+        "uk": "мені підходить",
+        "status": "NEW"
+      },
+      {
+        "sk": "nesedí mi",
+        "uk": "мені не підходить",
+        "status": "NEW"
+      },
+      {
+        "sk": "veľkosť",
+        "uk": "розмір",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "malé",
+        "uk": "мале",
+        "status": "NEW"
+      },
+      {
+        "sk": "veľké",
+        "uk": "велике",
+        "status": "NEW"
+      },
+      {
+        "sk": "širšie",
+        "uk": "ширше",
+        "status": "NEW"
+      },
+      {
+        "sk": "užšie",
+        "uk": "вужче",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s08-l46",
+    "targets": [
+      {
+        "sk": "reklamácia",
+        "uk": "рекламація / претензія",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "doklad",
+        "uk": "чек / документ",
+        "status": "NEW"
+      },
+      {
+        "sk": "pokazený",
+        "uk": "зіпсований",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "poškodený",
+        "uk": "пошкоджений",
+        "status": "NEW"
+      },
+      {
+        "sk": "vrátiť",
+        "uk": "повернути",
+        "status": "NEW"
+      },
+      {
+        "sk": "vymeniť",
+        "uk": "обміняти",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "opraviť",
+        "uk": "полагодити",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "peniaze späť",
+        "uk": "гроші назад",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s08-l47",
+    "targets": [
+      {
+        "sk": "poslať",
+        "uk": "надіслати",
+        "status": "NEW"
+      },
+      {
+        "sk": "balík",
+        "uk": "посилка",
+        "status": "NEW"
+      },
+      {
+        "sk": "list",
+        "uk": "лист",
+        "status": "NEW"
+      },
+      {
+        "sk": "účet",
+        "uk": "рахунок",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "karta",
+        "uk": "картка",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "hotovosť",
+        "uk": "готівка",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "vybrať",
+        "uk": "зняти",
+        "status": "NEW"
+      },
+      {
+        "sk": "vložiť",
+        "uk": "внести",
+        "status": "NEW"
+      },
+      {
+        "sk": "zaplatiť",
+        "uk": "заплатити",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s08-l48",
+    "targets": [
+      {
+        "sk": "vybaviť",
+        "uk": "залагодити",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "vybavovať",
+        "uk": "залагоджувати",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "služba",
+        "uk": "послуга",
+        "status": "NEW"
+      },
+      {
+        "sk": "otvorené",
+        "uk": "відчинено",
+        "status": "NEW"
+      },
+      {
+        "sk": "zatvorené",
+        "uk": "зачинено",
+        "status": "NEW"
+      },
+      {
+        "sk": "čakať",
+        "uk": "чекати",
+        "status": "NEW"
+      },
+      {
+        "sk": "rad",
+        "uk": "черга",
+        "status": "NEW"
+      },
+      {
+        "sk": "vybavenie",
+        "uk": "оформлення / виконання",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s09-l49",
+    "targets": [
+      {
+        "sk": "úloha",
+        "uk": "завдання",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "povinnosť",
+        "uk": "обов’язок",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "kolega",
+        "uk": "колега",
+        "status": "NEW"
+      },
+      {
+        "sk": "šéf",
+        "uk": "керівник",
+        "status": "NEW"
+      },
+      {
+        "sk": "stretnutie",
+        "uk": "зустріч",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "projekt",
+        "uk": "проєкт",
+        "status": "NEW"
+      },
+      {
+        "sk": "zákazník",
+        "uk": "клієнт",
+        "status": "NEW"
+      },
+      {
+        "sk": "pracovať na",
+        "uk": "працювати над",
+        "status": "NEW"
+      },
+      {
+        "sk": "dokončiť",
+        "uk": "завершити",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s09-l50",
+    "targets": [
+      {
+        "sk": "začínať o",
+        "uk": "починати о",
+        "status": "NEW"
+      },
+      {
+        "sk": "končiť o",
+        "uk": "закінчувати о",
+        "status": "NEW"
+      },
+      {
+        "sk": "prestávka",
+        "uk": "перерва",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "obedná prestávka",
+        "uk": "обідня перерва",
+        "status": "NEW"
+      },
+      {
+        "sk": "ráno",
+        "uk": "вранці",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "popoludní",
+        "uk": "після обіду",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "termín",
+        "uk": "термін",
+        "status": "REVIEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s09-l51",
+    "targets": [
+      {
+        "sk": "predmet",
+        "uk": "предмет",
+        "status": "NEW"
+      },
+      {
+        "sk": "skúška",
+        "uk": "іспит",
+        "status": "NEW"
+      },
+      {
+        "sk": "úloha",
+        "uk": "завдання",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "učivo",
+        "uk": "навчальний матеріал",
+        "status": "NEW"
+      },
+      {
+        "sk": "známka",
+        "uk": "оцінка",
+        "status": "NEW"
+      },
+      {
+        "sk": "kurz",
+        "uk": "курс",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "naučiť sa",
+        "uk": "вивчити / навчитися",
+        "status": "NEW"
+      },
+      {
+        "sk": "opakovať",
+        "uk": "повторювати",
+        "status": "NEW"
+      },
+      {
+        "sk": "pripraviť sa",
+        "uk": "підготуватися",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s09-l52",
+    "targets": [
+      {
+        "sk": "veľa práce",
+        "uk": "багато роботи",
+        "status": "NEW"
+      },
+      {
+        "sk": "málo času",
+        "uk": "мало часу",
+        "status": "NEW"
+      },
+      {
+        "sk": "termín",
+        "uk": "термін",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "stihnúť",
+        "uk": "встигнути",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "nestíhať",
+        "uk": "не встигати",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "pomôcť",
+        "uk": "допомогти",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "potrebovať pomoc",
+        "uk": "потребувати допомоги",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s09-l53",
+    "targets": [
+      {
+        "sk": "rozdeliť si",
+        "uk": "розподілити між собою",
+        "status": "NEW"
+      },
+      {
+        "sk": "pomôcť si",
+        "uk": "допомогти одне одному",
+        "status": "NEW"
+      },
+      {
+        "sk": "spolupracovať",
+        "uk": "співпрацювати",
+        "status": "NEW"
+      },
+      {
+        "sk": "vyriešiť",
+        "uk": "вирішити",
+        "status": "NEW"
+      },
+      {
+        "sk": "dohodnúť sa",
+        "uk": "домовитися",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "zvládnuť",
+        "uk": "впоратися",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s09-l54",
+    "targets": [
+      {
+        "sk": "skúsenosť",
+        "uk": "досвід",
+        "status": "NEW"
+      },
+      {
+        "sk": "povinnosti",
+        "uk": "обов’язки",
+        "status": "NEW"
+      },
+      {
+        "sk": "kolektív",
+        "uk": "колектив",
+        "status": "NEW"
+      },
+      {
+        "sk": "úspešne",
+        "uk": "успішно",
+        "status": "NEW"
+      },
+      {
+        "sk": "problém vyriešiť",
+        "uk": "вирішити проблему",
+        "status": "NEW"
+      },
+      {
+        "sk": "dokončiť načas",
+        "uk": "завершити вчасно",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s10-l55",
+    "targets": [
+      {
+        "sk": "voľný čas",
+        "uk": "вільний час",
+        "status": "NEW"
+      },
+      {
+        "sk": "hobby",
+        "uk": "хобі",
+        "status": "NEW"
+      },
+      {
+        "sk": "športovať",
+        "uk": "займатися спортом",
+        "status": "NEW"
+      },
+      {
+        "sk": "čítať",
+        "uk": "читати",
+        "status": "NEW"
+      },
+      {
+        "sk": "fotografovať",
+        "uk": "фотографувати",
+        "status": "NEW"
+      },
+      {
+        "sk": "cestovať",
+        "uk": "подорожувати",
+        "status": "NEW"
+      },
+      {
+        "sk": "hrať",
+        "uk": "грати",
+        "status": "NEW"
+      },
+      {
+        "sk": "pozerať",
+        "uk": "дивитися",
+        "status": "NEW"
+      },
+      {
+        "sk": "počúvať",
+        "uk": "слухати",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s10-l56",
+    "targets": [
+      {
+        "sk": "páčiť sa",
+        "uk": "подобатися",
+        "status": "NEW"
+      },
+      {
+        "sk": "zaujímavý",
+        "uk": "цікавий",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "zábavný",
+        "uk": "веселий / розважальний",
+        "status": "NEW"
+      },
+      {
+        "sk": "oddychový",
+        "uk": "для відпочинку",
+        "status": "NEW"
+      },
+      {
+        "sk": "užitočný",
+        "uk": "корисний",
+        "status": "NEW"
+      },
+      {
+        "sk": "pretože",
+        "uk": "тому що",
+        "status": "NEW"
+      },
+      {
+        "sk": "kvôli tomu, že",
+        "uk": "через те, що",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s10-l57",
+    "targets": [
+      {
+        "sk": "pozvať",
+        "uk": "запросити",
+        "status": "NEW"
+      },
+      {
+        "sk": "pozvanie",
+        "uk": "запрошення",
+        "status": "NEW"
+      },
+      {
+        "sk": "prísť",
+        "uk": "прийти",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "pridať sa",
+        "uk": "приєднатися",
+        "status": "NEW"
+      },
+      {
+        "sk": "môžeme ísť",
+        "uk": "ми можемо піти",
+        "status": "NEW"
+      },
+      {
+        "sk": "nechceš ísť",
+        "uk": "не хочеш піти",
+        "status": "NEW"
+      },
+      {
+        "sk": "čo povieš",
+        "uk": "що скажеш",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s10-l58",
+    "targets": [
+      {
+        "sk": "stretnúť sa",
+        "uk": "зустрітися",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "dohodnúť sa",
+        "uk": "домовитися",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "miesto",
+        "uk": "місце",
+        "status": "NEW"
+      },
+      {
+        "sk": "čas",
+        "uk": "час",
+        "status": "NEW"
+      },
+      {
+        "sk": "stretnutie",
+        "uk": "зустріч",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "centrum",
+        "uk": "центр",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "kaviareň",
+        "uk": "кав’ярня",
+        "status": "NEW"
+      },
+      {
+        "sk": "večer",
+        "uk": "увечері",
+        "status": "REVIEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s10-l59",
+    "targets": [
+      {
+        "sk": "nemôžem",
+        "uk": "я не можу",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "žiaľ",
+        "uk": "на жаль",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "mrzí ma to",
+        "uk": "мені шкода",
+        "status": "NEW"
+      },
+      {
+        "sk": "inokedy",
+        "uk": "іншим разом",
+        "status": "NEW"
+      },
+      {
+        "sk": "nabudúce",
+        "uk": "наступного разу",
+        "status": "NEW"
+      },
+      {
+        "sk": "presunúť",
+        "uk": "перенести",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "môžeme sa stretnúť",
+        "uk": "ми можемо зустрітися",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s10-l60",
+    "targets": [
+      {
+        "sk": "celý deň",
+        "uk": "цілий день",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "ráno sa stretneme",
+        "uk": "вранці ми зустрінемося",
+        "status": "NEW"
+      },
+      {
+        "sk": "potom pôjdeme",
+        "uk": "потім ми підемо",
+        "status": "NEW"
+      },
+      {
+        "sk": "večer sa vrátime",
+        "uk": "увечері ми повернемося",
+        "status": "NEW"
+      },
+      {
+        "sk": "spolu",
+        "uk": "разом",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "nakoniec",
+        "uk": "наприкінці",
+        "status": "REVIEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s11-l61",
+    "targets": [
+      {
+        "sk": "nerozumiem",
+        "uk": "я не розумію",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "môžete zopakovať",
+        "uk": "можете повторити",
+        "status": "NEW"
+      },
+      {
+        "sk": "čo to znamená",
+        "uk": "що це означає",
+        "status": "NEW"
+      },
+      {
+        "sk": "pomalšie",
+        "uk": "повільніше",
+        "status": "NEW"
+      },
+      {
+        "sk": "ešte raz",
+        "uk": "ще раз",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "inak",
+        "uk": "інакше",
+        "status": "NEW"
+      },
+      {
+        "sk": "vysvetliť",
+        "uk": "пояснити",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s11-l62",
+    "targets": [
+      {
+        "sk": "pomôcť",
+        "uk": "допомогти",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "potrebovať pomoc",
+        "uk": "потребувати допомоги",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "môžem poprosiť",
+        "uk": "можна попросити",
+        "status": "NEW"
+      },
+      {
+        "sk": "jasné",
+        "uk": "звісно / добре",
+        "status": "NEW"
+      },
+      {
+        "sk": "samozrejme",
+        "uk": "звичайно",
+        "status": "NEW"
+      },
+      {
+        "sk": "žiaľ",
+        "uk": "на жаль",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "nemôžem",
+        "uk": "я не можу",
+        "status": "REVIEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s11-l63",
+    "targets": [
+      {
+        "sk": "problém",
+        "uk": "проблема",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "chyba",
+        "uk": "помилка",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "stratiť",
+        "uk": "загубити",
+        "status": "NEW"
+      },
+      {
+        "sk": "zabudnúť",
+        "uk": "забути",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "poškodiť",
+        "uk": "пошкодити",
+        "status": "NEW"
+      },
+      {
+        "sk": "nájsť",
+        "uk": "знайти",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "vyriešiť",
+        "uk": "вирішити",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "opraviť",
+        "uk": "полагодити",
+        "status": "TRANSFER"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s11-l64",
+    "targets": [
+      {
+        "sk": "zavolať",
+        "uk": "зателефонувати",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "ozvať sa",
+        "uk": "дати знати / відгукнутися",
+        "status": "NEW"
+      },
+      {
+        "sk": "zdvihnúť telefón",
+        "uk": "підняти слухавку",
+        "status": "NEW"
+      },
+      {
+        "sk": "nechať odkaz",
+        "uk": "залишити повідомлення",
+        "status": "NEW"
+      },
+      {
+        "sk": "neskôr",
+        "uk": "пізніше",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "hneď",
+        "uk": "одразу",
+        "status": "NEW"
+      },
+      {
+        "sk": "o chvíľu",
+        "uk": "за хвилину / незабаром",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s11-l65",
+    "targets": [
+      {
+        "sk": "správa",
+        "uk": "повідомлення",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "napísať",
+        "uk": "написати",
+        "status": "NEW"
+      },
+      {
+        "sk": "odpísať",
+        "uk": "відповісти",
+        "status": "NEW"
+      },
+      {
+        "sk": "potvrdiť",
+        "uk": "підтвердити",
+        "status": "NEW"
+      },
+      {
+        "sk": "poslať",
+        "uk": "надіслати",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "dostať správu",
+        "uk": "отримати повідомлення",
+        "status": "NEW"
+      },
+      {
+        "sk": "ozvať sa",
+        "uk": "дати знати",
+        "status": "TRANSFER"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s11-l66",
+    "targets": [
+      {
+        "sk": "vyriešiť",
+        "uk": "вирішити",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "dohodnúť",
+        "uk": "домовитися",
+        "status": "NEW"
+      },
+      {
+        "sk": "navrhnúť",
+        "uk": "запропонувати",
+        "status": "NEW"
+      },
+      {
+        "sk": "riešenie",
+        "uk": "рішення",
+        "status": "NEW"
+      },
+      {
+        "sk": "súhlasiť",
+        "uk": "погодитися",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "skúsiť",
+        "uk": "спробувати",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "platí",
+        "uk": "домовилися / підходить",
+        "status": "REVIEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s12-l67",
+    "targets": [
+      {
+        "sk": "cestovať",
+        "uk": "подорожувати",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "cesta",
+        "uk": "подорож / дорога",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "výlet",
+        "uk": "поїздка / екскурсія",
+        "status": "NEW"
+      },
+      {
+        "sk": "dovolenka",
+        "uk": "відпустка",
+        "status": "NEW"
+      },
+      {
+        "sk": "odchod",
+        "uk": "відправлення",
+        "status": "NEW"
+      },
+      {
+        "sk": "príchod",
+        "uk": "прибуття",
+        "status": "NEW"
+      },
+      {
+        "sk": "smer",
+        "uk": "напрямок",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "cieľ",
+        "uk": "мета",
+        "status": "NEW"
+      },
+      {
+        "sk": "na pár dní",
+        "uk": "на кілька днів",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s12-l68",
+    "targets": [
+      {
+        "sk": "spojenie",
+        "uk": "сполучення",
+        "status": "NEW"
+      },
+      {
+        "sk": "prestup",
+        "uk": "пересадка",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "odchod",
+        "uk": "відправлення",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "príchod",
+        "uk": "прибуття",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "nástupište",
+        "uk": "платформа",
+        "status": "NEW"
+      },
+      {
+        "sk": "lístok",
+        "uk": "квиток",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "rezervácia",
+        "uk": "бронювання",
+        "status": "NEW"
+      },
+      {
+        "sk": "meškať",
+        "uk": "запізнюватися",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s12-l69",
+    "targets": [
+      {
+        "sk": "rezervovať",
+        "uk": "бронювати",
+        "status": "NEW"
+      },
+      {
+        "sk": "izba",
+        "uk": "кімната / номер",
+        "status": "NEW"
+      },
+      {
+        "sk": "noc",
+        "uk": "ніч",
+        "status": "NEW"
+      },
+      {
+        "sk": "ubytovanie",
+        "uk": "житло / проживання",
+        "status": "NEW"
+      },
+      {
+        "sk": "voľná izba",
+        "uk": "вільний номер",
+        "status": "NEW"
+      },
+      {
+        "sk": "raňajky",
+        "uk": "сніданок",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "cena za noc",
+        "uk": "ціна за ніч",
+        "status": "NEW"
+      },
+      {
+        "sk": "check-in",
+        "uk": "заселення",
+        "status": "NEW"
+      },
+      {
+        "sk": "check-out",
+        "uk": "виїзд",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s12-l70",
+    "targets": [
+      {
+        "sk": "recepcia",
+        "uk": "рецепція",
+        "status": "NEW"
+      },
+      {
+        "sk": "kľúč",
+        "uk": "ключ",
+        "status": "NEW"
+      },
+      {
+        "sk": "izba",
+        "uk": "номер / кімната",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "výťah",
+        "uk": "ліфт",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "poschodie",
+        "uk": "поверх",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "uterák",
+        "uk": "рушник",
+        "status": "NEW"
+      },
+      {
+        "sk": "heslo",
+        "uk": "пароль",
+        "status": "NEW"
+      },
+      {
+        "sk": "raňajky",
+        "uk": "сніданок",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "potrebovať",
+        "uk": "потребувати",
+        "status": "TRANSFER"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s12-l71",
+    "targets": [
+      {
+        "sk": "meškať",
+        "uk": "запізнюватися",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "stratiť",
+        "uk": "загубити",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "batožina",
+        "uk": "багаж",
+        "status": "NEW"
+      },
+      {
+        "sk": "kufor",
+        "uk": "валіза",
+        "status": "NEW"
+      },
+      {
+        "sk": "problém",
+        "uk": "проблема",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "pomoc",
+        "uk": "допомога",
+        "status": "NEW"
+      },
+      {
+        "sk": "zmeniť rezerváciu",
+        "uk": "змінити бронювання",
+        "status": "NEW"
+      },
+      {
+        "sk": "zablúdiť",
+        "uk": "заблукати",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s12-l72",
+    "targets": [
+      {
+        "sk": "odísť",
+        "uk": "виїхати / піти",
+        "status": "NEW"
+      },
+      {
+        "sk": "prísť",
+        "uk": "приїхати / прийти",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "ubytovať sa",
+        "uk": "заселитися",
+        "status": "NEW"
+      },
+      {
+        "sk": "navštíviť",
+        "uk": "відвідати",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "oddýchnuť si",
+        "uk": "відпочити",
+        "status": "NEW"
+      },
+      {
+        "sk": "vrátiť sa",
+        "uk": "повернутися",
+        "status": "NEW"
+      },
+      {
+        "sk": "cesta späť",
+        "uk": "дорога назад",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s13-l73",
+    "targets": [
+      {
+        "sk": "cítiť sa",
+        "uk": "почуватися",
+        "status": "NEW"
+      },
+      {
+        "sk": "dobre",
+        "uk": "добре",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "zle",
+        "uk": "погано",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "unavený",
+        "uk": "втомлений",
+        "status": "NEW"
+      },
+      {
+        "sk": "slabý",
+        "uk": "слабкий",
+        "status": "NEW"
+      },
+      {
+        "sk": "zdravý",
+        "uk": "здоровий",
+        "status": "NEW"
+      },
+      {
+        "sk": "chorý",
+        "uk": "хворий",
+        "status": "NEW"
+      },
+      {
+        "sk": "lepšie",
+        "uk": "краще",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "horšie",
+        "uk": "гірше",
+        "status": "REVIEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s13-l74",
+    "targets": [
+      {
+        "sk": "hlava",
+        "uk": "голова",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "hrdlo",
+        "uk": "горло",
+        "status": "NEW"
+      },
+      {
+        "sk": "chrbát",
+        "uk": "спина",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "brucho",
+        "uk": "живіт",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "zub",
+        "uk": "зуб",
+        "status": "NEW"
+      },
+      {
+        "sk": "ruka",
+        "uk": "рука",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "noha",
+        "uk": "нога",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "bolí ma",
+        "uk": "у мене болить",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "mám teplotu",
+        "uk": "у мене температура",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s13-l75",
+    "targets": [
+      {
+        "sk": "lekár",
+        "uk": "лікар",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "pacient",
+        "uk": "пацієнт",
+        "status": "NEW"
+      },
+      {
+        "sk": "príznak",
+        "uk": "симптом",
+        "status": "NEW"
+      },
+      {
+        "sk": "kašeľ",
+        "uk": "кашель",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "nádcha",
+        "uk": "нежить",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "teplota",
+        "uk": "температура",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "liek",
+        "uk": "ліки",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "vyšetrenie",
+        "uk": "обстеження",
+        "status": "NEW"
+      },
+      {
+        "sk": "trvať",
+        "uk": "тривати",
+        "status": "TRANSFER"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s13-l76",
+    "targets": [
+      {
+        "sk": "lekáreň",
+        "uk": "аптека",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "tabletka",
+        "uk": "таблетка",
+        "status": "NEW"
+      },
+      {
+        "sk": "sirup",
+        "uk": "сироп",
+        "status": "NEW"
+      },
+      {
+        "sk": "kvapky",
+        "uk": "краплі",
+        "status": "NEW"
+      },
+      {
+        "sk": "recept",
+        "uk": "рецепт",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "bez receptu",
+        "uk": "без рецепта",
+        "status": "NEW"
+      },
+      {
+        "sk": "užívať",
+        "uk": "приймати ліки",
+        "status": "NEW"
+      },
+      {
+        "sk": "dvakrát denne",
+        "uk": "двічі на день",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s13-l77",
+    "targets": [
+      {
+        "sk": "oddychovať",
+        "uk": "відпочивати",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "zostať doma",
+        "uk": "залишитися вдома",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "voľno",
+        "uk": "вихідний / відгул",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "chorý",
+        "uk": "хворий",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "neschopný",
+        "uk": "непрацездатний",
+        "status": "NEW"
+      },
+      {
+        "sk": "dnes nemôžem",
+        "uk": "сьогодні я не можу",
+        "status": "NEW"
+      },
+      {
+        "sk": "zajtra snáď",
+        "uk": "завтра, сподіваюся",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s13-l78",
+    "targets": [
+      {
+        "sk": "odporúčanie",
+        "uk": "рекомендація",
+        "status": "NEW"
+      },
+      {
+        "sk": "pomôcť",
+        "uk": "допомогти",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "liečba",
+        "uk": "лікування",
+        "status": "NEW"
+      },
+      {
+        "sk": "oddych",
+        "uk": "відпочинок",
+        "status": "NEW"
+      },
+      {
+        "sk": "tekutiny",
+        "uk": "рідина / пиття",
+        "status": "NEW"
+      },
+      {
+        "sk": "kontrola",
+        "uk": "контрольний огляд",
+        "status": "NEW"
+      },
+      {
+        "sk": "zlepšiť sa",
+        "uk": "покращитися",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s14-l79",
+    "targets": [
+      {
+        "sk": "myslím si",
+        "uk": "я думаю",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "podľa mňa",
+        "uk": "на мою думку",
+        "status": "NEW"
+      },
+      {
+        "sk": "súhlasím",
+        "uk": "я погоджуюся",
+        "status": "NEW"
+      },
+      {
+        "sk": "nesúhlasím",
+        "uk": "я не погоджуюся",
+        "status": "NEW"
+      },
+      {
+        "sk": "podľa mňa áno",
+        "uk": "на мою думку, так",
+        "status": "NEW"
+      },
+      {
+        "sk": "podľa mňa nie",
+        "uk": "на мою думку, ні",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s14-l80",
+    "targets": [
+      {
+        "sk": "pretože",
+        "uk": "тому що",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "lebo",
+        "uk": "бо",
+        "status": "NEW"
+      },
+      {
+        "sk": "preto",
+        "uk": "тому",
+        "status": "NEW"
+      },
+      {
+        "sk": "kvôli tomu",
+        "uk": "через це",
+        "status": "NEW"
+      },
+      {
+        "sk": "z tohto dôvodu",
+        "uk": "з цієї причини",
+        "status": "NEW"
+      },
+      {
+        "sk": "hlavne",
+        "uk": "переважно",
+        "status": "NEW"
+      },
+      {
+        "sk": "najmä",
+        "uk": "особливо",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s14-l81",
+    "targets": [
+      {
+        "sk": "lepší",
+        "uk": "кращий",
+        "status": "NEW"
+      },
+      {
+        "sk": "horší",
+        "uk": "гірший",
+        "status": "NEW"
+      },
+      {
+        "sk": "jednoduchší",
+        "uk": "простіший",
+        "status": "NEW"
+      },
+      {
+        "sk": "zložitejší",
+        "uk": "складніший",
+        "status": "NEW"
+      },
+      {
+        "sk": "lacnejší",
+        "uk": "дешевший",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "drahší",
+        "uk": "дорожчий",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "pohodlnejší",
+        "uk": "зручніший",
+        "status": "NEW"
+      },
+      {
+        "sk": "praktickejší",
+        "uk": "практичніший",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s14-l82",
+    "targets": [
+      {
+        "sk": "vybrať si",
+        "uk": "обрати",
+        "status": "NEW"
+      },
+      {
+        "sk": "radšej",
+        "uk": "радше / краще",
+        "status": "NEW"
+      },
+      {
+        "sk": "skôr",
+        "uk": "скоріше",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "namiesto",
+        "uk": "замість",
+        "status": "NEW"
+      },
+      {
+        "sk": "keby",
+        "uk": "якби",
+        "status": "NEW"
+      },
+      {
+        "sk": "podľa situácie",
+        "uk": "залежно від ситуації",
+        "status": "NEW"
+      },
+      {
+        "sk": "záleží na",
+        "uk": "це залежить від",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s14-l83",
+    "targets": [
+      {
+        "sk": "dobrý nápad",
+        "uk": "добра ідея",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "zlý nápad",
+        "uk": "погана ідея",
+        "status": "NEW"
+      },
+      {
+        "sk": "výhoda",
+        "uk": "перевага",
+        "status": "NEW"
+      },
+      {
+        "sk": "nevýhoda",
+        "uk": "недолік",
+        "status": "NEW"
+      },
+      {
+        "sk": "problém",
+        "uk": "проблема",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "riešenie",
+        "uk": "рішення",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "možno",
+        "uk": "можливо",
+        "status": "REVIEW"
+      },
+      {
+        "sk": "určite",
+        "uk": "точно / безумовно",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s14-l84",
+    "targets": [
+      {
+        "sk": "dôvod",
+        "uk": "причина",
+        "status": "NEW"
+      },
+      {
+        "sk": "názor",
+        "uk": "думка",
+        "status": "NEW"
+      },
+      {
+        "sk": "skúsenosť",
+        "uk": "досвід",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "myslím, že",
+        "uk": "я думаю, що",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "podľa mňa",
+        "uk": "на мою думку",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "pretože",
+        "uk": "тому що",
+        "status": "TRANSFER"
+      },
+      {
+        "sk": "radšej by som",
+        "uk": "я б радше",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s15-l85",
+    "targets": [
+      {
+        "sk": "život",
+        "uk": "життя",
+        "status": "NEW"
+      },
+      {
+        "sk": "skúsenosť",
+        "uk": "досвід",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "zmena",
+        "uk": "зміна",
+        "status": "NEW"
+      },
+      {
+        "sk": "obdobie",
+        "uk": "період",
+        "status": "NEW"
+      },
+      {
+        "sk": "posledné dni",
+        "uk": "останні дні",
+        "status": "NEW"
+      },
+      {
+        "sk": "momentálne",
+        "uk": "зараз / наразі",
+        "status": "NEW"
+      },
+      {
+        "sk": "kedysi",
+        "uk": "колись",
+        "status": "NEW"
+      },
+      {
+        "sk": "teraz",
+        "uk": "тепер",
+        "status": "MASTERY"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s15-l86",
+    "targets": [
+      {
+        "sk": "problém",
+        "uk": "проблема",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "situácia",
+        "uk": "ситуація",
+        "status": "NEW"
+      },
+      {
+        "sk": "riešenie",
+        "uk": "рішення",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "potrebujem",
+        "uk": "мені потрібно",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "mohli by ste",
+        "uk": "чи могли б ви",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "navrhujem",
+        "uk": "я пропоную",
+        "status": "NEW"
+      },
+      {
+        "sk": "platí",
+        "uk": "домовилися / підходить",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "vybavené",
+        "uk": "готово / вирішено",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s15-l87",
+    "targets": [
+      {
+        "sk": "cesta",
+        "uk": "дорога / шлях",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "zastávka",
+        "uk": "зупинка",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "centrum",
+        "uk": "центр",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "vybaviť",
+        "uk": "залагодити",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "kúpiť",
+        "uk": "купити",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "zaplatiť",
+        "uk": "заплатити",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "stretnúť sa",
+        "uk": "зустрітися",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "stihnúť",
+        "uk": "встигнути",
+        "status": "MASTERY"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s15-l88",
+    "targets": [
+      {
+        "sk": "víkend",
+        "uk": "вихідні",
+        "status": "NEW"
+      },
+      {
+        "sk": "rezervácia",
+        "uk": "бронювання",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "odchod",
+        "uk": "відправлення",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "príchod",
+        "uk": "прибуття",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "ubytovanie",
+        "uk": "проживання",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "zmena plánu",
+        "uk": "зміна плану",
+        "status": "NEW"
+      },
+      {
+        "sk": "meškanie",
+        "uk": "запізнення",
+        "status": "NEW"
+      },
+      {
+        "sk": "návrat",
+        "uk": "повернення",
+        "status": "NEW"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s15-l89",
+    "targets": [
+      {
+        "sk": "dohodnúť sa",
+        "uk": "домовитися",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "navrhnúť",
+        "uk": "запропонувати",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "vyhovovať",
+        "uk": "підходити",
+        "status": "NEW"
+      },
+      {
+        "sk": "zmeniť",
+        "uk": "змінити",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "potvrdiť",
+        "uk": "підтвердити",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "tešiť sa",
+        "uk": "радіти / чекати з нетерпінням",
+        "status": "NEW"
+      },
+      {
+        "sk": "budeme spolu",
+        "uk": "ми будемо разом",
+        "status": "MASTERY"
+      }
+    ]
+  },
+  {
+    "lessonId": "a2-s15-l90",
+    "targets": [
+      {
+        "sk": "situácia",
+        "uk": "ситуація",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "skúsenosť",
+        "uk": "досвід",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "plán",
+        "uk": "план",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "problém",
+        "uk": "проблема",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "riešenie",
+        "uk": "рішення",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "rozhodnúť sa",
+        "uk": "вирішити / прийняти рішення",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "vysvetliť",
+        "uk": "пояснити",
+        "status": "MASTERY"
+      },
+      {
+        "sk": "dohodnúť sa",
+        "uk": "домовитися",
+        "status": "MASTERY"
+      }
+    ]
+  }
+]

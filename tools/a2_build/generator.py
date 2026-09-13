@@ -5,6 +5,7 @@ from pathlib import Path
 from typing import Iterable, Sequence
 from .model import PlanLesson, LessonCopy, OwnedTarget
 from .natural_examples import EXAMPLES
+from .contextual_examples import CONTEXTUAL_EXAMPLES
 from .semantic_profiles import PROFILES as SEMANTIC_PROFILES
 
 NOW='2026-09-13T21:30:00+02:00'
@@ -48,6 +49,8 @@ def punct(s:str)->str:
 
 def example_for(sk:str, uk:str)->tuple[str,str]:
     low=sk.lower().strip()
+    contextual=CONTEXTUAL_EXAMPLES.get((low, uk))
+    if contextual is not None: return contextual
     if low in EXAMPLES: return EXAMPLES[low]
     # controlled overrides for forms that are awkward under generic templates
     special={
