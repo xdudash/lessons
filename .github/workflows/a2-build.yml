@@ -1,4 +1,4 @@
-name: Fix A2 theory copy
+name: Rebuild A2 course with semantic gates
 
 on:
   push:
@@ -10,36 +10,179 @@ permissions:
   contents: write
 
 jobs:
-  fix-test:
+  build-a2:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout isolated A2 branch
+        uses: actions/checkout@v4
         with:
           ref: a2-generator-debug
           fetch-depth: 0
-      - uses: actions/setup-python@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.13'
-      - name: Fix past-sequence marker typo
-        run: |
-          python3 - <<'PY'
-          from pathlib import Path
-          p=Path('tools/a2_build/generator.py')
-          s=p.read_text(encoding='utf-8')
-          old='Зв’язуй події маркерами porom/neskôr/nakoniec'
-          new='Зв’язуй події маркерами potom/neskôr/nakoniec'
-          if s.count(old) != 1:
-              raise SystemExit(f'expected exactly one typo anchor, got {s.count(old)}')
-          p.write_text(s.replace(old,new),encoding='utf-8')
-          PY
-      - name: Run full A2 build test suite
-        run: python3 -m unittest discover -s tools/a2_build/tests -v
-      - name: Commit green copy fix
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Checkout current SlovakGo runtime contracts
+        uses: actions/checkout@v4
+        with:
+          repository: xdudash/slovakGo
+          ref: main
+          path: _runtime/slovakGo
+          persist-credentials: false
+
+      - name: Install schema validator
+        run: python -m pip install --disable-pip-version-check jsonschema
+
+      - name: Verify clean production baseline and builder tests
         shell: bash
         run: |
           set -euo pipefail
+          test -z "$(git ls-files 'lessons/a2/*.json')"
+          python3 -m unittest discover -s tools/a2_build/tests -v
+
+      - name: Configure isolated branch commits
+        run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add tools/a2_build/generator.py
-          git commit -m '[skip ci] fix: correct A2 past sequence marker'
+
+      - name: Build and publish five green A2 batches
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          semantic_audit() {
+            local expected="$1"
+            EXPECTED="$expected" python3 - <<'PY'
+          import json, os
+          from pathlib import Path
+          from tools.a2_build.semantic_profiles import PROFILES
+
+          expected=int(os.environ['EXPECTED'])
+          files=list(Path('lessons/a2').glob('a2-s*-l*.json'))
+          assert len(files)==expected, (len(files),expected)
+          banned=(
+              'Včera to zvládnem.','Ráno som.','To je aktívny.','Chcem budem',
+              'To je pôjdem.','To je prídem.','To je zavolám.','Chcem skúsenosť.',
+              'porom/neskôr','namiesto dnes','urobte prestup','potom tadiaľ cez',
+              'skôr lepšia rýchlejšia','Nabudúce môžeme sa','neschopný práce',
+          )
+          for p in files:
+              d=json.loads(p.read_text(encoding='utf-8'))['lessons'][0]
+              order=d['order']; profile=PROFILES[order]
+              theory=[x['examples'][0]['sk'] for x in d['theoryScreens']]
+              assert theory==[x[0] for x in profile.models], (d['id'],'theory',theory,profile.models)
+              steps=d['finalSituation']['steps']
+              assert [x['prompt']['uk'] for x in steps]==list(profile.prompts_uk), (d['id'],'prompts')
+              correct=[next(o['sk'] for o in step['options'] if o.get('correct') is True) for step in steps]
+              assert correct==[x[0] for x in profile.models], (d['id'],'answers')
+              raw=json.dumps(d,ensure_ascii=False)
+              for bad in banned:
+                  assert bad not in raw, (d['id'],bad)
+          print(f'SEMANTIC AUDIT PASS: {expected} lessons; theory + final profiles exact')
+          PY
+          }
+
+          gate() {
+            local lo="$1" hi="$2" count="$3" first_section="$4" last_section="$5"
+            echo "=== A2 batch S${first_section}-S${last_section}: L${lo}-L${hi} ==="
+            python3 -m tools.a2_build.build --root . --out lessons/a2 --from "$lo" --to "$hi" --manifest /tmp/a2-ownership.json
+            python3 -m tools.a2_build.qa_a2 lessons/a2 --plan A2/LESSON_PLAN.md --from 1 --to "$hi"
+            python3 -m tools.a2_build.schema_validate lessons/a2 _runtime/slovakGo/curriculum/lesson.schema.json --from 1 --to "$hi"
+            node --experimental-strip-types _runtime/slovakGo/scripts/qa-lessons.ts lessons/a2
+            semantic_audit "$count"
+
+            if [ "$count" -lt 90 ]; then
+              python3 -m tools.a2_build.progress --count "$count"
+              git add lessons/a2 progress/A2_PROGRESS.md
+            else
+              git add lessons/a2
+            fi
+            git commit -m "[skip ci] content: rebuild A2 sections ${first_section} to ${last_section}"
+            git push origin HEAD:a2-generator-debug
+            git fetch origin a2-generator-debug
+            test "$(git rev-parse HEAD)" = "$(git rev-parse origin/a2-generator-debug)"
+            remote_count="$(git ls-tree -r --name-only origin/a2-generator-debug -- lessons/a2 | grep -E '^lessons/a2/a2-s[0-9]{2}-l[0-9]{2}\.json$' | wc -l | tr -d ' ')"
+            test "$remote_count" = "$count"
+            echo "REMOTE BATCH VERIFIED: ${remote_count}/90 at $(git rev-parse --short HEAD)"
+          }
+
+          gate 1 18 18 01 03
+          gate 19 36 36 04 06
+          gate 37 54 54 07 09
+          gate 55 72 72 10 12
+          gate 73 90 90 13 15
+
+      - name: Run final all-90 validation
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 -m tools.a2_build.qa_a2 lessons/a2 --plan A2/LESSON_PLAN.md --from 1 --to 90
+          python3 -m tools.a2_build.schema_validate lessons/a2 _runtime/slovakGo/curriculum/lesson.schema.json --from 1 --to 90
+          node --experimental-strip-types _runtime/slovakGo/scripts/qa-lessons.ts lessons/a2
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          from tools.a2_build.semantic_profiles import PROFILES
+
+          files=sorted(Path('lessons/a2').glob('a2-s*-l*.json'))
+          assert len(files)==90, len(files)
+          expected=[f'a2-s{((n-1)//6)+1:02d}-l{n:02d}' for n in range(1,91)]
+          docs={}
+          for p in files:
+              d=json.loads(p.read_text(encoding='utf-8'))['lessons'][0]
+              docs[d['id']]=d
+              assert d['level']=='A2'
+              assert d['order']==int(d['id'][-2:])
+              profile=PROFILES[d['order']]
+              assert [x['examples'][0]['sk'] for x in d['theoryScreens']]==[x[0] for x in profile.models]
+              assert [x['prompt']['uk'] for x in d['finalSituation']['steps']]==list(profile.prompts_uk)
+              assert [next(o['sk'] for o in x['options'] if o.get('correct') is True) for x in d['finalSituation']['steps']]==[x[0] for x in profile.models]
+          assert sorted(docs,key=lambda x:int(x[-2:]))==expected
+          for n,lid in enumerate(expected[:-1],1):
+              nxt=docs[lid]['resultScreen'].get('nextLesson')
+              got=nxt.get('id') if isinstance(nxt,dict) else nxt
+              assert got==expected[n], (lid,got,expected[n])
+          assert 'nextLesson' not in docs[expected[-1]]['resultScreen']
+          print('FINAL INVENTORY/CHAIN/SEMANTICS PASS: 90/90; L90 terminal; 270 semantic models exact')
+          PY
+
+      - name: Verify remote 90/90 before completion marker
+        shell: bash
+        run: |
+          set -euo pipefail
+          git fetch origin a2-generator-debug
+          test "$(git rev-parse HEAD)" = "$(git rev-parse origin/a2-generator-debug)"
+          python3 - <<'PY'
+          import subprocess
+          names=subprocess.check_output(['git','ls-tree','-r','--name-only','origin/a2-generator-debug','--','lessons/a2'],text=True).splitlines()
+          names=[x for x in names if x.endswith('.json')]
+          expected=[f'lessons/a2/a2-s{((n-1)//6)+1:02d}-l{n:02d}.json' for n in range(1,91)]
+          assert sorted(names)==sorted(expected), (len(names),set(expected)-set(names),set(names)-set(expected))
+          print('REMOTE INVENTORY PASS: exact 90 A2 lesson paths')
+          PY
+
+      - name: Mark A2 complete on validated debug branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 -m tools.a2_build.progress --count 90 --complete
+          git add progress/A2_PROGRESS.md
+          git commit -m '[skip ci] A2 validated 90 of 90 on semantic build'
           git push origin HEAD:a2-generator-debug
+
+      - name: Verify final debug branch state
+        shell: bash
+        run: |
+          set -euo pipefail
+          git fetch origin a2-generator-debug
+          test "$(git rev-parse HEAD)" = "$(git rev-parse origin/a2-generator-debug)"
+          test "$(git ls-tree -r --name-only origin/a2-generator-debug -- lessons/a2 | grep -E '^lessons/a2/.*\.json$' | wc -l | tr -d ' ')" = 90
+          git show origin/a2-generator-debug:progress/A2_PROGRESS.md | grep -F 'COMPLETE — 90 / 90 active lessons'
+          echo 'DEBUG PRODUCTION PASS: semantic A2 is 90/90 and COMPLETE'
