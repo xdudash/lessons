@@ -1,0 +1,109 @@
+name: Clean Google localization A1 A2
+
+on:
+  push:
+    branches: [localize-a2-production]
+    paths:
+      - tools/run-google-clean.flag
+
+permissions:
+  contents: write
+
+jobs:
+  localize:
+    strategy:
+      max-parallel: 1
+      matrix:
+        level: [a2, a1]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Unit regressions
+        run: |
+          PYTHONPATH=tools python tools/test_translation_regressions.py
+          PYTHONPATH=tools python tools/test_google_batch.py
+      - name: Reset level to clean main
+        env:
+          LEVEL: ${{ matrix.level }}
+        run: |
+          git fetch origin main
+          git checkout origin/main -- "lessons/$LEVEL"
+      - name: Generate localization
+        env:
+          LEVEL: ${{ matrix.level }}
+          PYTHONUNBUFFERED: '1'
+        run: PYTHONPATH=tools python tools/localize_google.py --level "$LEVEL"
+      - name: Checkout current SlovakGo app contract
+        uses: actions/checkout@v4
+        with:
+          repository: xdudash/slovakGo
+          ref: main
+          path: slovakgo
+      - name: Install schema validator
+        run: python -m pip install -q jsonschema
+      - name: Validate current app schema
+        env:
+          LEVEL: ${{ matrix.level }}
+        run: |
+          python - <<'PY'
+          import json, pathlib, os
+          from jsonschema import Draft202012Validator
+          level=os.environ['LEVEL']
+          schema=json.loads(pathlib.Path('slovakgo/curriculum/lesson.schema.json').read_text())
+          validator=Draft202012Validator(schema)
+          files=sorted(pathlib.Path('lessons', level).glob(f'{level}-s*-l*.json'))
+          errors=[]
+          for path in files:
+              data=json.loads(path.read_text())
+              for error in validator.iter_errors(data):
+                  errors.append(f'{path.name}: {error.message}')
+          print(f'CURRENT SCHEMA {level}: files={len(files)} errors={len(errors)}')
+          if errors:
+              print('\n'.join(errors[:100])); raise SystemExit(1)
+          PY
+      - name: Verify inventory and chain
+        env:
+          LEVEL: ${{ matrix.level }}
+        run: |
+          python - <<'PY'
+          import json, re, pathlib, os
+          level=os.environ['LEVEL']; expected=75 if level=='a1' else 90
+          files=sorted(pathlib.Path('lessons', level).glob(f'{level}-s*-l*.json'), key=lambda p:int(re.search(r'-l(\d+)\.json$',p.name).group(1)))
+          assert len(files)==expected,(level,len(files))
+          lessons=[json.loads(p.read_text())['lessons'][0] for p in files]
+          assert len({x['id'] for x in lessons})==expected
+          for a,b in zip(lessons,lessons[1:]):
+              nxt=a.get('resultScreen',{}).get('nextLesson'); got=nxt.get('id') if isinstance(nxt,dict) else nxt
+              assert got==b['id'],(a['id'],got,b['id'])
+          assert 'nextLesson' not in lessons[-1].get('resultScreen',{})
+          print(level, expected, 'inventory and chain OK')
+          PY
+      - name: Validate current runtime checker
+        env:
+          LEVEL: ${{ matrix.level }}
+        run: node --experimental-strip-types slovakgo/scripts/qa-lessons.ts "lessons/$LEVEL"
+      - name: Final semantic audit
+        env:
+          LEVEL: ${{ matrix.level }}
+        run: PYTHONPATH=tools python tools/localize_google.py --level "$LEVEL" --audit-only
+      - name: Publish JSON-only clean branch
+        env:
+          LEVEL: ${{ matrix.level }}
+        run: |
+          TARGET="localize-${LEVEL}-google"
+          OUT="/tmp/${LEVEL}-localized"
+          mkdir -p "$OUT"
+          cp "lessons/$LEVEL"/*.json "$OUT/"
+          git checkout -B "$TARGET" origin/main
+          cp "$OUT"/*.json "lessons/$LEVEL/"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "lessons/$LEVEL"/*.json
+          git diff --cached --quiet && exit 0
+          git commit -m "feat: add reviewed Russian and English to ${LEVEL^^}"
+          git push origin HEAD:"$TARGET"
