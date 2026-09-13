@@ -1,0 +1,76 @@
+name: Production localization A1 A2
+
+on:
+  push:
+    branches: [localize-a1-production, localize-a2-production]
+    paths:
+      - .github/workflows/localize-production.yml
+      - tools/localize_nllb.py
+      - tools/localize_a1_a2.py
+
+permissions:
+  contents: write
+
+jobs:
+  localize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: |
+          python -m pip install -q torch --index-url https://download.pytorch.org/whl/cpu
+          python -m pip install -q 'transformers<5' sentencepiece sacremoses jsonschema
+      - name: Select level
+        run: |
+          if [[ "$GITHUB_REF_NAME" == "localize-a1-production" ]]; then echo "LEVEL=a1" >> "$GITHUB_ENV"; else echo "LEVEL=a2" >> "$GITHUB_ENV"; fi
+      - name: Generate Russian and English
+        env:
+          PYTHONUNBUFFERED: '1'
+        run: python tools/localize_nllb.py --level "$LEVEL"
+      - name: Multilingual audit
+        run: python tools/localize_a1_a2.py --level "$LEVEL" --audit-only
+      - name: Validate lesson schema
+        run: |
+          python - <<'PY'
+          import json, pathlib, os
+          from jsonschema import Draft202012Validator
+          level=os.environ['LEVEL']
+          schema=json.loads(pathlib.Path('curriculum/lesson.schema.json').read_text())
+          v=Draft202012Validator(schema)
+          files=sorted(pathlib.Path('lessons',level).glob(f'{level}-s*-l*.json'))
+          errors=[]
+          for p in files:
+              data=json.loads(p.read_text())
+              for e in v.iter_errors(data): errors.append(f'{p.name}: {e.message}')
+          print(f'SCHEMA {level}: files={len(files)} errors={len(errors)}')
+          if errors:
+              print('\n'.join(errors[:100])); raise SystemExit(1)
+          PY
+      - name: Verify inventory and lesson chain
+        run: |
+          python - <<'PY'
+          import json,re,pathlib,os
+          level=os.environ['LEVEL']; expected=75 if level=='a1' else 90
+          files=sorted(pathlib.Path('lessons',level).glob(f'{level}-s*-l*.json'),key=lambda p:int(re.search(r'-l(\d+)\.json$',p.name).group(1)))
+          assert len(files)==expected,(level,len(files))
+          lessons=[json.loads(p.read_text())['lessons'][0] for p in files]
+          assert len({x['id'] for x in lessons})==expected
+          for a,b in zip(lessons,lessons[1:]):
+              nxt=a.get('resultScreen',{}).get('nextLesson'); got=nxt.get('id') if isinstance(nxt,dict) else nxt
+              assert got==b['id'],(a['id'],got,b['id'])
+          assert 'nextLesson' not in lessons[-1].get('resultScreen',{})
+          print(level, expected, 'inventory and chain OK')
+          PY
+      - name: Commit lesson JSON only
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "lessons/$LEVEL"/*.json
+          git diff --cached --quiet && exit 0
+          git commit -m "feat: add Russian and English to ${LEVEL^^} lesson JSON"
+          git push origin HEAD:$GITHUB_REF_NAME
