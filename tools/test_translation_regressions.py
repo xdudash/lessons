@@ -1,15 +1,18 @@
 from __future__ import annotations
 
-import localize_a1_a2 as m
+import importlib
+import importlib.util
 
 
-def fixed(target: str, source: str):
-    fn = getattr(m, "fixed_translation", None)
-    return fn(target, source) if fn else None
+def fixes_module():
+    spec = importlib.util.find_spec("translation_fixes")
+    assert spec is not None, "translation_fixes module is missing"
+    return importlib.import_module("translation_fixes")
 
 
 def check(target: str, source: str, expected: str) -> None:
-    got = fixed(target, source)
+    m = fixes_module()
+    got = m.fixed_translation(target, source)
     assert got == expected, f"{target} {source!r}: expected {expected!r}, got {got!r}"
 
 
