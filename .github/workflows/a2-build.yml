@@ -1,4 +1,4 @@
-name: Audit A2 vocabulary examples
+name: Test A2 contextual word examples
 
 on:
   push:
@@ -10,7 +10,7 @@ permissions:
   contents: read
 
 jobs:
-  audit:
+  test:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -19,24 +19,5 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.13'
-      - name: List generic high-risk vocabulary examples
-        shell: bash
-        run: |
-          python3 - <<'PY'
-          import json
-          from pathlib import Path
-          rows=[]
-          seen=set()
-          for p in sorted(Path('lessons/a2').glob('*.json')):
-              d=json.loads(p.read_text(encoding='utf-8'))['lessons'][0]
-              for w in d['words']:
-                  key=(w['sk'],w['uk'],w['exampleSk'],w['exampleUk'])
-                  if key in seen: continue
-                  seen.add(key)
-                  ex=w['exampleSk']; sk=w['sk']
-                  if ex == f'To je {sk}.' or ex == f'Chcem {sk}.' or ex == f'{sk[:1].upper()+sk[1:]}.' or ex.startswith('Chcem si ') or ex.startswith('Chcem sa '):
-                      rows.append((d['id'],sk,w['uk'],ex,w['exampleUk']))
-          print(f'HIGH_RISK_ROWS={len(rows)}')
-          for row in rows:
-              print(' | '.join(row))
-          PY
+      - name: Run contextual word-example regression
+        run: python3 -m unittest tools.a2_build.tests.test_contextual_word_examples -v
