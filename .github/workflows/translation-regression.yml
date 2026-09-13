@@ -1,0 +1,20 @@
+name: Translation regression
+
+on:
+  push:
+    branches: [localize-a2-production]
+    paths:
+      - .github/workflows/translation-regression.yml
+      - tools/translation_fixes.py
+      - tools/test_translation_regressions.py
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run translation regressions
+        run: PYTHONPATH=tools python tools/test_translation_regressions.py
