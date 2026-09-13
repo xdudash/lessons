@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from copy import deepcopy
 
-import localize_clean_v2 as m
+import localize_local as m
 
 
 def fake_translations():
@@ -62,15 +62,17 @@ def test_regression_templates():
     assert m.fixed_translation("ru", "Впиши словацькою: «як / ніж».") == "Напиши по-словацки: «как / чем»."
 
 
-def test_rate_limit_backoff_policy():
-    assert m.rate_limit_delay(0) == 8
-    assert m.rate_limit_delay(1) == 16
-    assert m.rate_limit_delay(2) == 32
-    assert m.rate_limit_delay(3) == 45
+def test_literal_protection_roundtrip():
+    source = "Що означає «Vôbec tomu nerozumiem.» і výraz pokojný?"
+    protected, literals = m.protect_latin(source)
+    assert "Vôbec" not in protected
+    assert "pokojný" not in protected
+    restored = m.restore_latin(protected, literals)
+    assert restored == source
 
 
 if __name__ == "__main__":
     test_structure_preserved()
     test_regression_templates()
-    test_rate_limit_backoff_policy()
-    print("clean localization regression tests passed")
+    test_literal_protection_roundtrip()
+    print("clean offline localization regression tests passed")
