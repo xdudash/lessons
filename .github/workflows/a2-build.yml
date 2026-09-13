@@ -36,6 +36,12 @@ jobs:
           echo '0cf9e379e2a3ff5cab46936d29dea1a3db85d5a68b8597112d96515e64fda8c4  /tmp/semantic_profiles.py.gz' | sha256sum -c -
           gzip -dc /tmp/semantic_profiles.py.gz > tools/a2_build/semantic_profiles.py
           echo 'd94f78c1ad0c4626c49983153757bef54830a941e041a3d7f697ec57320ef4ec  tools/a2_build/semantic_profiles.py' | sha256sum -c -
+      - name: Apply reviewed language cleanup
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 tools/a2_build/semantic_cleanup.py
+          echo 'ed5019304588aeb1224772651a63883e3e7907f5cc2f415988deb87dd2b34c5d  tools/a2_build/semantic_profiles.py' | sha256sum -c -
       - name: Run full A2 build test suite
         run: python3 -m unittest discover -s tools/a2_build/tests -v
       - name: Commit verified semantic profiles
