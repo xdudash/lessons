@@ -9,6 +9,10 @@ on:
       - tools/localize_clean_v2.py
       - .github/workflows/localize-clean.yml
 
+concurrency:
+  group: clean-a1-a2-localization
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
