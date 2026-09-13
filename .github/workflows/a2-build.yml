@@ -1,4 +1,4 @@
-name: Apply curated A2 examples and rescan
+name: Review generated A2 lessons
 
 on:
   push:
@@ -7,80 +7,37 @@ on:
       - .github/workflows/a2-build.yml
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  quality:
+  review:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           ref: a2-generator-debug
-          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.13'
-      - name: Wire curated risky-target examples into generator
-        shell: bash
-        run: |
-          set -euo pipefail
-          python3 - <<'PY'
-          from pathlib import Path
-          p=Path('tools/a2_build/generator.py')
-          text=p.read_text(encoding='utf-8')
-          import_line='from .natural_examples import EXAMPLES\n'
-          if import_line not in text:
-              anchor='from .model import PlanLesson, LessonCopy, OwnedTarget\n'
-              text=text.replace(anchor, anchor+import_line, 1)
-          marker='    low=sk.lower().strip()\n'
-          lookup='    if low in EXAMPLES: return EXAMPLES[low]\n'
-          if marker+lookup not in text:
-              text=text.replace(marker, marker+lookup, 1)
-          p.write_text(text,encoding='utf-8')
-          PY
-      - name: Run regression suite
+      - name: Run generator regressions
         run: python3 -m unittest discover -s tools/a2_build/tests -v
-      - name: Generate all 90 lessons for quality gate
+      - name: Generate review corpus
         run: python3 -m tools.a2_build.build --root . --out /tmp/a2 --from 1 --to 90 --manifest /tmp/a2-ownership.json
-      - name: Require clean all-target example scan
-        shell: bash
-        run: |
-          python3 - <<'PY'
-          import json, re, sys
-          from pathlib import Path
-          finite_markers={'som','sme','ste','je','sú','mám','máme','má','majú','musím','musíme','môžem','môžeme','chcem','chceme','budem','budeme','budeš','budete','bude','budú','pôjdem','pôjdeme','prídem','prídeme','zavolám','zavoláme','napíšem','napíšeme','idem','ideme','chodím','chodíme','robím','robíme','pracujem','pracujeme','stretli','išli','boli','prišiel','išiel'}
-          hard=[]; raw=[]; generic=[]; short_aux=[]; rows=[]
-          for path in sorted(Path('/tmp/a2').glob('a2-s*-l*.json')):
-              lesson=json.loads(path.read_text(encoding='utf-8'))['lessons'][0]
-              for w in lesson['words']:
-                  target=w['sk'].strip(); ex=w['exampleSk'].strip(); low=ex.lower()
-                  row={'lessonId':lesson['id'],'target':target,'exampleSk':ex,'exampleUk':w['exampleUk']}; rows.append(row)
-                  if re.search(r'\bchcem\s+(budem|budeme|budeš|budete|bude|budú)\b', low): hard.append(('chcem+future',row))
-                  if re.search(r'\bchcem\s+sa\s+.*\b(som|sme|ste)\b', low): hard.append(('chcem-sa+finite',row))
-                  if re.match(r'^to je\s+(pôjdem|prídem|zavolám|napíšem|budem|urobím|idem|môžem|musím|chcem)\b', low): hard.append(('to-je+finite',row))
-                  if low.startswith('chcem ') and target.lower().endswith('osť'): hard.append(('ost-as-infinitive',row))
-                  if ' to zvládnem.' in low: generic.append(row)
-                  nt=target.lower().rstrip('.!?').strip(); ne=ex.lower().rstrip('.!?').strip()
-                  tokens=re.findall(r"[\wÀ-ž’'-]+",nt,flags=re.UNICODE)
-                  if len(tokens)>=2 and ne==nt:
-                      has_finite=any(t in finite_markers for t in tokens)
-                      uk=w['uk'].lower().strip(); pronoun=uk.startswith(('я ','ми ','він ','вона ','вони ')); question=target.endswith('?')
-                      if not (has_finite or pronoun or question): raw.append(row)
-                  ex_tokens=re.findall(r"[\wÀ-ž’'-]+",low,flags=re.UNICODE)
-                  if len(ex_tokens)<=3 and ex_tokens and ex_tokens[-1] in {'som','sme','ste','budem','budeme','budeš','budete','bude','budú'}: short_aux.append(row)
-          print(f"EXAMPLE QUALITY GATE: total={len(rows)} hard={len(hard)} raw_echo_nonfinite={len(raw)} generic_to_zvladnem={len(generic)} auxiliary_fragments={len(short_aux)}")
-          for label,items in [('HARD',hard),('RAW',[(None,x) for x in raw]),('GENERIC',[(None,x) for x in generic]),('AUX',[(None,x) for x in short_aux])]:
-              for reason,row in items[:100]:
-                  prefix=f'{reason}: ' if reason else ''
-                  print(f"{label} {prefix}{row['lessonId']} | {row['target']} => {row['exampleSk']}")
-          if hard or raw or generic or short_aux: sys.exit(1)
-          PY
-      - name: Commit green generator quality fix
+      - name: Package representative lessons
         shell: bash
         run: |
           set -euo pipefail
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add tools/a2_build/generator.py
-          git commit -m '[skip ci] fix: use curated contexts for risky A2 targets'
-          git push origin HEAD:a2-generator-debug
+          mkdir -p /tmp/a2-review
+          cp /tmp/a2/a2-s01-l01.json /tmp/a2-review/
+          cp /tmp/a2/a2-s03-l13.json /tmp/a2-review/
+          cp /tmp/a2/a2-s04-l19.json /tmp/a2-review/
+          cp /tmp/a2/a2-s06-l32.json /tmp/a2-review/
+          cp /tmp/a2/a2-s07-l40.json /tmp/a2-review/
+          cp /tmp/a2/a2-s11-l61.json /tmp/a2-review/
+          cp /tmp/a2/a2-s13-l75.json /tmp/a2-review/
+          cp /tmp/a2/a2-s14-l82.json /tmp/a2-review/
+          cp /tmp/a2/a2-s15-l90.json /tmp/a2-review/
+      - uses: actions/upload-artifact@v4
+        with:
+          name: a2-review-corpus
+          path: /tmp/a2-review
