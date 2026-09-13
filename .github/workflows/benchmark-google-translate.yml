@@ -1,0 +1,19 @@
+name: Benchmark Google Translate
+
+on:
+  push:
+    branches: [localize-a2-production]
+    paths:
+      - .github/workflows/benchmark-google-translate.yml
+      - tools/benchmark_google_translate.py
+
+jobs:
+  benchmark:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run benchmark
+        run: python tools/benchmark_google_translate.py
