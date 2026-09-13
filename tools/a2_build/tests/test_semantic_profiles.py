@@ -19,6 +19,33 @@ class SemanticProfileTests(unittest.TestCase):
                 self.assertNotIn('скажи:',prompt.lower(),(order,prompt))
                 self.assertGreaterEqual(len(prompt.split()),5,(order,prompt))
 
+    def test_models_avoid_known_unnatural_patterns(self):
+        forbidden=(
+            'Včera to zvládnem.',
+            'Ráno som.',
+            'To je aktívny.',
+            'Chcem budem',
+            'To je pôjdem.',
+            'To je prídem.',
+            'To je zavolám.',
+            'Chcem skúsenosť.',
+            'namiesto dnes',
+            'urobte prestup',
+            'potom tadiaľ cez',
+            'pokojne večerať s rodinou',
+            'zľava a akcia',
+            'vybavenie hotové',
+            'Nabudúce môžeme sa',
+            'neschopný práce',
+            'skôr lepšia rýchlejšia',
+            'zlý nápad bez plánu',
+            'Podľa mňa by som radšej',
+        )
+        for order,p in self.profiles().items():
+            joined=' '.join(x[0] for x in p.models)
+            for bad in forbidden:
+                self.assertNotIn(bad,joined,(order,bad,joined))
+
     def test_doctor_profile_practises_symptom_and_duration(self):
         p=self.profiles()[75]
         sk=' '.join(x[0] for x in p.models)
@@ -28,9 +55,10 @@ class SemanticProfileTests(unittest.TestCase):
     def test_choice_profile_has_real_choice_language(self):
         p=self.profiles()[82]
         sk=' '.join(x[0] for x in p.models)
+        low=sk.lower()
         for bad in ('To je radšej.','To je skôr.','To je namiesto.'):
             self.assertNotIn(bad,sk)
-        self.assertTrue('radšej' in sk and ('keby' in sk.lower() or 'záleží' in sk.lower()),sk)
+        self.assertTrue('radšej' in low and ('keby' in low or 'záleží' in low),sk)
 
     def test_a2_final_profile_integrates_past_future_problem_and_opinion(self):
         p=self.profiles()[90]
