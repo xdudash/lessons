@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import copy
 
-from localize_json_only import localize_document
+from localize_json_only import localize_document, split_segments
 
 
 def fake_translate(target: str, text: str) -> str:
@@ -15,20 +15,14 @@ def main() -> None:
             "id": "x",
             "localization": {"uiLanguages": ["uk"], "targetLanguage": "sk", "fallbackUiLanguage": "uk"},
             "title": {"sk": "Názov", "uk": "Назва"},
-            "startScreen": {
-                "button": "Почати урок",
-                "outcomes": ["розуміти зміст"],
-            },
+            "startScreen": {"button": "Почати урок", "outcomes": ["розуміти зміст"]},
             "wordsScreen": {
                 "title": {"uk": "Слова"},
                 "items": [{"sk": "čaj", "uk": "чай", "exampleSk": "Čaj je teplý.", "exampleUk": "Чай теплий."}],
                 "button": "До практики",
             },
             "exercises": [{
-                "id": "e1",
-                "type": "single_choice",
-                "question": "Що означає «čaj»?",
-                "button": "Далі",
+                "id": "e1", "type": "single_choice", "question": "Що означає «čaj»?", "button": "Далі",
                 "options": [{"id": "a", "text": "чай", "correct": True}],
             }],
         }]
@@ -53,8 +47,12 @@ def main() -> None:
     assert lesson["exercises"][0]["button"] == "Далі"
     assert lesson["exercises"][0]["options"][0]["text"]["uk"] == "чай"
 
+    parts = split_segments("Впиши словацькою: «поруч».")
+    translated_chunks = [piece.strip() for flag, piece in parts if flag and piece.strip()]
+    assert "поруч" in translated_chunks, translated_chunks
+    assert "Впиши словацькою: «поруч»." not in translated_chunks, translated_chunks
+
     print("json-only localization regression passed")
 
 
-if __name__ == "__main__":
-    main()
+if __name__ == "__main__": main()
