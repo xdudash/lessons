@@ -1,0 +1,117 @@
+name: Build A1 tail once
+
+on:
+  push:
+    paths:
+      - '.github/workflows/build-a1-tail.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build-a1-tail:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Reassemble verified build bundle
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat tools/a1_tail_build/chunk* | base64 -d > /tmp/a1bundle.tgz
+          echo 'beafbfe5264f9ab9e6082c2f99bfd2669d8fc799f0da302a3a042f2c7dd7c123  /tmp/a1bundle.tgz' | sha256sum -c -
+          rm -rf /tmp/a1bundle /tmp/slovakgo-build
+          tar -xzf /tmp/a1bundle.tgz -C /tmp
+          mkdir -p /tmp/slovakgo-build/lessons/a1
+          cp /tmp/a1bundle/*.py /tmp/slovakgo-build/
+
+      - name: Generate and QA L38-L81
+        shell: bash
+        run: |
+          set -euo pipefail
+          cd /tmp/slovakgo-build
+          python3 specs_07_10.py
+          python3 specs_11_14.py
+          python3 qa_local.py lessons/a1
+          test "$(find lessons/a1 -maxdepth 1 -name 'a1-s*-l*.json' | wc -l)" -eq 44
+
+      - name: Install final S09-S14 lessons
+        shell: bash
+        run: |
+          set -euo pipefail
+          for n in $(seq 51 81); do
+            src=$(find /tmp/slovakgo-build/lessons/a1 -maxdepth 1 -name "a1-s*-l${n}.json" -print -quit)
+            test -n "$src"
+            cp "$src" lessons/a1/
+          done
+
+      - name: Verify complete A1 inventory and chain
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          import json, re
+          from pathlib import Path
+
+          root = Path('lessons/a1')
+          expected = []
+          sections = {
+              1: range(1, 7),
+              2: range(7, 12),
+              3: range(18, 23),
+              4: range(23, 27),
+              5: range(27, 31),
+              6: range(31, 38),
+              7: range(38, 44),
+              8: range(44, 51),
+              9: range(51, 57),
+              10: range(57, 63),
+              11: range(63, 68),
+              12: range(68, 73),
+              13: range(73, 77),
+              14: range(77, 82),
+          }
+          for sec, orders in sections.items():
+              for order in orders:
+                  expected.append(f'a1-s{sec:02d}-l{order:02d}')
+          assert len(expected) == 75
+
+          files = sorted(root.glob('a1-s*-l*.json'))
+          actual = []
+          lessons = {}
+          for f in files:
+              data = json.loads(f.read_text(encoding='utf-8'))
+              lesson = data['lessons'][0]
+              actual.append(lesson['id'])
+              lessons[lesson['id']] = lesson
+          active_actual = sorted(x for x in actual if x.startswith('a1-'))
+          assert sorted(expected) == active_actual, (len(expected), len(active_actual), sorted(set(expected)-set(active_actual)), sorted(set(active_actual)-set(expected)))
+          for retired in range(12, 18):
+              assert not list(root.glob(f'a1-s*-l{retired:02d}.json')), retired
+
+          for i, lid in enumerate(expected[:-1]):
+              nxt = lessons[lid].get('resultScreen', {}).get('nextLesson')
+              nxt_id = nxt.get('id') if isinstance(nxt, dict) else nxt
+              assert nxt_id == expected[i+1], (lid, nxt_id, expected[i+1])
+          last = lessons[expected[-1]].get('resultScreen', {}).get('nextLesson')
+          assert last in (None, ''), last
+          print('A1 inventory + chain PASS: 75 active lessons; retired l12-l17 absent.')
+          PY
+
+      - name: Commit lessons and remove one-shot builder
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -rf tools/a1_tail_build
+          rm -f .github/workflows/build-a1-tail.yml
+          git config user.name 'slovakgo-course-bot'
+          git config user.email 'slovakgo-course-bot@users.noreply.github.com'
+          git add lessons/a1 tools/a1_tail_build .github/workflows/build-a1-tail.yml
+          if git diff --cached --quiet; then
+            echo 'No lesson changes to commit.'
+            exit 0
+          fi
+          git commit -m '[skip ci] Complete A1 Sections 09-14'
+          git push origin HEAD:main
