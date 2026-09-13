@@ -1,38 +1,24 @@
-name: Extract A2 generator
+name: Test A2 generator quality
 
 on:
   push:
     branches: [a2-generator-debug]
     paths:
       - .github/workflows/a2-build.yml
+      - tools/a2_build/**
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  extract:
+  test:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           ref: a2-generator-debug
-          fetch-depth: 0
-      - name: Reassemble verified generator bundle
-        shell: bash
-        run: |
-          set -euo pipefail
-          cat tools/a2_bundle/chunk{00..13} > /tmp/a2-harness.b64
-          echo 'ce75d90f23ab764469974edebb4c3635ee97ae161b4522c329740adf64bdebbd  /tmp/a2-harness.b64' | sha256sum -c -
-          base64 -d /tmp/a2-harness.b64 > /tmp/a2-harness.tgz
-          echo '0360d31e07ecb7723098d72509d9f3de7a2bae0a97c454d4411849e8c59db670  /tmp/a2-harness.tgz' | sha256sum -c -
-          tar -xzf /tmp/a2-harness.tgz
-          find tools/a2_build -type d -name __pycache__ -prune -exec rm -rf {} +
-      - name: Commit restored generator sources
-        shell: bash
-        run: |
-          set -euo pipefail
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add tools/a2_build tools/__init__.py
-          git commit -m '[skip ci] debug: restore A2 generator sources'
-          git push origin HEAD:a2-generator-debug
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Run A2 generator tests
+        run: python3 -m unittest discover -s tools/a2_build/tests -v
