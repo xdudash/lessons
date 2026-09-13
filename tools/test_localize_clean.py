@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from copy import deepcopy
 
-import localize_clean as m
+import localize_clean_v2 as m
 
 
 def fake_translations():
