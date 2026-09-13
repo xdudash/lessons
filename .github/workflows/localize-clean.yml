@@ -1,0 +1,56 @@
+name: Clean A1 A2 localization
+
+on:
+  push:
+    branches: [localize-a1-a2-clean]
+    paths:
+      - tools/test_localize_clean.py
+      - tools/localize_clean.py
+      - .github/workflows/localize-clean.yml
+
+permissions:
+  contents: write
+
+jobs:
+  localize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Translation regression tests
+        run: PYTHONPATH=tools python tools/test_localize_clean.py
+      - name: Localize A1 and A2 from pristine main
+        env:
+          PYTHONUNBUFFERED: '1'
+        run: |
+          git fetch origin main
+          git checkout origin/main -- lessons/a1 lessons/a2
+          PYTHONPATH=tools python tools/localize_clean.py --levels a1 a2
+      - name: Fetch current SlovakGo validators read-only
+        run: |
+          curl -fsSL https://raw.githubusercontent.com/xdudash/slovakGo/main/curriculum/lesson.schema.json -o /tmp/lesson.schema.json
+          curl -fsSL https://raw.githubusercontent.com/xdudash/slovakGo/main/scripts/qa-lessons.ts -o /tmp/qa-lessons.ts
+      - name: Validate current app schema
+        run: PYTHONPATH=tools python tools/localize_clean.py --audit-only --schema /tmp/lesson.schema.json --levels a1 a2
+      - name: Validate current app runtime checker
+        run: node --experimental-strip-types /tmp/qa-lessons.ts lessons/a1 lessons/a2
+      - name: Verify inventory and chains
+        run: PYTHONPATH=tools python tools/localize_clean.py --verify-only --levels a1 a2
+      - name: Ensure only lesson JSON changed
+        run: |
+          changed=$(git diff --name-only origin/main --)
+          echo "$changed"
+          test -n "$changed"
+          bad=$(printf '%s\n' "$changed" | grep -Ev '^lessons/(a1|a2)/.*\.json$' || true)
+          test -z "$bad"
+      - name: Commit JSON only
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add lessons/a1/*.json lessons/a2/*.json
+          git commit -m "Add Russian and English localization to A1 and A2"
+          git push origin HEAD:localize-a1-a2-clean
