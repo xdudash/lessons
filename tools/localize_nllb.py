@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import gc
 
-import tools.localize_a1_a2 as base
+import localize_a1_a2 as base
 
 MODEL = "facebook/nllb-200-distilled-600M"
 TARGET_CODES = {"en": "eng_Latn", "ru": "rus_Cyrl"}
