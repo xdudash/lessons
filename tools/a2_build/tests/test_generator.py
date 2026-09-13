@@ -26,6 +26,28 @@ class GeneratorTests(unittest.TestCase):
         p,c,o=self.sample(); p=PlanLesson(15,90,'a2-s15-l90','A2 v praxi','x',p.mapped_targets); doc=build_lesson(p,c,o,None)
         self.assertNotIn('nextLesson',doc['lessons'][0]['resultScreen'])
 
+    def test_build_lesson_uses_explicit_semantic_profiles(self):
+        from tools.a2_build.semantic_profiles import PROFILES
+        cases=(
+            (3,13,'a2-s03-l13','Čo som robil včera?',('včera','ráno som','potom som','večer som','bol som','mal som','robil som','prišiel som','išiel som')),
+            (4,19,'a2-s04-l19','Čo budem robiť zajtra?',('zajtra','budem pracovať','budem študovať','pôjdem','prídem','zavolám','napíšem','večer budem')),
+            (15,90,'a2-s15-l90','A2 v praxi',('problém','riešenie','zajtra','včera','plán','podľa mňa','pretože','dohodnúť sa')),
+        )
+        for section,order,lid,title,targets in cases:
+            with self.subTest(order=order):
+                copy=LessonCopy(f'Урок {order}',f'Семантичний намір {order}.',tuple(f'значення {i}' for i in range(len(targets))))
+                plan=PlanLesson(section,order,lid,title,'x',targets)
+                owned=[OwnedTarget(sk,uk,'NEW') for sk,uk in zip(targets,copy.target_uk)]
+                doc=build_lesson(plan,copy,owned,None if order==90 else f'next-{order}')['lessons'][0]
+                profile=PROFILES[order]
+                theory_models=[screen['examples'][0]['sk'] for screen in doc['theoryScreens']]
+                self.assertEqual(theory_models,[model[0] for model in profile.models])
+                prompts=[step['prompt']['uk'] for step in doc['finalSituation']['steps']]
+                self.assertEqual(prompts,list(profile.prompts_uk))
+                correct=[next(opt['sk'] for opt in step['options'] if opt['correct']) for step in doc['finalSituation']['steps']]
+                self.assertEqual(correct,[model[0] for model in profile.models])
+                self.assertFalse(any('скажи:' in prompt.lower() for prompt in prompts))
+
     def test_temporal_adverb_uses_matching_past_context(self):
         self.assertEqual(example_for('včera','учора'), ('Včera som bol doma.','Учора я був удома.'))
 
