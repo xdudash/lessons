@@ -1,0 +1,72 @@
+name: JSON-only localization
+
+on:
+  push:
+    branches: [locale-json-tools, locale-a1-json-final, locale-a2-json-final]
+    paths:
+      - tools/test_json_only_localization.py
+      - tools/localize_json_only.py
+      - tools/translation_fixes.py
+      - .github/workflows/json-only-localization.yml
+
+permissions:
+  contents: write
+
+jobs:
+  localize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: JSON-only regression test
+        run: PYTHONPATH=tools python tools/test_json_only_localization.py
+      - name: Stop on tools branch
+        if: github.ref_name == 'locale-json-tools'
+        run: exit 0
+      - name: Install translation dependencies
+        if: github.ref_name != 'locale-json-tools'
+        run: |
+          python -m pip install -q torch --index-url https://download.pytorch.org/whl/cpu
+          python -m pip install -q 'transformers<5' sentencepiece sacremoses jsonschema
+      - name: Select level
+        if: github.ref_name != 'locale-json-tools'
+        run: |
+          if [[ "$GITHUB_REF_NAME" == "locale-a1-json-final" ]]; then echo "LEVEL=a1" >> "$GITHUB_ENV"; else echo "LEVEL=a2" >> "$GITHUB_ENV"; fi
+      - name: Localize JSON
+        if: github.ref_name != 'locale-json-tools'
+        env:
+          PYTHONUNBUFFERED: '1'
+        run: python tools/localize_json_only.py --level "$LEVEL"
+      - name: Verify JSON-only diff and inventory
+        if: github.ref_name != 'locale-json-tools'
+        run: |
+          python - <<'PY'
+          import json, pathlib, re, os, subprocess
+          level=os.environ['LEVEL']; expected=75 if level=='a1' else 90
+          files=sorted(pathlib.Path('lessons',level).glob(f'{level}-s*-l*.json'), key=lambda p:int(re.search(r'-l(\d+)\.json$',p.name).group(1)))
+          assert len(files)==expected, (level,len(files))
+          lessons=[json.loads(p.read_text())['lessons'][0] for p in files]
+          assert all(x.get('localization',{}).get('uiLanguages')==['uk','ru','en'] for x in lessons)
+          assert all(x.get('localization',{}).get('targetLanguage')=='sk' for x in lessons)
+          assert len({x['id'] for x in lessons})==expected
+          for a,b in zip(lessons,lessons[1:]):
+              nxt=a.get('resultScreen',{}).get('nextLesson'); got=nxt.get('id') if isinstance(nxt,dict) else nxt
+              assert got==b['id'], (a['id'],got,b['id'])
+          assert 'nextLesson' not in lessons[-1].get('resultScreen',{})
+          changed=subprocess.check_output(['git','diff','--name-only','HEAD','--'], text=True).splitlines()
+          assert changed and all(p.startswith(f'lessons/{level}/') and p.endswith('.json') for p in changed), changed[:20]
+          print(level, expected, 'JSON-only inventory/chain OK; changed', len(changed))
+          PY
+      - name: Commit lesson JSON only
+        if: github.ref_name != 'locale-json-tools'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "lessons/$LEVEL"/*.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Add Russian and English to ${LEVEL^^} lesson JSON"
+          git push origin HEAD:$GITHUB_REF_NAME
