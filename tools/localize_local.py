@@ -104,7 +104,7 @@ def _nllb_many(texts: list[str], target: str) -> list[str]:
 
     forced_bos = tokenizer.convert_tokens_to_ids(TARGET_CODES[target])
     results: list[str] = []
-    batch_size = 32
+    batch_size = 64
     with torch.inference_mode():
         for start in range(0, len(protected), batch_size):
             batch = protected[start:start + batch_size]
@@ -113,7 +113,7 @@ def _nllb_many(texts: list[str], target: str) -> list[str]:
                 **inputs,
                 forced_bos_token_id=forced_bos,
                 max_new_tokens=192,
-                num_beams=2,
+                num_beams=1,
             )
             decoded = tokenizer.batch_decode(generated, skip_special_tokens=True)
             for source, translated, literals in zip(texts[start:start + batch_size], decoded, mappings[start:start + batch_size]):
@@ -153,7 +153,7 @@ def _segmented_fallback(text: str, target: str) -> str:
             suffix = piece[len(piece.rstrip()):]
             core = piece.strip()
             inputs = tokenizer([core], return_tensors="pt", padding=True, truncation=True, max_length=384)
-            generated = model.generate(**inputs, forced_bos_token_id=forced_bos, max_new_tokens=192, num_beams=2)
+            generated = model.generate(**inputs, forced_bos_token_id=forced_bos, max_new_tokens=192, num_beams=1)
             translated = tokenizer.batch_decode(generated, skip_special_tokens=True)[0].strip()
             built.append(prefix + translated + suffix)
     return "".join(built)
