@@ -37,7 +37,16 @@ jobs:
         env:
           LEVEL: ${{ matrix.level }}
           PYTHONUNBUFFERED: '1'
-        run: PYTHONPATH=tools python tools/localize_google.py --level "$LEVEL"
+        run: |
+          PYTHONPATH=tools python - <<'PY'
+          import os
+          import localize_google as g
+          original = g.translate_many
+          def production_batches(texts, source_lang, target_lang, *, max_chars=2800, max_items=40):
+              return original(texts, source_lang, target_lang, max_chars=max_chars, max_items=max_items)
+          g.translate_many = production_batches
+          g.run_level(os.environ['LEVEL'])
+          PY
       - name: Checkout current SlovakGo app contract
         uses: actions/checkout@v4
         with:
