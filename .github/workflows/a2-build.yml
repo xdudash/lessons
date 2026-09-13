@@ -1,4 +1,4 @@
-name: Test A2 contextual word examples
+name: Repair and verify A2 production candidate
 
 on:
   push:
@@ -7,17 +7,61 @@ on:
       - .github/workflows/a2-build.yml
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
-  test:
+  repair:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           ref: a2-generator-debug
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.13'
-      - name: Run contextual word-example regression
-        run: python3 -m unittest tools.a2_build.tests.test_contextual_word_examples -v
+      - name: Install Python QA dependency
+        run: python3 -m pip install jsonschema
+      - name: Materialize contextual examples
+        run: python3 tools/a2_build/materialize_contextual_examples.py
+      - name: Run full A2 unit suite
+        run: python3 -m unittest discover tools/a2_build/tests -v
+      - name: Rebuild all 90 A2 lessons
+        run: python3 -m tools.a2_build.build --from 1 --to 90
+      - name: Run A2 adversarial and semantic QA
+        run: python3 -m tools.a2_build.qa_a2 lessons/a2 --from 1 --to 90
+      - uses: actions/checkout@v4
+        with:
+          repository: xdudash/slovakGo
+          path: slovakgo
+      - name: Validate against current app schema
+        run: python3 -m tools.a2_build.schema_validate lessons/a2 slovakgo/curriculum/lesson.schema.json --from 1 --to 90
+      - name: Validate against current app runtime checker
+        run: node --experimental-strip-types slovakgo/scripts/qa-lessons.ts lessons/a2
+      - name: Verify inventory and terminal lesson
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          files=sorted(Path('lessons/a2').glob('a2-s*-l*.json'))
+          assert len(files)==90, len(files)
+          ids=[]
+          for p in files:
+              d=json.loads(p.read_text(encoding='utf-8'))['lessons'][0]
+              ids.append(d['id'])
+          assert len(ids)==len(set(ids))==90
+          l90=json.loads(Path('lessons/a2/a2-s15-l90.json').read_text(encoding='utf-8'))['lessons'][0]
+          assert 'nextLesson' not in l90['resultScreen']
+          print('INVENTORY PASSED: 90 unique lessons; L90 terminal.')
+          PY
+      - name: Commit verified repair
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tools/a2_build/contextual_examples.py tools/a2_build/generator.py tools/a2_build/ownership-manifest.json lessons/a2
+          if git diff --cached --quiet; then
+            echo "No generated changes to commit"
+          else
+            git commit -m "fix: use contextual examples across A2"
+            git push origin HEAD:a2-generator-debug
+          fi
