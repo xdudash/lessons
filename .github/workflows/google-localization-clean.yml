@@ -27,6 +27,7 @@ jobs:
         run: |
           PYTHONPATH=tools python tools/test_translation_regressions.py
           PYTHONPATH=tools python tools/test_google_batch.py
+          PYTHONPATH=tools python tools/test_preserve_shape.py
       - name: Reset level to clean main
         env:
           LEVEL: ${{ matrix.level }}
@@ -40,11 +41,14 @@ jobs:
         run: |
           PYTHONPATH=tools python - <<'PY'
           import os
+          import localize_a1_a2 as base
           import localize_google as g
+          from localization_shape import safe_migrate_lesson
           original = g.translate_many
           def production_batches(texts, source_lang, target_lang, *, max_chars=2800, max_items=40):
               return original(texts, source_lang, target_lang, max_chars=max_chars, max_items=max_items)
           g.translate_many = production_batches
+          base.migrate_lesson = safe_migrate_lesson
           g.run_level(os.environ['LEVEL'])
           PY
       - name: Checkout current SlovakGo app contract
@@ -115,4 +119,4 @@ jobs:
           git add "lessons/$LEVEL"/*.json
           git diff --cached --quiet && exit 0
           git commit -m "feat: add reviewed Russian and English to ${LEVEL^^}"
-          git push origin HEAD:"$TARGET"
+          git push --force-with-lease origin HEAD:"$TARGET"
