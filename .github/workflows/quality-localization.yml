@@ -1,0 +1,119 @@
+name: Quality A1 A2 localization
+
+on:
+  push:
+    branches: [localize-a2-production]
+    paths:
+      - tools/run-quality-nllb.flag
+
+permissions:
+  contents: write
+
+jobs:
+  localize:
+    strategy:
+      fail-fast: false
+      max-parallel: 2
+      matrix:
+        level: [a1, a2]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Reset level to production main
+        env:
+          LEVEL: ${{ matrix.level }}
+        run: |
+          git fetch origin main
+          git checkout origin/main -- "lessons/$LEVEL"
+          mkdir -p "/tmp/baseline-$LEVEL"
+          cp "lessons/$LEVEL"/*.json "/tmp/baseline-$LEVEL/"
+      - name: Install NLLB
+        run: |
+          python -m pip install -q torch --index-url https://download.pytorch.org/whl/cpu
+          python -m pip install -q 'transformers<5' sentencepiece
+      - name: Add Russian and English
+        env:
+          LEVEL: ${{ matrix.level }}
+          PYTHONUNBUFFERED: '1'
+        run: PYTHONPATH=tools python tools/localize_quality_nllb.py --level "$LEVEL"
+      - name: Verify original lesson structure is preserved
+        env:
+          LEVEL: ${{ matrix.level }}
+        run: |
+          python - <<'PY'
+          import json, pathlib, os
+          level=os.environ['LEVEL']
+          before=pathlib.Path('/tmp',f'baseline-{level}')
+          after=pathlib.Path('lessons',level)
+          def check(old,new,path='root'):
+              if isinstance(old,dict):
+                  assert isinstance(new,dict),(path,type(new))
+                  for k,v in old.items():
+                      assert k in new,(path,'missing',k)
+                      if path.endswith('.localization') and k=='uiLanguages':
+                          assert new[k]==['uk','ru','en'],(path,new[k]); continue
+                      check(v,new[k],f'{path}.{k}')
+              elif isinstance(old,list):
+                  assert isinstance(new,list) and len(old)==len(new),(path,len(old),len(new) if isinstance(new,list) else type(new))
+                  for i,(a,b) in enumerate(zip(old,new)): check(a,b,f'{path}[{i}]')
+              elif isinstance(old,str) and any(c in old for c in 'АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯабвгґдеєжзиіїйклмнопрстуфхцчшщьюя') and isinstance(new,dict):
+                  assert new.get('uk')==old,(path,old,new)
+                  assert isinstance(new.get('ru'),str) and isinstance(new.get('en'),str),(path,new)
+              else:
+                  assert old==new,(path,old,new)
+          files=sorted(after.glob(f'{level}-s*-l*.json'))
+          for p in files:
+              old=json.loads((before/p.name).read_text())
+              new=json.loads(p.read_text())
+              check(old,new,p.name)
+          print(level,'shape-preservation OK',len(files))
+          PY
+      - name: Verify inventory and chain
+        env:
+          LEVEL: ${{ matrix.level }}
+        run: |
+          python - <<'PY'
+          import json,re,pathlib,os
+          level=os.environ['LEVEL']; expected=75 if level=='a1' else 90
+          files=sorted(pathlib.Path('lessons',level).glob(f'{level}-s*-l*.json'),key=lambda p:int(re.search(r'-l(\d+)\.json$',p.name).group(1)))
+          assert len(files)==expected,(level,len(files))
+          lessons=[json.loads(p.read_text())['lessons'][0] for p in files]
+          assert len({x['id'] for x in lessons})==expected
+          assert all(x.get('localization',{}).get('uiLanguages')==['uk','ru','en'] for x in lessons)
+          assert all(x.get('localization',{}).get('targetLanguage')=='sk' for x in lessons)
+          for a,b in zip(lessons,lessons[1:]):
+              nxt=a.get('resultScreen',{}).get('nextLesson'); got=nxt.get('id') if isinstance(nxt,dict) else nxt
+              assert got==b['id'],(a['id'],got,b['id'])
+          assert 'nextLesson' not in lessons[-1].get('resultScreen',{})
+          print(level,expected,'inventory/chain/localization OK')
+          PY
+      - name: Verify diff is JSON-only
+        env:
+          LEVEL: ${{ matrix.level }}
+        run: |
+          changed=$(git diff --name-only HEAD -- "lessons/$LEVEL")
+          test -n "$changed"
+          bad=$(printf '%s\n' "$changed" | grep -vE "^lessons/$LEVEL/.*\.json$" || true)
+          test -z "$bad"
+          echo "$changed" | wc -l
+      - name: Publish clean JSON branch
+        env:
+          LEVEL: ${{ matrix.level }}
+        run: |
+          TARGET="locale-${LEVEL}-quality-final"
+          OUT="/tmp/output-$LEVEL"
+          mkdir -p "$OUT"
+          cp "lessons/$LEVEL"/*.json "$OUT/"
+          git checkout -B "$TARGET" origin/main
+          cp "$OUT"/*.json "lessons/$LEVEL/"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "lessons/$LEVEL"/*.json
+          git diff --cached --quiet && exit 1
+          git commit -m "Add quality Russian and English to ${LEVEL^^} lesson JSON"
+          git push --force origin HEAD:"$TARGET"
