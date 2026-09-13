@@ -20,50 +20,41 @@ jobs:
           ref: localize-a1-a2
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.13'
-      - name: Smoke-test translation service
+          python-version: '3.11'
+      - name: Smoke-test local Marian translation
         run: |
-          python -m pip install -q deep-translator==1.11.4
+          python -m pip install -q torch --index-url https://download.pytorch.org/whl/cpu
+          python -m pip install -q 'transformers<5' sentencepiece sacremoses
           python - <<'PY'
-          from deep_translator import GoogleTranslator
-          uk='Почати урок'
-          en=GoogleTranslator(source='uk',target='en').translate(uk)
-          ru=GoogleTranslator(source='uk',target='ru').translate(uk)
-          print('EN=',en)
-          print('RU=',ru)
-          assert en and en != uk
-          assert ru and ru != uk
+          from transformers import MarianMTModel, MarianTokenizer
+          text='Почати урок'
+          for model_name in ('Helsinki-NLP/opus-mt-uk-en','Helsinki-NLP/opus-mt-uk-ru'):
+              tok=MarianTokenizer.from_pretrained(model_name)
+              model=MarianMTModel.from_pretrained(model_name)
+              batch=tok([text],return_tensors='pt',padding=True)
+              out=model.generate(**batch,max_new_tokens=64)
+              translated=tok.batch_decode(out,skip_special_tokens=True)[0]
+              print(model_name, '=>', translated)
+              assert translated and translated != text
           PY
       - name: Require Ukrainian Russian English lesson localization
         run: |
           python3 - <<'PY'
           import json
           from pathlib import Path
-
-          LANGS={'uk','ru','en'}
-          errors=[]
-          count=0
-
+          LANGS={'uk','ru','en'}; errors=[]; count=0
           def check_map(value, where):
-              if not isinstance(value, dict):
-                  errors.append(f'{where}: expected localized object')
-                  return
+              if not isinstance(value, dict): errors.append(f'{where}: expected localized object'); return
               missing=LANGS-set(value)
-              if missing:
-                  errors.append(f'{where}: missing {sorted(missing)}')
+              if missing: errors.append(f'{where}: missing {sorted(missing)}')
               for lang in LANGS:
-                  if lang in value and not str(value[lang]).strip():
-                      errors.append(f'{where}: empty {lang}')
-
+                  if lang in value and not str(value[lang]).strip(): errors.append(f'{where}: empty {lang}')
           for level in ('a1','a2'):
               for p in sorted(Path('lessons',level).glob(f'{level}-s*-l*.json')):
-                  count+=1
-                  lesson=json.loads(p.read_text(encoding='utf-8'))['lessons'][0]
+                  count+=1; lesson=json.loads(p.read_text(encoding='utf-8'))['lessons'][0]
                   loc=lesson.get('localization',{})
-                  if set(loc.get('uiLanguages',[])) != LANGS:
-                      errors.append(f'{p.name}: uiLanguages={loc.get("uiLanguages")}')
-                  for key in ('title','topic','description','intro','completionMessage'):
-                      check_map(lesson.get(key),f'{p.name}:{key}')
+                  if set(loc.get('uiLanguages',[])) != LANGS: errors.append(f'{p.name}: uiLanguages={loc.get("uiLanguages")}')
+                  for key in ('title','topic','description','intro','completionMessage'): check_map(lesson.get(key),f'{p.name}:{key}')
                   ss=lesson.get('startScreen',{})
                   for key in ('title','shortDescription','subtitle','goal','eyebrow'):
                       if key in ss: check_map(ss[key],f'{p.name}:startScreen.{key}')
@@ -79,10 +70,8 @@ jobs:
                       check_map(w.get('translation'),f'{p.name}:words[{i}].translation')
                       if w.get('exampleSk') or w.get('example'):
                           ex=w.get('example')
-                          if not isinstance(ex,dict) or not ex.get('sk'):
-                              errors.append(f'{p.name}:words[{i}].example missing multilingual format')
-                          else:
-                              check_map(ex.get('translation'),f'{p.name}:words[{i}].example.translation')
+                          if not isinstance(ex,dict) or not ex.get('sk'): errors.append(f'{p.name}:words[{i}].example missing multilingual format')
+                          else: check_map(ex.get('translation'),f'{p.name}:words[{i}].example.translation')
                   for i,e in enumerate(lesson.get('exercises',[]),1):
                       for key in ('instruction','question','prompt','explanation','hint','text','statement','displaySentence','context','target','situation','phrase','source'):
                           if key in e: check_map(e[key],f'{p.name}:exercise[{i}].{key}')
@@ -92,14 +81,12 @@ jobs:
                   if fs.get('type')=='interactive_scenario':
                       for key in ('title','description','successMessage'):
                           if key in fs: check_map(fs[key],f'{p.name}:final.{key}')
-                      for i,step in enumerate(fs.get('steps',[]),1):
-                          check_map(step.get('prompt'),f'{p.name}:final.steps[{i}].prompt')
+                      for i,step in enumerate(fs.get('steps',[]),1): check_map(step.get('prompt'),f'{p.name}:final.steps[{i}].prompt')
                   rs=lesson.get('resultScreen',{})
                   for key in ('title','text','subtitle'):
                       if key in rs: check_map(rs[key],f'{p.name}:result.{key}')
                   for i,s in enumerate(rs.get('skills',[]) if isinstance(rs.get('skills'),list) else [],1):
                       if isinstance(s,dict) and 'label' in s: check_map(s['label'],f'{p.name}:result.skills[{i}].label')
-
           print(f'checked={count} errors={len(errors)}')
           for e in errors[:50]: print(e)
           if errors: raise SystemExit(1)
