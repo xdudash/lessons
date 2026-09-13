@@ -1,7 +1,7 @@
 # SlovakGo A2 — Progress
 
 ## Status
-**IN PROGRESS — 72 / 90 active lessons**
+**COMPLETE — 90 / 90 active lessons**
 
 A2 follows `A2/LESSON_PLAN.md`. A2 expands completed A1 and uses A1 vocabulary as prerequisite/review evidence.
 
@@ -18,9 +18,9 @@ A2 follows `A2/LESSON_PLAN.md`. A2 expands completed A1 and uses A1 vocabulary a
 - S10 `l55–l60` — complete
 - S11 `l61–l66` — complete
 - S12 `l67–l72` — complete
-- S13 `l73–l78` — planned
-- S14 `l79–l84` — planned
-- S15 `l85–l90` — planned
+- S13 `l73–l78` — complete
+- S14 `l79–l84` — complete
+- S15 `l85–l90` — complete
 
 ## QA gates
 - Current SlovakGo application schema validation.
@@ -28,5 +28,8 @@ A2 follows `A2/LESSON_PLAN.md`. A2 expands completed A1 and uses A1 vocabulary a
 - A2 adversarial checks: references, deterministic answers, option collisions, token multisets and final-situation intent.
 - A1→A2 ownership classification (NEW/REVIEW/TRANSFER/MASTERY).
 - Ukrainian learner UI; Slovak target language; `isPublished: false`.
+- Remote A2 inventory verified at 90/90 after all batch pushes.
+- Full `nextLesson` chain L01→L90 verified; L90 is terminal.
 
-Next production batch begins at `l73`.
+## A2 → B1 boundary
+A2 is content-complete. Further A2 changes should be QA/errata improvements unless the approved A2 lesson plan is deliberately revised.
