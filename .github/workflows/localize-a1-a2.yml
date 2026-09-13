@@ -73,3 +73,5 @@ jobs:
           git diff --cached --quiet && exit 0
           git commit -m "feat: add Russian and English to ${LEVEL^^} lesson JSON"
           git push origin HEAD:$GITHUB_REF_NAME
+
+# trigger a1 fast localization
