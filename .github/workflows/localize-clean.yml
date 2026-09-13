@@ -6,6 +6,7 @@ on:
     paths:
       - tools/test_localize_clean.py
       - tools/localize_clean.py
+      - tools/localize_clean_v2.py
       - .github/workflows/localize-clean.yml
 
 permissions:
@@ -31,17 +32,17 @@ jobs:
         run: |
           git fetch origin main
           git checkout origin/main -- lessons/a1 lessons/a2
-          PYTHONPATH=tools python tools/localize_clean.py --levels a1 a2
+          PYTHONPATH=tools python tools/localize_clean_v2.py --levels a1 a2
       - name: Fetch current SlovakGo validators read-only
         run: |
           curl -fsSL https://raw.githubusercontent.com/xdudash/slovakGo/main/curriculum/lesson.schema.json -o /tmp/lesson.schema.json
           curl -fsSL https://raw.githubusercontent.com/xdudash/slovakGo/main/scripts/qa-lessons.ts -o /tmp/qa-lessons.ts
       - name: Validate current app schema
-        run: PYTHONPATH=tools python tools/localize_clean.py --audit-only --schema /tmp/lesson.schema.json --levels a1 a2
+        run: PYTHONPATH=tools python tools/localize_clean_v2.py --audit-only --schema /tmp/lesson.schema.json --levels a1 a2
       - name: Validate current app runtime checker
         run: node --experimental-strip-types /tmp/qa-lessons.ts lessons/a1 lessons/a2
       - name: Verify inventory and chains
-        run: PYTHONPATH=tools python tools/localize_clean.py --verify-only --levels a1 a2
+        run: PYTHONPATH=tools python tools/localize_clean_v2.py --verify-only --levels a1 a2
       - name: Ensure only lesson JSON changed
         run: |
           changed=$(git diff --name-only origin/main -- lessons/a1 lessons/a2)
