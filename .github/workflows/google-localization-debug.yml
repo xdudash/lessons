@@ -1,0 +1,88 @@
+name: Google localization A2 debug
+
+on:
+  push:
+    branches: [localize-a2-production]
+    paths:
+      - .github/workflows/google-localization-debug.yml
+      - tools/localize_google.py
+      - tools/translation_fixes.py
+      - tools/test_translation_regressions.py
+      - tools/test_google_batch.py
+
+permissions:
+  contents: write
+
+jobs:
+  localize-a2:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Unit regressions
+        run: |
+          PYTHONPATH=tools python tools/test_translation_regressions.py
+          PYTHONPATH=tools python tools/test_google_batch.py
+      - name: Reset A2 lessons to clean main
+        run: |
+          git fetch origin main
+          git checkout origin/main -- lessons/a2
+          git status --short lessons/a2 | head
+      - name: Generate A2 Russian and English with Google semantic pipeline
+        env:
+          PYTHONUNBUFFERED: '1'
+        run: PYTHONPATH=tools python tools/localize_google.py --level a2
+      - name: Checkout current SlovakGo app contract
+        uses: actions/checkout@v4
+        with:
+          repository: xdudash/slovakGo
+          ref: main
+          path: slovakgo
+      - name: Install schema validator
+        run: python -m pip install -q jsonschema
+      - name: Validate current app schema
+        run: |
+          python - <<'PY'
+          import json, pathlib
+          from jsonschema import Draft202012Validator
+          schema=json.loads(pathlib.Path('slovakgo/curriculum/lesson.schema.json').read_text())
+          v=Draft202012Validator(schema)
+          files=sorted(pathlib.Path('lessons/a2').glob('a2-s*-l*.json'))
+          errors=[]
+          for p in files:
+              data=json.loads(p.read_text())
+              for e in v.iter_errors(data): errors.append(f'{p.name}: {e.message}')
+          print(f'CURRENT SCHEMA a2: files={len(files)} errors={len(errors)}')
+          if errors:
+              print('\n'.join(errors[:100])); raise SystemExit(1)
+          PY
+      - name: Verify inventory and lesson chain
+        run: |
+          python - <<'PY'
+          import json,re,pathlib
+          files=sorted(pathlib.Path('lessons/a2').glob('a2-s*-l*.json'),key=lambda p:int(re.search(r'-l(\d+)\.json$',p.name).group(1)))
+          assert len(files)==90,len(files)
+          lessons=[json.loads(p.read_text())['lessons'][0] for p in files]
+          assert len({x['id'] for x in lessons})==90
+          for a,b in zip(lessons,lessons[1:]):
+              nxt=a.get('resultScreen',{}).get('nextLesson'); got=nxt.get('id') if isinstance(nxt,dict) else nxt
+              assert got==b['id'],(a['id'],got,b['id'])
+          assert 'nextLesson' not in lessons[-1].get('resultScreen',{})
+          print('A2 inventory and chain OK')
+          PY
+      - name: Validate current app runtime checker
+        run: node --experimental-strip-types slovakgo/scripts/qa-lessons.ts lessons/a2
+      - name: Final semantic audit
+        run: PYTHONPATH=tools python tools/localize_google.py --level a2 --audit-only
+      - name: Commit A2 lesson JSON only
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add lessons/a2/*.json
+          git diff --cached --quiet && exit 0
+          git commit -m "feat: add reviewed Google Russian and English to A2"
+          git push origin HEAD:localize-a2-production
