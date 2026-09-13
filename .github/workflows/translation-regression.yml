@@ -7,6 +7,8 @@ on:
       - .github/workflows/translation-regression.yml
       - tools/translation_fixes.py
       - tools/test_translation_regressions.py
+      - tools/localize_google.py
+      - tools/test_google_batch.py
 
 jobs:
   test:
@@ -18,3 +20,5 @@ jobs:
           python-version: '3.11'
       - name: Run translation regressions
         run: PYTHONPATH=tools python tools/test_translation_regressions.py
+      - name: Run Google batch parser tests
+        run: PYTHONPATH=tools python tools/test_google_batch.py
