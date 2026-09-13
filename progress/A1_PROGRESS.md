@@ -1,27 +1,19 @@
 # A1 Progress
 
 ## Current state
-**Section 01 rebuilt / QA review in progress**
+**Section 01 rebuilt, validated and committed. Section 02 is next.**
 
-The repository contains the accepted active lesson set for Sections 01–05. Section 01 is the current rebuilt batch and follows the authoritative master lesson map: six lessons, `l01–l06`.
+`lessons/a1/` currently contains the six active Section 01 lesson JSON files (`l01–l06`). Later A1 sections are still planned work and must not be reported as generated until their files actually exist in `main`.
 
 ## Canonical rules
 - Target language: Slovak (`slovenčina`).
 - Learner-facing instructions, explanations and UI text: Ukrainian.
-- `lesson-181-a1_slovakgo.json` is a format/importer reference only; its number is never reused for lesson numbering.
-- Lesson IDs and counts come only from `curriculum/A1_MASTER_LESSON_PLAN.md`.
-- `main` is the source of truth.
+- Lesson IDs, section ranges and ordering come from `curriculum/A1_MASTER_LESSON_PLAN.md`.
+- Runtime compatibility is checked against the current `xdudash/slovakGo` importer, renderers, `exerciseChecking.ts`, schema and `scripts/qa-lessons.ts`.
+- `main` is the source of truth for committed lesson content.
+- Historical lesson JSON is reference material only and is not automatically canonical.
 
-## Active lessons
-| Section | Theme | Active lesson range |
-|---|---|---|
-| 01 | Sounds, reading and basic word structure | `l01–l06` |
-| 02 | Me, you, he/she: introductions and personal data | `l07–l11` |
-| 03 | People, family and describing people | `l18–l22` |
-| 04 | Things, possession and my world | `l23–l26` |
-| 05 | Home, rooms and location of things | `l27–l30` |
-
-## Section 01 production
+## Section 01 — committed production
 - `a1-s01-l01` — Slovenská abeceda
 - `a1-s01-l02` — Samohlásky a spoluhlásky
 - `a1-s01-l03` — Slabičné r a l
@@ -29,15 +21,25 @@ The repository contains the accepted active lesson set for Sections 01–05. Sec
 - `a1-s01-l05` — Dĺžka a dvojhlásky
 - `a1-s01-l06` — Prízvuk, intonácia a krátke správy
 
-## QA state
-Section 01 files have been reviewed against the mandatory lesson envelope, supported exercise types, local cross-references, vocabulary/screen consistency and the semantic QA rules. L04–L05 were repaired after review to remove untaught transfer items and improve lesson-target coverage.
+Each lesson contains three theory screens, a complete `wordsScreen` with runtime-visible fields, target vocabulary, twelve deterministic exercises, an interactive final situation and a result screen. `a1-s01-l06` links forward to the current master-map next lesson `a1-s02-l07`.
 
-The repository's `tools/qa_a1.py` contains a known `nextLesson` assertion that conflicts with the mandatory JSON contract/AGENTS format at the Section 01 → Section 02 boundary. Do not claim repository-wide QA PASS until that canonical inconsistency is resolved and the script is actually executed.
+## QA state for Section 01
+Completed checks:
+- JSON parse for all six files;
+- current runtime schema constraints for all six files;
+- current application `qa:lessons` semantic/runtime-contract checks: 6/6 pass;
+- word IDs and `wordsScreen` canonical consistency;
+- unique exercise IDs and order values;
+- deterministic answer paths using current checker encodings;
+- final-situation determinism;
+- manual adversarial review for vocabulary coverage, repeated questions, distractors and learner-facing Ukrainian;
+- Slovak language review, including correction of the overgeneralized soft-consonant explanation in L04;
+- remote verification: committed GitHub blob SHA values match the locally validated minified JSON byte-for-byte.
 
-Real application import is a separate state and must not be claimed unless actually run.
+The content repository's legacy `tools/qa_a1.py` is not a runtime source of truth in its current form: it only whitelists an older exercise subset, requires the legacy `final_life_situation` shape and contains an obsolete `nextLesson` assertion. The current app runtime/schema/checker and `scripts/qa-lessons.ts` take precedence. The legacy script should be modernized before it is used as a level-completion gate.
 
-## Full roadmap
-The full 14-section roadmap and lesson-by-lesson map is maintained in:
-- `curriculum/A1_MASTER_LESSON_PLAN.md` — authoritative lesson map.
-- `curriculum/COURSE_ARCHITECTURE_V2.md` — curriculum architecture and section goals.
-- `curriculum/GOLD_STANDARD_LESSON.md` — pedagogical/lesson quality reference.
+## Active roadmap
+The authoritative A1 map is `curriculum/A1_MASTER_LESSON_PLAN.md`. Important: retired old lesson numbers are not to be recreated merely to make numbering continuous; current master-map ranges are authoritative.
+
+## Next work
+Build Section 02 (`a1-s02-l07`–`a1-s02-l11`) in order, then validate and commit it with the same runtime-first QA cycle. Continue through the remaining A1 master-map sections before performing full A1 cross-lesson and cross-section QA.
