@@ -5,9 +5,8 @@ import importlib
 
 
 def main() -> None:
-    m = importlib.import_module("localize_google")
-    migrate = getattr(m, "safe_migrate_lesson", None)
-    assert migrate is not None, "safe_migrate_lesson is missing"
+    m = importlib.import_module("localization_shape")
+    migrate = m.safe_migrate_lesson
 
     lesson = {
         "title": {"sk": "Test", "uk": "Тест"},
@@ -35,22 +34,24 @@ def main() -> None:
         uk = value.get("uk") if isinstance(value, dict) else value
         if not isinstance(uk, str) or uk not in table:
             return value
-        base = dict(value) if isinstance(value, dict) else {"uk": uk}
-        base.update(table[uk])
-        return base
+        result = dict(value) if isinstance(value, dict) else {"uk": uk}
+        result.update(table[uk])
+        return result
 
     migrate(lesson, localize)
 
     assert lesson["startScreen"]["button"] == before["startScreen"]["button"]
     assert lesson["theoryScreens"][0]["button"] == before["theoryScreens"][0]["button"]
-    assert lesson["wordsScreen"]["items"] == before["wordsScreen"]["items"]
     assert lesson["wordsScreen"]["button"] == before["wordsScreen"]["button"]
+    assert lesson["wordsScreen"]["items"][0]["sk"] == "dom"
+    assert lesson["wordsScreen"]["items"][0]["uk"] == "дім"
     assert lesson["exercises"][0]["button"] == before["exercises"][0]["button"]
     assert lesson["resultScreen"]["buttons"] == before["resultScreen"]["buttons"]
     assert lesson["resultScreen"]["nowYouKnow"] == before["resultScreen"]["nowYouKnow"]
     assert lesson["title"] == {"sk": "Test", "uk": "Тест", "ru": "Тест", "en": "Test"}
     assert lesson["localization"]["uiLanguages"] == ["uk", "ru", "en"]
     assert lesson["exercises"][0]["question"] == {"uk": "Що це?", "ru": "Что это?", "en": "What is this?"}
+    assert lesson["wordsScreen"]["items"][0]["translation"] == {"uk": "дім", "ru": "дом", "en": "house"}
     print("shape preservation regression passed")
 
 
