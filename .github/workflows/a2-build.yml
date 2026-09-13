@@ -1,4 +1,4 @@
-name: Integrate A2 semantic profiles
+name: Test A2 semantic final QA
 
 on:
   push:
@@ -7,29 +7,17 @@ on:
       - .github/workflows/a2-build.yml
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  integrate-test:
+  test:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           ref: a2-generator-debug
-          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.13'
-      - name: Apply semantic-profile generator integration
-        run: python3 tools/a2_build/apply_semantic_generator.py
-      - name: Run full A2 build test suite
-        run: python3 -m unittest discover -s tools/a2_build/tests -v
-      - name: Commit green generator integration
-        shell: bash
-        run: |
-          set -euo pipefail
-          git config user.name 'github-actions[bot]'
-          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add tools/a2_build/generator.py
-          git commit -m '[skip ci] fix: drive A2 theory and finals from semantic profiles'
-          git push origin HEAD:a2-generator-debug
+      - name: Run semantic final QA tests
+        run: python3 -m unittest tools.a2_build.tests.test_semantic_qa -v
