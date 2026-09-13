@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import re
 import time
+import unicodedata
 import urllib.error
 import urllib.parse
 import urllib.request
@@ -63,6 +64,32 @@ def parse_marked(raw: str, expected_ids: Iterable[int]) -> dict[int, str]:
     if any(not out[idx] for idx in expected):
         raise ValueError("empty translated SEG")
     return out
+
+
+def _norm(text: str) -> str:
+    text = unicodedata.normalize("NFKC", text).casefold().replace("ё", "е")
+    return "".join(ch for ch in text if ch.isalnum())
+
+
+def choose_lexical_candidate(
+    *,
+    source_uk: str,
+    uk_candidate: str,
+    uk_back: str,
+    sk_candidate: str,
+    sk_back: str,
+) -> str:
+    """Prefer the candidate whose round-trip returns to the Ukrainian source.
+
+    If neither (or both) round-trips match exactly, keep the Ukrainian-anchored
+    candidate because the learner-facing source already encodes the intended sense.
+    """
+    source = _norm(source_uk)
+    uk_matches = _norm(uk_back) == source
+    sk_matches = _norm(sk_back) == source
+    if sk_matches and not uk_matches:
+        return sk_candidate
+    return uk_candidate
 
 
 def google_translate(text: str, source_lang: str, target_lang: str, *, attempts: int = 5) -> str:
