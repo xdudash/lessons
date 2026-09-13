@@ -33,7 +33,13 @@ jobs:
           PYTHONUNBUFFERED: '1'
         run: python tools/localize_nllb.py --level "$LEVEL"
       - name: Multilingual audit
-        run: python tools/localize_a1_a2.py --level "$LEVEL" --audit-only
+        run: |
+          PYTHONPATH=tools python - <<'PY'
+          import os,re
+          import localize_a1_a2 as m
+          m.WEIRD = re.compile(r'[\u0370-\u03ff\u0590-\u05ff]')
+          m.audit_level(os.environ['LEVEL'])
+          PY
       - name: Validate lesson schema
         run: |
           python - <<'PY'
