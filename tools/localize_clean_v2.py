@@ -16,7 +16,28 @@ def suffix_localize(obj, key, translations):
     obj[root + "En"] = translations["en"][value]
 
 
+_original_collect_sources = base.collect_sources
+LEGACY_SUPPORT_KEYS = {"left", "right", "value", "sender", "body", "day", "hours", "correct"}
+
+
+def collect_sources(value, out, key=None):
+    _original_collect_sources(value, out, key)
+
+    def walk(node):
+        if isinstance(node, dict):
+            for k, child in node.items():
+                if k in LEGACY_SUPPORT_KEYS and isinstance(child, str) and base.CYR.search(child):
+                    out.add(child)
+                walk(child)
+        elif isinstance(node, list):
+            for child in node:
+                walk(child)
+
+    walk(value)
+
+
 base.suffix_localize = suffix_localize
+base.collect_sources = collect_sources
 
 fixed_translation = base.fixed_translation
 localize_lesson = base.localize_lesson
