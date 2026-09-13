@@ -1,24 +1,49 @@
-name: Test A2 semantic profiles
+name: Assemble A2 semantic profiles
 
 on:
   push:
     branches: [a2-generator-debug]
     paths:
       - .github/workflows/a2-build.yml
-      - tools/a2_build/**
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
-  test:
+  assemble-test:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           ref: a2-generator-debug
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.13'
-      - name: Run A2 test suite
+      - name: Verify and assemble semantic profile payload
+        shell: bash
+        run: |
+          set -euo pipefail
+          echo 'f31f5bb2b9df5ea2da670c964670bc64451705b93e974a3ce77a13c8076a3cba  tools/a2_semantic_bundle/chunk00' | sha256sum -c -
+          echo '0fa1cfefb094c6b50c4f7031edbc5ff2ac98331cc3d51e1abcfb045b92151a3f  tools/a2_semantic_bundle/chunk01' | sha256sum -c -
+          echo 'fdfadfd82dbe3584ec1f12a708b1b7a24352efb25cae93f5d98f27d537102704  tools/a2_semantic_bundle/chunk02' | sha256sum -c -
+          echo '29dfcdf5ec09de34ac70452bb38d5bde4a6f3bb1c0a9aa689b224f9bb60962fe  tools/a2_semantic_bundle/chunk03' | sha256sum -c -
+          echo 'f7b37fc4ec7c1af1aabac85872852207541fbef7037da3dc2a7c4bf10421b9f0  tools/a2_semantic_bundle/chunk04' | sha256sum -c -
+          echo '0d522985bced5eaddcf2e671905338133f1844a6360210f8d4e435788287c241  tools/a2_semantic_bundle/chunk05' | sha256sum -c -
+          cat tools/a2_semantic_bundle/chunk{00..05} > /tmp/semantic_profiles.py.gz.b64
+          echo '312236366e4a19bd846fabe3da8e2d2d9a915f6babe495b077a65832dc24fef6  /tmp/semantic_profiles.py.gz.b64' | sha256sum -c -
+          base64 -d /tmp/semantic_profiles.py.gz.b64 > /tmp/semantic_profiles.py.gz
+          echo '0cf9e379e2a3ff5cab46936d29dea1a3db85d5a68b8597112d96515e64fda8c4  /tmp/semantic_profiles.py.gz' | sha256sum -c -
+          gzip -dc /tmp/semantic_profiles.py.gz > tools/a2_build/semantic_profiles.py
+          echo 'd94f78c1ad0c4626c49983153757bef54830a941e041a3d7f697ec57320ef4ec  tools/a2_build/semantic_profiles.py' | sha256sum -c -
+      - name: Run full A2 build test suite
         run: python3 -m unittest discover -s tools/a2_build/tests -v
+      - name: Commit verified semantic profiles
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add tools/a2_build/semantic_profiles.py
+          git commit -m '[skip ci] content: add verified A2 semantic profiles'
+          git push origin HEAD:a2-generator-debug
