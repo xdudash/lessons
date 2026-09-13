@@ -4,6 +4,7 @@ from collections import Counter
 from pathlib import Path
 from typing import Any
 from .ownership import parse_a2_plan
+from .semantic_profiles import PROFILES as SEMANTIC_PROFILES
 
 CYR = re.compile(r'[А-Яа-яЁёІіЇїЄєҐґ]')
 RUS = re.compile(r'\b(что|будет|нужно|почему|когда|где|выберите|следующий|завершен)\b', re.I)
@@ -36,6 +37,7 @@ def check_file(path:Path, expected_id:str, expected_next:str|None)->list[str]:
     if lid!=expected_id: err(f'id {lid!r} != {expected_id!r}')
     if path.stem!=lid: err('filename != id')
     if l.get('level')!='A2': err('level != A2')
+    order=None
     m=re.fullmatch(r'a2-s(\d\d)-l(\d\d)',str(lid))
     if not m: err('bad id format')
     else:
@@ -112,15 +114,30 @@ def check_file(path:Path, expected_id:str, expected_next:str|None)->list[str]:
                 qo=q.get('options',[])
                 if sum(o.get('correct') is True for o in qo if isinstance(o,dict))!=1: err(f'{xid} reading correct count')
     final=l.get('finalSituation',{})
-    if final.get('type')!='interactive_scenario' or len(final.get('steps',[]))!=3: err('finalSituation must be 3-step interactive_scenario')
-    examples={(w.get('exampleUk'),w.get('exampleSk')) for w in words}
-    for st in final.get('steps',[]):
+    steps=final.get('steps',[])
+    if final.get('type')!='interactive_scenario' or len(steps)!=3:
+        err('finalSituation must be 3-step interactive_scenario')
+    profile=SEMANTIC_PROFILES.get(order) if order is not None else None
+    if profile is None:
+        err('missing semantic profile for finalSituation')
+    for idx,st in enumerate(steps):
+        sid=st.get('id')
+        if sid!=f'f{idx+1}': err(f'final step id {sid!r} != f{idx+1!s}')
         opts=st.get('options',[]); labs=[label(o) for o in opts]
-        if len(labs)!=len(set(labs)): err(f'final {st.get("id")} duplicate labels')
+        if len(labs)!=len(set(labs)): err(f'final {sid} duplicate labels')
         corr=[o for o in opts if isinstance(o,dict) and o.get('correct') is True]
-        if len(corr)!=1: err(f'final {st.get("id")} correct count'); continue
+        if len(corr)!=1:
+            err(f'final {sid} correct count')
+            continue
+        if profile is None or idx>=len(profile.models):
+            continue
         prompt=st.get('prompt',{}); ptxt=prompt.get('uk','') if isinstance(prompt,dict) else str(prompt)
-        if not any(uk and uk in ptxt and corr[0].get('sk')==sk for uk,sk in examples): err(f'final {st.get("id")} prompt/answer intent mismatch')
+        expected_prompt=profile.prompts_uk[idx]
+        expected_answer=profile.models[idx][0]
+        if ptxt!=expected_prompt:
+            err(f'final {sid} semantic final prompt mismatch')
+        if corr[0].get('sk')!=expected_answer:
+            err(f'final {sid} semantic final answer mismatch')
     res=l.get('resultScreen',{})
     nxt=res.get('nextLesson')
     if expected_next is None:
