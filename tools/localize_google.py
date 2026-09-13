@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import argparse
 import json
 import re
 import time
@@ -7,9 +8,34 @@ import unicodedata
 import urllib.error
 import urllib.parse
 import urllib.request
-from typing import Iterable
+from pathlib import Path
+from typing import Any, Iterable
 
 MARKER_RE = re.compile(r"(?m)^<<<SEG(\d{4,})>>> ?")
+CYR = re.compile(r"[А-Яа-яЁёІіЇїЄєҐґ]")
+UK_ONLY = re.compile(r"[ІіЇїЄєҐґ]")
+WEIRD = re.compile(r"[\u0370-\u03ff\u0590-\u05ff]")
+WORD_RE = re.compile(r"[A-Za-zÀ-ÖØ-öø-žА-Яа-яЁёІіЇїЄєҐґ]+")
+
+BAD_EN = (
+    "smudge",
+    "ministations",
+    "truth or no",
+    "word-word",
+    "diptong",
+    "delete values",
+    "real real",
+    "what kind of man am i",
+    "oh, honey",
+    "slovak is a reality",
+)
+BAD_RU = (
+    "как/нож",
+    "как / нож",
+    "разыщи",
+    "словами наклейки",
+    "миниситац",
+)
 
 
 def pack_batches(texts: list[str], *, max_chars: int = 1200, max_items: int = 25) -> list[list[tuple[int, str]]]:
@@ -79,11 +105,7 @@ def choose_lexical_candidate(
     sk_candidate: str,
     sk_back: str,
 ) -> str:
-    """Prefer the candidate whose round-trip returns to the Ukrainian source.
-
-    If neither (or both) round-trips match exactly, keep the Ukrainian-anchored
-    candidate because the learner-facing source already encodes the intended sense.
-    """
+    """Prefer the candidate whose round-trip returns to the Ukrainian source."""
     source = _norm(source_uk)
     uk_matches = _norm(uk_back) == source
     sk_matches = _norm(sk_back) == source
@@ -131,11 +153,242 @@ def translate_batch(batch: list[tuple[int, str]], source_lang: str, target_lang:
 
 
 def translate_many(texts: list[str], source_lang: str, target_lang: str, *, max_chars: int = 1200, max_items: int = 25) -> list[str]:
+    if not texts:
+        return []
     out: list[str | None] = [None] * len(texts)
-    for batch in pack_batches(texts, max_chars=max_chars, max_items=max_items):
+    batches = pack_batches(texts, max_chars=max_chars, max_items=max_items)
+    for number, batch in enumerate(batches, 1):
         translated = translate_batch(batch, source_lang, target_lang)
         for idx, value in translated.items():
             out[idx] = value
+        print(f"{source_lang}->{target_lang}: batch {number}/{len(batches)}", flush=True)
     if any(value is None for value in out):
         raise RuntimeError("translation batch left missing results")
     return [value for value in out if value is not None]
+
+
+def _sanity(target: str, source: str, value: str) -> None:
+    if not value.strip():
+        raise RuntimeError(f"empty {target} translation for {source!r}")
+    if WEIRD.search(value):
+        raise RuntimeError(f"foreign script in {target}: {source!r} -> {value!r}")
+    if target == "en" and CYR.search(value):
+        raise RuntimeError(f"Cyrillic leaked into English: {source!r} -> {value!r}")
+    if target == "ru" and UK_ONLY.search(value):
+        raise RuntimeError(f"Ukrainian letters leaked into Russian: {source!r} -> {value!r}")
+
+
+def make_support_translator():
+    import localize_a1_a2 as base
+    import translation_fixes as fixes
+
+    def translate_sources(strings: list[str], target: str) -> dict[str, str]:
+        result: dict[str, str] = {}
+        pending: list[str] = []
+        for source in strings:
+            fixed = fixes.fixed_translation(target, source)
+            if fixed is not None:
+                result[source] = fixed
+            else:
+                pending.append(source)
+
+        segmented = {source: base.split_translation_segments(source) for source in pending}
+        cores = sorted({piece.strip() for parts in segmented.values() for translate, piece in parts if translate and piece.strip()})
+        translated_values = translate_many(cores, "uk", target)
+        translated = dict(zip(cores, translated_values))
+
+        for source, parts in segmented.items():
+            built: list[str] = []
+            for translate, piece in parts:
+                if translate and piece.strip():
+                    prefix = piece[: len(piece) - len(piece.lstrip())]
+                    suffix = piece[len(piece.rstrip()):]
+                    built.append(prefix + translated[piece.strip()] + suffix)
+                else:
+                    built.append(piece)
+            value = fixes.normalize_translation(target, source, "".join(built))
+            for flag, literal in parts:
+                if not flag and base.LATIN_TOKEN.fullmatch(literal) and literal not in value:
+                    raise RuntimeError(f"lost Slovak/Latin token {literal!r}: {source!r} -> {value!r}")
+            _sanity(target, source, value)
+            result[source] = value
+        return result
+
+    return translate_sources
+
+
+def _is_sentence(sk: str) -> bool:
+    return len(WORD_RE.findall(sk)) >= 2
+
+
+def anchor_slovak_examples(docs: list[dict[str, Any]]) -> None:
+    """Use the target Slovak sentence as the semantic anchor for full examples."""
+    refs: list[tuple[str, dict[str, Any]]] = []
+    for doc in docs:
+        lesson = doc["lessons"][0]
+        for screen in lesson.get("theoryScreens", []) or []:
+            for example in screen.get("examples", []) or []:
+                sk = example.get("sk")
+                tr = example.get("translation")
+                if isinstance(sk, str) and _is_sentence(sk) and isinstance(tr, dict):
+                    refs.append((sk, tr))
+        for word in lesson.get("words", []) or []:
+            example = word.get("example")
+            if isinstance(example, dict):
+                sk = example.get("sk")
+                tr = example.get("translation")
+                if isinstance(sk, str) and _is_sentence(sk) and isinstance(tr, dict):
+                    refs.append((sk, tr))
+
+    unique = sorted({sk for sk, _ in refs})
+    if not unique:
+        return
+    en = dict(zip(unique, translate_many(unique, "sk", "en")))
+    ru = dict(zip(unique, translate_many(unique, "sk", "ru")))
+    for sk, tr in refs:
+        tr["en"] = en[sk]
+        tr["ru"] = ru[sk]
+    print(f"Slovak-anchored examples: {len(unique)}", flush=True)
+
+
+def refine_word_lexicon(docs: list[dict[str, Any]]) -> None:
+    """Resolve short English lexical ambiguity with Slovak candidates + round trip."""
+    import translation_fixes as fixes
+
+    refs: list[tuple[str, str, dict[str, Any]]] = []
+    for doc in docs:
+        for word in doc["lessons"][0].get("words", []) or []:
+            sk = word.get("sk")
+            uk = word.get("uk")
+            tr = word.get("translation")
+            if isinstance(sk, str) and isinstance(uk, str) and isinstance(tr, dict):
+                refs.append((sk, uk, tr))
+
+    pairs = sorted({(sk, uk) for sk, uk, _ in refs})
+    if not pairs:
+        return
+
+    sk_texts = [sk for sk, _ in pairs]
+    sk_en_values = translate_many(sk_texts, "sk", "en")
+    sk_en = dict(zip(pairs, sk_en_values))
+
+    uk_candidates = [next(tr["en"] for sk2, uk2, tr in refs if sk2 == sk and uk2 == uk) for sk, uk in pairs]
+    uk_back_values = translate_many(uk_candidates, "en", "uk")
+    sk_back_values = translate_many(sk_en_values, "en", "uk")
+
+    chosen: dict[tuple[str, str], str] = {}
+    for pair, uk_candidate, uk_back, sk_candidate, sk_back in zip(
+        pairs, uk_candidates, uk_back_values, sk_en_values, sk_back_values
+    ):
+        sk, uk = pair
+        fixed = fixes.lexical("en", uk)
+        chosen[pair] = fixed or choose_lexical_candidate(
+            source_uk=uk,
+            uk_candidate=uk_candidate,
+            uk_back=uk_back,
+            sk_candidate=sk_candidate,
+            sk_back=sk_back,
+        )
+
+    for sk, uk, tr in refs:
+        fixed_ru = fixes.lexical("ru", uk)
+        if fixed_ru:
+            tr["ru"] = fixed_ru
+        tr["en"] = chosen[(sk, uk)]
+    print(f"Lexical entries refined: {len(pairs)}", flush=True)
+
+
+def quality_audit(level: str) -> None:
+    files = sorted(Path("lessons", level).glob(f"{level}-s*-l*.json"))
+    errors: list[str] = []
+
+    def walk(value: Any, where: str) -> None:
+        if isinstance(value, dict):
+            if isinstance(value.get("en"), str):
+                low = value["en"].casefold()
+                for bad in BAD_EN:
+                    if bad in low:
+                        errors.append(f"{where}.en contains {bad!r}: {value['en']!r}")
+            if isinstance(value.get("ru"), str):
+                low = value["ru"].casefold()
+                for bad in BAD_RU:
+                    if bad in low:
+                        errors.append(f"{where}.ru contains {bad!r}: {value['ru']!r}")
+            for key, child in value.items():
+                walk(child, f"{where}.{key}")
+        elif isinstance(value, list):
+            for idx, child in enumerate(value):
+                walk(child, f"{where}[{idx}]")
+
+    for path in files:
+        doc = json.loads(path.read_text(encoding="utf-8"))
+        walk(doc, path.name)
+
+    if level == "a2":
+        first = json.loads(Path("lessons/a2/a2-s01-l01.json").read_text(encoding="utf-8"))["lessons"][0]
+        if first["title"].get("en") != "What kind of person am I?":
+            errors.append(f"A2 L01 title EN: {first['title'].get('en')!r}")
+        if first["title"].get("ru") != "Какой я человек?":
+            errors.append(f"A2 L01 title RU: {first['title'].get('ru')!r}")
+        words = {word["sk"]: word for word in first.get("words", [])}
+        if words.get("sympatický", {}).get("translation", {}).get("en") not in {"likable", "likeable", "nice", "pleasant"}:
+            errors.append(f"A2 sympatický EN: {words.get('sympatický', {}).get('translation', {}).get('en')!r}")
+
+    print(f"QUALITY {level}: files={len(files)} errors={len(errors)}", flush=True)
+    for error in errors[:100]:
+        print(error, flush=True)
+    if errors:
+        raise SystemExit(1)
+
+
+def run_level(level: str) -> None:
+    import localize_a1_a2 as base
+
+    expected = 75 if level == "a1" else 90
+    paths = sorted(Path("lessons", level).glob(f"{level}-s*-l*.json"))
+    if len(paths) != expected:
+        raise SystemExit(f"expected {expected} lessons, got {len(paths)}")
+
+    docs: list[tuple[Path, dict[str, Any]]] = []
+    sources: set[str] = set()
+    for path in paths:
+        doc = json.loads(path.read_text(encoding="utf-8"))
+        docs.append((path, doc))
+        sources |= base.collect_sources(doc["lessons"][0])
+
+    ordered = sorted(sources)
+    print(f"{level}: unique support strings={len(ordered)}", flush=True)
+    translator = make_support_translator()
+    en = translator(ordered, "en")
+    ru = translator(ordered, "ru")
+    localize = base.make_localizer(ru, en)
+
+    for _path, doc in docs:
+        base.migrate_lesson(doc["lessons"][0], localize)
+
+    documents = [doc for _, doc in docs]
+    refine_word_lexicon(documents)
+    anchor_slovak_examples(documents)
+
+    for path, doc in docs:
+        path.write_text(json.dumps(doc, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8")
+
+    base.WEIRD = WEIRD
+    base.audit_level(level)
+    quality_audit(level)
+    print(f"Google-localized {len(paths)} {level} lessons", flush=True)
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--level", choices=("a1", "a2"), required=True)
+    parser.add_argument("--audit-only", action="store_true")
+    args = parser.parse_args()
+    if args.audit_only:
+        quality_audit(args.level)
+    else:
+        run_level(args.level)
+
+
+if __name__ == "__main__":
+    main()
