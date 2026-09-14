@@ -131,6 +131,69 @@ LESSONS = [
     },
 ]
 
+RU_TOPIC = {
+    1: "уточнение смысла и намерения собеседника",
+    2: "условия, зависимость от ситуации и важные факторы",
+    3: "мягкое несогласие, коррекция и точная формулировка",
+    4: "вежливая реакция в напряженных ситуациях",
+    5: "подтекст, тон и непрямой смысл",
+    6: "интеграция уточнения, несогласия, вежливости и интерпретации",
+}
+
+EN_TOPIC = {
+    1: "clarifying meaning and speaker intention",
+    2: "conditions, dependence on context and key factors",
+    3: "soft disagreement, correction and precise wording",
+    4: "polite responses in sensitive situations",
+    5: "subtext, tone and indirect meaning",
+    6: "integrating clarification, disagreement, politeness and interpretation",
+}
+
+UK_GOAL = {
+    1: "навчитися уточнювати двозначну фразу без конфлікту",
+    2: "пояснювати, від яких умов залежить рішення",
+    3: "коректно показувати, що твердження неточне або часткове",
+    4: "відповідати ввічливо й прямо у чутливій ситуації",
+    5: "помічати підтекст і тон у повідомленнях",
+    6: "поєднувати уточнення, незгоду, ввічливість і конструктивний фінал",
+}
+
+RU_GOAL = {
+    1: "научиться уточнять двусмысленную фразу без конфликта",
+    2: "объяснять, от каких условий зависит решение",
+    3: "корректно показывать, что утверждение неточное или частичное",
+    4: "отвечать вежливо и прямо в чувствительной ситуации",
+    5: "замечать подтекст и тон в сообщениях",
+    6: "соединять уточнение, несогласие, вежливость и конструктивное завершение",
+}
+
+EN_GOAL = {
+    1: "learn to clarify an ambiguous phrase without conflict",
+    2: "explain which conditions a decision depends on",
+    3: "politely show that a claim is imprecise or only partly true",
+    4: "respond politely and clearly in a sensitive situation",
+    5: "notice subtext and tone in messages",
+    6: "combine clarification, disagreement, politeness and a constructive close",
+}
+
+RU_SCENARIO = {
+    1: "Сообщение можно понять двумя способами. Нужно спокойно уточнить смысл.",
+    2: "Ответ зависит от условий. Нужно объяснить, что важно, а что второстепенно.",
+    3: "Кто-то упростил проблему. Нужно мягко уточнить реальную картину.",
+    4: "Реплика звучит резко. Нужно ответить без агрессии и без потери границ.",
+    5: "В сообщении есть подтекст. Нужно правильно понять тон и не преувеличить.",
+    6: "В чате возникло недоразумение. Нужно вернуть разговор к решению.",
+}
+
+EN_SCENARIO = {
+    1: "A message can be understood in two ways. Clarify the meaning calmly.",
+    2: "The answer depends on conditions. Explain what matters and what is secondary.",
+    3: "Someone oversimplified a problem. Clarify the real situation politely.",
+    4: "A remark sounds sharp. Respond without aggression while keeping boundaries.",
+    5: "A message has subtext. Interpret the tone without overreacting.",
+    6: "A group chat has a misunderstanding. Bring the conversation back to a solution.",
+}
+
 
 def make_word(lesson_id: str, idx: int, row: tuple[str, str, str, str, str, str], title: str) -> dict[str, object]:
     sk, uk, ru, en, ex_sk, ex_uk = row
@@ -191,7 +254,7 @@ def make_lesson(spec: dict[str, object], next_id: str) -> dict[str, object]:
         {"id": "t2", "screenType": "theory", "order": 2, "title": l10n("Робоча модель відповіді", "Рабочая модель ответа", "Response model"), "body": l10n("Будуй репліку так: визнай контекст -> уточни або скоригуй -> запропонуй наступний крок.", "Строй реплику так: признай контекст -> уточни или скорректируй -> предложи следующий шаг.", "Build the reply as: acknowledge context -> clarify or correct -> suggest a next step."), "examples": [{"sk": "Rozumiem, ako to myslíš, ale potrebujem to trochu upresniť.", "translation": l10n("Розумію, як ти це маєш на увазі, але мені треба це трохи уточнити.", "Понимаю, как ты это имеешь в виду, но мне нужно это немного уточнить.", "I understand what you mean, but I need to clarify it a bit.")}, {"sk": "Z môjho pohľadu je podstatné, aby sme zachovali pokoj.", "translation": l10n("З моєї точки зору суттєво, щоб ми зберегли спокій.", "С моей точки зрения важно, чтобы мы сохранили спокойствие.", "From my point of view, it is essential that we stay calm.")}], "shortRule": l10n("Спокійна точність звучить сильніше, ніж різке заперечення.", "Спокойная точность звучит сильнее, чем резкое отрицание.", "Calm precision is stronger than a sharp denial."), "button": "Далі"},
         {"id": "t3", "screenType": "theory", "order": 3, "title": l10n("Типова помилка", "Типичная ошибка", "Typical mistake"), "body": l10n("Не перекладай дослівно з української або російської. У словацькій часто природніше звучить коротша, м'якша фраза з уточненням.", "Не переводи дословно с украинского или русского. В словацком часто естественнее звучит более короткая и мягкая фраза с уточнением.", "Do not translate word for word. Slovak often prefers a shorter, softer clarifying phrase."), "examples": [{"sk": "Chápem. Môžeš mi povedať pointu?", "translation": l10n("Розумію. Можеш сказати головну думку?", "Понимаю. Можешь сказать главную мысль?", "I understand. Can you tell me the main point?")}, {"sk": "Nechcem to interpretovať nesprávne.", "translation": l10n("Не хочу інтерпретувати це неправильно.", "Не хочу интерпретировать это неправильно.", "I do not want to interpret it incorrectly.")}], "shortRule": l10n("Коли є ризик конфлікту, спочатку уточни.", "Когда есть риск конфликта, сначала уточни.", "When there is risk of conflict, clarify first."), "button": "До слів"},
     ]
-    return {"lessons": [{
+    doc = {"lessons": [{
         "id": lid, "sectionId": "b2_s01", "level": "B2",
         "title": loc(title, title, title, title),
         "topic": loc(str(spec["topic"]), str(spec["topic"]), str(spec["topic"]), str(spec["topic"])),
@@ -208,6 +271,45 @@ def make_lesson(spec: dict[str, object], next_id: str) -> dict[str, object]:
         "finalSituation": {"id": "final-situation", "type": "interactive_scenario", "title": l10n(f"{title}: реальна розмова", f"{title}: реальный разговор", f"{title}: real conversation"), "description": l10n(str(spec["scenario"]), str(spec["scenario"]), "Choose replies that clarify meaning, keep the tone calm and move the conversation forward."), "steps": [{"id": "f1", "prompt": l10n("Повідомлення звучить двозначно. Перша реакція?", "Сообщение звучит двусмысленно. Первая реакция?", "The message sounds ambiguous. First response?"), "options": [{"sk": "Chcem si to najprv ujasniť, aby som nereagoval zle.", "correct": True}, {"sk": "Určite to myslíš zle.", "correct": False}, {"sk": "Nebudem sa pýtať nič.", "correct": False}]}, {"id": "f2", "prompt": l10n("Ти частково не погоджуєшся. Як сказати м'яко?", "Ты частично не согласен. Как сказать мягко?", "You partly disagree. How do you say it softly?"), "options": [{"sk": "Čiastočne rozumiem, ale z môjho pohľadu to nie je celkom presné.", "correct": True}, {"sk": "Nemáš pravdu a koniec.", "correct": False}, {"sk": "To ma nezaujíma.", "correct": False}]}, {"id": "f3", "prompt": l10n("Потрібно завершити розмову конструктивно.", "Нужно завершить разговор конструктивно.", "You need to close constructively."), "options": [{"sk": "Zhrňme si pointu a dohodnime sa na ďalšom kroku.", "correct": True}, {"sk": "Nechajme to tak navždy.", "correct": False}, {"sk": "Každý si myslí svoje, nič neriešme.", "correct": False}]}], "passRequirement": "3/3", "successMessage": l10n("Готово: ти впорався з нюансованою B2-ситуацією.", "Готово: ты справился с нюансированной B2-ситуацией.", "Done: you handled a nuanced B2 situation.")},
         "resultScreen": {"screenType": "lesson_result", "title": l10n("Урок завершено", "Урок завершён", "Lesson complete"), "subtitle": l10n("Ти закрив ще один крок B2-комунікації.", "Ты закрыл ещё один шаг B2-коммуникации.", "You completed another B2 communication step."), "xpReward": 180, "newWordsCount": len(words), "exercisesCompleted": len(exs), "nowYouKnow": ["уточнювати зміст", "реагувати ввічливо", "читати підтекст"], "mistakesMessage": l10n("Повтори вправи, де тон або зміст ще плутаються.", "Повтори упражнения, где тон или смысл ещё путаются.", "Repeat exercises where tone or meaning is still unclear."), "buttons": ["Продовжити", "Повторити урок", "Тренувати помилки"], "skills": [{"id": "nuance", "label": l10n("нюанс", "нюанс", "nuance"), "weight": 0.35}, {"id": "interaction", "label": l10n("діалог", "диалог", "interaction"), "weight": 0.35}, {"id": "transfer", "label": l10n("перенесення", "перенос", "transfer"), "weight": 0.3}], "nextLesson": {"id": next_id}},
     }]}
+    clean_language(doc)
+    return doc
+
+
+def clean_language(doc: dict[str, object]) -> None:
+    lesson = doc["lessons"][0]
+    n = int(lesson["order"])
+    title = lesson["title"]["sk"]
+    lesson["topic"] = {"sk": title, "uk": lesson["topic"]["uk"], "ru": RU_TOPIC[n], "en": EN_TOPIC[n]}
+    lesson["description"] = {
+        "sk": f"Precvičíš si komunikáciu na úrovni B2: {title}.",
+        "uk": f"Тренуємо B2-комунікацію: {UK_GOAL[n]}.",
+        "ru": f"Тренируем B2-коммуникацию: {RU_GOAL[n]}.",
+        "en": f"Practice B2 communication: {EN_GOAL[n]}.",
+    }
+    lesson["intro"] = dict(lesson["description"])
+    lesson["startScreen"]["shortDescription"] = {
+        "uk": lesson["description"]["uk"],
+        "ru": lesson["description"]["ru"],
+        "en": lesson["description"]["en"],
+    }
+    lesson["theoryScreens"][0]["body"] = {"uk": UK_GOAL[n] + ".", "ru": RU_GOAL[n] + ".", "en": EN_GOAL[n] + "."}
+    lesson["finalSituation"]["description"]["ru"] = RU_SCENARIO[n]
+    lesson["finalSituation"]["description"]["en"] = EN_SCENARIO[n]
+    for word in lesson["words"]:
+        if word.get("exampleRu") == word.get("exampleUk"):
+            word["exampleRu"] = f"Пример: {word['ru']}."
+        if word.get("exampleEn") == word.get("en"):
+            word["exampleEn"] = f"Example phrase for: {word['en']}."
+    words_by_id = {word["id"]: word for word in lesson["words"]}
+    for item in lesson["wordsScreen"]["items"]:
+        word = words_by_id[item["wordId"]]
+        item["exampleRu"] = word["exampleRu"]
+        item["exampleEn"] = word["exampleEn"]
+    for exercise in lesson["exercises"]:
+        if exercise["type"] == "meaning_in_context":
+            exercise["context"] = {"sk": "Nechcem reagovať automaticky. Najprv potrebujem lepšie pochopiť situáciu."}
+        if exercise["type"] == "reading_comprehension":
+            exercise["text"] = "Správa znie neutrálne, ale jej tón naznačuje, že druhá strana čaká vysvetlenie. Pointa nie je útok, ale potreba vyjasniť situáciu."
 
 
 def main() -> int:
