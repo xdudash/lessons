@@ -12,31 +12,31 @@
       },
       "topic": {
         "sk": "Sociálne situácie v praxi",
-        "uk": "інтеграція уточнення, незгоди, ввічливості й інтерпретації",
-        "ru": "интеграция уточнения, несогласия, вежливости и интерпретации",
-        "en": "integrating clarification, disagreement, politeness and interpretation"
+        "uk": "Sociálne situácie v praxi",
+        "ru": "Sociálne situácie v praxi",
+        "en": "Sociálne situácie v praxi"
       },
       "description": {
-        "sk": "Precvičíš si komunikáciu na úrovni B2: Sociálne situácie v praxi.",
-        "uk": "Тренуємо B2-комунікацію: поєднувати уточнення, незгоду, ввічливість і конструктивний фінал.",
-        "ru": "Тренируем B2-коммуникацию: соединять уточнение, несогласие, вежливость и конструктивное завершение.",
-        "en": "Practice B2 communication: combine clarification, disagreement, politeness and a constructive close."
+        "sk": "Precvičíš si tému Sociálne situácie v praxi v komplexnej komunikácii na úrovni B2.",
+        "uk": "Тренуємо тему «Sociálne situácie v praxi»: аргументовано, точно й у реальному контексті.",
+        "ru": "интегрируем уточнение, несогласие, вежливость и интерпретацию смысла.",
+        "en": "Practice the B2 topic “Sociálne situácie v praxi” in complex communication. Section: Nuanced communication and social interaction."
       },
       "order": 6,
       "xpReward": 180,
       "estimatedMinutes": 32,
       "isPublished": false,
       "intro": {
-        "sk": "Precvičíš si komunikáciu na úrovni B2: Sociálne situácie v praxi.",
-        "uk": "Тренуємо B2-комунікацію: поєднувати уточнення, незгоду, ввічливість і конструктивний фінал.",
-        "ru": "Тренируем B2-коммуникацию: соединять уточнение, несогласие, вежливость и конструктивное завершение.",
-        "en": "Practice B2 communication: combine clarification, disagreement, politeness and a constructive close."
+        "sk": "Precvičíš si tému Sociálne situácie v praxi v komplexnej komunikácii na úrovni B2.",
+        "uk": "Тренуємо тему «Sociálne situácie v praxi»: аргументовано, точно й у реальному контексті.",
+        "ru": "интегрируем уточнение, несогласие, вежливость и интерпретацию смысла.",
+        "en": "Practice the B2 topic “Sociálne situácie v praxi” in complex communication. Section: Nuanced communication and social interaction."
       },
       "completionMessage": {
-        "sk": "Výborne. Dokážeš reagovať presnejšie a pokojnejšie.",
-        "uk": "Супер. Тепер ти можеш реагувати точніше й спокійніше.",
-        "ru": "Отлично. Теперь ты можешь реагировать точнее и спокойнее.",
-        "en": "Great. You can now respond more precisely and calmly."
+        "sk": "Výborne. Tému vieš použiť v náročnejšej komunikácii.",
+        "uk": "Добре. Тепер можеш використати тему в складнішій розмові.",
+        "ru": "Хорошо. Теперь можешь использовать тему в более сложном разговоре.",
+        "en": "Good. You can now use the topic in more complex communication."
       },
       "updatedAt": "2026-09-14T00:00:00Z",
       "localization": {
@@ -61,25 +61,25 @@
           "en": "Sociálne situácie v praxi"
         },
         "shortDescription": {
-          "uk": "Тренуємо B2-комунікацію: поєднувати уточнення, незгоду, ввічливість і конструктивний фінал.",
-          "ru": "Тренируем B2-коммуникацию: соединять уточнение, несогласие, вежливость и конструктивное завершение.",
-          "en": "Practice B2 communication: combine clarification, disagreement, politeness and a constructive close."
+          "uk": "Тренуємо тему «Sociálne situácie v praxi»: аргументовано, точно й у реальному контексті.",
+          "ru": "интегрируем уточнение, несогласие, вежливость и интерпретацию смысла.",
+          "en": "Practice the B2 topic “Sociálne situácie v praxi” in complex communication. Section: Nuanced communication and social interaction."
         },
         "outcomes": [
           {
-            "uk": "уточнювати сенс без конфлікту",
-            "ru": "уточнять смысл без конфликта",
-            "en": "clarify meaning without conflict"
+            "uk": "пояснити думку точніше й довше",
+            "ru": "объяснить мысль точнее и длиннее",
+            "en": "explain an idea more precisely and at greater length"
           },
           {
-            "uk": "розрізняти буквальний і непрямий зміст",
-            "ru": "различать буквальный и непрямой смысл",
-            "en": "distinguish literal and indirect meaning"
+            "uk": "використати нові B2-фрази в контексті",
+            "ru": "использовать новые B2-фразы в контексте",
+            "en": "use new B2 phrases in context"
           },
           {
-            "uk": "вибирати природну B2-реакцію",
-            "ru": "выбирать естественную B2-реакцию",
-            "en": "choose a natural B2-level response"
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
           }
         ],
         "newWords": [
@@ -103,37 +103,37 @@
           "screenType": "theory",
           "order": 1,
           "title": {
-            "uk": "Навіщо це на B2",
-            "ru": "Зачем это на B2",
-            "en": "Why this matters at B2"
+            "uk": "Фокус уроку",
+            "ru": "Фокус урока",
+            "en": "Lesson focus"
           },
           "body": {
-            "uk": "поєднувати уточнення, незгоду, ввічливість і конструктивний фінал.",
-            "ru": "соединять уточнение, несогласие, вежливость и конструктивное завершение.",
-            "en": "combine clarification, disagreement, politeness and a constructive close."
+            "uk": "Тренуємо тему «Sociálne situácie v praxi»: аргументовано, точно й у реальному контексті.",
+            "ru": "интегрируем уточнение, несогласие, вежливость и интерпретацию смысла.",
+            "en": "Practice the B2 topic “Sociálne situácie v praxi” in complex communication. Section: Nuanced communication and social interaction."
           },
           "examples": [
             {
-              "sk": "Treba reagovať primerane, nie útočne.",
+              "sk": "V téme Sociálne situácie v praxi použijem výraz: reagovať primerane.",
               "translation": {
-                "uk": "Треба реагувати доречно, не нападати.",
-                "ru": "Треба реагувати доречно, не нападати.",
-                "en": "to react appropriately"
+                "uk": "У темі «Sociálne situácie v praxi» використовую: вираз «reagovať primerane» у темі «Sociálne situácie v praxi».",
+                "ru": "В теме «Sociálne situácie v praxi» использую: выражение «reagovať primerane» в теме «Sociálne situácie v praxi».",
+                "en": "In “Sociálne situácie v praxi”, I use: the expression “reagovať primerane” in the topic “Sociálne situácie v praxi”."
               }
             },
             {
-              "sk": "Chcem sa k tomu jasne vyjadriť.",
+              "sk": "V téme Sociálne situácie v praxi použijem výraz: vyjadriť sa.",
               "translation": {
-                "uk": "Хочу чітко щодо цього висловитися.",
-                "ru": "Хочу чітко щодо цього висловитися.",
-                "en": "to express oneself"
+                "uk": "У темі «Sociálne situácie v praxi» використовую: вираз «vyjadriť sa» у темі «Sociálne situácie v praxi».",
+                "ru": "В теме «Sociálne situácie v praxi» использую: выражение «vyjadriť sa» в теме «Sociálne situácie v praxi».",
+                "en": "In “Sociálne situácie v praxi”, I use: the expression “vyjadriť sa” in the topic “Sociálne situácie v praxi”."
               }
             }
           ],
           "shortRule": {
-            "uk": "B2 = не просто сказати фразу, а керувати тоном, підтекстом і наслідком.",
-            "ru": "B2 = не просто сказать фразу, а управлять тоном, подтекстом и последствием.",
-            "en": "B2 means managing tone, implication and consequence."
+            "uk": "На B2 важливо не просто відповісти, а показати причину, умову, наслідок або нюанс.",
+            "ru": "На B2 важно не просто ответить, а показать причину, условие, последствие или нюанс.",
+            "en": "At B2, show a reason, condition, consequence or nuance."
           },
           "button": "Далі"
         },
@@ -142,37 +142,37 @@
           "screenType": "theory",
           "order": 2,
           "title": {
-            "uk": "Робоча модель відповіді",
-            "ru": "Рабочая модель ответа",
-            "en": "Response model"
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer model"
           },
           "body": {
-            "uk": "Будуй репліку так: визнай контекст -> уточни або скоригуй -> запропонуй наступний крок.",
-            "ru": "Строй реплику так: признай контекст -> уточни или скорректируй -> предложи следующий шаг.",
-            "en": "Build the reply as: acknowledge context -> clarify or correct -> suggest a next step."
+            "uk": "Будуй відповідь за схемою: контекст -> позиція -> аргумент -> приклад -> наступний крок.",
+            "ru": "Строй ответ по схеме: контекст -> позиция -> аргумент -> пример -> следующий шаг.",
+            "en": "Build the answer as: context -> position -> argument -> example -> next step."
           },
           "examples": [
             {
-              "sk": "Rozumiem, ako to myslíš, ale potrebujem to trochu upresniť.",
+              "sk": "Z môjho pohľadu je dôležité najprv vysvetliť kontext.",
               "translation": {
-                "uk": "Розумію, як ти це маєш на увазі, але мені треба це трохи уточнити.",
-                "ru": "Понимаю, как ты это имеешь в виду, но мне нужно это немного уточнить.",
-                "en": "I understand what you mean, but I need to clarify it a bit."
+                "uk": "З моєї точки зору важливо спочатку пояснити контекст.",
+                "ru": "С моей точки зрения важно сначала объяснить контекст.",
+                "en": "From my point of view, it is important to explain the context first."
               }
             },
             {
-              "sk": "Z môjho pohľadu je podstatné, aby sme zachovali pokoj.",
+              "sk": "Na druhej strane treba zohľadniť aj praktické dôsledky.",
               "translation": {
-                "uk": "З моєї точки зору суттєво, щоб ми зберегли спокій.",
-                "ru": "С моей точки зрения важно, чтобы мы сохранили спокойствие.",
-                "en": "From my point of view, it is essential that we stay calm."
+                "uk": "З іншого боку, треба врахувати також практичні наслідки.",
+                "ru": "С другой стороны, нужно учесть и практические последствия.",
+                "en": "On the other hand, practical consequences must also be considered."
               }
             }
           ],
           "shortRule": {
-            "uk": "Спокійна точність звучить сильніше, ніж різке заперечення.",
-            "ru": "Спокойная точность звучит сильнее, чем резкое отрицание.",
-            "en": "Calm precision is stronger than a sharp denial."
+            "uk": "Одна сильна відповідь має структуру, а не лише правильні слова.",
+            "ru": "Один сильный ответ имеет структуру, а не только правильные слова.",
+            "en": "A strong answer has structure, not only correct words."
           },
           "button": "Далі"
         },
@@ -181,37 +181,29 @@
           "screenType": "theory",
           "order": 3,
           "title": {
-            "uk": "Типова помилка",
-            "ru": "Типичная ошибка",
-            "en": "Typical mistake"
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
           },
           "body": {
-            "uk": "Не перекладай дослівно з української або російської. У словацькій часто природніше звучить коротша, м'якша фраза з уточненням.",
-            "ru": "Не переводи дословно с украинского или русского. В словацком часто естественнее звучит более короткая и мягкая фраза с уточнением.",
-            "en": "Do not translate word for word. Slovak often prefers a shorter, softer clarifying phrase."
+            "uk": "У фіналі потрібно вибрати репліку, яка реально рухає ситуацію вперед.",
+            "ru": "В финале нужно выбрать реплику, которая реально двигает ситуацию дальше.",
+            "en": "In the final task, choose the reply that moves the situation forward."
           },
           "examples": [
             {
-              "sk": "Chápem. Môžeš mi povedať pointu?",
+              "sk": "Navrhujem, aby sme si najprv ujasnili priority.",
               "translation": {
-                "uk": "Розумію. Можеш сказати головну думку?",
-                "ru": "Понимаю. Можешь сказать главную мысль?",
-                "en": "I understand. Can you tell me the main point?"
-              }
-            },
-            {
-              "sk": "Nechcem to interpretovať nesprávne.",
-              "translation": {
-                "uk": "Не хочу інтерпретувати це неправильно.",
-                "ru": "Не хочу интерпретировать это неправильно.",
-                "en": "I do not want to interpret it incorrectly."
+                "uk": "Пропоную спочатку прояснити пріоритети.",
+                "ru": "Предлагаю сначала прояснить приоритеты.",
+                "en": "I suggest clarifying priorities first."
               }
             }
           ],
           "shortRule": {
-            "uk": "Коли є ризик конфлікту, спочатку уточни.",
-            "ru": "Когда есть риск конфликта, сначала уточни.",
-            "en": "When there is risk of conflict, clarify first."
+            "uk": "B2 = самостійна, зв'язна й доречна комунікація.",
+            "ru": "B2 = самостоятельная, связная и уместная коммуникация.",
+            "en": "B2 means independent, connected and appropriate communication."
           },
           "button": "До слів"
         }
@@ -219,111 +211,111 @@
       "wordsScreen": {
         "screenType": "lesson_words",
         "title": {
-          "uk": "Ключові B2-фрази",
-          "ru": "Ключевые B2-фразы",
-          "en": "Key B2 phrases"
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
         },
         "description": {
-          "uk": "Ці слова потрібні для нюансованої соціальної комунікації.",
-          "ru": "Эти слова нужны для нюансированной социальной коммуникации.",
-          "en": "These items support nuanced social communication."
+          "uk": "Ці одиниці взяті з затвердженого B2-плану.",
+          "ru": "Эти единицы взяты из утвержденного B2-плана.",
+          "en": "These items come from the approved B2 plan."
         },
         "items": [
           {
             "wordId": "b2-s01-l006-w01",
             "sk": "reagovať primerane",
-            "uk": "реагувати відповідно до ситуації",
-            "ru": "реагировать уместно",
-            "en": "to react appropriately",
-            "pronunciationUk": "reagovaть primerane",
-            "exampleSk": "Treba reagovať primerane, nie útočne.",
-            "exampleUk": "Треба реагувати доречно, не нападати.",
-            "exampleRu": "Пример: реагировать уместно.",
-            "exampleEn": "Example phrase for: to react appropriately."
+            "uk": "вираз «reagovať primerane» у темі «Sociálne situácie v praxi»",
+            "ru": "выражение «reagovať primerane» в теме «Sociálne situácie v praxi»",
+            "en": "the expression “reagovať primerane” in the topic “Sociálne situácie v praxi”",
+            "pronunciationUk": "reagovat' primerane",
+            "exampleSk": "V téme Sociálne situácie v praxi použijem výraz: reagovať primerane.",
+            "exampleUk": "У темі «Sociálne situácie v praxi» використовую: вираз «reagovať primerane» у темі «Sociálne situácie v praxi».",
+            "exampleRu": "В теме «Sociálne situácie v praxi» использую: выражение «reagovať primerane» в теме «Sociálne situácie v praxi».",
+            "exampleEn": "In “Sociálne situácie v praxi”, I use: the expression “reagovať primerane” in the topic “Sociálne situácie v praxi”."
           },
           {
             "wordId": "b2-s01-l006-w02",
             "sk": "vyjadriť sa",
-            "uk": "висловитися",
-            "ru": "высказаться",
-            "en": "to express oneself",
-            "pronunciationUk": "vyjadriть sa",
-            "exampleSk": "Chcem sa k tomu jasne vyjadriť.",
-            "exampleUk": "Хочу чітко щодо цього висловитися.",
-            "exampleRu": "Пример: высказаться.",
-            "exampleEn": "Example phrase for: to express oneself."
+            "uk": "вираз «vyjadriť sa» у темі «Sociálne situácie v praxi»",
+            "ru": "выражение «vyjadriť sa» в теме «Sociálne situácie v praxi»",
+            "en": "the expression “vyjadriť sa” in the topic “Sociálne situácie v praxi”",
+            "pronunciationUk": "vyjadrit' sa",
+            "exampleSk": "V téme Sociálne situácie v praxi použijem výraz: vyjadriť sa.",
+            "exampleUk": "У темі «Sociálne situácie v praxi» використовую: вираз «vyjadriť sa» у темі «Sociálne situácie v praxi».",
+            "exampleRu": "В теме «Sociálne situácie v praxi» использую: выражение «vyjadriť sa» в теме «Sociálne situácie v praxi».",
+            "exampleEn": "In “Sociálne situácie v praxi”, I use: the expression “vyjadriť sa” in the topic “Sociálne situácie v praxi”."
           },
           {
             "wordId": "b2-s01-l006-w03",
             "sk": "zachovať pokoj",
-            "uk": "зберегти спокій",
-            "ru": "сохранить спокойствие",
-            "en": "to stay calm",
-            "pronunciationUk": "zachovaть pokoj",
-            "exampleSk": "Aj pri kritike sa dá zachovať pokoj.",
-            "exampleUk": "Навіть під час критики можна зберегти спокій.",
-            "exampleRu": "Пример: сохранить спокойствие.",
-            "exampleEn": "Example phrase for: to stay calm."
+            "uk": "вираз «zachovať pokoj» у темі «Sociálne situácie v praxi»",
+            "ru": "выражение «zachovať pokoj» в теме «Sociálne situácie v praxi»",
+            "en": "the expression “zachovať pokoj” in the topic “Sociálne situácie v praxi”",
+            "pronunciationUk": "zachovat' pokoj",
+            "exampleSk": "V téme Sociálne situácie v praxi použijem výraz: zachovať pokoj.",
+            "exampleUk": "У темі «Sociálne situácie v praxi» використовую: вираз «zachovať pokoj» у темі «Sociálne situácie v praxi».",
+            "exampleRu": "В теме «Sociálne situácie v praxi» использую: выражение «zachovať pokoj» в теме «Sociálne situácie v praxi».",
+            "exampleEn": "In “Sociálne situácie v praxi”, I use: the expression “zachovať pokoj” in the topic “Sociálne situácie v praxi”."
           },
           {
             "wordId": "b2-s01-l006-w04",
             "sk": "ujasniť si",
-            "uk": "прояснити для себе",
-            "ru": "прояснить для себя",
-            "en": "to clarify for oneself",
-            "pronunciationUk": "ujasniть si",
-            "exampleSk": "Najprv si ujasnime, čo sa stalo.",
-            "exampleUk": "Спочатку прояснімо, що сталося.",
-            "exampleRu": "Пример: прояснить для себя.",
-            "exampleEn": "Example phrase for: to clarify for oneself."
+            "uk": "вираз «ujasniť si» у темі «Sociálne situácie v praxi»",
+            "ru": "выражение «ujasniť si» в теме «Sociálne situácie v praxi»",
+            "en": "the expression “ujasniť si” in the topic “Sociálne situácie v praxi”",
+            "pronunciationUk": "ujasnit' si",
+            "exampleSk": "V téme Sociálne situácie v praxi použijem výraz: ujasniť si.",
+            "exampleUk": "У темі «Sociálne situácie v praxi» використовую: вираз «ujasniť si» у темі «Sociálne situácie v praxi».",
+            "exampleRu": "В теме «Sociálne situácie v praxi» использую: выражение «ujasniť si» в теме «Sociálne situácie v praxi».",
+            "exampleEn": "In “Sociálne situácie v praxi”, I use: the expression “ujasniť si” in the topic “Sociálne situácie v praxi”."
           },
           {
             "wordId": "b2-s01-l006-w05",
             "sk": "zareagovať",
-            "uk": "відреагувати",
-            "ru": "отреагировать",
-            "en": "to respond",
-            "pronunciationUk": "zareagovaть",
-            "exampleSk": "Skúsim zareagovať vecne.",
-            "exampleUk": "Спробую відреагувати по суті.",
-            "exampleRu": "Пример: отреагировать.",
-            "exampleEn": "Example phrase for: to respond."
+            "uk": "вираз «zareagovať» у темі «Sociálne situácie v praxi»",
+            "ru": "выражение «zareagovať» в теме «Sociálne situácie v praxi»",
+            "en": "the expression “zareagovať” in the topic “Sociálne situácie v praxi”",
+            "pronunciationUk": "zareagovat'",
+            "exampleSk": "V téme Sociálne situácie v praxi použijem výraz: zareagovať.",
+            "exampleUk": "У темі «Sociálne situácie v praxi» використовую: вираз «zareagovať» у темі «Sociálne situácie v praxi».",
+            "exampleRu": "В теме «Sociálne situácie v praxi» использую: выражение «zareagovať» в теме «Sociálne situácie v praxi».",
+            "exampleEn": "In “Sociálne situácie v praxi”, I use: the expression “zareagovať” in the topic “Sociálne situácie v praxi”."
           },
           {
             "wordId": "b2-s01-l006-w06",
             "sk": "vysvetliť svoj postoj",
-            "uk": "пояснити свою позицію",
-            "ru": "объяснить свою позицию",
-            "en": "to explain one's position",
-            "pronunciationUk": "vysvetliть svoj postoj",
-            "exampleSk": "Potrebujem vysvetliť svoj postoj.",
-            "exampleUk": "Мені потрібно пояснити свою позицію.",
-            "exampleRu": "Пример: объяснить свою позицию.",
-            "exampleEn": "Example phrase for: to explain one's position."
+            "uk": "вираз «vysvetliť svoj postoj» у темі «Sociálne situácie v praxi»",
+            "ru": "выражение «vysvetliť svoj postoj» в теме «Sociálne situácie v praxi»",
+            "en": "the expression “vysvetliť svoj postoj” in the topic “Sociálne situácie v praxi”",
+            "pronunciationUk": "vysvetlit' svoj postoj",
+            "exampleSk": "V téme Sociálne situácie v praxi použijem výraz: vysvetliť svoj postoj.",
+            "exampleUk": "У темі «Sociálne situácie v praxi» використовую: вираз «vysvetliť svoj postoj» у темі «Sociálne situácie v praxi».",
+            "exampleRu": "В теме «Sociálne situácie v praxi» использую: выражение «vysvetliť svoj postoj» в теме «Sociálne situácie v praxi».",
+            "exampleEn": "In “Sociálne situácie v praxi”, I use: the expression “vysvetliť svoj postoj” in the topic “Sociálne situácie v praxi”."
           },
           {
             "wordId": "b2-s01-l006-w07",
-            "sk": "zhrnúť dohodu",
-            "uk": "підсумувати домовленість",
-            "ru": "подытожить договорённость",
-            "en": "to summarize an agreement",
-            "pronunciationUk": "zhrnуть dohodu",
-            "exampleSk": "Na konci zhrniem dohodu.",
-            "exampleUk": "Наприкінці я підсумую домовленість.",
-            "exampleRu": "Пример: подытожить договорённость.",
-            "exampleEn": "Example phrase for: to summarize an agreement."
+            "sk": "praktická fráza 7",
+            "uk": "вираз «praktická fráza 7» у темі «Sociálne situácie v praxi»",
+            "ru": "выражение «praktická fráza 7» в теме «Sociálne situácie v praxi»",
+            "en": "the expression “praktická fráza 7” in the topic “Sociálne situácie v praxi”",
+            "pronunciationUk": "prakticka fraza 7",
+            "exampleSk": "V téme Sociálne situácie v praxi použijem výraz: praktická fráza 7.",
+            "exampleUk": "У темі «Sociálne situácie v praxi» використовую: вираз «praktická fráza 7» у темі «Sociálne situácie v praxi».",
+            "exampleRu": "В теме «Sociálne situácie v praxi» использую: выражение «praktická fráza 7» в теме «Sociálne situácie v praxi».",
+            "exampleEn": "In “Sociálne situácie v praxi”, I use: the expression “praktická fráza 7” in the topic “Sociálne situácie v praxi”."
           },
           {
             "wordId": "b2-s01-l006-w08",
-            "sk": "predísť nedorozumeniu",
-            "uk": "запобігти непорозумінню",
-            "ru": "предотвратить недоразумение",
-            "en": "to prevent misunderstanding",
-            "pronunciationUk": "predіsть nedorozumeniu",
-            "exampleSk": "Presná otázka môže predísť nedorozumeniu.",
-            "exampleUk": "Точне питання може запобігти непорозумінню.",
-            "exampleRu": "Пример: предотвратить недоразумение.",
-            "exampleEn": "Example phrase for: to prevent misunderstanding."
+            "sk": "praktická fráza 8",
+            "uk": "вираз «praktická fráza 8» у темі «Sociálne situácie v praxi»",
+            "ru": "выражение «praktická fráza 8» в теме «Sociálne situácie v praxi»",
+            "en": "the expression “praktická fráza 8” in the topic “Sociálne situácie v praxi”",
+            "pronunciationUk": "prakticka fraza 8",
+            "exampleSk": "V téme Sociálne situácie v praxi použijem výraz: praktická fráza 8.",
+            "exampleUk": "У темі «Sociálne situácie v praxi» використовую: вираз «praktická fráza 8» у темі «Sociálne situácie v praxi».",
+            "exampleRu": "В теме «Sociálne situácie v praxi» использую: выражение «praktická fráza 8» в теме «Sociálne situácie v praxi».",
+            "exampleEn": "In “Sociálne situácie v praxi”, I use: the expression “praktická fráza 8” in the topic “Sociálne situácie v praxi”."
           }
         ],
         "button": "До практики"
@@ -332,20 +324,19 @@
         {
           "id": "b2-s01-l006-w01",
           "sk": "reagovať primerane",
-          "uk": "реагувати відповідно до ситуації",
-          "ru": "реагировать уместно",
-          "en": "to react appropriately",
-          "pronunciationUk": "reagovaть primerane",
-          "exampleSk": "Treba reagovať primerane, nie útočne.",
-          "exampleUk": "Треба реагувати доречно, не нападати.",
-          "exampleRu": "Пример: реагировать уместно.",
-          "exampleEn": "Example phrase for: to react appropriately.",
+          "uk": "вираз «reagovať primerane» у темі «Sociálne situácie v praxi»",
+          "ru": "выражение «reagovať primerane» в теме «Sociálne situácie v praxi»",
+          "en": "the expression “reagovať primerane” in the topic “Sociálne situácie v praxi”",
+          "pronunciationUk": "reagovat' primerane",
+          "exampleSk": "V téme Sociálne situácie v praxi použijem výraz: reagovať primerane.",
+          "exampleUk": "У темі «Sociálne situácie v praxi» використовую: вираз «reagovať primerane» у темі «Sociálne situácie v praxi».",
+          "exampleRu": "В теме «Sociálne situácie v praxi» использую: выражение «reagovať primerane» в теме «Sociálne situácie v praxi».",
+          "exampleEn": "In “Sociálne situácie v praxi”, I use: the expression “reagovať primerane” in the topic “Sociálne situácie v praxi”.",
           "level": "B2",
           "topic": "Sociálne situácie v praxi",
           "tags": [
             "b2_s01",
-            "nuance",
-            "social-interaction",
+            "b2",
             "ownership:new"
           ],
           "ownership": "NEW"
@@ -353,20 +344,19 @@
         {
           "id": "b2-s01-l006-w02",
           "sk": "vyjadriť sa",
-          "uk": "висловитися",
-          "ru": "высказаться",
-          "en": "to express oneself",
-          "pronunciationUk": "vyjadriть sa",
-          "exampleSk": "Chcem sa k tomu jasne vyjadriť.",
-          "exampleUk": "Хочу чітко щодо цього висловитися.",
-          "exampleRu": "Пример: высказаться.",
-          "exampleEn": "Example phrase for: to express oneself.",
+          "uk": "вираз «vyjadriť sa» у темі «Sociálne situácie v praxi»",
+          "ru": "выражение «vyjadriť sa» в теме «Sociálne situácie v praxi»",
+          "en": "the expression “vyjadriť sa” in the topic “Sociálne situácie v praxi”",
+          "pronunciationUk": "vyjadrit' sa",
+          "exampleSk": "V téme Sociálne situácie v praxi použijem výraz: vyjadriť sa.",
+          "exampleUk": "У темі «Sociálne situácie v praxi» використовую: вираз «vyjadriť sa» у темі «Sociálne situácie v praxi».",
+          "exampleRu": "В теме «Sociálne situácie v praxi» использую: выражение «vyjadriť sa» в теме «Sociálne situácie v praxi».",
+          "exampleEn": "In “Sociálne situácie v praxi”, I use: the expression “vyjadriť sa” in the topic “Sociálne situácie v praxi”.",
           "level": "B2",
           "topic": "Sociálne situácie v praxi",
           "tags": [
             "b2_s01",
-            "nuance",
-            "social-interaction",
+            "b2",
             "ownership:new"
           ],
           "ownership": "NEW"
@@ -374,20 +364,19 @@
         {
           "id": "b2-s01-l006-w03",
           "sk": "zachovať pokoj",
-          "uk": "зберегти спокій",
-          "ru": "сохранить спокойствие",
-          "en": "to stay calm",
-          "pronunciationUk": "zachovaть pokoj",
-          "exampleSk": "Aj pri kritike sa dá zachovať pokoj.",
-          "exampleUk": "Навіть під час критики можна зберегти спокій.",
-          "exampleRu": "Пример: сохранить спокойствие.",
-          "exampleEn": "Example phrase for: to stay calm.",
+          "uk": "вираз «zachovať pokoj» у темі «Sociálne situácie v praxi»",
+          "ru": "выражение «zachovať pokoj» в теме «Sociálne situácie v praxi»",
+          "en": "the expression “zachovať pokoj” in the topic “Sociálne situácie v praxi”",
+          "pronunciationUk": "zachovat' pokoj",
+          "exampleSk": "V téme Sociálne situácie v praxi použijem výraz: zachovať pokoj.",
+          "exampleUk": "У темі «Sociálne situácie v praxi» використовую: вираз «zachovať pokoj» у темі «Sociálne situácie v praxi».",
+          "exampleRu": "В теме «Sociálne situácie v praxi» использую: выражение «zachovať pokoj» в теме «Sociálne situácie v praxi».",
+          "exampleEn": "In “Sociálne situácie v praxi”, I use: the expression “zachovať pokoj” in the topic “Sociálne situácie v praxi”.",
           "level": "B2",
           "topic": "Sociálne situácie v praxi",
           "tags": [
             "b2_s01",
-            "nuance",
-            "social-interaction",
+            "b2",
             "ownership:new"
           ],
           "ownership": "NEW"
@@ -395,20 +384,19 @@
         {
           "id": "b2-s01-l006-w04",
           "sk": "ujasniť si",
-          "uk": "прояснити для себе",
-          "ru": "прояснить для себя",
-          "en": "to clarify for oneself",
-          "pronunciationUk": "ujasniть si",
-          "exampleSk": "Najprv si ujasnime, čo sa stalo.",
-          "exampleUk": "Спочатку прояснімо, що сталося.",
-          "exampleRu": "Пример: прояснить для себя.",
-          "exampleEn": "Example phrase for: to clarify for oneself.",
+          "uk": "вираз «ujasniť si» у темі «Sociálne situácie v praxi»",
+          "ru": "выражение «ujasniť si» в теме «Sociálne situácie v praxi»",
+          "en": "the expression “ujasniť si” in the topic “Sociálne situácie v praxi”",
+          "pronunciationUk": "ujasnit' si",
+          "exampleSk": "V téme Sociálne situácie v praxi použijem výraz: ujasniť si.",
+          "exampleUk": "У темі «Sociálne situácie v praxi» використовую: вираз «ujasniť si» у темі «Sociálne situácie v praxi».",
+          "exampleRu": "В теме «Sociálne situácie v praxi» использую: выражение «ujasniť si» в теме «Sociálne situácie v praxi».",
+          "exampleEn": "In “Sociálne situácie v praxi”, I use: the expression “ujasniť si” in the topic “Sociálne situácie v praxi”.",
           "level": "B2",
           "topic": "Sociálne situácie v praxi",
           "tags": [
             "b2_s01",
-            "nuance",
-            "social-interaction",
+            "b2",
             "ownership:new"
           ],
           "ownership": "NEW"
@@ -416,20 +404,19 @@
         {
           "id": "b2-s01-l006-w05",
           "sk": "zareagovať",
-          "uk": "відреагувати",
-          "ru": "отреагировать",
-          "en": "to respond",
-          "pronunciationUk": "zareagovaть",
-          "exampleSk": "Skúsim zareagovať vecne.",
-          "exampleUk": "Спробую відреагувати по суті.",
-          "exampleRu": "Пример: отреагировать.",
-          "exampleEn": "Example phrase for: to respond.",
+          "uk": "вираз «zareagovať» у темі «Sociálne situácie v praxi»",
+          "ru": "выражение «zareagovať» в теме «Sociálne situácie v praxi»",
+          "en": "the expression “zareagovať” in the topic “Sociálne situácie v praxi”",
+          "pronunciationUk": "zareagovat'",
+          "exampleSk": "V téme Sociálne situácie v praxi použijem výraz: zareagovať.",
+          "exampleUk": "У темі «Sociálne situácie v praxi» використовую: вираз «zareagovať» у темі «Sociálne situácie v praxi».",
+          "exampleRu": "В теме «Sociálne situácie v praxi» использую: выражение «zareagovať» в теме «Sociálne situácie v praxi».",
+          "exampleEn": "In “Sociálne situácie v praxi”, I use: the expression “zareagovať” in the topic “Sociálne situácie v praxi”.",
           "level": "B2",
           "topic": "Sociálne situácie v praxi",
           "tags": [
             "b2_s01",
-            "nuance",
-            "social-interaction",
+            "b2",
             "ownership:new"
           ],
           "ownership": "NEW"
@@ -437,62 +424,59 @@
         {
           "id": "b2-s01-l006-w06",
           "sk": "vysvetliť svoj postoj",
-          "uk": "пояснити свою позицію",
-          "ru": "объяснить свою позицию",
-          "en": "to explain one's position",
-          "pronunciationUk": "vysvetliть svoj postoj",
-          "exampleSk": "Potrebujem vysvetliť svoj postoj.",
-          "exampleUk": "Мені потрібно пояснити свою позицію.",
-          "exampleRu": "Пример: объяснить свою позицию.",
-          "exampleEn": "Example phrase for: to explain one's position.",
+          "uk": "вираз «vysvetliť svoj postoj» у темі «Sociálne situácie v praxi»",
+          "ru": "выражение «vysvetliť svoj postoj» в теме «Sociálne situácie v praxi»",
+          "en": "the expression “vysvetliť svoj postoj” in the topic “Sociálne situácie v praxi”",
+          "pronunciationUk": "vysvetlit' svoj postoj",
+          "exampleSk": "V téme Sociálne situácie v praxi použijem výraz: vysvetliť svoj postoj.",
+          "exampleUk": "У темі «Sociálne situácie v praxi» використовую: вираз «vysvetliť svoj postoj» у темі «Sociálne situácie v praxi».",
+          "exampleRu": "В теме «Sociálne situácie v praxi» использую: выражение «vysvetliť svoj postoj» в теме «Sociálne situácie v praxi».",
+          "exampleEn": "In “Sociálne situácie v praxi”, I use: the expression “vysvetliť svoj postoj” in the topic “Sociálne situácie v praxi”.",
           "level": "B2",
           "topic": "Sociálne situácie v praxi",
           "tags": [
             "b2_s01",
-            "nuance",
-            "social-interaction",
+            "b2",
             "ownership:new"
           ],
           "ownership": "NEW"
         },
         {
           "id": "b2-s01-l006-w07",
-          "sk": "zhrnúť dohodu",
-          "uk": "підсумувати домовленість",
-          "ru": "подытожить договорённость",
-          "en": "to summarize an agreement",
-          "pronunciationUk": "zhrnуть dohodu",
-          "exampleSk": "Na konci zhrniem dohodu.",
-          "exampleUk": "Наприкінці я підсумую домовленість.",
-          "exampleRu": "Пример: подытожить договорённость.",
-          "exampleEn": "Example phrase for: to summarize an agreement.",
+          "sk": "praktická fráza 7",
+          "uk": "вираз «praktická fráza 7» у темі «Sociálne situácie v praxi»",
+          "ru": "выражение «praktická fráza 7» в теме «Sociálne situácie v praxi»",
+          "en": "the expression “praktická fráza 7” in the topic “Sociálne situácie v praxi”",
+          "pronunciationUk": "prakticka fraza 7",
+          "exampleSk": "V téme Sociálne situácie v praxi použijem výraz: praktická fráza 7.",
+          "exampleUk": "У темі «Sociálne situácie v praxi» використовую: вираз «praktická fráza 7» у темі «Sociálne situácie v praxi».",
+          "exampleRu": "В теме «Sociálne situácie v praxi» использую: выражение «praktická fráza 7» в теме «Sociálne situácie v praxi».",
+          "exampleEn": "In “Sociálne situácie v praxi”, I use: the expression “praktická fráza 7” in the topic “Sociálne situácie v praxi”.",
           "level": "B2",
           "topic": "Sociálne situácie v praxi",
           "tags": [
             "b2_s01",
-            "nuance",
-            "social-interaction",
+            "b2",
             "ownership:new"
           ],
           "ownership": "NEW"
         },
         {
           "id": "b2-s01-l006-w08",
-          "sk": "predísť nedorozumeniu",
-          "uk": "запобігти непорозумінню",
-          "ru": "предотвратить недоразумение",
-          "en": "to prevent misunderstanding",
-          "pronunciationUk": "predіsть nedorozumeniu",
-          "exampleSk": "Presná otázka môže predísť nedorozumeniu.",
-          "exampleUk": "Точне питання може запобігти непорозумінню.",
-          "exampleRu": "Пример: предотвратить недоразумение.",
-          "exampleEn": "Example phrase for: to prevent misunderstanding.",
+          "sk": "praktická fráza 8",
+          "uk": "вираз «praktická fráza 8» у темі «Sociálne situácie v praxi»",
+          "ru": "выражение «praktická fráza 8» в теме «Sociálne situácie v praxi»",
+          "en": "the expression “praktická fráza 8” in the topic “Sociálne situácie v praxi”",
+          "pronunciationUk": "prakticka fraza 8",
+          "exampleSk": "V téme Sociálne situácie v praxi použijem výraz: praktická fráza 8.",
+          "exampleUk": "У темі «Sociálne situácie v praxi» використовую: вираз «praktická fráza 8» у темі «Sociálne situácie v praxi».",
+          "exampleRu": "В теме «Sociálne situácie v praxi» использую: выражение «praktická fráza 8» в теме «Sociálne situácie v praxi».",
+          "exampleEn": "In “Sociálne situácie v praxi”, I use: the expression “praktická fráza 8” in the topic “Sociálne situácie v praxi”.",
           "level": "B2",
           "topic": "Sociálne situácie v praxi",
           "tags": [
             "b2_s01",
-            "nuance",
-            "social-interaction",
+            "b2",
             "ownership:new"
           ],
           "ownership": "NEW"
@@ -517,27 +501,27 @@
             {
               "id": "a",
               "text": {
-                "uk": "реагувати відповідно до ситуації",
-                "ru": "реагировать уместно",
-                "en": "to react appropriately"
+                "uk": "вираз «reagovať primerane» у темі «Sociálne situácie v praxi»",
+                "ru": "выражение «reagovať primerane» в теме «Sociálne situácie v praxi»",
+                "en": "the expression “reagovať primerane” in the topic “Sociálne situácie v praxi”"
               },
               "correct": true
             },
             {
               "id": "b",
               "text": {
-                "uk": "прояснити для себе",
-                "ru": "прояснить для себя",
-                "en": "to clarify for oneself"
+                "uk": "вираз «vyjadriť sa» у темі «Sociálne situácie v praxi»",
+                "ru": "выражение «vyjadriť sa» в теме «Sociálne situácie v praxi»",
+                "en": "the expression “vyjadriť sa” in the topic “Sociálne situácie v praxi”"
               },
               "correct": false
             },
             {
               "id": "c",
               "text": {
-                "uk": "підсумувати домовленість",
-                "ru": "подытожить договорённость",
-                "en": "to summarize an agreement"
+                "uk": "вираз «zachovať pokoj» у темі «Sociálne situácie v praxi»",
+                "ru": "выражение «zachovať pokoj» в теме «Sociálne situácie v praxi»",
+                "en": "the expression “zachovať pokoj” in the topic “Sociálne situácie v praxi”"
               },
               "correct": false
             }
@@ -548,11 +532,11 @@
           "lessonId": "b2-s01-l006",
           "type": "matching",
           "order": 2,
-          "question": "З'єднай словацькі фрази з точним значенням.",
+          "question": "З'єднай фрази з поясненнями.",
           "questionLocalized": {
-            "uk": "З'єднай словацькі фрази з точним значенням.",
-            "ru": "Соедини словацкие фразы с точным значением.",
-            "en": "Match the Slovak phrases with their exact meaning."
+            "uk": "З'єднай фрази з поясненнями.",
+            "ru": "Соедини фразы с объяснениями.",
+            "en": "Match phrases with explanations."
           },
           "wordIds": [
             "b2-s01-l006-w01",
@@ -563,87 +547,40 @@
           "pairs": [
             {
               "left": "reagovať primerane",
-              "right": "реагувати відповідно до ситуації",
-              "rightRu": "реагировать уместно",
-              "rightEn": "to react appropriately"
+              "right": "вираз «reagovať primerane» у темі «Sociálne situácie v praxi»",
+              "rightRu": "выражение «reagovať primerane» в теме «Sociálne situácie v praxi»",
+              "rightEn": "the expression “reagovať primerane” in the topic “Sociálne situácie v praxi”"
             },
             {
               "left": "vyjadriť sa",
-              "right": "висловитися",
-              "rightRu": "высказаться",
-              "rightEn": "to express oneself"
+              "right": "вираз «vyjadriť sa» у темі «Sociálne situácie v praxi»",
+              "rightRu": "выражение «vyjadriť sa» в теме «Sociálne situácie v praxi»",
+              "rightEn": "the expression “vyjadriť sa” in the topic “Sociálne situácie v praxi”"
             },
             {
               "left": "zachovať pokoj",
-              "right": "зберегти спокій",
-              "rightRu": "сохранить спокойствие",
-              "rightEn": "to stay calm"
+              "right": "вираз «zachovať pokoj» у темі «Sociálne situácie v praxi»",
+              "rightRu": "выражение «zachovať pokoj» в теме «Sociálne situácie v praxi»",
+              "rightEn": "the expression “zachovať pokoj” in the topic “Sociálne situácie v praxi”"
             },
             {
               "left": "ujasniť si",
-              "right": "прояснити для себе",
-              "rightRu": "прояснить для себя",
-              "rightEn": "to clarify for oneself"
+              "right": "вираз «ujasniť si» у темі «Sociálne situácie v praxi»",
+              "rightRu": "выражение «ujasniť si» в теме «Sociálne situácie v praxi»",
+              "rightEn": "the expression “ujasniť si” in the topic “Sociálne situácie v praxi”"
             }
           ]
         },
         {
           "id": "b2-s01-l006-e03",
           "lessonId": "b2-s01-l006",
-          "type": "meaning_in_context",
-          "order": 3,
-          "question": "Що найкраще підходить до контексту «Sociálne situácie v praxi»?",
-          "questionLocalized": {
-            "uk": "Що найкраще підходить до контексту «Sociálne situácie v praxi»?",
-            "ru": "Что лучше всего подходит к контексту «Sociálne situácie v praxi»?",
-            "en": "What best fits the context “Sociálne situácie v praxi”?"
-          },
-          "wordIds": [
-            "b2-s01-l006-w02"
-          ],
-          "context": {
-            "sk": "Nechcem reagovať automaticky. Najprv potrebujem lepšie pochopiť situáciu."
-          },
-          "options": [
-            {
-              "id": "a",
-              "text": {
-                "uk": "висловитися",
-                "ru": "высказаться",
-                "en": "to express oneself"
-              },
-              "correct": true
-            },
-            {
-              "id": "b",
-              "text": {
-                "uk": "відреагувати",
-                "ru": "отреагировать",
-                "en": "to respond"
-              },
-              "correct": false
-            },
-            {
-              "id": "c",
-              "text": {
-                "uk": "запобігти непорозумінню",
-                "ru": "предотвратить недоразумение",
-                "en": "to prevent misunderstanding"
-              },
-              "correct": false
-            }
-          ]
-        },
-        {
-          "id": "b2-s01-l006-e04",
-          "lessonId": "b2-s01-l006",
           "type": "fill_blank",
-          "order": 4,
-          "question": "Впиши словацькою: зберегти спокій.",
+          "order": 3,
+          "question": "Впиши словацькою: вираз «zachovať pokoj» у темі «Sociálne situácie v praxi».",
           "questionLocalized": {
-            "uk": "Впиши словацькою: зберегти спокій.",
-            "ru": "Впиши по-словацки: сохранить спокойствие.",
-            "en": "Write in Slovak: to stay calm."
+            "uk": "Впиши словацькою: вираз «zachovať pokoj» у темі «Sociálne situácie v praxi».",
+            "ru": "Впиши по-словацки: выражение «zachovať pokoj» в теме «Sociálne situácie v praxi».",
+            "en": "Write in Slovak: the expression “zachovať pokoj” in the topic “Sociálne situácie v praxi”."
           },
           "wordIds": [
             "b2-s01-l006-w03"
@@ -659,132 +596,133 @@
           }
         },
         {
-          "id": "b2-s01-l006-e05",
+          "id": "b2-s01-l006-e04",
           "lessonId": "b2-s01-l006",
           "type": "dropdown_blank",
-          "order": 5,
-          "question": "Обери природну фразу для речення.",
+          "order": 4,
+          "question": "Обери точну фразу для B2-речення.",
           "questionLocalized": {
-            "uk": "Обери природну фразу для речення.",
-            "ru": "Выбери естественную фразу для предложения.",
-            "en": "Choose the natural phrase for the sentence."
+            "uk": "Обери точну фразу для B2-речення.",
+            "ru": "Выбери точную фразу для B2-предложения.",
+            "en": "Choose the precise phrase for a B2 sentence."
           },
           "wordIds": [
             "b2-s01-l006-w04"
           ],
           "sentenceParts": [
             {
-              "text": "V tejto poznámke cítim "
+              "text": "V tejto situácii je dôležité použiť "
             },
             {
               "blankId": "blank1",
               "options": [
                 "ujasniť si",
                 "reagovať primerane",
-                "vysvetliť svoj postoj"
+                "vyjadriť sa"
               ],
               "correct": "ujasniť si"
             },
             {
-              "text": ", preto sa radšej spýtam."
+              "text": "."
             }
           ]
         },
         {
-          "id": "b2-s01-l006-e06",
+          "id": "b2-s01-l006-e05",
           "lessonId": "b2-s01-l006",
           "type": "sentence_builder",
-          "order": 6,
-          "question": "Склади B2-речення з уточненням.",
+          "order": 5,
+          "question": "Склади природну словацьку репліку.",
           "questionLocalized": {
-            "uk": "Склади B2-речення з уточненням.",
-            "ru": "Собери B2-предложение с уточнением.",
-            "en": "Build a B2 sentence with clarification."
+            "uk": "Склади природну словацьку репліку.",
+            "ru": "Собери естественную словацкую реплику.",
+            "en": "Build a natural Slovak reply."
           },
           "wordIds": [
             "b2-s01-l006-w05"
           ],
           "tokens": [
-            "Nechcem",
-            "to",
-            "zle",
-            "pochopiť,",
-            "môžeš",
-            "to",
-            "upresniť?"
+            "Rozumiem",
+            "situácii,",
+            "ale",
+            "potrebujem",
+            "ju",
+            "ešte",
+            "upresniť."
           ],
-          "correctSentence": "Nechcem to zle pochopiť, môžeš to upresniť?"
+          "correctSentence": "Rozumiem situácii, ale potrebujem ju ešte upresniť."
         },
         {
-          "id": "b2-s01-l006-e07",
+          "id": "b2-s01-l006-e06",
           "lessonId": "b2-s01-l006",
           "type": "multiple_select",
-          "order": 7,
-          "question": "Обери реакції, які зберігають ввічливий тон.",
+          "order": 6,
+          "question": "Обери B2-репліки з природним тоном.",
           "questionLocalized": {
-            "uk": "Обери реакції, які зберігають ввічливий тон.",
-            "ru": "Выбери реакции, которые сохраняют вежливый тон.",
-            "en": "Select replies that keep a polite tone."
+            "uk": "Обери B2-репліки з природним тоном.",
+            "ru": "Выбери B2-реплики с естественным тоном.",
+            "en": "Select B2 replies with a natural tone."
           },
           "wordIds": [
-            "b2-s01-l006-w06",
-            "b2-s01-l006-w07"
+            "b2-s01-l006-w01",
+            "b2-s01-l006-w06"
           ],
           "options": [
             {
               "id": "a",
-              "sk": "Chápem, ale potrebujem to trochu upresniť.",
+              "sk": "Rozumiem, ale potrebujem to presnejšie vysvetliť.",
               "correct": true
             },
             {
               "id": "b",
-              "sk": "To je hlúposť a nemá zmysel o tom hovoriť.",
+              "sk": "To je úplne mimo a nemá zmysel hovoriť.",
               "correct": false
             },
             {
               "id": "c",
-              "sk": "Možno som to pochopil inak, vysvetlíš mi pointu?",
+              "sk": "Z môjho pohľadu je dôležitý aj kontext.",
               "correct": true
             }
           ]
         },
         {
-          "id": "b2-s01-l006-e08",
+          "id": "b2-s01-l006-e07",
           "lessonId": "b2-s01-l006",
           "type": "reading_comprehension",
-          "order": 8,
-          "question": "Прочитай повідомлення і знайди підтекст.",
+          "order": 7,
+          "question": "Прочитай текст і вибери головну думку.",
           "questionLocalized": {
-            "uk": "Прочитай повідомлення і знайди підтекст.",
-            "ru": "Прочитай сообщение и найди подтекст.",
-            "en": "Read the message and identify the subtext."
+            "uk": "Прочитай текст і вибери головну думку.",
+            "ru": "Прочитай текст и выбери главную мысль.",
+            "en": "Read the text and choose the main idea."
           },
           "wordIds": [
+            "b2-s01-l006-w06",
             "b2-s01-l006-w07",
             "b2-s01-l006-w08"
           ],
-          "text": "Správa znie neutrálne, ale jej tón naznačuje, že druhá strana čaká vysvetlenie. Pointa nie je útok, ale potreba vyjasniť situáciu.",
+          "text": "Téma Sociálne situácie v praxi si vyžaduje presnosť. Nestačí poznať slová; treba reagovať podľa kontextu, vysvetliť dôvod a navrhnúť ďalší krok.",
           "questions": [
             {
               "prompt": {
-                "uk": "Яка головна думка тексту?",
-                "ru": "Какая главная мысль текста?",
-                "en": "What is the main point of the text?"
+                "uk": "Що є головною думкою?",
+                "ru": "Что является главной мыслью?",
+                "en": "What is the main idea?"
               },
               "options": [
                 {
                   "id": "a",
-                  "sk": "Treba vyjasniť situáciu bez útoku.",
+                  "sk": "Treba reagovať presne podľa kontextu.",
                   "correct": true
                 },
                 {
                   "id": "b",
-                  "sk": "Treba okamžite ukončiť kontakt.",
+                  "sk": "Stačí opakovať jedno slovo.",
                   "correct": false
                 },
                 {
                   "id": "c",
-                  "sk": "Netreba reagovať vôbec.",
+                  "sk": "Najlepšie je nereagovať.",
                   "correct": false
                 }
               ]
@@ -792,40 +730,86 @@
           ]
         },
         {
-          "id": "b2-s01-l006-e09",
+          "id": "b2-s01-l006-e08",
           "lessonId": "b2-s01-l006",
           "type": "dialogue_choose_reply",
-          "order": 9,
-          "question": "Обери найкращу відповідь у чутливому діалозі.",
+          "order": 8,
+          "question": "Обери найкращу відповідь у діалозі.",
           "questionLocalized": {
-            "uk": "Обери найкращу відповідь у чутливому діалозі.",
-            "ru": "Выбери лучший ответ в чувствительном диалоге.",
-            "en": "Choose the best reply in a sensitive dialogue."
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
           },
           "wordIds": [
-            "b2-s01-l006-w01",
-            "b2-s01-l006-w08"
+            "b2-s01-l006-w07"
           ],
           "dialogue": [
             {
               "speaker": "A",
-              "sk": "Asi sme sa nepochopili."
+              "sk": "Ako by si to vysvetlil?"
             }
           ],
           "options": [
             {
               "id": "a",
-              "sk": "Možno áno. Povedz mi, čo tým myslíš, aby som pochopil pointu.",
+              "sk": "Najprv zhrniem situáciu a potom poviem svoj návrh.",
               "correct": true
             },
             {
               "id": "b",
-              "sk": "To je tvoj problém, nie môj.",
+              "sk": "Nepoviem nič, lebo je to ťažké.",
               "correct": false
             },
             {
               "id": "c",
-              "sk": "Nemám čas na také veci.",
+              "sk": "Odpoviem jedným náhodným slovom.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b2-s01-l006-e09",
+          "lessonId": "b2-s01-l006",
+          "type": "meaning_in_context",
+          "order": 9,
+          "question": "Що означає «vyjadriť sa» у контексті?",
+          "questionLocalized": {
+            "uk": "Що означає «vyjadriť sa» у контексті?",
+            "ru": "Что означает «vyjadriť sa» в контексте?",
+            "en": "What does “vyjadriť sa” mean in context?"
+          },
+          "wordIds": [
+            "b2-s01-l006-w02"
+          ],
+          "context": {
+            "sk": "Rozhovor je citlivý, preto si najprv overím význam a tón."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "вираз «vyjadriť sa» у темі «Sociálne situácie v praxi»",
+                "ru": "выражение «vyjadriť sa» в теме «Sociálne situácie v praxi»",
+                "en": "the expression “vyjadriť sa” in the topic “Sociálne situácie v praxi”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "вираз «zareagovať» у темі «Sociálne situácie v praxi»",
+                "ru": "выражение «zareagovať» в теме «Sociálne situácie v praxi»",
+                "en": "the expression “zareagovať” in the topic “Sociálne situácie v praxi”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "вираз «praktická fráza 8» у темі «Sociálne situácie v praxi»",
+                "ru": "выражение «praktická fráza 8» в теме «Sociálne situácie v praxi»",
+                "en": "the expression “praktická fráza 8” in the topic “Sociálne situácie v praxi”"
+              },
               "correct": false
             }
           ]
@@ -835,34 +819,34 @@
           "lessonId": "b2-s01-l006",
           "type": "natural_phrase",
           "order": 10,
-          "question": "Що звучить найприродніше на рівні B2?",
+          "question": "Що звучить найприродніше?",
           "questionLocalized": {
-            "uk": "Що звучить найприродніше на рівні B2?",
-            "ru": "Что звучит естественнее всего на уровне B2?",
-            "en": "What sounds most natural at B2 level?"
+            "uk": "Що звучить найприродніше?",
+            "ru": "Что звучит естественнее всего?",
+            "en": "What sounds most natural?"
           },
           "wordIds": [
-            "b2-s01-l006-w06"
+            "b2-s01-l006-w08"
           ],
           "situation": {
-            "uk": "Ти не впевнений, чи фразу сказали буквально.",
-            "ru": "Ты не уверен, сказали ли фразу буквально.",
-            "en": "You are not sure whether the phrase was meant literally."
+            "uk": "Потрібно відповісти точно, але без різкого тону.",
+            "ru": "Нужно ответить точно, но без резкого тона.",
+            "en": "You need to answer precisely but without a sharp tone."
           },
           "options": [
             {
               "id": "a",
-              "sk": "Myslíš to doslova, alebo skôr v prenesenom zmysle?",
+              "sk": "Chápem tvoj pohľad, ale doplnil by som ešte jednu vec.",
               "correct": true
             },
             {
               "id": "b",
-              "sk": "Toto slovo je doslova stolička.",
+              "sk": "Ty ničomu nerozumieš.",
               "correct": false
             },
             {
               "id": "c",
-              "sk": "Nič nepýtam, všetko viem.",
+              "sk": "Áno nie možno včera.",
               "correct": false
             }
           ]
@@ -872,11 +856,11 @@
           "lessonId": "b2-s01-l006",
           "type": "reverse_translation",
           "order": 11,
-          "question": "Обери словацький варіант для: відреагувати.",
+          "question": "Обери словацький варіант для: вираз «zareagovať» у темі «Sociálne situácie v praxi».",
           "questionLocalized": {
-            "uk": "Обери словацький варіант для: відреагувати.",
-            "ru": "Выбери словацкий вариант для: отреагировать.",
-            "en": "Choose the Slovak item for: to respond."
+            "uk": "Обери словацький варіант для: вираз «zareagovať» у темі «Sociálne situácie v praxi».",
+            "ru": "Выбери словацкий вариант для: выражение «zareagovať» в теме «Sociálne situácie v praxi».",
+            "en": "Choose the Slovak item for: the expression “zareagovať” in the topic “Sociálne situácie v praxi”."
           },
           "wordIds": [
             "b2-s01-l006-w05"
@@ -884,7 +868,7 @@
           "options": [
             "zareagovať",
             "zachovať pokoj",
-            "vyjadriť sa"
+            "reagovať primerane"
           ],
           "correctAnswer": "zareagovať"
         },
@@ -893,55 +877,55 @@
           "lessonId": "b2-s01-l006",
           "type": "multiple_choice_translation",
           "order": 12,
-          "question": "Що відповідає словацькому «predísť nedorozumeniu»?",
+          "question": "Що відповідає словацькому «praktická fráza 8»?",
           "questionLocalized": {
-            "uk": "Що відповідає словацькому «predísť nedorozumeniu»?",
-            "ru": "Что соответствует словацкому «predísť nedorozumeniu»?",
-            "en": "What matches the Slovak “predísť nedorozumeniu”?"
+            "uk": "Що відповідає словацькому «praktická fráza 8»?",
+            "ru": "Что соответствует словацкому «praktická fráza 8»?",
+            "en": "What matches the Slovak “praktická fráza 8”?"
           },
           "wordIds": [
             "b2-s01-l006-w08"
           ],
           "options": [
-            "запобігти непорозумінню",
-            "реагувати відповідно до ситуації",
-            "прояснити для себе"
+            "вираз «praktická fráza 8» у темі «Sociálne situácie v praxi»",
+            "вираз «vyjadriť sa» у темі «Sociálne situácie v praxi»",
+            "вираз «zachovať pokoj» у темі «Sociálne situácie v praxi»"
           ],
-          "correctAnswer": "запобігти непорозумінню"
+          "correctAnswer": "вираз «praktická fráza 8» у темі «Sociálne situácie v praxi»"
         }
       ],
       "finalSituation": {
         "id": "final-situation",
         "type": "interactive_scenario",
         "title": {
-          "uk": "Sociálne situácie v praxi: реальна розмова",
-          "ru": "Sociálne situácie v praxi: реальный разговор",
-          "en": "Sociálne situácie v praxi: real conversation"
+          "uk": "Sociálne situácie v praxi: реальна ситуація",
+          "ru": "Sociálne situácie v praxi: реальная ситуация",
+          "en": "Sociálne situácie v praxi: real situation"
         },
         "description": {
-          "uk": "У груповому чаті виникло непорозуміння. Потрібно зупинити конфлікт і повернути розмову до рішення.",
-          "ru": "В чате возникло недоразумение. Нужно вернуть разговор к решению.",
-          "en": "A group chat has a misunderstanding. Bring the conversation back to a solution."
+          "uk": "Обери репліки, які звучать природно, точно й доречно на рівні B2.",
+          "ru": "Выбери реплики, которые звучат естественно, точно и уместно на уровне B2.",
+          "en": "Choose replies that sound natural, precise and appropriate at B2 level."
         },
         "steps": [
           {
             "id": "f1",
             "prompt": {
-              "uk": "Повідомлення звучить двозначно. Перша реакція?",
-              "ru": "Сообщение звучит двусмысленно. Первая реакция?",
-              "en": "The message sounds ambiguous. First response?"
+              "uk": "Потрібно почати відповідь без різкості.",
+              "ru": "Нужно начать ответ без резкости.",
+              "en": "You need to start without sounding harsh."
             },
             "options": [
               {
-                "sk": "Chcem si to najprv ujasniť, aby som nereagoval zle.",
+                "sk": "Rozumiem, skúsim to najprv zhrnúť vlastnými slovami.",
                 "correct": true
               },
               {
-                "sk": "Určite to myslíš zle.",
+                "sk": "Nemáš pravdu a viac sa o tom nebavme.",
                 "correct": false
               },
               {
-                "sk": "Nebudem sa pýtať nič.",
+                "sk": "Neviem a nechcem reagovať.",
                 "correct": false
               }
             ]
@@ -949,21 +933,21 @@
           {
             "id": "f2",
             "prompt": {
-              "uk": "Ти частково не погоджуєшся. Як сказати м'яко?",
-              "ru": "Ты частично не согласен. Как сказать мягко?",
-              "en": "You partly disagree. How do you say it softly?"
+              "uk": "Потрібно додати аргумент.",
+              "ru": "Нужно добавить аргумент.",
+              "en": "You need to add an argument."
             },
             "options": [
               {
-                "sk": "Čiastočne rozumiem, ale z môjho pohľadu to nie je celkom presné.",
+                "sk": "Dôvod je podľa mňa v tom, že situácia má viac okolností.",
                 "correct": true
               },
               {
-                "sk": "Nemáš pravdu a koniec.",
+                "sk": "Pretože áno.",
                 "correct": false
               },
               {
-                "sk": "To ma nezaujíma.",
+                "sk": "To nesúvisí s ničím.",
                 "correct": false
               }
             ]
@@ -971,21 +955,21 @@
           {
             "id": "f3",
             "prompt": {
-              "uk": "Потрібно завершити розмову конструктивно.",
-              "ru": "Нужно завершить разговор конструктивно.",
-              "en": "You need to close constructively."
+              "uk": "Потрібно завершити практично.",
+              "ru": "Нужно завершить практически.",
+              "en": "You need to close practically."
             },
             "options": [
               {
-                "sk": "Zhrňme si pointu a dohodnime sa na ďalšom kroku.",
+                "sk": "Navrhujem ďalší krok a potom si to potvrdíme písomne.",
                 "correct": true
               },
               {
-                "sk": "Nechajme to tak navždy.",
+                "sk": "Nechajme to bez riešenia.",
                 "correct": false
               },
               {
-                "sk": "Každý si myslí svoje, nič neriešme.",
+                "sk": "Každý nech si domyslí zvyšok.",
                 "correct": false
               }
             ]
@@ -993,9 +977,9 @@
         ],
         "passRequirement": "3/3",
         "successMessage": {
-          "uk": "Готово: ти впорався з нюансованою B2-ситуацією.",
-          "ru": "Готово: ты справился с нюансированной B2-ситуацией.",
-          "en": "Done: you handled a nuanced B2 situation."
+          "uk": "Готово: тема перенесена в реальну B2-комунікацію.",
+          "ru": "Готово: тема перенесена в реальную B2-коммуникацию.",
+          "en": "Done: the topic was transferred into real B2 communication."
         }
       },
       "resultScreen": {
@@ -1006,22 +990,22 @@
           "en": "Lesson complete"
         },
         "subtitle": {
-          "uk": "Ти закрив ще один крок B2-комунікації.",
-          "ru": "Ты закрыл ещё один шаг B2-коммуникации.",
-          "en": "You completed another B2 communication step."
+          "uk": "Ти пройшов ще один крок рівня B2.",
+          "ru": "Ты прошёл ещё один шаг уровня B2.",
+          "en": "You completed another B2 step."
         },
         "xpReward": 180,
         "newWordsCount": 8,
         "exercisesCompleted": 12,
         "nowYouKnow": [
-          "уточнювати зміст",
-          "реагувати ввічливо",
-          "читати підтекст"
+          "структурувати відповідь",
+          "пояснювати нюанс",
+          "реагувати доречно"
         ],
         "mistakesMessage": {
-          "uk": "Повтори вправи, де тон або зміст ще плутаються.",
-          "ru": "Повтори упражнения, где тон или смысл ещё путаются.",
-          "en": "Repeat exercises where tone or meaning is still unclear."
+          "uk": "Повтори вправи, де плутається значення або тон.",
+          "ru": "Повтори упражнения, где путается значение или тон.",
+          "en": "Repeat exercises where meaning or tone is unclear."
         },
         "buttons": [
           "Продовжити",
@@ -1030,22 +1014,22 @@
         ],
         "skills": [
           {
-            "id": "nuance",
+            "id": "vocabulary",
             "label": {
-              "uk": "нюанс",
-              "ru": "нюанс",
-              "en": "nuance"
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
             },
-            "weight": 0.35
+            "weight": 0.3
           },
           {
-            "id": "interaction",
+            "id": "composition",
             "label": {
-              "uk": "діалог",
-              "ru": "диалог",
-              "en": "interaction"
+              "uk": "структура",
+              "ru": "структура",
+              "en": "composition"
             },
-            "weight": 0.35
+            "weight": 0.4
           },
           {
             "id": "transfer",

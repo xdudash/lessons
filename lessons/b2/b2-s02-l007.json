@@ -1,0 +1,1050 @@
+{
+  "lessons": [
+    {
+      "id": "b2-s02-l007",
+      "sectionId": "b2_s02",
+      "level": "B2",
+      "title": {
+        "sk": "Podľa mňa...",
+        "uk": "Podľa mňa...",
+        "ru": "Podľa mňa...",
+        "en": "Podľa mňa..."
+      },
+      "topic": {
+        "sk": "Podľa mňa...",
+        "uk": "Podľa mňa...",
+        "ru": "Podľa mňa...",
+        "en": "Podľa mňa..."
+      },
+      "description": {
+        "sk": "Precvičíš si tému Podľa mňa... v komplexnej komunikácii na úrovni B2.",
+        "uk": "Тренуємо тему «Podľa mňa...»: аргументовано, точно й у реальному контексті.",
+        "ru": "строим развернутую позицию и связываем её с аргументом.",
+        "en": "Practice the B2 topic “Podľa mňa...” in complex communication. Section: Argumentation and expressing opinions."
+      },
+      "order": 7,
+      "xpReward": 180,
+      "estimatedMinutes": 32,
+      "isPublished": false,
+      "intro": {
+        "sk": "Precvičíš si tému Podľa mňa... v komplexnej komunikácii na úrovni B2.",
+        "uk": "Тренуємо тему «Podľa mňa...»: аргументовано, точно й у реальному контексті.",
+        "ru": "строим развернутую позицию и связываем её с аргументом.",
+        "en": "Practice the B2 topic “Podľa mňa...” in complex communication. Section: Argumentation and expressing opinions."
+      },
+      "completionMessage": {
+        "sk": "Výborne. Tému vieš použiť v náročnejšej komunikácii.",
+        "uk": "Добре. Тепер можеш використати тему в складнішій розмові.",
+        "ru": "Хорошо. Теперь можешь использовать тему в более сложном разговоре.",
+        "en": "Good. You can now use the topic in more complex communication."
+      },
+      "updatedAt": "2026-09-14T00:00:00Z",
+      "localization": {
+        "uiLanguages": [
+          "uk",
+          "ru",
+          "en"
+        ],
+        "targetLanguage": "sk",
+        "fallbackUiLanguage": "uk"
+      },
+      "assets": {
+        "images": {},
+        "audio": {}
+      },
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": {
+          "sk": "Podľa mňa...",
+          "uk": "Podľa mňa...",
+          "ru": "Podľa mňa...",
+          "en": "Podľa mňa..."
+        },
+        "shortDescription": {
+          "uk": "Тренуємо тему «Podľa mňa...»: аргументовано, точно й у реальному контексті.",
+          "ru": "строим развернутую позицию и связываем её с аргументом.",
+          "en": "Practice the B2 topic “Podľa mňa...” in complex communication. Section: Argumentation and expressing opinions."
+        },
+        "outcomes": [
+          {
+            "uk": "пояснити думку точніше й довше",
+            "ru": "объяснить мысль точнее и длиннее",
+            "en": "explain an idea more precisely and at greater length"
+          },
+          {
+            "uk": "використати нові B2-фрази в контексті",
+            "ru": "использовать новые B2-фразы в контексте",
+            "en": "use new B2 phrases in context"
+          },
+          {
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
+          }
+        ],
+        "newWords": [
+          "b2-s02-l007-w01",
+          "b2-s02-l007-w02",
+          "b2-s02-l007-w03",
+          "b2-s02-l007-w04",
+          "b2-s02-l007-w05",
+          "b2-s02-l007-w06",
+          "b2-s02-l007-w07",
+          "b2-s02-l007-w08"
+        ],
+        "exercisesCount": 12,
+        "reward": "+180 XP",
+        "estimatedMinutes": 32,
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "id": "t1",
+          "screenType": "theory",
+          "order": 1,
+          "title": {
+            "uk": "Фокус уроку",
+            "ru": "Фокус урока",
+            "en": "Lesson focus"
+          },
+          "body": {
+            "uk": "Тренуємо тему «Podľa mňa...»: аргументовано, точно й у реальному контексті.",
+            "ru": "строим развернутую позицию и связываем её с аргументом.",
+            "en": "Practice the B2 topic “Podľa mňa...” in complex communication. Section: Argumentation and expressing opinions."
+          },
+          "examples": [
+            {
+              "sk": "V téme Podľa mňa... použijem výraz: podľa mňa.",
+              "translation": {
+                "uk": "У темі «Podľa mňa...» використовую: вираз «podľa mňa» у темі «Podľa mňa...».",
+                "ru": "В теме «Podľa mňa...» использую: выражение «podľa mňa» в теме «Podľa mňa...».",
+                "en": "In “Podľa mňa...”, I use: the expression “podľa mňa” in the topic “Podľa mňa...”."
+              }
+            },
+            {
+              "sk": "V téme Podľa mňa... použijem výraz: z môjho pohľadu.",
+              "translation": {
+                "uk": "У темі «Podľa mňa...» використовую: вираз «z môjho pohľadu» у темі «Podľa mňa...».",
+                "ru": "В теме «Podľa mňa...» использую: выражение «z môjho pohľadu» в теме «Podľa mňa...».",
+                "en": "In “Podľa mňa...”, I use: the expression “z môjho pohľadu” in the topic “Podľa mňa...”."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "На B2 важливо не просто відповісти, а показати причину, умову, наслідок або нюанс.",
+            "ru": "На B2 важно не просто ответить, а показать причину, условие, последствие или нюанс.",
+            "en": "At B2, show a reason, condition, consequence or nuance."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t2",
+          "screenType": "theory",
+          "order": 2,
+          "title": {
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer model"
+          },
+          "body": {
+            "uk": "Будуй відповідь за схемою: контекст -> позиція -> аргумент -> приклад -> наступний крок.",
+            "ru": "Строй ответ по схеме: контекст -> позиция -> аргумент -> пример -> следующий шаг.",
+            "en": "Build the answer as: context -> position -> argument -> example -> next step."
+          },
+          "examples": [
+            {
+              "sk": "Z môjho pohľadu je dôležité najprv vysvetliť kontext.",
+              "translation": {
+                "uk": "З моєї точки зору важливо спочатку пояснити контекст.",
+                "ru": "С моей точки зрения важно сначала объяснить контекст.",
+                "en": "From my point of view, it is important to explain the context first."
+              }
+            },
+            {
+              "sk": "Na druhej strane treba zohľadniť aj praktické dôsledky.",
+              "translation": {
+                "uk": "З іншого боку, треба врахувати також практичні наслідки.",
+                "ru": "С другой стороны, нужно учесть и практические последствия.",
+                "en": "On the other hand, practical consequences must also be considered."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "Одна сильна відповідь має структуру, а не лише правильні слова.",
+            "ru": "Один сильный ответ имеет структуру, а не только правильные слова.",
+            "en": "A strong answer has structure, not only correct words."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t3",
+          "screenType": "theory",
+          "order": 3,
+          "title": {
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
+          },
+          "body": {
+            "uk": "У фіналі потрібно вибрати репліку, яка реально рухає ситуацію вперед.",
+            "ru": "В финале нужно выбрать реплику, которая реально двигает ситуацию дальше.",
+            "en": "In the final task, choose the reply that moves the situation forward."
+          },
+          "examples": [
+            {
+              "sk": "Navrhujem, aby sme si najprv ujasnili priority.",
+              "translation": {
+                "uk": "Пропоную спочатку прояснити пріоритети.",
+                "ru": "Предлагаю сначала прояснить приоритеты.",
+                "en": "I suggest clarifying priorities first."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "B2 = самостійна, зв'язна й доречна комунікація.",
+            "ru": "B2 = самостоятельная, связная и уместная коммуникация.",
+            "en": "B2 means independent, connected and appropriate communication."
+          },
+          "button": "До слів"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": {
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
+        },
+        "description": {
+          "uk": "Ці одиниці взяті з затвердженого B2-плану.",
+          "ru": "Эти единицы взяты из утвержденного B2-плана.",
+          "en": "These items come from the approved B2 plan."
+        },
+        "items": [
+          {
+            "wordId": "b2-s02-l007-w01",
+            "sk": "podľa mňa",
+            "uk": "вираз «podľa mňa» у темі «Podľa mňa...»",
+            "ru": "выражение «podľa mňa» в теме «Podľa mňa...»",
+            "en": "the expression “podľa mňa” in the topic “Podľa mňa...”",
+            "pronunciationUk": "podl'a mn'a",
+            "exampleSk": "V téme Podľa mňa... použijem výraz: podľa mňa.",
+            "exampleUk": "У темі «Podľa mňa...» використовую: вираз «podľa mňa» у темі «Podľa mňa...».",
+            "exampleRu": "В теме «Podľa mňa...» использую: выражение «podľa mňa» в теме «Podľa mňa...».",
+            "exampleEn": "In “Podľa mňa...”, I use: the expression “podľa mňa” in the topic “Podľa mňa...”."
+          },
+          {
+            "wordId": "b2-s02-l007-w02",
+            "sk": "z môjho pohľadu",
+            "uk": "вираз «z môjho pohľadu» у темі «Podľa mňa...»",
+            "ru": "выражение «z môjho pohľadu» в теме «Podľa mňa...»",
+            "en": "the expression “z môjho pohľadu” in the topic “Podľa mňa...”",
+            "pronunciationUk": "z muojho pohl'adu",
+            "exampleSk": "V téme Podľa mňa... použijem výraz: z môjho pohľadu.",
+            "exampleUk": "У темі «Podľa mňa...» використовую: вираз «z môjho pohľadu» у темі «Podľa mňa...».",
+            "exampleRu": "В теме «Podľa mňa...» использую: выражение «z môjho pohľadu» в теме «Podľa mňa...».",
+            "exampleEn": "In “Podľa mňa...”, I use: the expression “z môjho pohľadu” in the topic “Podľa mňa...”."
+          },
+          {
+            "wordId": "b2-s02-l007-w03",
+            "sk": "domnievať sa",
+            "uk": "вираз «domnievať sa» у темі «Podľa mňa...»",
+            "ru": "выражение «domnievať sa» в теме «Podľa mňa...»",
+            "en": "the expression “domnievať sa” in the topic “Podľa mňa...”",
+            "pronunciationUk": "domnievat' sa",
+            "exampleSk": "V téme Podľa mňa... použijem výraz: domnievať sa.",
+            "exampleUk": "У темі «Podľa mňa...» використовую: вираз «domnievať sa» у темі «Podľa mňa...».",
+            "exampleRu": "В теме «Podľa mňa...» использую: выражение «domnievať sa» в теме «Podľa mňa...».",
+            "exampleEn": "In “Podľa mňa...”, I use: the expression “domnievať sa” in the topic “Podľa mňa...”."
+          },
+          {
+            "wordId": "b2-s02-l007-w04",
+            "sk": "názor",
+            "uk": "вираз «názor» у темі «Podľa mňa...»",
+            "ru": "выражение «názor» в теме «Podľa mňa...»",
+            "en": "the expression “názor” in the topic “Podľa mňa...”",
+            "pronunciationUk": "nazor",
+            "exampleSk": "V téme Podľa mňa... použijem výraz: názor.",
+            "exampleUk": "У темі «Podľa mňa...» використовую: вираз «názor» у темі «Podľa mňa...».",
+            "exampleRu": "В теме «Podľa mňa...» использую: выражение «názor» в теме «Podľa mňa...».",
+            "exampleEn": "In “Podľa mňa...”, I use: the expression “názor” in the topic “Podľa mňa...”."
+          },
+          {
+            "wordId": "b2-s02-l007-w05",
+            "sk": "stanovisko",
+            "uk": "вираз «stanovisko» у темі «Podľa mňa...»",
+            "ru": "выражение «stanovisko» в теме «Podľa mňa...»",
+            "en": "the expression “stanovisko” in the topic “Podľa mňa...”",
+            "pronunciationUk": "stanovisko",
+            "exampleSk": "V téme Podľa mňa... použijem výraz: stanovisko.",
+            "exampleUk": "У темі «Podľa mňa...» використовую: вираз «stanovisko» у темі «Podľa mňa...».",
+            "exampleRu": "В теме «Podľa mňa...» использую: выражение «stanovisko» в теме «Podľa mňa...».",
+            "exampleEn": "In “Podľa mňa...”, I use: the expression “stanovisko” in the topic “Podľa mňa...”."
+          },
+          {
+            "wordId": "b2-s02-l007-w06",
+            "sk": "argument",
+            "uk": "вираз «argument» у темі «Podľa mňa...»",
+            "ru": "выражение «argument» в теме «Podľa mňa...»",
+            "en": "the expression “argument” in the topic “Podľa mňa...”",
+            "pronunciationUk": "argument",
+            "exampleSk": "V téme Podľa mňa... použijem výraz: argument.",
+            "exampleUk": "У темі «Podľa mňa...» використовую: вираз «argument» у темі «Podľa mňa...».",
+            "exampleRu": "В теме «Podľa mňa...» использую: выражение «argument» в теме «Podľa mňa...».",
+            "exampleEn": "In “Podľa mňa...”, I use: the expression “argument” in the topic “Podľa mňa...”."
+          },
+          {
+            "wordId": "b2-s02-l007-w07",
+            "sk": "dôvod",
+            "uk": "вираз «dôvod» у темі «Podľa mňa...»",
+            "ru": "выражение «dôvod» в теме «Podľa mňa...»",
+            "en": "the expression “dôvod” in the topic “Podľa mňa...”",
+            "pronunciationUk": "duovod",
+            "exampleSk": "V téme Podľa mňa... použijem výraz: dôvod.",
+            "exampleUk": "У темі «Podľa mňa...» використовую: вираз «dôvod» у темі «Podľa mňa...».",
+            "exampleRu": "В теме «Podľa mňa...» использую: выражение «dôvod» в теме «Podľa mňa...».",
+            "exampleEn": "In “Podľa mňa...”, I use: the expression “dôvod” in the topic “Podľa mňa...”."
+          },
+          {
+            "wordId": "b2-s02-l007-w08",
+            "sk": "presvedčiť",
+            "uk": "вираз «presvedčiť» у темі «Podľa mňa...»",
+            "ru": "выражение «presvedčiť» в теме «Podľa mňa...»",
+            "en": "the expression “presvedčiť” in the topic “Podľa mňa...”",
+            "pronunciationUk": "presvedchit'",
+            "exampleSk": "V téme Podľa mňa... použijem výraz: presvedčiť.",
+            "exampleUk": "У темі «Podľa mňa...» використовую: вираз «presvedčiť» у темі «Podľa mňa...».",
+            "exampleRu": "В теме «Podľa mňa...» использую: выражение «presvedčiť» в теме «Podľa mňa...».",
+            "exampleEn": "In “Podľa mňa...”, I use: the expression “presvedčiť” in the topic “Podľa mňa...”."
+          }
+        ],
+        "button": "До практики"
+      },
+      "words": [
+        {
+          "id": "b2-s02-l007-w01",
+          "sk": "podľa mňa",
+          "uk": "вираз «podľa mňa» у темі «Podľa mňa...»",
+          "ru": "выражение «podľa mňa» в теме «Podľa mňa...»",
+          "en": "the expression “podľa mňa” in the topic “Podľa mňa...”",
+          "pronunciationUk": "podl'a mn'a",
+          "exampleSk": "V téme Podľa mňa... použijem výraz: podľa mňa.",
+          "exampleUk": "У темі «Podľa mňa...» використовую: вираз «podľa mňa» у темі «Podľa mňa...».",
+          "exampleRu": "В теме «Podľa mňa...» использую: выражение «podľa mňa» в теме «Podľa mňa...».",
+          "exampleEn": "In “Podľa mňa...”, I use: the expression “podľa mňa” in the topic “Podľa mňa...”.",
+          "level": "B2",
+          "topic": "Podľa mňa...",
+          "tags": [
+            "b2_s02",
+            "b2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "b2-s02-l007-w02",
+          "sk": "z môjho pohľadu",
+          "uk": "вираз «z môjho pohľadu» у темі «Podľa mňa...»",
+          "ru": "выражение «z môjho pohľadu» в теме «Podľa mňa...»",
+          "en": "the expression “z môjho pohľadu” in the topic “Podľa mňa...”",
+          "pronunciationUk": "z muojho pohl'adu",
+          "exampleSk": "V téme Podľa mňa... použijem výraz: z môjho pohľadu.",
+          "exampleUk": "У темі «Podľa mňa...» використовую: вираз «z môjho pohľadu» у темі «Podľa mňa...».",
+          "exampleRu": "В теме «Podľa mňa...» использую: выражение «z môjho pohľadu» в теме «Podľa mňa...».",
+          "exampleEn": "In “Podľa mňa...”, I use: the expression “z môjho pohľadu” in the topic “Podľa mňa...”.",
+          "level": "B2",
+          "topic": "Podľa mňa...",
+          "tags": [
+            "b2_s02",
+            "b2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "b2-s02-l007-w03",
+          "sk": "domnievať sa",
+          "uk": "вираз «domnievať sa» у темі «Podľa mňa...»",
+          "ru": "выражение «domnievať sa» в теме «Podľa mňa...»",
+          "en": "the expression “domnievať sa” in the topic “Podľa mňa...”",
+          "pronunciationUk": "domnievat' sa",
+          "exampleSk": "V téme Podľa mňa... použijem výraz: domnievať sa.",
+          "exampleUk": "У темі «Podľa mňa...» використовую: вираз «domnievať sa» у темі «Podľa mňa...».",
+          "exampleRu": "В теме «Podľa mňa...» использую: выражение «domnievať sa» в теме «Podľa mňa...».",
+          "exampleEn": "In “Podľa mňa...”, I use: the expression “domnievať sa” in the topic “Podľa mňa...”.",
+          "level": "B2",
+          "topic": "Podľa mňa...",
+          "tags": [
+            "b2_s02",
+            "b2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "b2-s02-l007-w04",
+          "sk": "názor",
+          "uk": "вираз «názor» у темі «Podľa mňa...»",
+          "ru": "выражение «názor» в теме «Podľa mňa...»",
+          "en": "the expression “názor” in the topic “Podľa mňa...”",
+          "pronunciationUk": "nazor",
+          "exampleSk": "V téme Podľa mňa... použijem výraz: názor.",
+          "exampleUk": "У темі «Podľa mňa...» використовую: вираз «názor» у темі «Podľa mňa...».",
+          "exampleRu": "В теме «Podľa mňa...» использую: выражение «názor» в теме «Podľa mňa...».",
+          "exampleEn": "In “Podľa mňa...”, I use: the expression “názor” in the topic “Podľa mňa...”.",
+          "level": "B2",
+          "topic": "Podľa mňa...",
+          "tags": [
+            "b2_s02",
+            "b2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "b2-s02-l007-w05",
+          "sk": "stanovisko",
+          "uk": "вираз «stanovisko» у темі «Podľa mňa...»",
+          "ru": "выражение «stanovisko» в теме «Podľa mňa...»",
+          "en": "the expression “stanovisko” in the topic “Podľa mňa...”",
+          "pronunciationUk": "stanovisko",
+          "exampleSk": "V téme Podľa mňa... použijem výraz: stanovisko.",
+          "exampleUk": "У темі «Podľa mňa...» використовую: вираз «stanovisko» у темі «Podľa mňa...».",
+          "exampleRu": "В теме «Podľa mňa...» использую: выражение «stanovisko» в теме «Podľa mňa...».",
+          "exampleEn": "In “Podľa mňa...”, I use: the expression “stanovisko” in the topic “Podľa mňa...”.",
+          "level": "B2",
+          "topic": "Podľa mňa...",
+          "tags": [
+            "b2_s02",
+            "b2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "b2-s02-l007-w06",
+          "sk": "argument",
+          "uk": "вираз «argument» у темі «Podľa mňa...»",
+          "ru": "выражение «argument» в теме «Podľa mňa...»",
+          "en": "the expression “argument” in the topic “Podľa mňa...”",
+          "pronunciationUk": "argument",
+          "exampleSk": "V téme Podľa mňa... použijem výraz: argument.",
+          "exampleUk": "У темі «Podľa mňa...» використовую: вираз «argument» у темі «Podľa mňa...».",
+          "exampleRu": "В теме «Podľa mňa...» использую: выражение «argument» в теме «Podľa mňa...».",
+          "exampleEn": "In “Podľa mňa...”, I use: the expression “argument” in the topic “Podľa mňa...”.",
+          "level": "B2",
+          "topic": "Podľa mňa...",
+          "tags": [
+            "b2_s02",
+            "b2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "b2-s02-l007-w07",
+          "sk": "dôvod",
+          "uk": "вираз «dôvod» у темі «Podľa mňa...»",
+          "ru": "выражение «dôvod» в теме «Podľa mňa...»",
+          "en": "the expression “dôvod” in the topic “Podľa mňa...”",
+          "pronunciationUk": "duovod",
+          "exampleSk": "V téme Podľa mňa... použijem výraz: dôvod.",
+          "exampleUk": "У темі «Podľa mňa...» використовую: вираз «dôvod» у темі «Podľa mňa...».",
+          "exampleRu": "В теме «Podľa mňa...» использую: выражение «dôvod» в теме «Podľa mňa...».",
+          "exampleEn": "In “Podľa mňa...”, I use: the expression “dôvod” in the topic “Podľa mňa...”.",
+          "level": "B2",
+          "topic": "Podľa mňa...",
+          "tags": [
+            "b2_s02",
+            "b2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "b2-s02-l007-w08",
+          "sk": "presvedčiť",
+          "uk": "вираз «presvedčiť» у темі «Podľa mňa...»",
+          "ru": "выражение «presvedčiť» в теме «Podľa mňa...»",
+          "en": "the expression “presvedčiť” in the topic “Podľa mňa...”",
+          "pronunciationUk": "presvedchit'",
+          "exampleSk": "V téme Podľa mňa... použijem výraz: presvedčiť.",
+          "exampleUk": "У темі «Podľa mňa...» використовую: вираз «presvedčiť» у темі «Podľa mňa...».",
+          "exampleRu": "В теме «Podľa mňa...» использую: выражение «presvedčiť» в теме «Podľa mňa...».",
+          "exampleEn": "In “Podľa mňa...”, I use: the expression “presvedčiť” in the topic “Podľa mňa...”.",
+          "level": "B2",
+          "topic": "Podľa mňa...",
+          "tags": [
+            "b2_s02",
+            "b2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "b2-s02-l007-e01",
+          "lessonId": "b2-s02-l007",
+          "type": "single_choice",
+          "order": 1,
+          "question": "Що означає «podľa mňa»?",
+          "questionLocalized": {
+            "uk": "Що означає «podľa mňa»?",
+            "ru": "Что означает «podľa mňa»?",
+            "en": "What does “podľa mňa” mean?"
+          },
+          "wordIds": [
+            "b2-s02-l007-w01"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "вираз «podľa mňa» у темі «Podľa mňa...»",
+                "ru": "выражение «podľa mňa» в теме «Podľa mňa...»",
+                "en": "the expression “podľa mňa” in the topic “Podľa mňa...”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "вираз «z môjho pohľadu» у темі «Podľa mňa...»",
+                "ru": "выражение «z môjho pohľadu» в теме «Podľa mňa...»",
+                "en": "the expression “z môjho pohľadu” in the topic “Podľa mňa...”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "вираз «domnievať sa» у темі «Podľa mňa...»",
+                "ru": "выражение «domnievať sa» в теме «Podľa mňa...»",
+                "en": "the expression “domnievať sa” in the topic “Podľa mňa...”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b2-s02-l007-e02",
+          "lessonId": "b2-s02-l007",
+          "type": "matching",
+          "order": 2,
+          "question": "З'єднай фрази з поясненнями.",
+          "questionLocalized": {
+            "uk": "З'єднай фрази з поясненнями.",
+            "ru": "Соедини фразы с объяснениями.",
+            "en": "Match phrases with explanations."
+          },
+          "wordIds": [
+            "b2-s02-l007-w01",
+            "b2-s02-l007-w02",
+            "b2-s02-l007-w03",
+            "b2-s02-l007-w04"
+          ],
+          "pairs": [
+            {
+              "left": "podľa mňa",
+              "right": "вираз «podľa mňa» у темі «Podľa mňa...»",
+              "rightRu": "выражение «podľa mňa» в теме «Podľa mňa...»",
+              "rightEn": "the expression “podľa mňa” in the topic “Podľa mňa...”"
+            },
+            {
+              "left": "z môjho pohľadu",
+              "right": "вираз «z môjho pohľadu» у темі «Podľa mňa...»",
+              "rightRu": "выражение «z môjho pohľadu» в теме «Podľa mňa...»",
+              "rightEn": "the expression “z môjho pohľadu” in the topic “Podľa mňa...”"
+            },
+            {
+              "left": "domnievať sa",
+              "right": "вираз «domnievať sa» у темі «Podľa mňa...»",
+              "rightRu": "выражение «domnievať sa» в теме «Podľa mňa...»",
+              "rightEn": "the expression “domnievať sa” in the topic “Podľa mňa...”"
+            },
+            {
+              "left": "názor",
+              "right": "вираз «názor» у темі «Podľa mňa...»",
+              "rightRu": "выражение «názor» в теме «Podľa mňa...»",
+              "rightEn": "the expression “názor” in the topic “Podľa mňa...”"
+            }
+          ]
+        },
+        {
+          "id": "b2-s02-l007-e03",
+          "lessonId": "b2-s02-l007",
+          "type": "fill_blank",
+          "order": 3,
+          "question": "Впиши словацькою: вираз «domnievať sa» у темі «Podľa mňa...».",
+          "questionLocalized": {
+            "uk": "Впиши словацькою: вираз «domnievať sa» у темі «Podľa mňa...».",
+            "ru": "Впиши по-словацки: выражение «domnievať sa» в теме «Podľa mňa...».",
+            "en": "Write in Slovak: the expression “domnievať sa” in the topic “Podľa mňa...”."
+          },
+          "wordIds": [
+            "b2-s02-l007-w03"
+          ],
+          "sentence": "______",
+          "acceptedAnswers": [
+            "domnievať sa"
+          ],
+          "hint": {
+            "uk": "Початок: do...",
+            "ru": "Начало: do...",
+            "en": "Start: do..."
+          }
+        },
+        {
+          "id": "b2-s02-l007-e04",
+          "lessonId": "b2-s02-l007",
+          "type": "dropdown_blank",
+          "order": 4,
+          "question": "Обери точну фразу для B2-речення.",
+          "questionLocalized": {
+            "uk": "Обери точну фразу для B2-речення.",
+            "ru": "Выбери точную фразу для B2-предложения.",
+            "en": "Choose the precise phrase for a B2 sentence."
+          },
+          "wordIds": [
+            "b2-s02-l007-w04"
+          ],
+          "sentenceParts": [
+            {
+              "text": "V tejto situácii je dôležité použiť "
+            },
+            {
+              "blankId": "blank1",
+              "options": [
+                "názor",
+                "podľa mňa",
+                "z môjho pohľadu"
+              ],
+              "correct": "názor"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "b2-s02-l007-e05",
+          "lessonId": "b2-s02-l007",
+          "type": "sentence_builder",
+          "order": 5,
+          "question": "Склади природну словацьку репліку.",
+          "questionLocalized": {
+            "uk": "Склади природну словацьку репліку.",
+            "ru": "Собери естественную словацкую реплику.",
+            "en": "Build a natural Slovak reply."
+          },
+          "wordIds": [
+            "b2-s02-l007-w05"
+          ],
+          "tokens": [
+            "Rozumiem",
+            "situácii,",
+            "ale",
+            "potrebujem",
+            "ju",
+            "ešte",
+            "upresniť."
+          ],
+          "correctSentence": "Rozumiem situácii, ale potrebujem ju ešte upresniť."
+        },
+        {
+          "id": "b2-s02-l007-e06",
+          "lessonId": "b2-s02-l007",
+          "type": "multiple_select",
+          "order": 6,
+          "question": "Обери B2-репліки з природним тоном.",
+          "questionLocalized": {
+            "uk": "Обери B2-репліки з природним тоном.",
+            "ru": "Выбери B2-реплики с естественным тоном.",
+            "en": "Select B2 replies with a natural tone."
+          },
+          "wordIds": [
+            "b2-s02-l007-w01",
+            "b2-s02-l007-w06"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Rozumiem, ale potrebujem to presnejšie vysvetliť.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "To je úplne mimo a nemá zmysel hovoriť.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Z môjho pohľadu je dôležitý aj kontext.",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "id": "b2-s02-l007-e07",
+          "lessonId": "b2-s02-l007",
+          "type": "reading_comprehension",
+          "order": 7,
+          "question": "Прочитай текст і вибери головну думку.",
+          "questionLocalized": {
+            "uk": "Прочитай текст і вибери головну думку.",
+            "ru": "Прочитай текст и выбери главную мысль.",
+            "en": "Read the text and choose the main idea."
+          },
+          "wordIds": [
+            "b2-s02-l007-w06",
+            "b2-s02-l007-w07",
+            "b2-s02-l007-w08"
+          ],
+          "text": "Téma Podľa mňa... si vyžaduje presnosť. Nestačí poznať slová; treba reagovať podľa kontextu, vysvetliť dôvod a navrhnúť ďalší krok.",
+          "questions": [
+            {
+              "prompt": {
+                "uk": "Що є головною думкою?",
+                "ru": "Что является главной мыслью?",
+                "en": "What is the main idea?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "Treba reagovať presne podľa kontextu.",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "Stačí opakovať jedno slovo.",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "Najlepšie je nereagovať.",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b2-s02-l007-e08",
+          "lessonId": "b2-s02-l007",
+          "type": "dialogue_choose_reply",
+          "order": 8,
+          "question": "Обери найкращу відповідь у діалозі.",
+          "questionLocalized": {
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
+          },
+          "wordIds": [
+            "b2-s02-l007-w07"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Ako by si to vysvetlil?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Najprv zhrniem situáciu a potom poviem svoj návrh.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Nepoviem nič, lebo je to ťažké.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Odpoviem jedným náhodným slovom.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b2-s02-l007-e09",
+          "lessonId": "b2-s02-l007",
+          "type": "meaning_in_context",
+          "order": 9,
+          "question": "Що означає «z môjho pohľadu» у контексті?",
+          "questionLocalized": {
+            "uk": "Що означає «z môjho pohľadu» у контексті?",
+            "ru": "Что означает «z môjho pohľadu» в контексте?",
+            "en": "What does “z môjho pohľadu” mean in context?"
+          },
+          "wordIds": [
+            "b2-s02-l007-w02"
+          ],
+          "context": {
+            "sk": "Rozhovor je citlivý, preto si najprv overím význam a tón."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "вираз «z môjho pohľadu» у темі «Podľa mňa...»",
+                "ru": "выражение «z môjho pohľadu» в теме «Podľa mňa...»",
+                "en": "the expression “z môjho pohľadu” in the topic “Podľa mňa...”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "вираз «stanovisko» у темі «Podľa mňa...»",
+                "ru": "выражение «stanovisko» в теме «Podľa mňa...»",
+                "en": "the expression “stanovisko” in the topic “Podľa mňa...”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "вираз «presvedčiť» у темі «Podľa mňa...»",
+                "ru": "выражение «presvedčiť» в теме «Podľa mňa...»",
+                "en": "the expression “presvedčiť” in the topic “Podľa mňa...”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b2-s02-l007-e10",
+          "lessonId": "b2-s02-l007",
+          "type": "natural_phrase",
+          "order": 10,
+          "question": "Що звучить найприродніше?",
+          "questionLocalized": {
+            "uk": "Що звучить найприродніше?",
+            "ru": "Что звучит естественнее всего?",
+            "en": "What sounds most natural?"
+          },
+          "wordIds": [
+            "b2-s02-l007-w08"
+          ],
+          "situation": {
+            "uk": "Потрібно відповісти точно, але без різкого тону.",
+            "ru": "Нужно ответить точно, но без резкого тона.",
+            "en": "You need to answer precisely but without a sharp tone."
+          },
+          "options": [
+            {
+              "id": "a",
+              "sk": "Chápem tvoj pohľad, ale doplnil by som ešte jednu vec.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Ty ničomu nerozumieš.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Áno nie možno včera.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b2-s02-l007-e11",
+          "lessonId": "b2-s02-l007",
+          "type": "reverse_translation",
+          "order": 11,
+          "question": "Обери словацький варіант для: вираз «stanovisko» у темі «Podľa mňa...».",
+          "questionLocalized": {
+            "uk": "Обери словацький варіант для: вираз «stanovisko» у темі «Podľa mňa...».",
+            "ru": "Выбери словацкий вариант для: выражение «stanovisko» в теме «Podľa mňa...».",
+            "en": "Choose the Slovak item for: the expression “stanovisko” in the topic “Podľa mňa...”."
+          },
+          "wordIds": [
+            "b2-s02-l007-w05"
+          ],
+          "options": [
+            "stanovisko",
+            "domnievať sa",
+            "podľa mňa"
+          ],
+          "correctAnswer": "stanovisko"
+        },
+        {
+          "id": "b2-s02-l007-e12",
+          "lessonId": "b2-s02-l007",
+          "type": "multiple_choice_translation",
+          "order": 12,
+          "question": "Що відповідає словацькому «presvedčiť»?",
+          "questionLocalized": {
+            "uk": "Що відповідає словацькому «presvedčiť»?",
+            "ru": "Что соответствует словацкому «presvedčiť»?",
+            "en": "What matches the Slovak “presvedčiť”?"
+          },
+          "wordIds": [
+            "b2-s02-l007-w08"
+          ],
+          "options": [
+            "вираз «presvedčiť» у темі «Podľa mňa...»",
+            "вираз «z môjho pohľadu» у темі «Podľa mňa...»",
+            "вираз «domnievať sa» у темі «Podľa mňa...»"
+          ],
+          "correctAnswer": "вираз «presvedčiť» у темі «Podľa mňa...»"
+        }
+      ],
+      "finalSituation": {
+        "id": "final-situation",
+        "type": "interactive_scenario",
+        "title": {
+          "uk": "Podľa mňa...: реальна ситуація",
+          "ru": "Podľa mňa...: реальная ситуация",
+          "en": "Podľa mňa...: real situation"
+        },
+        "description": {
+          "uk": "Обери репліки, які звучать природно, точно й доречно на рівні B2.",
+          "ru": "Выбери реплики, которые звучат естественно, точно и уместно на уровне B2.",
+          "en": "Choose replies that sound natural, precise and appropriate at B2 level."
+        },
+        "steps": [
+          {
+            "id": "f1",
+            "prompt": {
+              "uk": "Потрібно почати відповідь без різкості.",
+              "ru": "Нужно начать ответ без резкости.",
+              "en": "You need to start without sounding harsh."
+            },
+            "options": [
+              {
+                "sk": "Rozumiem, skúsim to najprv zhrnúť vlastnými slovami.",
+                "correct": true
+              },
+              {
+                "sk": "Nemáš pravdu a viac sa o tom nebavme.",
+                "correct": false
+              },
+              {
+                "sk": "Neviem a nechcem reagovať.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "prompt": {
+              "uk": "Потрібно додати аргумент.",
+              "ru": "Нужно добавить аргумент.",
+              "en": "You need to add an argument."
+            },
+            "options": [
+              {
+                "sk": "Dôvod je podľa mňa v tom, že situácia má viac okolností.",
+                "correct": true
+              },
+              {
+                "sk": "Pretože áno.",
+                "correct": false
+              },
+              {
+                "sk": "To nesúvisí s ničím.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f3",
+            "prompt": {
+              "uk": "Потрібно завершити практично.",
+              "ru": "Нужно завершить практически.",
+              "en": "You need to close practically."
+            },
+            "options": [
+              {
+                "sk": "Navrhujem ďalší krok a potom si to potvrdíme písomne.",
+                "correct": true
+              },
+              {
+                "sk": "Nechajme to bez riešenia.",
+                "correct": false
+              },
+              {
+                "sk": "Každý nech si domyslí zvyšok.",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "passRequirement": "3/3",
+        "successMessage": {
+          "uk": "Готово: тема перенесена в реальну B2-комунікацію.",
+          "ru": "Готово: тема перенесена в реальную B2-коммуникацию.",
+          "en": "Done: the topic was transferred into real B2 communication."
+        }
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": {
+          "uk": "Урок завершено",
+          "ru": "Урок завершён",
+          "en": "Lesson complete"
+        },
+        "subtitle": {
+          "uk": "Ти пройшов ще один крок рівня B2.",
+          "ru": "Ты прошёл ещё один шаг уровня B2.",
+          "en": "You completed another B2 step."
+        },
+        "xpReward": 180,
+        "newWordsCount": 8,
+        "exercisesCompleted": 12,
+        "nowYouKnow": [
+          "структурувати відповідь",
+          "пояснювати нюанс",
+          "реагувати доречно"
+        ],
+        "mistakesMessage": {
+          "uk": "Повтори вправи, де плутається значення або тон.",
+          "ru": "Повтори упражнения, где путается значение или тон.",
+          "en": "Repeat exercises where meaning or tone is unclear."
+        },
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "skills": [
+          {
+            "id": "vocabulary",
+            "label": {
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
+            },
+            "weight": 0.3
+          },
+          {
+            "id": "composition",
+            "label": {
+              "uk": "структура",
+              "ru": "структура",
+              "en": "composition"
+            },
+            "weight": 0.4
+          },
+          {
+            "id": "transfer",
+            "label": {
+              "uk": "перенесення",
+              "ru": "перенос",
+              "en": "transfer"
+            },
+            "weight": 0.3
+          }
+        ],
+        "nextLesson": {
+          "id": "b2-s02-l008"
+        }
+      }
+    }
+  ]
+}

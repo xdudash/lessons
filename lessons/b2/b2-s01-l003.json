@@ -12,31 +12,31 @@
       },
       "topic": {
         "sk": "To nie je celkom pravda",
-        "uk": "м'яке заперечення, корекція й точніше формулювання",
-        "ru": "мягкое несогласие, коррекция и точная формулировка",
-        "en": "soft disagreement, correction and precise wording"
+        "uk": "To nie je celkom pravda",
+        "ru": "To nie je celkom pravda",
+        "en": "To nie je celkom pravda"
       },
       "description": {
-        "sk": "Precvičíš si komunikáciu na úrovni B2: To nie je celkom pravda.",
-        "uk": "Тренуємо B2-комунікацію: коректно показувати, що твердження неточне або часткове.",
-        "ru": "Тренируем B2-коммуникацию: корректно показывать, что утверждение неточное или частичное.",
-        "en": "Practice B2 communication: politely show that a claim is imprecise or only partly true."
+        "sk": "Precvičíš si tému To nie je celkom pravda v komplexnej komunikácii na úrovni B2.",
+        "uk": "Тренуємо тему «To nie je celkom pravda»: аргументовано, точно й у реальному контексті.",
+        "ru": "мягко не соглашаемся, корректируем и уточняем чужое мнение.",
+        "en": "Practice the B2 topic “To nie je celkom pravda” in complex communication. Section: Nuanced communication and social interaction."
       },
       "order": 3,
       "xpReward": 180,
       "estimatedMinutes": 32,
       "isPublished": false,
       "intro": {
-        "sk": "Precvičíš si komunikáciu na úrovni B2: To nie je celkom pravda.",
-        "uk": "Тренуємо B2-комунікацію: коректно показувати, що твердження неточне або часткове.",
-        "ru": "Тренируем B2-коммуникацию: корректно показывать, что утверждение неточное или частичное.",
-        "en": "Practice B2 communication: politely show that a claim is imprecise or only partly true."
+        "sk": "Precvičíš si tému To nie je celkom pravda v komplexnej komunikácii na úrovni B2.",
+        "uk": "Тренуємо тему «To nie je celkom pravda»: аргументовано, точно й у реальному контексті.",
+        "ru": "мягко не соглашаемся, корректируем и уточняем чужое мнение.",
+        "en": "Practice the B2 topic “To nie je celkom pravda” in complex communication. Section: Nuanced communication and social interaction."
       },
       "completionMessage": {
-        "sk": "Výborne. Dokážeš reagovať presnejšie a pokojnejšie.",
-        "uk": "Супер. Тепер ти можеш реагувати точніше й спокійніше.",
-        "ru": "Отлично. Теперь ты можешь реагировать точнее и спокойнее.",
-        "en": "Great. You can now respond more precisely and calmly."
+        "sk": "Výborne. Tému vieš použiť v náročnejšej komunikácii.",
+        "uk": "Добре. Тепер можеш використати тему в складнішій розмові.",
+        "ru": "Хорошо. Теперь можешь использовать тему в более сложном разговоре.",
+        "en": "Good. You can now use the topic in more complex communication."
       },
       "updatedAt": "2026-09-14T00:00:00Z",
       "localization": {
@@ -61,25 +61,25 @@
           "en": "To nie je celkom pravda"
         },
         "shortDescription": {
-          "uk": "Тренуємо B2-комунікацію: коректно показувати, що твердження неточне або часткове.",
-          "ru": "Тренируем B2-коммуникацию: корректно показывать, что утверждение неточное или частичное.",
-          "en": "Practice B2 communication: politely show that a claim is imprecise or only partly true."
+          "uk": "Тренуємо тему «To nie je celkom pravda»: аргументовано, точно й у реальному контексті.",
+          "ru": "мягко не соглашаемся, корректируем и уточняем чужое мнение.",
+          "en": "Practice the B2 topic “To nie je celkom pravda” in complex communication. Section: Nuanced communication and social interaction."
         },
         "outcomes": [
           {
-            "uk": "уточнювати сенс без конфлікту",
-            "ru": "уточнять смысл без конфликта",
-            "en": "clarify meaning without conflict"
+            "uk": "пояснити думку точніше й довше",
+            "ru": "объяснить мысль точнее и длиннее",
+            "en": "explain an idea more precisely and at greater length"
           },
           {
-            "uk": "розрізняти буквальний і непрямий зміст",
-            "ru": "различать буквальный и непрямой смысл",
-            "en": "distinguish literal and indirect meaning"
+            "uk": "використати нові B2-фрази в контексті",
+            "ru": "использовать новые B2-фразы в контексте",
+            "en": "use new B2 phrases in context"
           },
           {
-            "uk": "вибирати природну B2-реакцію",
-            "ru": "выбирать естественную B2-реакцию",
-            "en": "choose a natural B2-level response"
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
           }
         ],
         "newWords": [
@@ -103,37 +103,37 @@
           "screenType": "theory",
           "order": 1,
           "title": {
-            "uk": "Навіщо це на B2",
-            "ru": "Зачем это на B2",
-            "en": "Why this matters at B2"
+            "uk": "Фокус уроку",
+            "ru": "Фокус урока",
+            "en": "Lesson focus"
           },
           "body": {
-            "uk": "коректно показувати, що твердження неточне або часткове.",
-            "ru": "корректно показывать, что утверждение неточное или частичное.",
-            "en": "politely show that a claim is imprecise or only partly true."
+            "uk": "Тренуємо тему «To nie je celkom pravda»: аргументовано, точно й у реальному контексті.",
+            "ru": "мягко не соглашаемся, корректируем и уточняем чужое мнение.",
+            "en": "Practice the B2 topic “To nie je celkom pravda” in complex communication. Section: Nuanced communication and social interaction."
           },
           "examples": [
             {
-              "sk": "S tým úplne nesúhlasím.",
+              "sk": "V téme To nie je celkom pravda použijem výraz: nesúhlasiť.",
               "translation": {
-                "uk": "З цим я не повністю погоджуюся.",
-                "ru": "З цим я не повністю погоджуюся.",
-                "en": "to disagree"
+                "uk": "У темі «To nie je celkom pravda» використовую: не погоджуватися.",
+                "ru": "В теме «To nie je celkom pravda» использую: не соглашаться.",
+                "en": "In “To nie je celkom pravda”, I use: to disagree."
               }
             },
             {
-              "sk": "Čiastočne máš pravdu.",
+              "sk": "V téme To nie je celkom pravda použijem výraz: čiastočne.",
               "translation": {
-                "uk": "Частково ти маєш рацію.",
-                "ru": "Частково ти маєш рацію.",
-                "en": "partly"
+                "uk": "У темі «To nie je celkom pravda» використовую: частково.",
+                "ru": "В теме «To nie je celkom pravda» использую: частично.",
+                "en": "In “To nie je celkom pravda”, I use: partly."
               }
             }
           ],
           "shortRule": {
-            "uk": "B2 = не просто сказати фразу, а керувати тоном, підтекстом і наслідком.",
-            "ru": "B2 = не просто сказать фразу, а управлять тоном, подтекстом и последствием.",
-            "en": "B2 means managing tone, implication and consequence."
+            "uk": "На B2 важливо не просто відповісти, а показати причину, умову, наслідок або нюанс.",
+            "ru": "На B2 важно не просто ответить, а показать причину, условие, последствие или нюанс.",
+            "en": "At B2, show a reason, condition, consequence or nuance."
           },
           "button": "Далі"
         },
@@ -142,37 +142,37 @@
           "screenType": "theory",
           "order": 2,
           "title": {
-            "uk": "Робоча модель відповіді",
-            "ru": "Рабочая модель ответа",
-            "en": "Response model"
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer model"
           },
           "body": {
-            "uk": "Будуй репліку так: визнай контекст -> уточни або скоригуй -> запропонуй наступний крок.",
-            "ru": "Строй реплику так: признай контекст -> уточни или скорректируй -> предложи следующий шаг.",
-            "en": "Build the reply as: acknowledge context -> clarify or correct -> suggest a next step."
+            "uk": "Будуй відповідь за схемою: контекст -> позиція -> аргумент -> приклад -> наступний крок.",
+            "ru": "Строй ответ по схеме: контекст -> позиция -> аргумент -> пример -> следующий шаг.",
+            "en": "Build the answer as: context -> position -> argument -> example -> next step."
           },
           "examples": [
             {
-              "sk": "Rozumiem, ako to myslíš, ale potrebujem to trochu upresniť.",
+              "sk": "Z môjho pohľadu je dôležité najprv vysvetliť kontext.",
               "translation": {
-                "uk": "Розумію, як ти це маєш на увазі, але мені треба це трохи уточнити.",
-                "ru": "Понимаю, как ты это имеешь в виду, но мне нужно это немного уточнить.",
-                "en": "I understand what you mean, but I need to clarify it a bit."
+                "uk": "З моєї точки зору важливо спочатку пояснити контекст.",
+                "ru": "С моей точки зрения важно сначала объяснить контекст.",
+                "en": "From my point of view, it is important to explain the context first."
               }
             },
             {
-              "sk": "Z môjho pohľadu je podstatné, aby sme zachovali pokoj.",
+              "sk": "Na druhej strane treba zohľadniť aj praktické dôsledky.",
               "translation": {
-                "uk": "З моєї точки зору суттєво, щоб ми зберегли спокій.",
-                "ru": "С моей точки зрения важно, чтобы мы сохранили спокойствие.",
-                "en": "From my point of view, it is essential that we stay calm."
+                "uk": "З іншого боку, треба врахувати також практичні наслідки.",
+                "ru": "С другой стороны, нужно учесть и практические последствия.",
+                "en": "On the other hand, practical consequences must also be considered."
               }
             }
           ],
           "shortRule": {
-            "uk": "Спокійна точність звучить сильніше, ніж різке заперечення.",
-            "ru": "Спокойная точность звучит сильнее, чем резкое отрицание.",
-            "en": "Calm precision is stronger than a sharp denial."
+            "uk": "Одна сильна відповідь має структуру, а не лише правильні слова.",
+            "ru": "Один сильный ответ имеет структуру, а не только правильные слова.",
+            "en": "A strong answer has structure, not only correct words."
           },
           "button": "Далі"
         },
@@ -181,37 +181,29 @@
           "screenType": "theory",
           "order": 3,
           "title": {
-            "uk": "Типова помилка",
-            "ru": "Типичная ошибка",
-            "en": "Typical mistake"
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
           },
           "body": {
-            "uk": "Не перекладай дослівно з української або російської. У словацькій часто природніше звучить коротша, м'якша фраза з уточненням.",
-            "ru": "Не переводи дословно с украинского или русского. В словацком часто естественнее звучит более короткая и мягкая фраза с уточнением.",
-            "en": "Do not translate word for word. Slovak often prefers a shorter, softer clarifying phrase."
+            "uk": "У фіналі потрібно вибрати репліку, яка реально рухає ситуацію вперед.",
+            "ru": "В финале нужно выбрать реплику, которая реально двигает ситуацию дальше.",
+            "en": "In the final task, choose the reply that moves the situation forward."
           },
           "examples": [
             {
-              "sk": "Chápem. Môžeš mi povedať pointu?",
+              "sk": "Navrhujem, aby sme si najprv ujasnili priority.",
               "translation": {
-                "uk": "Розумію. Можеш сказати головну думку?",
-                "ru": "Понимаю. Можешь сказать главную мысль?",
-                "en": "I understand. Can you tell me the main point?"
-              }
-            },
-            {
-              "sk": "Nechcem to interpretovať nesprávne.",
-              "translation": {
-                "uk": "Не хочу інтерпретувати це неправильно.",
-                "ru": "Не хочу интерпретировать это неправильно.",
-                "en": "I do not want to interpret it incorrectly."
+                "uk": "Пропоную спочатку прояснити пріоритети.",
+                "ru": "Предлагаю сначала прояснить приоритеты.",
+                "en": "I suggest clarifying priorities first."
               }
             }
           ],
           "shortRule": {
-            "uk": "Коли є ризик конфлікту, спочатку уточни.",
-            "ru": "Когда есть риск конфликта, сначала уточни.",
-            "en": "When there is risk of conflict, clarify first."
+            "uk": "B2 = самостійна, зв'язна й доречна комунікація.",
+            "ru": "B2 = самостоятельная, связная и уместная коммуникация.",
+            "en": "B2 means independent, connected and appropriate communication."
           },
           "button": "До слів"
         }
@@ -219,14 +211,14 @@
       "wordsScreen": {
         "screenType": "lesson_words",
         "title": {
-          "uk": "Ключові B2-фрази",
-          "ru": "Ключевые B2-фразы",
-          "en": "Key B2 phrases"
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
         },
         "description": {
-          "uk": "Ці слова потрібні для нюансованої соціальної комунікації.",
-          "ru": "Эти слова нужны для нюансированной социальной коммуникации.",
-          "en": "These items support nuanced social communication."
+          "uk": "Ці одиниці взяті з затвердженого B2-плану.",
+          "ru": "Эти единицы взяты из утвержденного B2-плана.",
+          "en": "These items come from the approved B2 plan."
         },
         "items": [
           {
@@ -235,11 +227,11 @@
             "uk": "не погоджуватися",
             "ru": "не соглашаться",
             "en": "to disagree",
-            "pronunciationUk": "nesуhlasiть",
-            "exampleSk": "S tým úplne nesúhlasím.",
-            "exampleUk": "З цим я не повністю погоджуюся.",
-            "exampleRu": "Пример: не соглашаться.",
-            "exampleEn": "Example phrase for: to disagree."
+            "pronunciationUk": "nesuhlasit'",
+            "exampleSk": "V téme To nie je celkom pravda použijem výraz: nesúhlasiť.",
+            "exampleUk": "У темі «To nie je celkom pravda» використовую: не погоджуватися.",
+            "exampleRu": "В теме «To nie je celkom pravda» использую: не соглашаться.",
+            "exampleEn": "In “To nie je celkom pravda”, I use: to disagree."
           },
           {
             "wordId": "b2-s01-l003-w02",
@@ -247,11 +239,11 @@
             "uk": "частково",
             "ru": "частично",
             "en": "partly",
-            "pronunciationUk": "чiastoчne",
-            "exampleSk": "Čiastočne máš pravdu.",
-            "exampleUk": "Частково ти маєш рацію.",
-            "exampleRu": "Пример: частично.",
-            "exampleEn": "Example phrase for: partly."
+            "pronunciationUk": "chiastochne",
+            "exampleSk": "V téme To nie je celkom pravda použijem výraz: čiastočne.",
+            "exampleUk": "У темі «To nie je celkom pravda» використовую: частково.",
+            "exampleRu": "В теме «To nie je celkom pravda» использую: частично.",
+            "exampleEn": "In “To nie je celkom pravda”, I use: partly."
           },
           {
             "wordId": "b2-s01-l003-w03",
@@ -260,10 +252,10 @@
             "ru": "полностью / совсем",
             "en": "completely / quite",
             "pronunciationUk": "celkom",
-            "exampleSk": "To nie je celkom presné.",
-            "exampleUk": "Це не зовсім точно.",
-            "exampleRu": "Пример: полностью / совсем.",
-            "exampleEn": "Example phrase for: completely / quite."
+            "exampleSk": "V téme To nie je celkom pravda použijem výraz: celkom.",
+            "exampleUk": "У темі «To nie je celkom pravda» використовую: повністю / зовсім.",
+            "exampleRu": "В теме «To nie je celkom pravda» использую: полностью / совсем.",
+            "exampleEn": "In “To nie je celkom pravda”, I use: completely / quite."
           },
           {
             "wordId": "b2-s01-l003-w04",
@@ -272,10 +264,10 @@
             "ru": "точно",
             "en": "exactly",
             "pronunciationUk": "presne",
-            "exampleSk": "Presne o to mi ide.",
-            "exampleUk": "Саме це я маю на увазі.",
-            "exampleRu": "Пример: точно.",
-            "exampleEn": "Example phrase for: exactly."
+            "exampleSk": "V téme To nie je celkom pravda použijem výraz: presne.",
+            "exampleUk": "У темі «To nie je celkom pravda» використовую: точно.",
+            "exampleRu": "В теме «To nie je celkom pravda» использую: точно.",
+            "exampleEn": "In “To nie je celkom pravda”, I use: exactly."
           },
           {
             "wordId": "b2-s01-l003-w05",
@@ -283,11 +275,11 @@
             "uk": "виправити",
             "ru": "исправить",
             "en": "to correct",
-            "pronunciationUk": "opraviть",
-            "exampleSk": "Dovoľ mi to trochu opraviť.",
-            "exampleUk": "Дозволь мені це трохи виправити.",
-            "exampleRu": "Пример: исправить.",
-            "exampleEn": "Example phrase for: to correct."
+            "pronunciationUk": "opravit'",
+            "exampleSk": "V téme To nie je celkom pravda použijem výraz: opraviť.",
+            "exampleUk": "У темі «To nie je celkom pravda» використовую: виправити.",
+            "exampleRu": "В теме «To nie je celkom pravda» использую: исправить.",
+            "exampleEn": "In “To nie je celkom pravda”, I use: to correct."
           },
           {
             "wordId": "b2-s01-l003-w06",
@@ -295,23 +287,23 @@
             "uk": "уточнити",
             "ru": "уточнить",
             "en": "to clarify",
-            "pronunciationUk": "upresniть",
-            "exampleSk": "Chcem to upresniť, aby nevznikol omyl.",
-            "exampleUk": "Хочу це уточнити, щоб не виникла помилка.",
-            "exampleRu": "Пример: уточнить.",
-            "exampleEn": "Example phrase for: to clarify."
+            "pronunciationUk": "upresnit'",
+            "exampleSk": "V téme To nie je celkom pravda použijem výraz: upresniť.",
+            "exampleUk": "У темі «To nie je celkom pravda» використовую: уточнити.",
+            "exampleRu": "В теме «To nie je celkom pravda» использую: уточнить.",
+            "exampleEn": "In “To nie je celkom pravda”, I use: to clarify."
           },
           {
             "wordId": "b2-s01-l003-w07",
             "sk": "tvrdenie",
             "uk": "твердження",
             "ru": "утверждение",
-            "en": "claim, statement",
+            "en": "claim",
             "pronunciationUk": "tvrdenie",
-            "exampleSk": "Toto tvrdenie je príliš všeobecné.",
-            "exampleUk": "Це твердження занадто загальне.",
-            "exampleRu": "Пример: утверждение.",
-            "exampleEn": "Example phrase for: claim, statement."
+            "exampleSk": "V téme To nie je celkom pravda použijem výraz: tvrdenie.",
+            "exampleUk": "У темі «To nie je celkom pravda» використовую: твердження.",
+            "exampleRu": "В теме «To nie je celkom pravda» использую: утверждение.",
+            "exampleEn": "In “To nie je celkom pravda”, I use: claim."
           },
           {
             "wordId": "b2-s01-l003-w08",
@@ -319,11 +311,11 @@
             "uk": "погляд, точка зору",
             "ru": "взгляд, точка зрения",
             "en": "viewpoint",
-            "pronunciationUk": "pohльad",
-            "exampleSk": "Z môjho pohľadu je problém inde.",
-            "exampleUk": "З моєї точки зору проблема в іншому.",
-            "exampleRu": "Пример: взгляд, точка зрения.",
-            "exampleEn": "Example phrase for: viewpoint."
+            "pronunciationUk": "pohl'ad",
+            "exampleSk": "V téme To nie je celkom pravda použijem výraz: pohľad.",
+            "exampleUk": "У темі «To nie je celkom pravda» використовую: погляд, точка зору.",
+            "exampleRu": "В теме «To nie je celkom pravda» использую: взгляд, точка зрения.",
+            "exampleEn": "In “To nie je celkom pravda”, I use: viewpoint."
           }
         ],
         "button": "До практики"
@@ -335,17 +327,16 @@
           "uk": "не погоджуватися",
           "ru": "не соглашаться",
           "en": "to disagree",
-          "pronunciationUk": "nesуhlasiть",
-          "exampleSk": "S tým úplne nesúhlasím.",
-          "exampleUk": "З цим я не повністю погоджуюся.",
-          "exampleRu": "Пример: не соглашаться.",
-          "exampleEn": "Example phrase for: to disagree.",
+          "pronunciationUk": "nesuhlasit'",
+          "exampleSk": "V téme To nie je celkom pravda použijem výraz: nesúhlasiť.",
+          "exampleUk": "У темі «To nie je celkom pravda» використовую: не погоджуватися.",
+          "exampleRu": "В теме «To nie je celkom pravda» использую: не соглашаться.",
+          "exampleEn": "In “To nie je celkom pravda”, I use: to disagree.",
           "level": "B2",
           "topic": "To nie je celkom pravda",
           "tags": [
             "b2_s01",
-            "nuance",
-            "social-interaction",
+            "b2",
             "ownership:new"
           ],
           "ownership": "NEW"
@@ -356,17 +347,16 @@
           "uk": "частково",
           "ru": "частично",
           "en": "partly",
-          "pronunciationUk": "чiastoчne",
-          "exampleSk": "Čiastočne máš pravdu.",
-          "exampleUk": "Частково ти маєш рацію.",
-          "exampleRu": "Пример: частично.",
-          "exampleEn": "Example phrase for: partly.",
+          "pronunciationUk": "chiastochne",
+          "exampleSk": "V téme To nie je celkom pravda použijem výraz: čiastočne.",
+          "exampleUk": "У темі «To nie je celkom pravda» використовую: частково.",
+          "exampleRu": "В теме «To nie je celkom pravda» использую: частично.",
+          "exampleEn": "In “To nie je celkom pravda”, I use: partly.",
           "level": "B2",
           "topic": "To nie je celkom pravda",
           "tags": [
             "b2_s01",
-            "nuance",
-            "social-interaction",
+            "b2",
             "ownership:new"
           ],
           "ownership": "NEW"
@@ -378,16 +368,15 @@
           "ru": "полностью / совсем",
           "en": "completely / quite",
           "pronunciationUk": "celkom",
-          "exampleSk": "To nie je celkom presné.",
-          "exampleUk": "Це не зовсім точно.",
-          "exampleRu": "Пример: полностью / совсем.",
-          "exampleEn": "Example phrase for: completely / quite.",
+          "exampleSk": "V téme To nie je celkom pravda použijem výraz: celkom.",
+          "exampleUk": "У темі «To nie je celkom pravda» використовую: повністю / зовсім.",
+          "exampleRu": "В теме «To nie je celkom pravda» использую: полностью / совсем.",
+          "exampleEn": "In “To nie je celkom pravda”, I use: completely / quite.",
           "level": "B2",
           "topic": "To nie je celkom pravda",
           "tags": [
             "b2_s01",
-            "nuance",
-            "social-interaction",
+            "b2",
             "ownership:new"
           ],
           "ownership": "NEW"
@@ -399,16 +388,15 @@
           "ru": "точно",
           "en": "exactly",
           "pronunciationUk": "presne",
-          "exampleSk": "Presne o to mi ide.",
-          "exampleUk": "Саме це я маю на увазі.",
-          "exampleRu": "Пример: точно.",
-          "exampleEn": "Example phrase for: exactly.",
+          "exampleSk": "V téme To nie je celkom pravda použijem výraz: presne.",
+          "exampleUk": "У темі «To nie je celkom pravda» використовую: точно.",
+          "exampleRu": "В теме «To nie je celkom pravda» использую: точно.",
+          "exampleEn": "In “To nie je celkom pravda”, I use: exactly.",
           "level": "B2",
           "topic": "To nie je celkom pravda",
           "tags": [
             "b2_s01",
-            "nuance",
-            "social-interaction",
+            "b2",
             "ownership:new"
           ],
           "ownership": "NEW"
@@ -419,17 +407,16 @@
           "uk": "виправити",
           "ru": "исправить",
           "en": "to correct",
-          "pronunciationUk": "opraviть",
-          "exampleSk": "Dovoľ mi to trochu opraviť.",
-          "exampleUk": "Дозволь мені це трохи виправити.",
-          "exampleRu": "Пример: исправить.",
-          "exampleEn": "Example phrase for: to correct.",
+          "pronunciationUk": "opravit'",
+          "exampleSk": "V téme To nie je celkom pravda použijem výraz: opraviť.",
+          "exampleUk": "У темі «To nie je celkom pravda» використовую: виправити.",
+          "exampleRu": "В теме «To nie je celkom pravda» использую: исправить.",
+          "exampleEn": "In “To nie je celkom pravda”, I use: to correct.",
           "level": "B2",
           "topic": "To nie je celkom pravda",
           "tags": [
             "b2_s01",
-            "nuance",
-            "social-interaction",
+            "b2",
             "ownership:new"
           ],
           "ownership": "NEW"
@@ -440,17 +427,16 @@
           "uk": "уточнити",
           "ru": "уточнить",
           "en": "to clarify",
-          "pronunciationUk": "upresniть",
-          "exampleSk": "Chcem to upresniť, aby nevznikol omyl.",
-          "exampleUk": "Хочу це уточнити, щоб не виникла помилка.",
-          "exampleRu": "Пример: уточнить.",
-          "exampleEn": "Example phrase for: to clarify.",
+          "pronunciationUk": "upresnit'",
+          "exampleSk": "V téme To nie je celkom pravda použijem výraz: upresniť.",
+          "exampleUk": "У темі «To nie je celkom pravda» використовую: уточнити.",
+          "exampleRu": "В теме «To nie je celkom pravda» использую: уточнить.",
+          "exampleEn": "In “To nie je celkom pravda”, I use: to clarify.",
           "level": "B2",
           "topic": "To nie je celkom pravda",
           "tags": [
             "b2_s01",
-            "nuance",
-            "social-interaction",
+            "b2",
             "ownership:new"
           ],
           "ownership": "NEW"
@@ -460,18 +446,17 @@
           "sk": "tvrdenie",
           "uk": "твердження",
           "ru": "утверждение",
-          "en": "claim, statement",
+          "en": "claim",
           "pronunciationUk": "tvrdenie",
-          "exampleSk": "Toto tvrdenie je príliš všeobecné.",
-          "exampleUk": "Це твердження занадто загальне.",
-          "exampleRu": "Пример: утверждение.",
-          "exampleEn": "Example phrase for: claim, statement.",
+          "exampleSk": "V téme To nie je celkom pravda použijem výraz: tvrdenie.",
+          "exampleUk": "У темі «To nie je celkom pravda» використовую: твердження.",
+          "exampleRu": "В теме «To nie je celkom pravda» использую: утверждение.",
+          "exampleEn": "In “To nie je celkom pravda”, I use: claim.",
           "level": "B2",
           "topic": "To nie je celkom pravda",
           "tags": [
             "b2_s01",
-            "nuance",
-            "social-interaction",
+            "b2",
             "ownership:new"
           ],
           "ownership": "NEW"
@@ -482,17 +467,16 @@
           "uk": "погляд, точка зору",
           "ru": "взгляд, точка зрения",
           "en": "viewpoint",
-          "pronunciationUk": "pohльad",
-          "exampleSk": "Z môjho pohľadu je problém inde.",
-          "exampleUk": "З моєї точки зору проблема в іншому.",
-          "exampleRu": "Пример: взгляд, точка зрения.",
-          "exampleEn": "Example phrase for: viewpoint.",
+          "pronunciationUk": "pohl'ad",
+          "exampleSk": "V téme To nie je celkom pravda použijem výraz: pohľad.",
+          "exampleUk": "У темі «To nie je celkom pravda» використовую: погляд, точка зору.",
+          "exampleRu": "В теме «To nie je celkom pravda» использую: взгляд, точка зрения.",
+          "exampleEn": "In “To nie je celkom pravda”, I use: viewpoint.",
           "level": "B2",
           "topic": "To nie je celkom pravda",
           "tags": [
             "b2_s01",
-            "nuance",
-            "social-interaction",
+            "b2",
             "ownership:new"
           ],
           "ownership": "NEW"
@@ -526,18 +510,18 @@
             {
               "id": "b",
               "text": {
-                "uk": "точно",
-                "ru": "точно",
-                "en": "exactly"
+                "uk": "частково",
+                "ru": "частично",
+                "en": "partly"
               },
               "correct": false
             },
             {
               "id": "c",
               "text": {
-                "uk": "твердження",
-                "ru": "утверждение",
-                "en": "claim, statement"
+                "uk": "повністю / зовсім",
+                "ru": "полностью / совсем",
+                "en": "completely / quite"
               },
               "correct": false
             }
@@ -548,11 +532,11 @@
           "lessonId": "b2-s01-l003",
           "type": "matching",
           "order": 2,
-          "question": "З'єднай словацькі фрази з точним значенням.",
+          "question": "З'єднай фрази з поясненнями.",
           "questionLocalized": {
-            "uk": "З'єднай словацькі фрази з точним значенням.",
-            "ru": "Соедини словацкие фразы с точным значением.",
-            "en": "Match the Slovak phrases with their exact meaning."
+            "uk": "З'єднай фрази з поясненнями.",
+            "ru": "Соедини фразы с объяснениями.",
+            "en": "Match phrases with explanations."
           },
           "wordIds": [
             "b2-s01-l003-w01",
@@ -590,19 +574,215 @@
         {
           "id": "b2-s01-l003-e03",
           "lessonId": "b2-s01-l003",
-          "type": "meaning_in_context",
+          "type": "fill_blank",
           "order": 3,
-          "question": "Що найкраще підходить до контексту «To nie je celkom pravda»?",
+          "question": "Впиши словацькою: повністю / зовсім.",
           "questionLocalized": {
-            "uk": "Що найкраще підходить до контексту «To nie je celkom pravda»?",
-            "ru": "Что лучше всего подходит к контексту «To nie je celkom pravda»?",
-            "en": "What best fits the context “To nie je celkom pravda”?"
+            "uk": "Впиши словацькою: повністю / зовсім.",
+            "ru": "Впиши по-словацки: полностью / совсем.",
+            "en": "Write in Slovak: completely / quite."
+          },
+          "wordIds": [
+            "b2-s01-l003-w03"
+          ],
+          "sentence": "______",
+          "acceptedAnswers": [
+            "celkom"
+          ],
+          "hint": {
+            "uk": "Початок: ce...",
+            "ru": "Начало: ce...",
+            "en": "Start: ce..."
+          }
+        },
+        {
+          "id": "b2-s01-l003-e04",
+          "lessonId": "b2-s01-l003",
+          "type": "dropdown_blank",
+          "order": 4,
+          "question": "Обери точну фразу для B2-речення.",
+          "questionLocalized": {
+            "uk": "Обери точну фразу для B2-речення.",
+            "ru": "Выбери точную фразу для B2-предложения.",
+            "en": "Choose the precise phrase for a B2 sentence."
+          },
+          "wordIds": [
+            "b2-s01-l003-w04"
+          ],
+          "sentenceParts": [
+            {
+              "text": "V tejto situácii je dôležité použiť "
+            },
+            {
+              "blankId": "blank1",
+              "options": [
+                "presne",
+                "nesúhlasiť",
+                "čiastočne"
+              ],
+              "correct": "presne"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "b2-s01-l003-e05",
+          "lessonId": "b2-s01-l003",
+          "type": "sentence_builder",
+          "order": 5,
+          "question": "Склади природну словацьку репліку.",
+          "questionLocalized": {
+            "uk": "Склади природну словацьку репліку.",
+            "ru": "Собери естественную словацкую реплику.",
+            "en": "Build a natural Slovak reply."
+          },
+          "wordIds": [
+            "b2-s01-l003-w05"
+          ],
+          "tokens": [
+            "Rozumiem",
+            "situácii,",
+            "ale",
+            "potrebujem",
+            "ju",
+            "ešte",
+            "upresniť."
+          ],
+          "correctSentence": "Rozumiem situácii, ale potrebujem ju ešte upresniť."
+        },
+        {
+          "id": "b2-s01-l003-e06",
+          "lessonId": "b2-s01-l003",
+          "type": "multiple_select",
+          "order": 6,
+          "question": "Обери B2-репліки з природним тоном.",
+          "questionLocalized": {
+            "uk": "Обери B2-репліки з природним тоном.",
+            "ru": "Выбери B2-реплики с естественным тоном.",
+            "en": "Select B2 replies with a natural tone."
+          },
+          "wordIds": [
+            "b2-s01-l003-w01",
+            "b2-s01-l003-w06"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Rozumiem, ale potrebujem to presnejšie vysvetliť.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "To je úplne mimo a nemá zmysel hovoriť.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Z môjho pohľadu je dôležitý aj kontext.",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "id": "b2-s01-l003-e07",
+          "lessonId": "b2-s01-l003",
+          "type": "reading_comprehension",
+          "order": 7,
+          "question": "Прочитай текст і вибери головну думку.",
+          "questionLocalized": {
+            "uk": "Прочитай текст і вибери головну думку.",
+            "ru": "Прочитай текст и выбери главную мысль.",
+            "en": "Read the text and choose the main idea."
+          },
+          "wordIds": [
+            "b2-s01-l003-w06",
+            "b2-s01-l003-w07",
+            "b2-s01-l003-w08"
+          ],
+          "text": "Téma To nie je celkom pravda si vyžaduje presnosť. Nestačí poznať slová; treba reagovať podľa kontextu, vysvetliť dôvod a navrhnúť ďalší krok.",
+          "questions": [
+            {
+              "prompt": {
+                "uk": "Що є головною думкою?",
+                "ru": "Что является главной мыслью?",
+                "en": "What is the main idea?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "Treba reagovať presne podľa kontextu.",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "Stačí opakovať jedno slovo.",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "Najlepšie je nereagovať.",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b2-s01-l003-e08",
+          "lessonId": "b2-s01-l003",
+          "type": "dialogue_choose_reply",
+          "order": 8,
+          "question": "Обери найкращу відповідь у діалозі.",
+          "questionLocalized": {
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
+          },
+          "wordIds": [
+            "b2-s01-l003-w07"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Ako by si to vysvetlil?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Najprv zhrniem situáciu a potom poviem svoj návrh.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Nepoviem nič, lebo je to ťažké.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Odpoviem jedným náhodným slovom.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b2-s01-l003-e09",
+          "lessonId": "b2-s01-l003",
+          "type": "meaning_in_context",
+          "order": 9,
+          "question": "Що означає «čiastočne» у контексті?",
+          "questionLocalized": {
+            "uk": "Що означає «čiastočne» у контексті?",
+            "ru": "Что означает «čiastočne» в контексте?",
+            "en": "What does “čiastočne” mean in context?"
           },
           "wordIds": [
             "b2-s01-l003-w02"
           ],
           "context": {
-            "sk": "Nechcem reagovať automaticky. Najprv potrebujem lepšie pochopiť situáciu."
+            "sk": "Rozhovor je citlivý, preto si najprv overím význam a tón."
           },
           "options": [
             {
@@ -635,234 +815,38 @@
           ]
         },
         {
-          "id": "b2-s01-l003-e04",
-          "lessonId": "b2-s01-l003",
-          "type": "fill_blank",
-          "order": 4,
-          "question": "Впиши словацькою: повністю / зовсім.",
-          "questionLocalized": {
-            "uk": "Впиши словацькою: повністю / зовсім.",
-            "ru": "Впиши по-словацки: полностью / совсем.",
-            "en": "Write in Slovak: completely / quite."
-          },
-          "wordIds": [
-            "b2-s01-l003-w03"
-          ],
-          "sentence": "______",
-          "acceptedAnswers": [
-            "celkom"
-          ],
-          "hint": {
-            "uk": "Початок: ce...",
-            "ru": "Начало: ce...",
-            "en": "Start: ce..."
-          }
-        },
-        {
-          "id": "b2-s01-l003-e05",
-          "lessonId": "b2-s01-l003",
-          "type": "dropdown_blank",
-          "order": 5,
-          "question": "Обери природну фразу для речення.",
-          "questionLocalized": {
-            "uk": "Обери природну фразу для речення.",
-            "ru": "Выбери естественную фразу для предложения.",
-            "en": "Choose the natural phrase for the sentence."
-          },
-          "wordIds": [
-            "b2-s01-l003-w04"
-          ],
-          "sentenceParts": [
-            {
-              "text": "V tejto poznámke cítim "
-            },
-            {
-              "blankId": "blank1",
-              "options": [
-                "presne",
-                "nesúhlasiť",
-                "upresniť"
-              ],
-              "correct": "presne"
-            },
-            {
-              "text": ", preto sa radšej spýtam."
-            }
-          ]
-        },
-        {
-          "id": "b2-s01-l003-e06",
-          "lessonId": "b2-s01-l003",
-          "type": "sentence_builder",
-          "order": 6,
-          "question": "Склади B2-речення з уточненням.",
-          "questionLocalized": {
-            "uk": "Склади B2-речення з уточненням.",
-            "ru": "Собери B2-предложение с уточнением.",
-            "en": "Build a B2 sentence with clarification."
-          },
-          "wordIds": [
-            "b2-s01-l003-w05"
-          ],
-          "tokens": [
-            "Nechcem",
-            "to",
-            "zle",
-            "pochopiť,",
-            "môžeš",
-            "to",
-            "upresniť?"
-          ],
-          "correctSentence": "Nechcem to zle pochopiť, môžeš to upresniť?"
-        },
-        {
-          "id": "b2-s01-l003-e07",
-          "lessonId": "b2-s01-l003",
-          "type": "multiple_select",
-          "order": 7,
-          "question": "Обери реакції, які зберігають ввічливий тон.",
-          "questionLocalized": {
-            "uk": "Обери реакції, які зберігають ввічливий тон.",
-            "ru": "Выбери реакции, которые сохраняют вежливый тон.",
-            "en": "Select replies that keep a polite tone."
-          },
-          "wordIds": [
-            "b2-s01-l003-w06",
-            "b2-s01-l003-w07"
-          ],
-          "options": [
-            {
-              "id": "a",
-              "sk": "Chápem, ale potrebujem to trochu upresniť.",
-              "correct": true
-            },
-            {
-              "id": "b",
-              "sk": "To je hlúposť a nemá zmysel o tom hovoriť.",
-              "correct": false
-            },
-            {
-              "id": "c",
-              "sk": "Možno som to pochopil inak, vysvetlíš mi pointu?",
-              "correct": true
-            }
-          ]
-        },
-        {
-          "id": "b2-s01-l003-e08",
-          "lessonId": "b2-s01-l003",
-          "type": "reading_comprehension",
-          "order": 8,
-          "question": "Прочитай повідомлення і знайди підтекст.",
-          "questionLocalized": {
-            "uk": "Прочитай повідомлення і знайди підтекст.",
-            "ru": "Прочитай сообщение и найди подтекст.",
-            "en": "Read the message and identify the subtext."
-          },
-          "wordIds": [
-            "b2-s01-l003-w07",
-            "b2-s01-l003-w08"
-          ],
-          "text": "Správa znie neutrálne, ale jej tón naznačuje, že druhá strana čaká vysvetlenie. Pointa nie je útok, ale potreba vyjasniť situáciu.",
-          "questions": [
-            {
-              "prompt": {
-                "uk": "Яка головна думка тексту?",
-                "ru": "Какая главная мысль текста?",
-                "en": "What is the main point of the text?"
-              },
-              "options": [
-                {
-                  "id": "a",
-                  "sk": "Treba vyjasniť situáciu bez útoku.",
-                  "correct": true
-                },
-                {
-                  "id": "b",
-                  "sk": "Treba okamžite ukončiť kontakt.",
-                  "correct": false
-                },
-                {
-                  "id": "c",
-                  "sk": "Netreba reagovať vôbec.",
-                  "correct": false
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "b2-s01-l003-e09",
-          "lessonId": "b2-s01-l003",
-          "type": "dialogue_choose_reply",
-          "order": 9,
-          "question": "Обери найкращу відповідь у чутливому діалозі.",
-          "questionLocalized": {
-            "uk": "Обери найкращу відповідь у чутливому діалозі.",
-            "ru": "Выбери лучший ответ в чувствительном диалоге.",
-            "en": "Choose the best reply in a sensitive dialogue."
-          },
-          "wordIds": [
-            "b2-s01-l003-w01",
-            "b2-s01-l003-w08"
-          ],
-          "dialogue": [
-            {
-              "speaker": "A",
-              "sk": "Asi sme sa nepochopili."
-            }
-          ],
-          "options": [
-            {
-              "id": "a",
-              "sk": "Možno áno. Povedz mi, čo tým myslíš, aby som pochopil pointu.",
-              "correct": true
-            },
-            {
-              "id": "b",
-              "sk": "To je tvoj problém, nie môj.",
-              "correct": false
-            },
-            {
-              "id": "c",
-              "sk": "Nemám čas na také veci.",
-              "correct": false
-            }
-          ]
-        },
-        {
           "id": "b2-s01-l003-e10",
           "lessonId": "b2-s01-l003",
           "type": "natural_phrase",
           "order": 10,
-          "question": "Що звучить найприродніше на рівні B2?",
+          "question": "Що звучить найприродніше?",
           "questionLocalized": {
-            "uk": "Що звучить найприродніше на рівні B2?",
-            "ru": "Что звучит естественнее всего на уровне B2?",
-            "en": "What sounds most natural at B2 level?"
+            "uk": "Що звучить найприродніше?",
+            "ru": "Что звучит естественнее всего?",
+            "en": "What sounds most natural?"
           },
           "wordIds": [
-            "b2-s01-l003-w06"
+            "b2-s01-l003-w08"
           ],
           "situation": {
-            "uk": "Ти не впевнений, чи фразу сказали буквально.",
-            "ru": "Ты не уверен, сказали ли фразу буквально.",
-            "en": "You are not sure whether the phrase was meant literally."
+            "uk": "Потрібно відповісти точно, але без різкого тону.",
+            "ru": "Нужно ответить точно, но без резкого тона.",
+            "en": "You need to answer precisely but without a sharp tone."
           },
           "options": [
             {
               "id": "a",
-              "sk": "Myslíš to doslova, alebo skôr v prenesenom zmysle?",
+              "sk": "Chápem tvoj pohľad, ale doplnil by som ešte jednu vec.",
               "correct": true
             },
             {
               "id": "b",
-              "sk": "Toto slovo je doslova stolička.",
+              "sk": "Ty ničomu nerozumieš.",
               "correct": false
             },
             {
               "id": "c",
-              "sk": "Nič nepýtam, všetko viem.",
+              "sk": "Áno nie možno včera.",
               "correct": false
             }
           ]
@@ -884,7 +868,7 @@
           "options": [
             "opraviť",
             "celkom",
-            "čiastočne"
+            "nesúhlasiť"
           ],
           "correctAnswer": "opraviť"
         },
@@ -904,8 +888,8 @@
           ],
           "options": [
             "погляд, точка зору",
-            "не погоджуватися",
-            "точно"
+            "частково",
+            "повністю / зовсім"
           ],
           "correctAnswer": "погляд, точка зору"
         }
@@ -914,34 +898,34 @@
         "id": "final-situation",
         "type": "interactive_scenario",
         "title": {
-          "uk": "To nie je celkom pravda: реальна розмова",
-          "ru": "To nie je celkom pravda: реальный разговор",
-          "en": "To nie je celkom pravda: real conversation"
+          "uk": "To nie je celkom pravda: реальна ситуація",
+          "ru": "To nie je celkom pravda: реальная ситуация",
+          "en": "To nie je celkom pravda: real situation"
         },
         "description": {
-          "uk": "На зустрічі хтось спростив проблему. Потрібно ввічливо уточнити, що реальність складніша.",
-          "ru": "Кто-то упростил проблему. Нужно мягко уточнить реальную картину.",
-          "en": "Someone oversimplified a problem. Clarify the real situation politely."
+          "uk": "Обери репліки, які звучать природно, точно й доречно на рівні B2.",
+          "ru": "Выбери реплики, которые звучат естественно, точно и уместно на уровне B2.",
+          "en": "Choose replies that sound natural, precise and appropriate at B2 level."
         },
         "steps": [
           {
             "id": "f1",
             "prompt": {
-              "uk": "Повідомлення звучить двозначно. Перша реакція?",
-              "ru": "Сообщение звучит двусмысленно. Первая реакция?",
-              "en": "The message sounds ambiguous. First response?"
+              "uk": "Потрібно почати відповідь без різкості.",
+              "ru": "Нужно начать ответ без резкости.",
+              "en": "You need to start without sounding harsh."
             },
             "options": [
               {
-                "sk": "Chcem si to najprv ujasniť, aby som nereagoval zle.",
+                "sk": "Rozumiem, skúsim to najprv zhrnúť vlastnými slovami.",
                 "correct": true
               },
               {
-                "sk": "Určite to myslíš zle.",
+                "sk": "Nemáš pravdu a viac sa o tom nebavme.",
                 "correct": false
               },
               {
-                "sk": "Nebudem sa pýtať nič.",
+                "sk": "Neviem a nechcem reagovať.",
                 "correct": false
               }
             ]
@@ -949,21 +933,21 @@
           {
             "id": "f2",
             "prompt": {
-              "uk": "Ти частково не погоджуєшся. Як сказати м'яко?",
-              "ru": "Ты частично не согласен. Как сказать мягко?",
-              "en": "You partly disagree. How do you say it softly?"
+              "uk": "Потрібно додати аргумент.",
+              "ru": "Нужно добавить аргумент.",
+              "en": "You need to add an argument."
             },
             "options": [
               {
-                "sk": "Čiastočne rozumiem, ale z môjho pohľadu to nie je celkom presné.",
+                "sk": "Dôvod je podľa mňa v tom, že situácia má viac okolností.",
                 "correct": true
               },
               {
-                "sk": "Nemáš pravdu a koniec.",
+                "sk": "Pretože áno.",
                 "correct": false
               },
               {
-                "sk": "To ma nezaujíma.",
+                "sk": "To nesúvisí s ničím.",
                 "correct": false
               }
             ]
@@ -971,21 +955,21 @@
           {
             "id": "f3",
             "prompt": {
-              "uk": "Потрібно завершити розмову конструктивно.",
-              "ru": "Нужно завершить разговор конструктивно.",
-              "en": "You need to close constructively."
+              "uk": "Потрібно завершити практично.",
+              "ru": "Нужно завершить практически.",
+              "en": "You need to close practically."
             },
             "options": [
               {
-                "sk": "Zhrňme si pointu a dohodnime sa na ďalšom kroku.",
+                "sk": "Navrhujem ďalší krok a potom si to potvrdíme písomne.",
                 "correct": true
               },
               {
-                "sk": "Nechajme to tak navždy.",
+                "sk": "Nechajme to bez riešenia.",
                 "correct": false
               },
               {
-                "sk": "Každý si myslí svoje, nič neriešme.",
+                "sk": "Každý nech si domyslí zvyšok.",
                 "correct": false
               }
             ]
@@ -993,9 +977,9 @@
         ],
         "passRequirement": "3/3",
         "successMessage": {
-          "uk": "Готово: ти впорався з нюансованою B2-ситуацією.",
-          "ru": "Готово: ты справился с нюансированной B2-ситуацией.",
-          "en": "Done: you handled a nuanced B2 situation."
+          "uk": "Готово: тема перенесена в реальну B2-комунікацію.",
+          "ru": "Готово: тема перенесена в реальную B2-коммуникацию.",
+          "en": "Done: the topic was transferred into real B2 communication."
         }
       },
       "resultScreen": {
@@ -1006,22 +990,22 @@
           "en": "Lesson complete"
         },
         "subtitle": {
-          "uk": "Ти закрив ще один крок B2-комунікації.",
-          "ru": "Ты закрыл ещё один шаг B2-коммуникации.",
-          "en": "You completed another B2 communication step."
+          "uk": "Ти пройшов ще один крок рівня B2.",
+          "ru": "Ты прошёл ещё один шаг уровня B2.",
+          "en": "You completed another B2 step."
         },
         "xpReward": 180,
         "newWordsCount": 8,
         "exercisesCompleted": 12,
         "nowYouKnow": [
-          "уточнювати зміст",
-          "реагувати ввічливо",
-          "читати підтекст"
+          "структурувати відповідь",
+          "пояснювати нюанс",
+          "реагувати доречно"
         ],
         "mistakesMessage": {
-          "uk": "Повтори вправи, де тон або зміст ще плутаються.",
-          "ru": "Повтори упражнения, где тон или смысл ещё путаются.",
-          "en": "Repeat exercises where tone or meaning is still unclear."
+          "uk": "Повтори вправи, де плутається значення або тон.",
+          "ru": "Повтори упражнения, где путается значение или тон.",
+          "en": "Repeat exercises where meaning or tone is unclear."
         },
         "buttons": [
           "Продовжити",
@@ -1030,22 +1014,22 @@
         ],
         "skills": [
           {
-            "id": "nuance",
+            "id": "vocabulary",
             "label": {
-              "uk": "нюанс",
-              "ru": "нюанс",
-              "en": "nuance"
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
             },
-            "weight": 0.35
+            "weight": 0.3
           },
           {
-            "id": "interaction",
+            "id": "composition",
             "label": {
-              "uk": "діалог",
-              "ru": "диалог",
-              "en": "interaction"
+              "uk": "структура",
+              "ru": "структура",
+              "en": "composition"
             },
-            "weight": 0.35
+            "weight": 0.4
           },
           {
             "id": "transfer",

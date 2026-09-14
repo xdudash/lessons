@@ -1,0 +1,1050 @@
+{
+  "lessons": [
+    {
+      "id": "b2-s03-l014",
+      "sectionId": "b2_s03",
+      "level": "B2",
+      "title": {
+        "sk": "Čo s tým urobíme?",
+        "uk": "Čo s tým urobíme?",
+        "ru": "Čo s tým urobíme?",
+        "en": "Čo s tým urobíme?"
+      },
+      "topic": {
+        "sk": "Čo s tým urobíme?",
+        "uk": "Čo s tým urobíme?",
+        "ru": "Čo s tým urobíme?",
+        "en": "Čo s tým urobíme?"
+      },
+      "description": {
+        "sk": "Precvičíš si tému Čo s tým urobíme? v komplexnej komunikácii na úrovni B2.",
+        "uk": "Тренуємо тему «Čo s tým urobíme?»: аргументовано, точно й у реальному контексті.",
+        "ru": "предлагаем несколько вариантов действий.",
+        "en": "Practice the B2 topic “Čo s tým urobíme?” in complex communication. Section: Complex everyday problems and decision-making."
+      },
+      "order": 14,
+      "xpReward": 180,
+      "estimatedMinutes": 32,
+      "isPublished": false,
+      "intro": {
+        "sk": "Precvičíš si tému Čo s tým urobíme? v komplexnej komunikácii na úrovni B2.",
+        "uk": "Тренуємо тему «Čo s tým urobíme?»: аргументовано, точно й у реальному контексті.",
+        "ru": "предлагаем несколько вариантов действий.",
+        "en": "Practice the B2 topic “Čo s tým urobíme?” in complex communication. Section: Complex everyday problems and decision-making."
+      },
+      "completionMessage": {
+        "sk": "Výborne. Tému vieš použiť v náročnejšej komunikácii.",
+        "uk": "Добре. Тепер можеш використати тему в складнішій розмові.",
+        "ru": "Хорошо. Теперь можешь использовать тему в более сложном разговоре.",
+        "en": "Good. You can now use the topic in more complex communication."
+      },
+      "updatedAt": "2026-09-14T00:00:00Z",
+      "localization": {
+        "uiLanguages": [
+          "uk",
+          "ru",
+          "en"
+        ],
+        "targetLanguage": "sk",
+        "fallbackUiLanguage": "uk"
+      },
+      "assets": {
+        "images": {},
+        "audio": {}
+      },
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": {
+          "sk": "Čo s tým urobíme?",
+          "uk": "Čo s tým urobíme?",
+          "ru": "Čo s tým urobíme?",
+          "en": "Čo s tým urobíme?"
+        },
+        "shortDescription": {
+          "uk": "Тренуємо тему «Čo s tým urobíme?»: аргументовано, точно й у реальному контексті.",
+          "ru": "предлагаем несколько вариантов действий.",
+          "en": "Practice the B2 topic “Čo s tým urobíme?” in complex communication. Section: Complex everyday problems and decision-making."
+        },
+        "outcomes": [
+          {
+            "uk": "пояснити думку точніше й довше",
+            "ru": "объяснить мысль точнее и длиннее",
+            "en": "explain an idea more precisely and at greater length"
+          },
+          {
+            "uk": "використати нові B2-фрази в контексті",
+            "ru": "использовать новые B2-фразы в контексте",
+            "en": "use new B2 phrases in context"
+          },
+          {
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
+          }
+        ],
+        "newWords": [
+          "b2-s03-l014-w01",
+          "b2-s03-l014-w02",
+          "b2-s03-l014-w03",
+          "b2-s03-l014-w04",
+          "b2-s03-l014-w05",
+          "b2-s03-l014-w06",
+          "b2-s03-l014-w07",
+          "b2-s03-l014-w08"
+        ],
+        "exercisesCount": 12,
+        "reward": "+180 XP",
+        "estimatedMinutes": 32,
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "id": "t1",
+          "screenType": "theory",
+          "order": 1,
+          "title": {
+            "uk": "Фокус уроку",
+            "ru": "Фокус урока",
+            "en": "Lesson focus"
+          },
+          "body": {
+            "uk": "Тренуємо тему «Čo s tým urobíme?»: аргументовано, точно й у реальному контексті.",
+            "ru": "предлагаем несколько вариантов действий.",
+            "en": "Practice the B2 topic “Čo s tým urobíme?” in complex communication. Section: Complex everyday problems and decision-making."
+          },
+          "examples": [
+            {
+              "sk": "V téme Čo s tým urobíme? použijem výraz: navrhnúť.",
+              "translation": {
+                "uk": "У темі «Čo s tým urobíme?» використовую: вираз «navrhnúť» у темі «Čo s tým urobíme?».",
+                "ru": "В теме «Čo s tým urobíme?» использую: выражение «navrhnúť» в теме «Čo s tým urobíme?».",
+                "en": "In “Čo s tým urobíme?”, I use: the expression “navrhnúť” in the topic “Čo s tým urobíme?”."
+              }
+            },
+            {
+              "sk": "V téme Čo s tým urobíme? použijem výraz: podniknúť kroky.",
+              "translation": {
+                "uk": "У темі «Čo s tým urobíme?» використовую: вираз «podniknúť kroky» у темі «Čo s tým urobíme?».",
+                "ru": "В теме «Čo s tým urobíme?» использую: выражение «podniknúť kroky» в теме «Čo s tým urobíme?».",
+                "en": "In “Čo s tým urobíme?”, I use: the expression “podniknúť kroky” in the topic “Čo s tým urobíme?”."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "На B2 важливо не просто відповісти, а показати причину, умову, наслідок або нюанс.",
+            "ru": "На B2 важно не просто ответить, а показать причину, условие, последствие или нюанс.",
+            "en": "At B2, show a reason, condition, consequence or nuance."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t2",
+          "screenType": "theory",
+          "order": 2,
+          "title": {
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer model"
+          },
+          "body": {
+            "uk": "Будуй відповідь за схемою: контекст -> позиція -> аргумент -> приклад -> наступний крок.",
+            "ru": "Строй ответ по схеме: контекст -> позиция -> аргумент -> пример -> следующий шаг.",
+            "en": "Build the answer as: context -> position -> argument -> example -> next step."
+          },
+          "examples": [
+            {
+              "sk": "Z môjho pohľadu je dôležité najprv vysvetliť kontext.",
+              "translation": {
+                "uk": "З моєї точки зору важливо спочатку пояснити контекст.",
+                "ru": "С моей точки зрения важно сначала объяснить контекст.",
+                "en": "From my point of view, it is important to explain the context first."
+              }
+            },
+            {
+              "sk": "Na druhej strane treba zohľadniť aj praktické dôsledky.",
+              "translation": {
+                "uk": "З іншого боку, треба врахувати також практичні наслідки.",
+                "ru": "С другой стороны, нужно учесть и практические последствия.",
+                "en": "On the other hand, practical consequences must also be considered."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "Одна сильна відповідь має структуру, а не лише правильні слова.",
+            "ru": "Один сильный ответ имеет структуру, а не только правильные слова.",
+            "en": "A strong answer has structure, not only correct words."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t3",
+          "screenType": "theory",
+          "order": 3,
+          "title": {
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
+          },
+          "body": {
+            "uk": "У фіналі потрібно вибрати репліку, яка реально рухає ситуацію вперед.",
+            "ru": "В финале нужно выбрать реплику, которая реально двигает ситуацию дальше.",
+            "en": "In the final task, choose the reply that moves the situation forward."
+          },
+          "examples": [
+            {
+              "sk": "Navrhujem, aby sme si najprv ujasnili priority.",
+              "translation": {
+                "uk": "Пропоную спочатку прояснити пріоритети.",
+                "ru": "Предлагаю сначала прояснить приоритеты.",
+                "en": "I suggest clarifying priorities first."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "B2 = самостійна, зв'язна й доречна комунікація.",
+            "ru": "B2 = самостоятельная, связная и уместная коммуникация.",
+            "en": "B2 means independent, connected and appropriate communication."
+          },
+          "button": "До слів"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": {
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
+        },
+        "description": {
+          "uk": "Ці одиниці взяті з затвердженого B2-плану.",
+          "ru": "Эти единицы взяты из утвержденного B2-плана.",
+          "en": "These items come from the approved B2 plan."
+        },
+        "items": [
+          {
+            "wordId": "b2-s03-l014-w01",
+            "sk": "navrhnúť",
+            "uk": "вираз «navrhnúť» у темі «Čo s tým urobíme?»",
+            "ru": "выражение «navrhnúť» в теме «Čo s tým urobíme?»",
+            "en": "the expression “navrhnúť” in the topic “Čo s tým urobíme?”",
+            "pronunciationUk": "navrhnut'",
+            "exampleSk": "V téme Čo s tým urobíme? použijem výraz: navrhnúť.",
+            "exampleUk": "У темі «Čo s tým urobíme?» використовую: вираз «navrhnúť» у темі «Čo s tým urobíme?».",
+            "exampleRu": "В теме «Čo s tým urobíme?» использую: выражение «navrhnúť» в теме «Čo s tým urobíme?».",
+            "exampleEn": "In “Čo s tým urobíme?”, I use: the expression “navrhnúť” in the topic “Čo s tým urobíme?”."
+          },
+          {
+            "wordId": "b2-s03-l014-w02",
+            "sk": "podniknúť kroky",
+            "uk": "вираз «podniknúť kroky» у темі «Čo s tým urobíme?»",
+            "ru": "выражение «podniknúť kroky» в теме «Čo s tým urobíme?»",
+            "en": "the expression “podniknúť kroky” in the topic “Čo s tým urobíme?”",
+            "pronunciationUk": "podniknut' kroky",
+            "exampleSk": "V téme Čo s tým urobíme? použijem výraz: podniknúť kroky.",
+            "exampleUk": "У темі «Čo s tým urobíme?» використовую: вираз «podniknúť kroky» у темі «Čo s tým urobíme?».",
+            "exampleRu": "В теме «Čo s tým urobíme?» использую: выражение «podniknúť kroky» в теме «Čo s tým urobíme?».",
+            "exampleEn": "In “Čo s tým urobíme?”, I use: the expression “podniknúť kroky” in the topic “Čo s tým urobíme?”."
+          },
+          {
+            "wordId": "b2-s03-l014-w03",
+            "sk": "možnosť",
+            "uk": "вираз «možnosť» у темі «Čo s tým urobíme?»",
+            "ru": "выражение «možnosť» в теме «Čo s tým urobíme?»",
+            "en": "the expression “možnosť” in the topic “Čo s tým urobíme?”",
+            "pronunciationUk": "mozhnost'",
+            "exampleSk": "V téme Čo s tým urobíme? použijem výraz: možnosť.",
+            "exampleUk": "У темі «Čo s tým urobíme?» використовую: вираз «možnosť» у темі «Čo s tým urobíme?».",
+            "exampleRu": "В теме «Čo s tým urobíme?» использую: выражение «možnosť» в теме «Čo s tým urobíme?».",
+            "exampleEn": "In “Čo s tým urobíme?”, I use: the expression “možnosť” in the topic “Čo s tým urobíme?”."
+          },
+          {
+            "wordId": "b2-s03-l014-w04",
+            "sk": "alternatíva",
+            "uk": "вираз «alternatíva» у темі «Čo s tým urobíme?»",
+            "ru": "выражение «alternatíva» в теме «Čo s tým urobíme?»",
+            "en": "the expression “alternatíva” in the topic “Čo s tým urobíme?”",
+            "pronunciationUk": "alternativa",
+            "exampleSk": "V téme Čo s tým urobíme? použijem výraz: alternatíva.",
+            "exampleUk": "У темі «Čo s tým urobíme?» використовую: вираз «alternatíva» у темі «Čo s tým urobíme?».",
+            "exampleRu": "В теме «Čo s tým urobíme?» использую: выражение «alternatíva» в теме «Čo s tým urobíme?».",
+            "exampleEn": "In “Čo s tým urobíme?”, I use: the expression “alternatíva” in the topic “Čo s tým urobíme?”."
+          },
+          {
+            "wordId": "b2-s03-l014-w05",
+            "sk": "postup",
+            "uk": "вираз «postup» у темі «Čo s tým urobíme?»",
+            "ru": "выражение «postup» в теме «Čo s tým urobíme?»",
+            "en": "the expression “postup” in the topic “Čo s tým urobíme?”",
+            "pronunciationUk": "postup",
+            "exampleSk": "V téme Čo s tým urobíme? použijem výraz: postup.",
+            "exampleUk": "У темі «Čo s tým urobíme?» використовую: вираз «postup» у темі «Čo s tým urobíme?».",
+            "exampleRu": "В теме «Čo s tým urobíme?» использую: выражение «postup» в теме «Čo s tým urobíme?».",
+            "exampleEn": "In “Čo s tým urobíme?”, I use: the expression “postup” in the topic “Čo s tým urobíme?”."
+          },
+          {
+            "wordId": "b2-s03-l014-w06",
+            "sk": "rozhodnúť sa",
+            "uk": "вираз «rozhodnúť sa» у темі «Čo s tým urobíme?»",
+            "ru": "выражение «rozhodnúť sa» в теме «Čo s tým urobíme?»",
+            "en": "the expression “rozhodnúť sa” in the topic “Čo s tým urobíme?”",
+            "pronunciationUk": "rozhodnut' sa",
+            "exampleSk": "V téme Čo s tým urobíme? použijem výraz: rozhodnúť sa.",
+            "exampleUk": "У темі «Čo s tým urobíme?» використовую: вираз «rozhodnúť sa» у темі «Čo s tým urobíme?».",
+            "exampleRu": "В теме «Čo s tým urobíme?» использую: выражение «rozhodnúť sa» в теме «Čo s tým urobíme?».",
+            "exampleEn": "In “Čo s tým urobíme?”, I use: the expression “rozhodnúť sa” in the topic “Čo s tým urobíme?”."
+          },
+          {
+            "wordId": "b2-s03-l014-w07",
+            "sk": "zvážiť",
+            "uk": "вираз «zvážiť» у темі «Čo s tým urobíme?»",
+            "ru": "выражение «zvážiť» в теме «Čo s tým urobíme?»",
+            "en": "the expression “zvážiť” in the topic “Čo s tým urobíme?”",
+            "pronunciationUk": "zvazhit'",
+            "exampleSk": "V téme Čo s tým urobíme? použijem výraz: zvážiť.",
+            "exampleUk": "У темі «Čo s tým urobíme?» використовую: вираз «zvážiť» у темі «Čo s tým urobíme?».",
+            "exampleRu": "В теме «Čo s tým urobíme?» использую: выражение «zvážiť» в теме «Čo s tým urobíme?».",
+            "exampleEn": "In “Čo s tým urobíme?”, I use: the expression “zvážiť” in the topic “Čo s tým urobíme?”."
+          },
+          {
+            "wordId": "b2-s03-l014-w08",
+            "sk": "praktická fráza 8",
+            "uk": "вираз «praktická fráza 8» у темі «Čo s tým urobíme?»",
+            "ru": "выражение «praktická fráza 8» в теме «Čo s tým urobíme?»",
+            "en": "the expression “praktická fráza 8” in the topic “Čo s tým urobíme?”",
+            "pronunciationUk": "prakticka fraza 8",
+            "exampleSk": "V téme Čo s tým urobíme? použijem výraz: praktická fráza 8.",
+            "exampleUk": "У темі «Čo s tým urobíme?» використовую: вираз «praktická fráza 8» у темі «Čo s tým urobíme?».",
+            "exampleRu": "В теме «Čo s tým urobíme?» использую: выражение «praktická fráza 8» в теме «Čo s tým urobíme?».",
+            "exampleEn": "In “Čo s tým urobíme?”, I use: the expression “praktická fráza 8” in the topic “Čo s tým urobíme?”."
+          }
+        ],
+        "button": "До практики"
+      },
+      "words": [
+        {
+          "id": "b2-s03-l014-w01",
+          "sk": "navrhnúť",
+          "uk": "вираз «navrhnúť» у темі «Čo s tým urobíme?»",
+          "ru": "выражение «navrhnúť» в теме «Čo s tým urobíme?»",
+          "en": "the expression “navrhnúť” in the topic “Čo s tým urobíme?”",
+          "pronunciationUk": "navrhnut'",
+          "exampleSk": "V téme Čo s tým urobíme? použijem výraz: navrhnúť.",
+          "exampleUk": "У темі «Čo s tým urobíme?» використовую: вираз «navrhnúť» у темі «Čo s tým urobíme?».",
+          "exampleRu": "В теме «Čo s tým urobíme?» использую: выражение «navrhnúť» в теме «Čo s tým urobíme?».",
+          "exampleEn": "In “Čo s tým urobíme?”, I use: the expression “navrhnúť” in the topic “Čo s tým urobíme?”.",
+          "level": "B2",
+          "topic": "Čo s tým urobíme?",
+          "tags": [
+            "b2_s03",
+            "b2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "b2-s03-l014-w02",
+          "sk": "podniknúť kroky",
+          "uk": "вираз «podniknúť kroky» у темі «Čo s tým urobíme?»",
+          "ru": "выражение «podniknúť kroky» в теме «Čo s tým urobíme?»",
+          "en": "the expression “podniknúť kroky” in the topic “Čo s tým urobíme?”",
+          "pronunciationUk": "podniknut' kroky",
+          "exampleSk": "V téme Čo s tým urobíme? použijem výraz: podniknúť kroky.",
+          "exampleUk": "У темі «Čo s tým urobíme?» використовую: вираз «podniknúť kroky» у темі «Čo s tým urobíme?».",
+          "exampleRu": "В теме «Čo s tým urobíme?» использую: выражение «podniknúť kroky» в теме «Čo s tým urobíme?».",
+          "exampleEn": "In “Čo s tým urobíme?”, I use: the expression “podniknúť kroky” in the topic “Čo s tým urobíme?”.",
+          "level": "B2",
+          "topic": "Čo s tým urobíme?",
+          "tags": [
+            "b2_s03",
+            "b2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "b2-s03-l014-w03",
+          "sk": "možnosť",
+          "uk": "вираз «možnosť» у темі «Čo s tým urobíme?»",
+          "ru": "выражение «možnosť» в теме «Čo s tým urobíme?»",
+          "en": "the expression “možnosť” in the topic “Čo s tým urobíme?”",
+          "pronunciationUk": "mozhnost'",
+          "exampleSk": "V téme Čo s tým urobíme? použijem výraz: možnosť.",
+          "exampleUk": "У темі «Čo s tým urobíme?» використовую: вираз «možnosť» у темі «Čo s tým urobíme?».",
+          "exampleRu": "В теме «Čo s tým urobíme?» использую: выражение «možnosť» в теме «Čo s tým urobíme?».",
+          "exampleEn": "In “Čo s tým urobíme?”, I use: the expression “možnosť” in the topic “Čo s tým urobíme?”.",
+          "level": "B2",
+          "topic": "Čo s tým urobíme?",
+          "tags": [
+            "b2_s03",
+            "b2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "b2-s03-l014-w04",
+          "sk": "alternatíva",
+          "uk": "вираз «alternatíva» у темі «Čo s tým urobíme?»",
+          "ru": "выражение «alternatíva» в теме «Čo s tým urobíme?»",
+          "en": "the expression “alternatíva” in the topic “Čo s tým urobíme?”",
+          "pronunciationUk": "alternativa",
+          "exampleSk": "V téme Čo s tým urobíme? použijem výraz: alternatíva.",
+          "exampleUk": "У темі «Čo s tým urobíme?» використовую: вираз «alternatíva» у темі «Čo s tým urobíme?».",
+          "exampleRu": "В теме «Čo s tým urobíme?» использую: выражение «alternatíva» в теме «Čo s tým urobíme?».",
+          "exampleEn": "In “Čo s tým urobíme?”, I use: the expression “alternatíva” in the topic “Čo s tým urobíme?”.",
+          "level": "B2",
+          "topic": "Čo s tým urobíme?",
+          "tags": [
+            "b2_s03",
+            "b2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "b2-s03-l014-w05",
+          "sk": "postup",
+          "uk": "вираз «postup» у темі «Čo s tým urobíme?»",
+          "ru": "выражение «postup» в теме «Čo s tým urobíme?»",
+          "en": "the expression “postup” in the topic “Čo s tým urobíme?”",
+          "pronunciationUk": "postup",
+          "exampleSk": "V téme Čo s tým urobíme? použijem výraz: postup.",
+          "exampleUk": "У темі «Čo s tým urobíme?» використовую: вираз «postup» у темі «Čo s tým urobíme?».",
+          "exampleRu": "В теме «Čo s tým urobíme?» использую: выражение «postup» в теме «Čo s tým urobíme?».",
+          "exampleEn": "In “Čo s tým urobíme?”, I use: the expression “postup” in the topic “Čo s tým urobíme?”.",
+          "level": "B2",
+          "topic": "Čo s tým urobíme?",
+          "tags": [
+            "b2_s03",
+            "b2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "b2-s03-l014-w06",
+          "sk": "rozhodnúť sa",
+          "uk": "вираз «rozhodnúť sa» у темі «Čo s tým urobíme?»",
+          "ru": "выражение «rozhodnúť sa» в теме «Čo s tým urobíme?»",
+          "en": "the expression “rozhodnúť sa” in the topic “Čo s tým urobíme?”",
+          "pronunciationUk": "rozhodnut' sa",
+          "exampleSk": "V téme Čo s tým urobíme? použijem výraz: rozhodnúť sa.",
+          "exampleUk": "У темі «Čo s tým urobíme?» використовую: вираз «rozhodnúť sa» у темі «Čo s tým urobíme?».",
+          "exampleRu": "В теме «Čo s tým urobíme?» использую: выражение «rozhodnúť sa» в теме «Čo s tým urobíme?».",
+          "exampleEn": "In “Čo s tým urobíme?”, I use: the expression “rozhodnúť sa” in the topic “Čo s tým urobíme?”.",
+          "level": "B2",
+          "topic": "Čo s tým urobíme?",
+          "tags": [
+            "b2_s03",
+            "b2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "b2-s03-l014-w07",
+          "sk": "zvážiť",
+          "uk": "вираз «zvážiť» у темі «Čo s tým urobíme?»",
+          "ru": "выражение «zvážiť» в теме «Čo s tým urobíme?»",
+          "en": "the expression “zvážiť” in the topic “Čo s tým urobíme?”",
+          "pronunciationUk": "zvazhit'",
+          "exampleSk": "V téme Čo s tým urobíme? použijem výraz: zvážiť.",
+          "exampleUk": "У темі «Čo s tým urobíme?» використовую: вираз «zvážiť» у темі «Čo s tým urobíme?».",
+          "exampleRu": "В теме «Čo s tým urobíme?» использую: выражение «zvážiť» в теме «Čo s tým urobíme?».",
+          "exampleEn": "In “Čo s tým urobíme?”, I use: the expression “zvážiť” in the topic “Čo s tým urobíme?”.",
+          "level": "B2",
+          "topic": "Čo s tým urobíme?",
+          "tags": [
+            "b2_s03",
+            "b2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "b2-s03-l014-w08",
+          "sk": "praktická fráza 8",
+          "uk": "вираз «praktická fráza 8» у темі «Čo s tým urobíme?»",
+          "ru": "выражение «praktická fráza 8» в теме «Čo s tým urobíme?»",
+          "en": "the expression “praktická fráza 8” in the topic “Čo s tým urobíme?”",
+          "pronunciationUk": "prakticka fraza 8",
+          "exampleSk": "V téme Čo s tým urobíme? použijem výraz: praktická fráza 8.",
+          "exampleUk": "У темі «Čo s tým urobíme?» використовую: вираз «praktická fráza 8» у темі «Čo s tým urobíme?».",
+          "exampleRu": "В теме «Čo s tým urobíme?» использую: выражение «praktická fráza 8» в теме «Čo s tým urobíme?».",
+          "exampleEn": "In “Čo s tým urobíme?”, I use: the expression “praktická fráza 8” in the topic “Čo s tým urobíme?”.",
+          "level": "B2",
+          "topic": "Čo s tým urobíme?",
+          "tags": [
+            "b2_s03",
+            "b2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "b2-s03-l014-e01",
+          "lessonId": "b2-s03-l014",
+          "type": "single_choice",
+          "order": 1,
+          "question": "Що означає «navrhnúť»?",
+          "questionLocalized": {
+            "uk": "Що означає «navrhnúť»?",
+            "ru": "Что означает «navrhnúť»?",
+            "en": "What does “navrhnúť” mean?"
+          },
+          "wordIds": [
+            "b2-s03-l014-w01"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "вираз «navrhnúť» у темі «Čo s tým urobíme?»",
+                "ru": "выражение «navrhnúť» в теме «Čo s tým urobíme?»",
+                "en": "the expression “navrhnúť” in the topic “Čo s tým urobíme?”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "вираз «podniknúť kroky» у темі «Čo s tým urobíme?»",
+                "ru": "выражение «podniknúť kroky» в теме «Čo s tým urobíme?»",
+                "en": "the expression “podniknúť kroky” in the topic “Čo s tým urobíme?”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "вираз «možnosť» у темі «Čo s tým urobíme?»",
+                "ru": "выражение «možnosť» в теме «Čo s tým urobíme?»",
+                "en": "the expression “možnosť” in the topic “Čo s tým urobíme?”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b2-s03-l014-e02",
+          "lessonId": "b2-s03-l014",
+          "type": "matching",
+          "order": 2,
+          "question": "З'єднай фрази з поясненнями.",
+          "questionLocalized": {
+            "uk": "З'єднай фрази з поясненнями.",
+            "ru": "Соедини фразы с объяснениями.",
+            "en": "Match phrases with explanations."
+          },
+          "wordIds": [
+            "b2-s03-l014-w01",
+            "b2-s03-l014-w02",
+            "b2-s03-l014-w03",
+            "b2-s03-l014-w04"
+          ],
+          "pairs": [
+            {
+              "left": "navrhnúť",
+              "right": "вираз «navrhnúť» у темі «Čo s tým urobíme?»",
+              "rightRu": "выражение «navrhnúť» в теме «Čo s tým urobíme?»",
+              "rightEn": "the expression “navrhnúť” in the topic “Čo s tým urobíme?”"
+            },
+            {
+              "left": "podniknúť kroky",
+              "right": "вираз «podniknúť kroky» у темі «Čo s tým urobíme?»",
+              "rightRu": "выражение «podniknúť kroky» в теме «Čo s tým urobíme?»",
+              "rightEn": "the expression “podniknúť kroky” in the topic “Čo s tým urobíme?”"
+            },
+            {
+              "left": "možnosť",
+              "right": "вираз «možnosť» у темі «Čo s tým urobíme?»",
+              "rightRu": "выражение «možnosť» в теме «Čo s tým urobíme?»",
+              "rightEn": "the expression “možnosť” in the topic “Čo s tým urobíme?”"
+            },
+            {
+              "left": "alternatíva",
+              "right": "вираз «alternatíva» у темі «Čo s tým urobíme?»",
+              "rightRu": "выражение «alternatíva» в теме «Čo s tým urobíme?»",
+              "rightEn": "the expression “alternatíva” in the topic “Čo s tým urobíme?”"
+            }
+          ]
+        },
+        {
+          "id": "b2-s03-l014-e03",
+          "lessonId": "b2-s03-l014",
+          "type": "fill_blank",
+          "order": 3,
+          "question": "Впиши словацькою: вираз «možnosť» у темі «Čo s tým urobíme?».",
+          "questionLocalized": {
+            "uk": "Впиши словацькою: вираз «možnosť» у темі «Čo s tým urobíme?».",
+            "ru": "Впиши по-словацки: выражение «možnosť» в теме «Čo s tým urobíme?».",
+            "en": "Write in Slovak: the expression “možnosť” in the topic “Čo s tým urobíme?”."
+          },
+          "wordIds": [
+            "b2-s03-l014-w03"
+          ],
+          "sentence": "______",
+          "acceptedAnswers": [
+            "možnosť"
+          ],
+          "hint": {
+            "uk": "Початок: mo...",
+            "ru": "Начало: mo...",
+            "en": "Start: mo..."
+          }
+        },
+        {
+          "id": "b2-s03-l014-e04",
+          "lessonId": "b2-s03-l014",
+          "type": "dropdown_blank",
+          "order": 4,
+          "question": "Обери точну фразу для B2-речення.",
+          "questionLocalized": {
+            "uk": "Обери точну фразу для B2-речення.",
+            "ru": "Выбери точную фразу для B2-предложения.",
+            "en": "Choose the precise phrase for a B2 sentence."
+          },
+          "wordIds": [
+            "b2-s03-l014-w04"
+          ],
+          "sentenceParts": [
+            {
+              "text": "V tejto situácii je dôležité použiť "
+            },
+            {
+              "blankId": "blank1",
+              "options": [
+                "alternatíva",
+                "navrhnúť",
+                "podniknúť kroky"
+              ],
+              "correct": "alternatíva"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "b2-s03-l014-e05",
+          "lessonId": "b2-s03-l014",
+          "type": "sentence_builder",
+          "order": 5,
+          "question": "Склади природну словацьку репліку.",
+          "questionLocalized": {
+            "uk": "Склади природну словацьку репліку.",
+            "ru": "Собери естественную словацкую реплику.",
+            "en": "Build a natural Slovak reply."
+          },
+          "wordIds": [
+            "b2-s03-l014-w05"
+          ],
+          "tokens": [
+            "Rozumiem",
+            "situácii,",
+            "ale",
+            "potrebujem",
+            "ju",
+            "ešte",
+            "upresniť."
+          ],
+          "correctSentence": "Rozumiem situácii, ale potrebujem ju ešte upresniť."
+        },
+        {
+          "id": "b2-s03-l014-e06",
+          "lessonId": "b2-s03-l014",
+          "type": "multiple_select",
+          "order": 6,
+          "question": "Обери B2-репліки з природним тоном.",
+          "questionLocalized": {
+            "uk": "Обери B2-репліки з природним тоном.",
+            "ru": "Выбери B2-реплики с естественным тоном.",
+            "en": "Select B2 replies with a natural tone."
+          },
+          "wordIds": [
+            "b2-s03-l014-w01",
+            "b2-s03-l014-w06"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Rozumiem, ale potrebujem to presnejšie vysvetliť.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "To je úplne mimo a nemá zmysel hovoriť.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Z môjho pohľadu je dôležitý aj kontext.",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "id": "b2-s03-l014-e07",
+          "lessonId": "b2-s03-l014",
+          "type": "reading_comprehension",
+          "order": 7,
+          "question": "Прочитай текст і вибери головну думку.",
+          "questionLocalized": {
+            "uk": "Прочитай текст і вибери головну думку.",
+            "ru": "Прочитай текст и выбери главную мысль.",
+            "en": "Read the text and choose the main idea."
+          },
+          "wordIds": [
+            "b2-s03-l014-w06",
+            "b2-s03-l014-w07",
+            "b2-s03-l014-w08"
+          ],
+          "text": "Téma Čo s tým urobíme? si vyžaduje presnosť. Nestačí poznať slová; treba reagovať podľa kontextu, vysvetliť dôvod a navrhnúť ďalší krok.",
+          "questions": [
+            {
+              "prompt": {
+                "uk": "Що є головною думкою?",
+                "ru": "Что является главной мыслью?",
+                "en": "What is the main idea?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "Treba reagovať presne podľa kontextu.",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "Stačí opakovať jedno slovo.",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "Najlepšie je nereagovať.",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b2-s03-l014-e08",
+          "lessonId": "b2-s03-l014",
+          "type": "dialogue_choose_reply",
+          "order": 8,
+          "question": "Обери найкращу відповідь у діалозі.",
+          "questionLocalized": {
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
+          },
+          "wordIds": [
+            "b2-s03-l014-w07"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Ako by si to vysvetlil?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Najprv zhrniem situáciu a potom poviem svoj návrh.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Nepoviem nič, lebo je to ťažké.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Odpoviem jedným náhodným slovom.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b2-s03-l014-e09",
+          "lessonId": "b2-s03-l014",
+          "type": "meaning_in_context",
+          "order": 9,
+          "question": "Що означає «podniknúť kroky» у контексті?",
+          "questionLocalized": {
+            "uk": "Що означає «podniknúť kroky» у контексті?",
+            "ru": "Что означает «podniknúť kroky» в контексте?",
+            "en": "What does “podniknúť kroky” mean in context?"
+          },
+          "wordIds": [
+            "b2-s03-l014-w02"
+          ],
+          "context": {
+            "sk": "Rozhovor je citlivý, preto si najprv overím význam a tón."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "вираз «podniknúť kroky» у темі «Čo s tým urobíme?»",
+                "ru": "выражение «podniknúť kroky» в теме «Čo s tým urobíme?»",
+                "en": "the expression “podniknúť kroky” in the topic “Čo s tým urobíme?”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "вираз «postup» у темі «Čo s tým urobíme?»",
+                "ru": "выражение «postup» в теме «Čo s tým urobíme?»",
+                "en": "the expression “postup” in the topic “Čo s tým urobíme?”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "вираз «praktická fráza 8» у темі «Čo s tým urobíme?»",
+                "ru": "выражение «praktická fráza 8» в теме «Čo s tým urobíme?»",
+                "en": "the expression “praktická fráza 8” in the topic “Čo s tým urobíme?”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b2-s03-l014-e10",
+          "lessonId": "b2-s03-l014",
+          "type": "natural_phrase",
+          "order": 10,
+          "question": "Що звучить найприродніше?",
+          "questionLocalized": {
+            "uk": "Що звучить найприродніше?",
+            "ru": "Что звучит естественнее всего?",
+            "en": "What sounds most natural?"
+          },
+          "wordIds": [
+            "b2-s03-l014-w08"
+          ],
+          "situation": {
+            "uk": "Потрібно відповісти точно, але без різкого тону.",
+            "ru": "Нужно ответить точно, но без резкого тона.",
+            "en": "You need to answer precisely but without a sharp tone."
+          },
+          "options": [
+            {
+              "id": "a",
+              "sk": "Chápem tvoj pohľad, ale doplnil by som ešte jednu vec.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Ty ničomu nerozumieš.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Áno nie možno včera.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b2-s03-l014-e11",
+          "lessonId": "b2-s03-l014",
+          "type": "reverse_translation",
+          "order": 11,
+          "question": "Обери словацький варіант для: вираз «postup» у темі «Čo s tým urobíme?».",
+          "questionLocalized": {
+            "uk": "Обери словацький варіант для: вираз «postup» у темі «Čo s tým urobíme?».",
+            "ru": "Выбери словацкий вариант для: выражение «postup» в теме «Čo s tým urobíme?».",
+            "en": "Choose the Slovak item for: the expression “postup” in the topic “Čo s tým urobíme?”."
+          },
+          "wordIds": [
+            "b2-s03-l014-w05"
+          ],
+          "options": [
+            "postup",
+            "možnosť",
+            "navrhnúť"
+          ],
+          "correctAnswer": "postup"
+        },
+        {
+          "id": "b2-s03-l014-e12",
+          "lessonId": "b2-s03-l014",
+          "type": "multiple_choice_translation",
+          "order": 12,
+          "question": "Що відповідає словацькому «praktická fráza 8»?",
+          "questionLocalized": {
+            "uk": "Що відповідає словацькому «praktická fráza 8»?",
+            "ru": "Что соответствует словацкому «praktická fráza 8»?",
+            "en": "What matches the Slovak “praktická fráza 8”?"
+          },
+          "wordIds": [
+            "b2-s03-l014-w08"
+          ],
+          "options": [
+            "вираз «praktická fráza 8» у темі «Čo s tým urobíme?»",
+            "вираз «podniknúť kroky» у темі «Čo s tým urobíme?»",
+            "вираз «možnosť» у темі «Čo s tým urobíme?»"
+          ],
+          "correctAnswer": "вираз «praktická fráza 8» у темі «Čo s tým urobíme?»"
+        }
+      ],
+      "finalSituation": {
+        "id": "final-situation",
+        "type": "interactive_scenario",
+        "title": {
+          "uk": "Čo s tým urobíme?: реальна ситуація",
+          "ru": "Čo s tým urobíme?: реальная ситуация",
+          "en": "Čo s tým urobíme?: real situation"
+        },
+        "description": {
+          "uk": "Обери репліки, які звучать природно, точно й доречно на рівні B2.",
+          "ru": "Выбери реплики, которые звучат естественно, точно и уместно на уровне B2.",
+          "en": "Choose replies that sound natural, precise and appropriate at B2 level."
+        },
+        "steps": [
+          {
+            "id": "f1",
+            "prompt": {
+              "uk": "Потрібно почати відповідь без різкості.",
+              "ru": "Нужно начать ответ без резкости.",
+              "en": "You need to start without sounding harsh."
+            },
+            "options": [
+              {
+                "sk": "Rozumiem, skúsim to najprv zhrnúť vlastnými slovami.",
+                "correct": true
+              },
+              {
+                "sk": "Nemáš pravdu a viac sa o tom nebavme.",
+                "correct": false
+              },
+              {
+                "sk": "Neviem a nechcem reagovať.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "prompt": {
+              "uk": "Потрібно додати аргумент.",
+              "ru": "Нужно добавить аргумент.",
+              "en": "You need to add an argument."
+            },
+            "options": [
+              {
+                "sk": "Dôvod je podľa mňa v tom, že situácia má viac okolností.",
+                "correct": true
+              },
+              {
+                "sk": "Pretože áno.",
+                "correct": false
+              },
+              {
+                "sk": "To nesúvisí s ničím.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f3",
+            "prompt": {
+              "uk": "Потрібно завершити практично.",
+              "ru": "Нужно завершить практически.",
+              "en": "You need to close practically."
+            },
+            "options": [
+              {
+                "sk": "Navrhujem ďalší krok a potom si to potvrdíme písomne.",
+                "correct": true
+              },
+              {
+                "sk": "Nechajme to bez riešenia.",
+                "correct": false
+              },
+              {
+                "sk": "Každý nech si domyslí zvyšok.",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "passRequirement": "3/3",
+        "successMessage": {
+          "uk": "Готово: тема перенесена в реальну B2-комунікацію.",
+          "ru": "Готово: тема перенесена в реальную B2-коммуникацию.",
+          "en": "Done: the topic was transferred into real B2 communication."
+        }
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": {
+          "uk": "Урок завершено",
+          "ru": "Урок завершён",
+          "en": "Lesson complete"
+        },
+        "subtitle": {
+          "uk": "Ти пройшов ще один крок рівня B2.",
+          "ru": "Ты прошёл ещё один шаг уровня B2.",
+          "en": "You completed another B2 step."
+        },
+        "xpReward": 180,
+        "newWordsCount": 8,
+        "exercisesCompleted": 12,
+        "nowYouKnow": [
+          "структурувати відповідь",
+          "пояснювати нюанс",
+          "реагувати доречно"
+        ],
+        "mistakesMessage": {
+          "uk": "Повтори вправи, де плутається значення або тон.",
+          "ru": "Повтори упражнения, где путается значение или тон.",
+          "en": "Repeat exercises where meaning or tone is unclear."
+        },
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "skills": [
+          {
+            "id": "vocabulary",
+            "label": {
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
+            },
+            "weight": 0.3
+          },
+          {
+            "id": "composition",
+            "label": {
+              "uk": "структура",
+              "ru": "структура",
+              "en": "composition"
+            },
+            "weight": 0.4
+          },
+          {
+            "id": "transfer",
+            "label": {
+              "uk": "перенесення",
+              "ru": "перенос",
+              "en": "transfer"
+            },
+            "weight": 0.3
+          }
+        ],
+        "nextLesson": {
+          "id": "b2-s03-l015"
+        }
+      }
+    }
+  ]
+}

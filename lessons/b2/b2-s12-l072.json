@@ -1,0 +1,1050 @@
+{
+  "lessons": [
+    {
+      "id": "b2-s12-l072",
+      "sectionId": "b2_s12",
+      "level": "B2",
+      "title": {
+        "sk": "Keď sa veci nevyvíjajú podľa plánu",
+        "uk": "Keď sa veci nevyvíjajú podľa plánu",
+        "ru": "Keď sa veci nevyvíjajú podľa plánu",
+        "en": "Keď sa veci nevyvíjajú podľa plánu"
+      },
+      "topic": {
+        "sk": "Keď sa veci nevyvíjajú podľa plánu",
+        "uk": "Keď sa veci nevyvíjajú podľa plánu",
+        "ru": "Keď sa veci nevyvíjajú podľa plánu",
+        "en": "Keď sa veci nevyvíjajú podľa plánu"
+      },
+      "description": {
+        "sk": "Precvičíš si tému Keď sa veci nevyvíjajú podľa plánu v komplexnej komunikácii na úrovni B2.",
+        "uk": "Тренуємо тему «Keď sa veci nevyvíjajú podľa plánu»: аргументовано, точно й у реальному контексті.",
+        "ru": "говорим о неудаче, адаптации и новом плане.",
+        "en": "Practice the B2 topic “Keď sa veci nevyvíjajú podľa plánu” in complex communication. Section: Change, habits and life decisions."
+      },
+      "order": 72,
+      "xpReward": 180,
+      "estimatedMinutes": 32,
+      "isPublished": false,
+      "intro": {
+        "sk": "Precvičíš si tému Keď sa veci nevyvíjajú podľa plánu v komplexnej komunikácii na úrovni B2.",
+        "uk": "Тренуємо тему «Keď sa veci nevyvíjajú podľa plánu»: аргументовано, точно й у реальному контексті.",
+        "ru": "говорим о неудаче, адаптации и новом плане.",
+        "en": "Practice the B2 topic “Keď sa veci nevyvíjajú podľa plánu” in complex communication. Section: Change, habits and life decisions."
+      },
+      "completionMessage": {
+        "sk": "Výborne. Tému vieš použiť v náročnejšej komunikácii.",
+        "uk": "Добре. Тепер можеш використати тему в складнішій розмові.",
+        "ru": "Хорошо. Теперь можешь использовать тему в более сложном разговоре.",
+        "en": "Good. You can now use the topic in more complex communication."
+      },
+      "updatedAt": "2026-09-14T00:00:00Z",
+      "localization": {
+        "uiLanguages": [
+          "uk",
+          "ru",
+          "en"
+        ],
+        "targetLanguage": "sk",
+        "fallbackUiLanguage": "uk"
+      },
+      "assets": {
+        "images": {},
+        "audio": {}
+      },
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": {
+          "sk": "Keď sa veci nevyvíjajú podľa plánu",
+          "uk": "Keď sa veci nevyvíjajú podľa plánu",
+          "ru": "Keď sa veci nevyvíjajú podľa plánu",
+          "en": "Keď sa veci nevyvíjajú podľa plánu"
+        },
+        "shortDescription": {
+          "uk": "Тренуємо тему «Keď sa veci nevyvíjajú podľa plánu»: аргументовано, точно й у реальному контексті.",
+          "ru": "говорим о неудаче, адаптации и новом плане.",
+          "en": "Practice the B2 topic “Keď sa veci nevyvíjajú podľa plánu” in complex communication. Section: Change, habits and life decisions."
+        },
+        "outcomes": [
+          {
+            "uk": "пояснити думку точніше й довше",
+            "ru": "объяснить мысль точнее и длиннее",
+            "en": "explain an idea more precisely and at greater length"
+          },
+          {
+            "uk": "використати нові B2-фрази в контексті",
+            "ru": "использовать новые B2-фразы в контексте",
+            "en": "use new B2 phrases in context"
+          },
+          {
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
+          }
+        ],
+        "newWords": [
+          "b2-s12-l072-w01",
+          "b2-s12-l072-w02",
+          "b2-s12-l072-w03",
+          "b2-s12-l072-w04",
+          "b2-s12-l072-w05",
+          "b2-s12-l072-w06",
+          "b2-s12-l072-w07",
+          "b2-s12-l072-w08"
+        ],
+        "exercisesCount": 12,
+        "reward": "+180 XP",
+        "estimatedMinutes": 32,
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "id": "t1",
+          "screenType": "theory",
+          "order": 1,
+          "title": {
+            "uk": "Фокус уроку",
+            "ru": "Фокус урока",
+            "en": "Lesson focus"
+          },
+          "body": {
+            "uk": "Тренуємо тему «Keď sa veci nevyvíjajú podľa plánu»: аргументовано, точно й у реальному контексті.",
+            "ru": "говорим о неудаче, адаптации и новом плане.",
+            "en": "Practice the B2 topic “Keď sa veci nevyvíjajú podľa plánu” in complex communication. Section: Change, habits and life decisions."
+          },
+          "examples": [
+            {
+              "sk": "V téme Keď sa veci nevyvíjajú podľa plánu použijem výraz: nevyjsť podľa plánu.",
+              "translation": {
+                "uk": "У темі «Keď sa veci nevyvíjajú podľa plánu» використовую: вираз «nevyjsť podľa plánu» у темі «Keď sa veci nevyvíjajú podľa plánu».",
+                "ru": "В теме «Keď sa veci nevyvíjajú podľa plánu» использую: выражение «nevyjsť podľa plánu» в теме «Keď sa veci nevyvíjajú podľa plánu».",
+                "en": "In “Keď sa veci nevyvíjajú podľa plánu”, I use: the expression “nevyjsť podľa plánu” in the topic “Keď sa veci nevyvíjajú podľa plánu”."
+              }
+            },
+            {
+              "sk": "V téme Keď sa veci nevyvíjajú podľa plánu použijem výraz: prispôsobiť sa.",
+              "translation": {
+                "uk": "У темі «Keď sa veci nevyvíjajú podľa plánu» використовую: вираз «prispôsobiť sa» у темі «Keď sa veci nevyvíjajú podľa plánu».",
+                "ru": "В теме «Keď sa veci nevyvíjajú podľa plánu» использую: выражение «prispôsobiť sa» в теме «Keď sa veci nevyvíjajú podľa plánu».",
+                "en": "In “Keď sa veci nevyvíjajú podľa plánu”, I use: the expression “prispôsobiť sa” in the topic “Keď sa veci nevyvíjajú podľa plánu”."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "На B2 важливо не просто відповісти, а показати причину, умову, наслідок або нюанс.",
+            "ru": "На B2 важно не просто ответить, а показать причину, условие, последствие или нюанс.",
+            "en": "At B2, show a reason, condition, consequence or nuance."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t2",
+          "screenType": "theory",
+          "order": 2,
+          "title": {
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer model"
+          },
+          "body": {
+            "uk": "Будуй відповідь за схемою: контекст -> позиція -> аргумент -> приклад -> наступний крок.",
+            "ru": "Строй ответ по схеме: контекст -> позиция -> аргумент -> пример -> следующий шаг.",
+            "en": "Build the answer as: context -> position -> argument -> example -> next step."
+          },
+          "examples": [
+            {
+              "sk": "Z môjho pohľadu je dôležité najprv vysvetliť kontext.",
+              "translation": {
+                "uk": "З моєї точки зору важливо спочатку пояснити контекст.",
+                "ru": "С моей точки зрения важно сначала объяснить контекст.",
+                "en": "From my point of view, it is important to explain the context first."
+              }
+            },
+            {
+              "sk": "Na druhej strane treba zohľadniť aj praktické dôsledky.",
+              "translation": {
+                "uk": "З іншого боку, треба врахувати також практичні наслідки.",
+                "ru": "С другой стороны, нужно учесть и практические последствия.",
+                "en": "On the other hand, practical consequences must also be considered."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "Одна сильна відповідь має структуру, а не лише правильні слова.",
+            "ru": "Один сильный ответ имеет структуру, а не только правильные слова.",
+            "en": "A strong answer has structure, not only correct words."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t3",
+          "screenType": "theory",
+          "order": 3,
+          "title": {
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
+          },
+          "body": {
+            "uk": "У фіналі потрібно вибрати репліку, яка реально рухає ситуацію вперед.",
+            "ru": "В финале нужно выбрать реплику, которая реально двигает ситуацию дальше.",
+            "en": "In the final task, choose the reply that moves the situation forward."
+          },
+          "examples": [
+            {
+              "sk": "Navrhujem, aby sme si najprv ujasnili priority.",
+              "translation": {
+                "uk": "Пропоную спочатку прояснити пріоритети.",
+                "ru": "Предлагаю сначала прояснить приоритеты.",
+                "en": "I suggest clarifying priorities first."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "B2 = самостійна, зв'язна й доречна комунікація.",
+            "ru": "B2 = самостоятельная, связная и уместная коммуникация.",
+            "en": "B2 means independent, connected and appropriate communication."
+          },
+          "button": "До слів"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": {
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
+        },
+        "description": {
+          "uk": "Ці одиниці взяті з затвердженого B2-плану.",
+          "ru": "Эти единицы взяты из утвержденного B2-плана.",
+          "en": "These items come from the approved B2 plan."
+        },
+        "items": [
+          {
+            "wordId": "b2-s12-l072-w01",
+            "sk": "nevyjsť podľa plánu",
+            "uk": "вираз «nevyjsť podľa plánu» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+            "ru": "выражение «nevyjsť podľa plánu» в теме «Keď sa veci nevyvíjajú podľa plánu»",
+            "en": "the expression “nevyjsť podľa plánu” in the topic “Keď sa veci nevyvíjajú podľa plánu”",
+            "pronunciationUk": "nevyjst' podl'a planu",
+            "exampleSk": "V téme Keď sa veci nevyvíjajú podľa plánu použijem výraz: nevyjsť podľa plánu.",
+            "exampleUk": "У темі «Keď sa veci nevyvíjajú podľa plánu» використовую: вираз «nevyjsť podľa plánu» у темі «Keď sa veci nevyvíjajú podľa plánu».",
+            "exampleRu": "В теме «Keď sa veci nevyvíjajú podľa plánu» использую: выражение «nevyjsť podľa plánu» в теме «Keď sa veci nevyvíjajú podľa plánu».",
+            "exampleEn": "In “Keď sa veci nevyvíjajú podľa plánu”, I use: the expression “nevyjsť podľa plánu” in the topic “Keď sa veci nevyvíjajú podľa plánu”."
+          },
+          {
+            "wordId": "b2-s12-l072-w02",
+            "sk": "prispôsobiť sa",
+            "uk": "вираз «prispôsobiť sa» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+            "ru": "выражение «prispôsobiť sa» в теме «Keď sa veci nevyvíjajú podľa plánu»",
+            "en": "the expression “prispôsobiť sa” in the topic “Keď sa veci nevyvíjajú podľa plánu”",
+            "pronunciationUk": "prispuosobit' sa",
+            "exampleSk": "V téme Keď sa veci nevyvíjajú podľa plánu použijem výraz: prispôsobiť sa.",
+            "exampleUk": "У темі «Keď sa veci nevyvíjajú podľa plánu» використовую: вираз «prispôsobiť sa» у темі «Keď sa veci nevyvíjajú podľa plánu».",
+            "exampleRu": "В теме «Keď sa veci nevyvíjajú podľa plánu» использую: выражение «prispôsobiť sa» в теме «Keď sa veci nevyvíjajú podľa plánu».",
+            "exampleEn": "In “Keď sa veci nevyvíjajú podľa plánu”, I use: the expression “prispôsobiť sa” in the topic “Keď sa veci nevyvíjajú podľa plánu”."
+          },
+          {
+            "wordId": "b2-s12-l072-w03",
+            "sk": "zmeniť smer",
+            "uk": "вираз «zmeniť smer» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+            "ru": "выражение «zmeniť smer» в теме «Keď sa veci nevyvíjajú podľa plánu»",
+            "en": "the expression “zmeniť smer” in the topic “Keď sa veci nevyvíjajú podľa plánu”",
+            "pronunciationUk": "zmenit' smer",
+            "exampleSk": "V téme Keď sa veci nevyvíjajú podľa plánu použijem výraz: zmeniť smer.",
+            "exampleUk": "У темі «Keď sa veci nevyvíjajú podľa plánu» використовую: вираз «zmeniť smer» у темі «Keď sa veci nevyvíjajú podľa plánu».",
+            "exampleRu": "В теме «Keď sa veci nevyvíjajú podľa plánu» использую: выражение «zmeniť smer» в теме «Keď sa veci nevyvíjajú podľa plánu».",
+            "exampleEn": "In “Keď sa veci nevyvíjajú podľa plánu”, I use: the expression “zmeniť smer” in the topic “Keď sa veci nevyvíjajú podľa plánu”."
+          },
+          {
+            "wordId": "b2-s12-l072-w04",
+            "sk": "neočakávaný vývoj",
+            "uk": "вираз «neočakávaný vývoj» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+            "ru": "выражение «neočakávaný vývoj» в теме «Keď sa veci nevyvíjajú podľa plánu»",
+            "en": "the expression “neočakávaný vývoj” in the topic “Keď sa veci nevyvíjajú podľa plánu”",
+            "pronunciationUk": "neochakavany vyvoj",
+            "exampleSk": "V téme Keď sa veci nevyvíjajú podľa plánu použijem výraz: neočakávaný vývoj.",
+            "exampleUk": "У темі «Keď sa veci nevyvíjajú podľa plánu» використовую: вираз «neočakávaný vývoj» у темі «Keď sa veci nevyvíjajú podľa plánu».",
+            "exampleRu": "В теме «Keď sa veci nevyvíjajú podľa plánu» использую: выражение «neočakávaný vývoj» в теме «Keď sa veci nevyvíjajú podľa plánu».",
+            "exampleEn": "In “Keď sa veci nevyvíjajú podľa plánu”, I use: the expression “neočakávaný vývoj” in the topic “Keď sa veci nevyvíjajú podľa plánu”."
+          },
+          {
+            "wordId": "b2-s12-l072-w05",
+            "sk": "zvládnuť",
+            "uk": "вираз «zvládnuť» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+            "ru": "выражение «zvládnuť» в теме «Keď sa veci nevyvíjajú podľa plánu»",
+            "en": "the expression “zvládnuť” in the topic “Keď sa veci nevyvíjajú podľa plánu”",
+            "pronunciationUk": "zvladnut'",
+            "exampleSk": "V téme Keď sa veci nevyvíjajú podľa plánu použijem výraz: zvládnuť.",
+            "exampleUk": "У темі «Keď sa veci nevyvíjajú podľa plánu» використовую: вираз «zvládnuť» у темі «Keď sa veci nevyvíjajú podľa plánu».",
+            "exampleRu": "В теме «Keď sa veci nevyvíjajú podľa plánu» использую: выражение «zvládnuť» в теме «Keď sa veci nevyvíjajú podľa plánu».",
+            "exampleEn": "In “Keď sa veci nevyvíjajú podľa plánu”, I use: the expression “zvládnuť” in the topic “Keď sa veci nevyvíjajú podľa plánu”."
+          },
+          {
+            "wordId": "b2-s12-l072-w06",
+            "sk": "poučiť sa",
+            "uk": "вираз «poučiť sa» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+            "ru": "выражение «poučiť sa» в теме «Keď sa veci nevyvíjajú podľa plánu»",
+            "en": "the expression “poučiť sa” in the topic “Keď sa veci nevyvíjajú podľa plánu”",
+            "pronunciationUk": "pouchit' sa",
+            "exampleSk": "V téme Keď sa veci nevyvíjajú podľa plánu použijem výraz: poučiť sa.",
+            "exampleUk": "У темі «Keď sa veci nevyvíjajú podľa plánu» використовую: вираз «poučiť sa» у темі «Keď sa veci nevyvíjajú podľa plánu».",
+            "exampleRu": "В теме «Keď sa veci nevyvíjajú podľa plánu» использую: выражение «poučiť sa» в теме «Keď sa veci nevyvíjajú podľa plánu».",
+            "exampleEn": "In “Keď sa veci nevyvíjajú podľa plánu”, I use: the expression “poučiť sa” in the topic “Keď sa veci nevyvíjajú podľa plánu”."
+          },
+          {
+            "wordId": "b2-s12-l072-w07",
+            "sk": "praktická fráza 7",
+            "uk": "вираз «praktická fráza 7» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+            "ru": "выражение «praktická fráza 7» в теме «Keď sa veci nevyvíjajú podľa plánu»",
+            "en": "the expression “praktická fráza 7” in the topic “Keď sa veci nevyvíjajú podľa plánu”",
+            "pronunciationUk": "prakticka fraza 7",
+            "exampleSk": "V téme Keď sa veci nevyvíjajú podľa plánu použijem výraz: praktická fráza 7.",
+            "exampleUk": "У темі «Keď sa veci nevyvíjajú podľa plánu» використовую: вираз «praktická fráza 7» у темі «Keď sa veci nevyvíjajú podľa plánu».",
+            "exampleRu": "В теме «Keď sa veci nevyvíjajú podľa plánu» использую: выражение «praktická fráza 7» в теме «Keď sa veci nevyvíjajú podľa plánu».",
+            "exampleEn": "In “Keď sa veci nevyvíjajú podľa plánu”, I use: the expression “praktická fráza 7” in the topic “Keď sa veci nevyvíjajú podľa plánu”."
+          },
+          {
+            "wordId": "b2-s12-l072-w08",
+            "sk": "praktická fráza 8",
+            "uk": "вираз «praktická fráza 8» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+            "ru": "выражение «praktická fráza 8» в теме «Keď sa veci nevyvíjajú podľa plánu»",
+            "en": "the expression “praktická fráza 8” in the topic “Keď sa veci nevyvíjajú podľa plánu”",
+            "pronunciationUk": "prakticka fraza 8",
+            "exampleSk": "V téme Keď sa veci nevyvíjajú podľa plánu použijem výraz: praktická fráza 8.",
+            "exampleUk": "У темі «Keď sa veci nevyvíjajú podľa plánu» використовую: вираз «praktická fráza 8» у темі «Keď sa veci nevyvíjajú podľa plánu».",
+            "exampleRu": "В теме «Keď sa veci nevyvíjajú podľa plánu» использую: выражение «praktická fráza 8» в теме «Keď sa veci nevyvíjajú podľa plánu».",
+            "exampleEn": "In “Keď sa veci nevyvíjajú podľa plánu”, I use: the expression “praktická fráza 8” in the topic “Keď sa veci nevyvíjajú podľa plánu”."
+          }
+        ],
+        "button": "До практики"
+      },
+      "words": [
+        {
+          "id": "b2-s12-l072-w01",
+          "sk": "nevyjsť podľa plánu",
+          "uk": "вираз «nevyjsť podľa plánu» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+          "ru": "выражение «nevyjsť podľa plánu» в теме «Keď sa veci nevyvíjajú podľa plánu»",
+          "en": "the expression “nevyjsť podľa plánu” in the topic “Keď sa veci nevyvíjajú podľa plánu”",
+          "pronunciationUk": "nevyjst' podl'a planu",
+          "exampleSk": "V téme Keď sa veci nevyvíjajú podľa plánu použijem výraz: nevyjsť podľa plánu.",
+          "exampleUk": "У темі «Keď sa veci nevyvíjajú podľa plánu» використовую: вираз «nevyjsť podľa plánu» у темі «Keď sa veci nevyvíjajú podľa plánu».",
+          "exampleRu": "В теме «Keď sa veci nevyvíjajú podľa plánu» использую: выражение «nevyjsť podľa plánu» в теме «Keď sa veci nevyvíjajú podľa plánu».",
+          "exampleEn": "In “Keď sa veci nevyvíjajú podľa plánu”, I use: the expression “nevyjsť podľa plánu” in the topic “Keď sa veci nevyvíjajú podľa plánu”.",
+          "level": "B2",
+          "topic": "Keď sa veci nevyvíjajú podľa plánu",
+          "tags": [
+            "b2_s12",
+            "b2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "b2-s12-l072-w02",
+          "sk": "prispôsobiť sa",
+          "uk": "вираз «prispôsobiť sa» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+          "ru": "выражение «prispôsobiť sa» в теме «Keď sa veci nevyvíjajú podľa plánu»",
+          "en": "the expression “prispôsobiť sa” in the topic “Keď sa veci nevyvíjajú podľa plánu”",
+          "pronunciationUk": "prispuosobit' sa",
+          "exampleSk": "V téme Keď sa veci nevyvíjajú podľa plánu použijem výraz: prispôsobiť sa.",
+          "exampleUk": "У темі «Keď sa veci nevyvíjajú podľa plánu» використовую: вираз «prispôsobiť sa» у темі «Keď sa veci nevyvíjajú podľa plánu».",
+          "exampleRu": "В теме «Keď sa veci nevyvíjajú podľa plánu» использую: выражение «prispôsobiť sa» в теме «Keď sa veci nevyvíjajú podľa plánu».",
+          "exampleEn": "In “Keď sa veci nevyvíjajú podľa plánu”, I use: the expression “prispôsobiť sa” in the topic “Keď sa veci nevyvíjajú podľa plánu”.",
+          "level": "B2",
+          "topic": "Keď sa veci nevyvíjajú podľa plánu",
+          "tags": [
+            "b2_s12",
+            "b2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "b2-s12-l072-w03",
+          "sk": "zmeniť smer",
+          "uk": "вираз «zmeniť smer» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+          "ru": "выражение «zmeniť smer» в теме «Keď sa veci nevyvíjajú podľa plánu»",
+          "en": "the expression “zmeniť smer” in the topic “Keď sa veci nevyvíjajú podľa plánu”",
+          "pronunciationUk": "zmenit' smer",
+          "exampleSk": "V téme Keď sa veci nevyvíjajú podľa plánu použijem výraz: zmeniť smer.",
+          "exampleUk": "У темі «Keď sa veci nevyvíjajú podľa plánu» використовую: вираз «zmeniť smer» у темі «Keď sa veci nevyvíjajú podľa plánu».",
+          "exampleRu": "В теме «Keď sa veci nevyvíjajú podľa plánu» использую: выражение «zmeniť smer» в теме «Keď sa veci nevyvíjajú podľa plánu».",
+          "exampleEn": "In “Keď sa veci nevyvíjajú podľa plánu”, I use: the expression “zmeniť smer” in the topic “Keď sa veci nevyvíjajú podľa plánu”.",
+          "level": "B2",
+          "topic": "Keď sa veci nevyvíjajú podľa plánu",
+          "tags": [
+            "b2_s12",
+            "b2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "b2-s12-l072-w04",
+          "sk": "neočakávaný vývoj",
+          "uk": "вираз «neočakávaný vývoj» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+          "ru": "выражение «neočakávaný vývoj» в теме «Keď sa veci nevyvíjajú podľa plánu»",
+          "en": "the expression “neočakávaný vývoj” in the topic “Keď sa veci nevyvíjajú podľa plánu”",
+          "pronunciationUk": "neochakavany vyvoj",
+          "exampleSk": "V téme Keď sa veci nevyvíjajú podľa plánu použijem výraz: neočakávaný vývoj.",
+          "exampleUk": "У темі «Keď sa veci nevyvíjajú podľa plánu» використовую: вираз «neočakávaný vývoj» у темі «Keď sa veci nevyvíjajú podľa plánu».",
+          "exampleRu": "В теме «Keď sa veci nevyvíjajú podľa plánu» использую: выражение «neočakávaný vývoj» в теме «Keď sa veci nevyvíjajú podľa plánu».",
+          "exampleEn": "In “Keď sa veci nevyvíjajú podľa plánu”, I use: the expression “neočakávaný vývoj” in the topic “Keď sa veci nevyvíjajú podľa plánu”.",
+          "level": "B2",
+          "topic": "Keď sa veci nevyvíjajú podľa plánu",
+          "tags": [
+            "b2_s12",
+            "b2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "b2-s12-l072-w05",
+          "sk": "zvládnuť",
+          "uk": "вираз «zvládnuť» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+          "ru": "выражение «zvládnuť» в теме «Keď sa veci nevyvíjajú podľa plánu»",
+          "en": "the expression “zvládnuť” in the topic “Keď sa veci nevyvíjajú podľa plánu”",
+          "pronunciationUk": "zvladnut'",
+          "exampleSk": "V téme Keď sa veci nevyvíjajú podľa plánu použijem výraz: zvládnuť.",
+          "exampleUk": "У темі «Keď sa veci nevyvíjajú podľa plánu» використовую: вираз «zvládnuť» у темі «Keď sa veci nevyvíjajú podľa plánu».",
+          "exampleRu": "В теме «Keď sa veci nevyvíjajú podľa plánu» использую: выражение «zvládnuť» в теме «Keď sa veci nevyvíjajú podľa plánu».",
+          "exampleEn": "In “Keď sa veci nevyvíjajú podľa plánu”, I use: the expression “zvládnuť” in the topic “Keď sa veci nevyvíjajú podľa plánu”.",
+          "level": "B2",
+          "topic": "Keď sa veci nevyvíjajú podľa plánu",
+          "tags": [
+            "b2_s12",
+            "b2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "b2-s12-l072-w06",
+          "sk": "poučiť sa",
+          "uk": "вираз «poučiť sa» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+          "ru": "выражение «poučiť sa» в теме «Keď sa veci nevyvíjajú podľa plánu»",
+          "en": "the expression “poučiť sa” in the topic “Keď sa veci nevyvíjajú podľa plánu”",
+          "pronunciationUk": "pouchit' sa",
+          "exampleSk": "V téme Keď sa veci nevyvíjajú podľa plánu použijem výraz: poučiť sa.",
+          "exampleUk": "У темі «Keď sa veci nevyvíjajú podľa plánu» використовую: вираз «poučiť sa» у темі «Keď sa veci nevyvíjajú podľa plánu».",
+          "exampleRu": "В теме «Keď sa veci nevyvíjajú podľa plánu» использую: выражение «poučiť sa» в теме «Keď sa veci nevyvíjajú podľa plánu».",
+          "exampleEn": "In “Keď sa veci nevyvíjajú podľa plánu”, I use: the expression “poučiť sa” in the topic “Keď sa veci nevyvíjajú podľa plánu”.",
+          "level": "B2",
+          "topic": "Keď sa veci nevyvíjajú podľa plánu",
+          "tags": [
+            "b2_s12",
+            "b2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "b2-s12-l072-w07",
+          "sk": "praktická fráza 7",
+          "uk": "вираз «praktická fráza 7» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+          "ru": "выражение «praktická fráza 7» в теме «Keď sa veci nevyvíjajú podľa plánu»",
+          "en": "the expression “praktická fráza 7” in the topic “Keď sa veci nevyvíjajú podľa plánu”",
+          "pronunciationUk": "prakticka fraza 7",
+          "exampleSk": "V téme Keď sa veci nevyvíjajú podľa plánu použijem výraz: praktická fráza 7.",
+          "exampleUk": "У темі «Keď sa veci nevyvíjajú podľa plánu» використовую: вираз «praktická fráza 7» у темі «Keď sa veci nevyvíjajú podľa plánu».",
+          "exampleRu": "В теме «Keď sa veci nevyvíjajú podľa plánu» использую: выражение «praktická fráza 7» в теме «Keď sa veci nevyvíjajú podľa plánu».",
+          "exampleEn": "In “Keď sa veci nevyvíjajú podľa plánu”, I use: the expression “praktická fráza 7” in the topic “Keď sa veci nevyvíjajú podľa plánu”.",
+          "level": "B2",
+          "topic": "Keď sa veci nevyvíjajú podľa plánu",
+          "tags": [
+            "b2_s12",
+            "b2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "b2-s12-l072-w08",
+          "sk": "praktická fráza 8",
+          "uk": "вираз «praktická fráza 8» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+          "ru": "выражение «praktická fráza 8» в теме «Keď sa veci nevyvíjajú podľa plánu»",
+          "en": "the expression “praktická fráza 8” in the topic “Keď sa veci nevyvíjajú podľa plánu”",
+          "pronunciationUk": "prakticka fraza 8",
+          "exampleSk": "V téme Keď sa veci nevyvíjajú podľa plánu použijem výraz: praktická fráza 8.",
+          "exampleUk": "У темі «Keď sa veci nevyvíjajú podľa plánu» використовую: вираз «praktická fráza 8» у темі «Keď sa veci nevyvíjajú podľa plánu».",
+          "exampleRu": "В теме «Keď sa veci nevyvíjajú podľa plánu» использую: выражение «praktická fráza 8» в теме «Keď sa veci nevyvíjajú podľa plánu».",
+          "exampleEn": "In “Keď sa veci nevyvíjajú podľa plánu”, I use: the expression “praktická fráza 8” in the topic “Keď sa veci nevyvíjajú podľa plánu”.",
+          "level": "B2",
+          "topic": "Keď sa veci nevyvíjajú podľa plánu",
+          "tags": [
+            "b2_s12",
+            "b2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "b2-s12-l072-e01",
+          "lessonId": "b2-s12-l072",
+          "type": "single_choice",
+          "order": 1,
+          "question": "Що означає «nevyjsť podľa plánu»?",
+          "questionLocalized": {
+            "uk": "Що означає «nevyjsť podľa plánu»?",
+            "ru": "Что означает «nevyjsť podľa plánu»?",
+            "en": "What does “nevyjsť podľa plánu” mean?"
+          },
+          "wordIds": [
+            "b2-s12-l072-w01"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "вираз «nevyjsť podľa plánu» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+                "ru": "выражение «nevyjsť podľa plánu» в теме «Keď sa veci nevyvíjajú podľa plánu»",
+                "en": "the expression “nevyjsť podľa plánu” in the topic “Keď sa veci nevyvíjajú podľa plánu”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "вираз «prispôsobiť sa» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+                "ru": "выражение «prispôsobiť sa» в теме «Keď sa veci nevyvíjajú podľa plánu»",
+                "en": "the expression “prispôsobiť sa” in the topic “Keď sa veci nevyvíjajú podľa plánu”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "вираз «zmeniť smer» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+                "ru": "выражение «zmeniť smer» в теме «Keď sa veci nevyvíjajú podľa plánu»",
+                "en": "the expression “zmeniť smer” in the topic “Keď sa veci nevyvíjajú podľa plánu”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b2-s12-l072-e02",
+          "lessonId": "b2-s12-l072",
+          "type": "matching",
+          "order": 2,
+          "question": "З'єднай фрази з поясненнями.",
+          "questionLocalized": {
+            "uk": "З'єднай фрази з поясненнями.",
+            "ru": "Соедини фразы с объяснениями.",
+            "en": "Match phrases with explanations."
+          },
+          "wordIds": [
+            "b2-s12-l072-w01",
+            "b2-s12-l072-w02",
+            "b2-s12-l072-w03",
+            "b2-s12-l072-w04"
+          ],
+          "pairs": [
+            {
+              "left": "nevyjsť podľa plánu",
+              "right": "вираз «nevyjsť podľa plánu» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+              "rightRu": "выражение «nevyjsť podľa plánu» в теме «Keď sa veci nevyvíjajú podľa plánu»",
+              "rightEn": "the expression “nevyjsť podľa plánu” in the topic “Keď sa veci nevyvíjajú podľa plánu”"
+            },
+            {
+              "left": "prispôsobiť sa",
+              "right": "вираз «prispôsobiť sa» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+              "rightRu": "выражение «prispôsobiť sa» в теме «Keď sa veci nevyvíjajú podľa plánu»",
+              "rightEn": "the expression “prispôsobiť sa” in the topic “Keď sa veci nevyvíjajú podľa plánu”"
+            },
+            {
+              "left": "zmeniť smer",
+              "right": "вираз «zmeniť smer» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+              "rightRu": "выражение «zmeniť smer» в теме «Keď sa veci nevyvíjajú podľa plánu»",
+              "rightEn": "the expression “zmeniť smer” in the topic “Keď sa veci nevyvíjajú podľa plánu”"
+            },
+            {
+              "left": "neočakávaný vývoj",
+              "right": "вираз «neočakávaný vývoj» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+              "rightRu": "выражение «neočakávaný vývoj» в теме «Keď sa veci nevyvíjajú podľa plánu»",
+              "rightEn": "the expression “neočakávaný vývoj” in the topic “Keď sa veci nevyvíjajú podľa plánu”"
+            }
+          ]
+        },
+        {
+          "id": "b2-s12-l072-e03",
+          "lessonId": "b2-s12-l072",
+          "type": "fill_blank",
+          "order": 3,
+          "question": "Впиши словацькою: вираз «zmeniť smer» у темі «Keď sa veci nevyvíjajú podľa plánu».",
+          "questionLocalized": {
+            "uk": "Впиши словацькою: вираз «zmeniť smer» у темі «Keď sa veci nevyvíjajú podľa plánu».",
+            "ru": "Впиши по-словацки: выражение «zmeniť smer» в теме «Keď sa veci nevyvíjajú podľa plánu».",
+            "en": "Write in Slovak: the expression “zmeniť smer” in the topic “Keď sa veci nevyvíjajú podľa plánu”."
+          },
+          "wordIds": [
+            "b2-s12-l072-w03"
+          ],
+          "sentence": "______",
+          "acceptedAnswers": [
+            "zmeniť smer"
+          ],
+          "hint": {
+            "uk": "Початок: zm...",
+            "ru": "Начало: zm...",
+            "en": "Start: zm..."
+          }
+        },
+        {
+          "id": "b2-s12-l072-e04",
+          "lessonId": "b2-s12-l072",
+          "type": "dropdown_blank",
+          "order": 4,
+          "question": "Обери точну фразу для B2-речення.",
+          "questionLocalized": {
+            "uk": "Обери точну фразу для B2-речення.",
+            "ru": "Выбери точную фразу для B2-предложения.",
+            "en": "Choose the precise phrase for a B2 sentence."
+          },
+          "wordIds": [
+            "b2-s12-l072-w04"
+          ],
+          "sentenceParts": [
+            {
+              "text": "V tejto situácii je dôležité použiť "
+            },
+            {
+              "blankId": "blank1",
+              "options": [
+                "neočakávaný vývoj",
+                "nevyjsť podľa plánu",
+                "prispôsobiť sa"
+              ],
+              "correct": "neočakávaný vývoj"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "b2-s12-l072-e05",
+          "lessonId": "b2-s12-l072",
+          "type": "sentence_builder",
+          "order": 5,
+          "question": "Склади природну словацьку репліку.",
+          "questionLocalized": {
+            "uk": "Склади природну словацьку репліку.",
+            "ru": "Собери естественную словацкую реплику.",
+            "en": "Build a natural Slovak reply."
+          },
+          "wordIds": [
+            "b2-s12-l072-w05"
+          ],
+          "tokens": [
+            "Rozumiem",
+            "situácii,",
+            "ale",
+            "potrebujem",
+            "ju",
+            "ešte",
+            "upresniť."
+          ],
+          "correctSentence": "Rozumiem situácii, ale potrebujem ju ešte upresniť."
+        },
+        {
+          "id": "b2-s12-l072-e06",
+          "lessonId": "b2-s12-l072",
+          "type": "multiple_select",
+          "order": 6,
+          "question": "Обери B2-репліки з природним тоном.",
+          "questionLocalized": {
+            "uk": "Обери B2-репліки з природним тоном.",
+            "ru": "Выбери B2-реплики с естественным тоном.",
+            "en": "Select B2 replies with a natural tone."
+          },
+          "wordIds": [
+            "b2-s12-l072-w01",
+            "b2-s12-l072-w06"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Rozumiem, ale potrebujem to presnejšie vysvetliť.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "To je úplne mimo a nemá zmysel hovoriť.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Z môjho pohľadu je dôležitý aj kontext.",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "id": "b2-s12-l072-e07",
+          "lessonId": "b2-s12-l072",
+          "type": "reading_comprehension",
+          "order": 7,
+          "question": "Прочитай текст і вибери головну думку.",
+          "questionLocalized": {
+            "uk": "Прочитай текст і вибери головну думку.",
+            "ru": "Прочитай текст и выбери главную мысль.",
+            "en": "Read the text and choose the main idea."
+          },
+          "wordIds": [
+            "b2-s12-l072-w06",
+            "b2-s12-l072-w07",
+            "b2-s12-l072-w08"
+          ],
+          "text": "Téma Keď sa veci nevyvíjajú podľa plánu si vyžaduje presnosť. Nestačí poznať slová; treba reagovať podľa kontextu, vysvetliť dôvod a navrhnúť ďalší krok.",
+          "questions": [
+            {
+              "prompt": {
+                "uk": "Що є головною думкою?",
+                "ru": "Что является главной мыслью?",
+                "en": "What is the main idea?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "Treba reagovať presne podľa kontextu.",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "Stačí opakovať jedno slovo.",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "Najlepšie je nereagovať.",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b2-s12-l072-e08",
+          "lessonId": "b2-s12-l072",
+          "type": "dialogue_choose_reply",
+          "order": 8,
+          "question": "Обери найкращу відповідь у діалозі.",
+          "questionLocalized": {
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
+          },
+          "wordIds": [
+            "b2-s12-l072-w07"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Ako by si to vysvetlil?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Najprv zhrniem situáciu a potom poviem svoj návrh.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Nepoviem nič, lebo je to ťažké.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Odpoviem jedným náhodným slovom.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b2-s12-l072-e09",
+          "lessonId": "b2-s12-l072",
+          "type": "meaning_in_context",
+          "order": 9,
+          "question": "Що означає «prispôsobiť sa» у контексті?",
+          "questionLocalized": {
+            "uk": "Що означає «prispôsobiť sa» у контексті?",
+            "ru": "Что означает «prispôsobiť sa» в контексте?",
+            "en": "What does “prispôsobiť sa” mean in context?"
+          },
+          "wordIds": [
+            "b2-s12-l072-w02"
+          ],
+          "context": {
+            "sk": "Rozhovor je citlivý, preto si najprv overím význam a tón."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "вираз «prispôsobiť sa» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+                "ru": "выражение «prispôsobiť sa» в теме «Keď sa veci nevyvíjajú podľa plánu»",
+                "en": "the expression “prispôsobiť sa” in the topic “Keď sa veci nevyvíjajú podľa plánu”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "вираз «zvládnuť» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+                "ru": "выражение «zvládnuť» в теме «Keď sa veci nevyvíjajú podľa plánu»",
+                "en": "the expression “zvládnuť” in the topic “Keď sa veci nevyvíjajú podľa plánu”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "вираз «praktická fráza 8» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+                "ru": "выражение «praktická fráza 8» в теме «Keď sa veci nevyvíjajú podľa plánu»",
+                "en": "the expression “praktická fráza 8” in the topic “Keď sa veci nevyvíjajú podľa plánu”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b2-s12-l072-e10",
+          "lessonId": "b2-s12-l072",
+          "type": "natural_phrase",
+          "order": 10,
+          "question": "Що звучить найприродніше?",
+          "questionLocalized": {
+            "uk": "Що звучить найприродніше?",
+            "ru": "Что звучит естественнее всего?",
+            "en": "What sounds most natural?"
+          },
+          "wordIds": [
+            "b2-s12-l072-w08"
+          ],
+          "situation": {
+            "uk": "Потрібно відповісти точно, але без різкого тону.",
+            "ru": "Нужно ответить точно, но без резкого тона.",
+            "en": "You need to answer precisely but without a sharp tone."
+          },
+          "options": [
+            {
+              "id": "a",
+              "sk": "Chápem tvoj pohľad, ale doplnil by som ešte jednu vec.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Ty ničomu nerozumieš.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Áno nie možno včera.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b2-s12-l072-e11",
+          "lessonId": "b2-s12-l072",
+          "type": "reverse_translation",
+          "order": 11,
+          "question": "Обери словацький варіант для: вираз «zvládnuť» у темі «Keď sa veci nevyvíjajú podľa plánu».",
+          "questionLocalized": {
+            "uk": "Обери словацький варіант для: вираз «zvládnuť» у темі «Keď sa veci nevyvíjajú podľa plánu».",
+            "ru": "Выбери словацкий вариант для: выражение «zvládnuť» в теме «Keď sa veci nevyvíjajú podľa plánu».",
+            "en": "Choose the Slovak item for: the expression “zvládnuť” in the topic “Keď sa veci nevyvíjajú podľa plánu”."
+          },
+          "wordIds": [
+            "b2-s12-l072-w05"
+          ],
+          "options": [
+            "zvládnuť",
+            "zmeniť smer",
+            "nevyjsť podľa plánu"
+          ],
+          "correctAnswer": "zvládnuť"
+        },
+        {
+          "id": "b2-s12-l072-e12",
+          "lessonId": "b2-s12-l072",
+          "type": "multiple_choice_translation",
+          "order": 12,
+          "question": "Що відповідає словацькому «praktická fráza 8»?",
+          "questionLocalized": {
+            "uk": "Що відповідає словацькому «praktická fráza 8»?",
+            "ru": "Что соответствует словацкому «praktická fráza 8»?",
+            "en": "What matches the Slovak “praktická fráza 8”?"
+          },
+          "wordIds": [
+            "b2-s12-l072-w08"
+          ],
+          "options": [
+            "вираз «praktická fráza 8» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+            "вираз «prispôsobiť sa» у темі «Keď sa veci nevyvíjajú podľa plánu»",
+            "вираз «zmeniť smer» у темі «Keď sa veci nevyvíjajú podľa plánu»"
+          ],
+          "correctAnswer": "вираз «praktická fráza 8» у темі «Keď sa veci nevyvíjajú podľa plánu»"
+        }
+      ],
+      "finalSituation": {
+        "id": "final-situation",
+        "type": "interactive_scenario",
+        "title": {
+          "uk": "Keď sa veci nevyvíjajú podľa plánu: реальна ситуація",
+          "ru": "Keď sa veci nevyvíjajú podľa plánu: реальная ситуация",
+          "en": "Keď sa veci nevyvíjajú podľa plánu: real situation"
+        },
+        "description": {
+          "uk": "Обери репліки, які звучать природно, точно й доречно на рівні B2.",
+          "ru": "Выбери реплики, которые звучат естественно, точно и уместно на уровне B2.",
+          "en": "Choose replies that sound natural, precise and appropriate at B2 level."
+        },
+        "steps": [
+          {
+            "id": "f1",
+            "prompt": {
+              "uk": "Потрібно почати відповідь без різкості.",
+              "ru": "Нужно начать ответ без резкости.",
+              "en": "You need to start without sounding harsh."
+            },
+            "options": [
+              {
+                "sk": "Rozumiem, skúsim to najprv zhrnúť vlastnými slovami.",
+                "correct": true
+              },
+              {
+                "sk": "Nemáš pravdu a viac sa o tom nebavme.",
+                "correct": false
+              },
+              {
+                "sk": "Neviem a nechcem reagovať.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "prompt": {
+              "uk": "Потрібно додати аргумент.",
+              "ru": "Нужно добавить аргумент.",
+              "en": "You need to add an argument."
+            },
+            "options": [
+              {
+                "sk": "Dôvod je podľa mňa v tom, že situácia má viac okolností.",
+                "correct": true
+              },
+              {
+                "sk": "Pretože áno.",
+                "correct": false
+              },
+              {
+                "sk": "To nesúvisí s ničím.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f3",
+            "prompt": {
+              "uk": "Потрібно завершити практично.",
+              "ru": "Нужно завершить практически.",
+              "en": "You need to close practically."
+            },
+            "options": [
+              {
+                "sk": "Navrhujem ďalší krok a potom si to potvrdíme písomne.",
+                "correct": true
+              },
+              {
+                "sk": "Nechajme to bez riešenia.",
+                "correct": false
+              },
+              {
+                "sk": "Každý nech si domyslí zvyšok.",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "passRequirement": "3/3",
+        "successMessage": {
+          "uk": "Готово: тема перенесена в реальну B2-комунікацію.",
+          "ru": "Готово: тема перенесена в реальную B2-коммуникацию.",
+          "en": "Done: the topic was transferred into real B2 communication."
+        }
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": {
+          "uk": "Урок завершено",
+          "ru": "Урок завершён",
+          "en": "Lesson complete"
+        },
+        "subtitle": {
+          "uk": "Ти пройшов ще один крок рівня B2.",
+          "ru": "Ты прошёл ещё один шаг уровня B2.",
+          "en": "You completed another B2 step."
+        },
+        "xpReward": 180,
+        "newWordsCount": 8,
+        "exercisesCompleted": 12,
+        "nowYouKnow": [
+          "структурувати відповідь",
+          "пояснювати нюанс",
+          "реагувати доречно"
+        ],
+        "mistakesMessage": {
+          "uk": "Повтори вправи, де плутається значення або тон.",
+          "ru": "Повтори упражнения, где путается значение или тон.",
+          "en": "Repeat exercises where meaning or tone is unclear."
+        },
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "skills": [
+          {
+            "id": "vocabulary",
+            "label": {
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
+            },
+            "weight": 0.3
+          },
+          {
+            "id": "composition",
+            "label": {
+              "uk": "структура",
+              "ru": "структура",
+              "en": "composition"
+            },
+            "weight": 0.4
+          },
+          {
+            "id": "transfer",
+            "label": {
+              "uk": "перенесення",
+              "ru": "перенос",
+              "en": "transfer"
+            },
+            "weight": 0.3
+          }
+        ],
+        "nextLesson": {
+          "id": "b2-s12-l073"
+        }
+      }
+    }
+  ]
+}

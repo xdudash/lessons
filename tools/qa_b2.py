@@ -58,7 +58,6 @@ def check(path: Path):
     section = int(m.group(1))
     order = int(m.group(2))
     assert path.stem == lid, f"{path.name}: filename != id"
-    assert section == 1, f"{path.name}: unexpected section"
     assert lesson["sectionId"] == f"b2_s{section:02d}", f"{path.name}: sectionId"
     assert lesson["level"] == "B2", f"{path.name}: level"
     assert lesson["order"] == order, f"{path.name}: order"
@@ -113,16 +112,16 @@ def check(path: Path):
 
 def main() -> int:
     lessons = []
-    for n in range(1, 7):
-        matches = sorted(D.glob(f"b2-s01-l{n:03d}.json"))
+    for n in range(1, 101):
+        matches = sorted(D.glob(f"b2-s*-l{n:03d}.json"))
         assert len(matches) == 1, f"lesson {n:03d}: expected one file, found {len(matches)}"
         lessons.append(check(matches[0]))
     ids = [l["id"] for l in lessons]
-    assert len(ids) == len(set(ids)) == 6, "duplicate/missing ids"
+    assert len(ids) == len(set(ids)) == 100, "duplicate/missing ids"
     for current, nxt in zip(lessons, lessons[1:]):
         assert current["resultScreen"]["nextLesson"] == {"id": nxt["id"]}, f"{current['id']}: bad nextLesson"
-    assert lessons[-1]["resultScreen"]["nextLesson"] == {"id": "b2-s02-l007"}, "section handoff nextLesson"
-    print("QA PASS: B2 section 01 has 6 valid localized lessons and a clean nextLesson chain.")
+    assert lessons[-1]["resultScreen"]["nextLesson"] is None, "terminal nextLesson must be null"
+    print("QA PASS: 100 B2 lessons, all language fields and nextLesson chain verified.")
     return 0
 
 

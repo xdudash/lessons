@@ -12,31 +12,31 @@
       },
       "topic": {
         "sk": "Medzi riadkami",
-        "uk": "підтекст, тон і непряме значення",
-        "ru": "подтекст, тон и непрямой смысл",
-        "en": "subtext, tone and indirect meaning"
+        "uk": "Medzi riadkami",
+        "ru": "Medzi riadkami",
+        "en": "Medzi riadkami"
       },
       "description": {
-        "sk": "Precvičíš si komunikáciu na úrovni B2: Medzi riadkami.",
-        "uk": "Тренуємо B2-комунікацію: помічати підтекст і тон у повідомленнях.",
-        "ru": "Тренируем B2-коммуникацию: замечать подтекст и тон в сообщениях.",
-        "en": "Practice B2 communication: notice subtext and tone in messages."
+        "sk": "Precvičíš si tému Medzi riadkami v komplexnej komunikácii na úrovni B2.",
+        "uk": "Тренуємо тему «Medzi riadkami»: аргументовано, точно й у реальному контексті.",
+        "ru": "учимся понимать скрытый смысл в бытовых диалогах и сообщениях.",
+        "en": "Practice the B2 topic “Medzi riadkami” in complex communication. Section: Nuanced communication and social interaction."
       },
       "order": 5,
       "xpReward": 180,
       "estimatedMinutes": 32,
       "isPublished": false,
       "intro": {
-        "sk": "Precvičíš si komunikáciu na úrovni B2: Medzi riadkami.",
-        "uk": "Тренуємо B2-комунікацію: помічати підтекст і тон у повідомленнях.",
-        "ru": "Тренируем B2-коммуникацию: замечать подтекст и тон в сообщениях.",
-        "en": "Practice B2 communication: notice subtext and tone in messages."
+        "sk": "Precvičíš si tému Medzi riadkami v komplexnej komunikácii na úrovni B2.",
+        "uk": "Тренуємо тему «Medzi riadkami»: аргументовано, точно й у реальному контексті.",
+        "ru": "учимся понимать скрытый смысл в бытовых диалогах и сообщениях.",
+        "en": "Practice the B2 topic “Medzi riadkami” in complex communication. Section: Nuanced communication and social interaction."
       },
       "completionMessage": {
-        "sk": "Výborne. Dokážeš reagovať presnejšie a pokojnejšie.",
-        "uk": "Супер. Тепер ти можеш реагувати точніше й спокійніше.",
-        "ru": "Отлично. Теперь ты можешь реагировать точнее и спокойнее.",
-        "en": "Great. You can now respond more precisely and calmly."
+        "sk": "Výborne. Tému vieš použiť v náročnejšej komunikácii.",
+        "uk": "Добре. Тепер можеш використати тему в складнішій розмові.",
+        "ru": "Хорошо. Теперь можешь использовать тему в более сложном разговоре.",
+        "en": "Good. You can now use the topic in more complex communication."
       },
       "updatedAt": "2026-09-14T00:00:00Z",
       "localization": {
@@ -61,25 +61,25 @@
           "en": "Medzi riadkami"
         },
         "shortDescription": {
-          "uk": "Тренуємо B2-комунікацію: помічати підтекст і тон у повідомленнях.",
-          "ru": "Тренируем B2-коммуникацию: замечать подтекст и тон в сообщениях.",
-          "en": "Practice B2 communication: notice subtext and tone in messages."
+          "uk": "Тренуємо тему «Medzi riadkami»: аргументовано, точно й у реальному контексті.",
+          "ru": "учимся понимать скрытый смысл в бытовых диалогах и сообщениях.",
+          "en": "Practice the B2 topic “Medzi riadkami” in complex communication. Section: Nuanced communication and social interaction."
         },
         "outcomes": [
           {
-            "uk": "уточнювати сенс без конфлікту",
-            "ru": "уточнять смысл без конфликта",
-            "en": "clarify meaning without conflict"
+            "uk": "пояснити думку точніше й довше",
+            "ru": "объяснить мысль точнее и длиннее",
+            "en": "explain an idea more precisely and at greater length"
           },
           {
-            "uk": "розрізняти буквальний і непрямий зміст",
-            "ru": "различать буквальный и непрямой смысл",
-            "en": "distinguish literal and indirect meaning"
+            "uk": "використати нові B2-фрази в контексті",
+            "ru": "использовать новые B2-фразы в контексте",
+            "en": "use new B2 phrases in context"
           },
           {
-            "uk": "вибирати природну B2-реакцію",
-            "ru": "выбирать естественную B2-реакцию",
-            "en": "choose a natural B2-level response"
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
           }
         ],
         "newWords": [
@@ -103,37 +103,37 @@
           "screenType": "theory",
           "order": 1,
           "title": {
-            "uk": "Навіщо це на B2",
-            "ru": "Зачем это на B2",
-            "en": "Why this matters at B2"
+            "uk": "Фокус уроку",
+            "ru": "Фокус урока",
+            "en": "Lesson focus"
           },
           "body": {
-            "uk": "помічати підтекст і тон у повідомленнях.",
-            "ru": "замечать подтекст и тон в сообщениях.",
-            "en": "notice subtext and tone in messages."
+            "uk": "Тренуємо тему «Medzi riadkami»: аргументовано, точно й у реальному контексті.",
+            "ru": "учимся понимать скрытый смысл в бытовых диалогах и сообщениях.",
+            "en": "Practice the B2 topic “Medzi riadkami” in complex communication. Section: Nuanced communication and social interaction."
           },
           "examples": [
             {
-              "sk": "Treba čítať aj medzi riadkami.",
+              "sk": "V téme Medzi riadkami použijem výraz: medzi riadkami.",
               "translation": {
-                "uk": "Треба читати також між рядками.",
-                "ru": "Треба читати також між рядками.",
-                "en": "between the lines"
+                "uk": "У темі «Medzi riadkami» використовую: між рядками, підтекст.",
+                "ru": "В теме «Medzi riadkami» использую: между строк, подтекст.",
+                "en": "In “Medzi riadkami”, I use: between the lines."
               }
             },
             {
-              "sk": "Povedal to nepriamo.",
+              "sk": "V téme Medzi riadkami použijem výraz: nepriamo.",
               "translation": {
-                "uk": "Він сказав це непрямо.",
-                "ru": "Він сказав це непрямо.",
-                "en": "indirectly"
+                "uk": "У темі «Medzi riadkami» використовую: непрямо.",
+                "ru": "В теме «Medzi riadkami» использую: непрямо.",
+                "en": "In “Medzi riadkami”, I use: indirectly."
               }
             }
           ],
           "shortRule": {
-            "uk": "B2 = не просто сказати фразу, а керувати тоном, підтекстом і наслідком.",
-            "ru": "B2 = не просто сказать фразу, а управлять тоном, подтекстом и последствием.",
-            "en": "B2 means managing tone, implication and consequence."
+            "uk": "На B2 важливо не просто відповісти, а показати причину, умову, наслідок або нюанс.",
+            "ru": "На B2 важно не просто ответить, а показать причину, условие, последствие или нюанс.",
+            "en": "At B2, show a reason, condition, consequence or nuance."
           },
           "button": "Далі"
         },
@@ -142,37 +142,37 @@
           "screenType": "theory",
           "order": 2,
           "title": {
-            "uk": "Робоча модель відповіді",
-            "ru": "Рабочая модель ответа",
-            "en": "Response model"
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer model"
           },
           "body": {
-            "uk": "Будуй репліку так: визнай контекст -> уточни або скоригуй -> запропонуй наступний крок.",
-            "ru": "Строй реплику так: признай контекст -> уточни или скорректируй -> предложи следующий шаг.",
-            "en": "Build the reply as: acknowledge context -> clarify or correct -> suggest a next step."
+            "uk": "Будуй відповідь за схемою: контекст -> позиція -> аргумент -> приклад -> наступний крок.",
+            "ru": "Строй ответ по схеме: контекст -> позиция -> аргумент -> пример -> следующий шаг.",
+            "en": "Build the answer as: context -> position -> argument -> example -> next step."
           },
           "examples": [
             {
-              "sk": "Rozumiem, ako to myslíš, ale potrebujem to trochu upresniť.",
+              "sk": "Z môjho pohľadu je dôležité najprv vysvetliť kontext.",
               "translation": {
-                "uk": "Розумію, як ти це маєш на увазі, але мені треба це трохи уточнити.",
-                "ru": "Понимаю, как ты это имеешь в виду, но мне нужно это немного уточнить.",
-                "en": "I understand what you mean, but I need to clarify it a bit."
+                "uk": "З моєї точки зору важливо спочатку пояснити контекст.",
+                "ru": "С моей точки зрения важно сначала объяснить контекст.",
+                "en": "From my point of view, it is important to explain the context first."
               }
             },
             {
-              "sk": "Z môjho pohľadu je podstatné, aby sme zachovali pokoj.",
+              "sk": "Na druhej strane treba zohľadniť aj praktické dôsledky.",
               "translation": {
-                "uk": "З моєї точки зору суттєво, щоб ми зберегли спокій.",
-                "ru": "С моей точки зрения важно, чтобы мы сохранили спокойствие.",
-                "en": "From my point of view, it is essential that we stay calm."
+                "uk": "З іншого боку, треба врахувати також практичні наслідки.",
+                "ru": "С другой стороны, нужно учесть и практические последствия.",
+                "en": "On the other hand, practical consequences must also be considered."
               }
             }
           ],
           "shortRule": {
-            "uk": "Спокійна точність звучить сильніше, ніж різке заперечення.",
-            "ru": "Спокойная точность звучит сильнее, чем резкое отрицание.",
-            "en": "Calm precision is stronger than a sharp denial."
+            "uk": "Одна сильна відповідь має структуру, а не лише правильні слова.",
+            "ru": "Один сильный ответ имеет структуру, а не только правильные слова.",
+            "en": "A strong answer has structure, not only correct words."
           },
           "button": "Далі"
         },
@@ -181,37 +181,29 @@
           "screenType": "theory",
           "order": 3,
           "title": {
-            "uk": "Типова помилка",
-            "ru": "Типичная ошибка",
-            "en": "Typical mistake"
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
           },
           "body": {
-            "uk": "Не перекладай дослівно з української або російської. У словацькій часто природніше звучить коротша, м'якша фраза з уточненням.",
-            "ru": "Не переводи дословно с украинского или русского. В словацком часто естественнее звучит более короткая и мягкая фраза с уточнением.",
-            "en": "Do not translate word for word. Slovak often prefers a shorter, softer clarifying phrase."
+            "uk": "У фіналі потрібно вибрати репліку, яка реально рухає ситуацію вперед.",
+            "ru": "В финале нужно выбрать реплику, которая реально двигает ситуацию дальше.",
+            "en": "In the final task, choose the reply that moves the situation forward."
           },
           "examples": [
             {
-              "sk": "Chápem. Môžeš mi povedať pointu?",
+              "sk": "Navrhujem, aby sme si najprv ujasnili priority.",
               "translation": {
-                "uk": "Розумію. Можеш сказати головну думку?",
-                "ru": "Понимаю. Можешь сказать главную мысль?",
-                "en": "I understand. Can you tell me the main point?"
-              }
-            },
-            {
-              "sk": "Nechcem to interpretovať nesprávne.",
-              "translation": {
-                "uk": "Не хочу інтерпретувати це неправильно.",
-                "ru": "Не хочу интерпретировать это неправильно.",
-                "en": "I do not want to interpret it incorrectly."
+                "uk": "Пропоную спочатку прояснити пріоритети.",
+                "ru": "Предлагаю сначала прояснить приоритеты.",
+                "en": "I suggest clarifying priorities first."
               }
             }
           ],
           "shortRule": {
-            "uk": "Коли є ризик конфлікту, спочатку уточни.",
-            "ru": "Когда есть риск конфликта, сначала уточни.",
-            "en": "When there is risk of conflict, clarify first."
+            "uk": "B2 = самостійна, зв'язна й доречна комунікація.",
+            "ru": "B2 = самостоятельная, связная и уместная коммуникация.",
+            "en": "B2 means independent, connected and appropriate communication."
           },
           "button": "До слів"
         }
@@ -219,14 +211,14 @@
       "wordsScreen": {
         "screenType": "lesson_words",
         "title": {
-          "uk": "Ключові B2-фрази",
-          "ru": "Ключевые B2-фразы",
-          "en": "Key B2 phrases"
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
         },
         "description": {
-          "uk": "Ці слова потрібні для нюансованої соціальної комунікації.",
-          "ru": "Эти слова нужны для нюансированной социальной коммуникации.",
-          "en": "These items support nuanced social communication."
+          "uk": "Ці одиниці взяті з затвердженого B2-плану.",
+          "ru": "Эти единицы взяты из утвержденного B2-плана.",
+          "en": "These items come from the approved B2 plan."
         },
         "items": [
           {
@@ -236,10 +228,10 @@
             "ru": "между строк, подтекст",
             "en": "between the lines",
             "pronunciationUk": "medzi riadkami",
-            "exampleSk": "Treba čítať aj medzi riadkami.",
-            "exampleUk": "Треба читати також між рядками.",
-            "exampleRu": "Пример: между строк, подтекст.",
-            "exampleEn": "Example phrase for: between the lines."
+            "exampleSk": "V téme Medzi riadkami použijem výraz: medzi riadkami.",
+            "exampleUk": "У темі «Medzi riadkami» використовую: між рядками, підтекст.",
+            "exampleRu": "В теме «Medzi riadkami» использую: между строк, подтекст.",
+            "exampleEn": "In “Medzi riadkami”, I use: between the lines."
           },
           {
             "wordId": "b2-s01-l005-w02",
@@ -248,22 +240,22 @@
             "ru": "непрямо",
             "en": "indirectly",
             "pronunciationUk": "nepriamo",
-            "exampleSk": "Povedal to nepriamo.",
-            "exampleUk": "Він сказав це непрямо.",
-            "exampleRu": "Пример: непрямо.",
-            "exampleEn": "Example phrase for: indirectly."
+            "exampleSk": "V téme Medzi riadkami použijem výraz: nepriamo.",
+            "exampleUk": "У темі «Medzi riadkami» використовую: непрямо.",
+            "exampleRu": "В теме «Medzi riadkami» использую: непрямо.",
+            "exampleEn": "In “Medzi riadkami”, I use: indirectly."
           },
           {
             "wordId": "b2-s01-l005-w03",
             "sk": "náznak",
             "uk": "натяк",
-            "ru": "намёк",
+            "ru": "намек",
             "en": "hint",
-            "pronunciationUk": "nаznak",
-            "exampleSk": "V správe bol jasný náznak nespokojnosti.",
-            "exampleUk": "У повідомленні був чіткий натяк на невдоволення.",
-            "exampleRu": "Пример: намёк.",
-            "exampleEn": "Example phrase for: hint."
+            "pronunciationUk": "naznak",
+            "exampleSk": "V téme Medzi riadkami použijem výraz: náznak.",
+            "exampleUk": "У темі «Medzi riadkami» використовую: натяк.",
+            "exampleRu": "В теме «Medzi riadkami» использую: намек.",
+            "exampleEn": "In “Medzi riadkami”, I use: hint."
           },
           {
             "wordId": "b2-s01-l005-w04",
@@ -271,35 +263,35 @@
             "uk": "тон",
             "ru": "тон",
             "en": "tone",
-            "pronunciationUk": "tоn",
-            "exampleSk": "Tón správy bol dosť chladný.",
-            "exampleUk": "Тон повідомлення був досить холодний.",
-            "exampleRu": "Пример: тон.",
-            "exampleEn": "Example phrase for: tone."
+            "pronunciationUk": "ton",
+            "exampleSk": "V téme Medzi riadkami použijem výraz: tón.",
+            "exampleUk": "У темі «Medzi riadkami» використовую: тон.",
+            "exampleRu": "В теме «Medzi riadkami» использую: тон.",
+            "exampleEn": "In “Medzi riadkami”, I use: tone."
           },
           {
             "wordId": "b2-s01-l005-w05",
             "sk": "vyjadrenie",
-            "uk": "висловлювання, формулювання",
-            "ru": "высказывание, формулировка",
-            "en": "expression, statement",
+            "uk": "висловлювання",
+            "ru": "высказывание",
+            "en": "statement",
             "pronunciationUk": "vyjadrenie",
-            "exampleSk": "To vyjadrenie môže znieť tvrdo.",
-            "exampleUk": "Це формулювання може звучати жорстко.",
-            "exampleRu": "Пример: высказывание, формулировка.",
-            "exampleEn": "Example phrase for: expression, statement."
+            "exampleSk": "V téme Medzi riadkami použijem výraz: vyjadrenie.",
+            "exampleUk": "У темі «Medzi riadkami» використовую: висловлювання.",
+            "exampleRu": "В теме «Medzi riadkami» использую: высказывание.",
+            "exampleEn": "In “Medzi riadkami”, I use: statement."
           },
           {
             "wordId": "b2-s01-l005-w06",
             "sk": "narážka",
-            "uk": "натяк, непряма репліка",
-            "ru": "намёк, непрямая реплика",
-            "en": "allusion, pointed remark",
-            "pronunciationUk": "narажka",
-            "exampleSk": "Nebola to kritika, skôr narážka.",
-            "exampleUk": "Це була не критика, радше натяк.",
-            "exampleRu": "Пример: намёк, непрямая реплика.",
-            "exampleEn": "Example phrase for: allusion, pointed remark."
+            "uk": "натяк",
+            "ru": "намек",
+            "en": "hint, pointed remark",
+            "pronunciationUk": "narazhka",
+            "exampleSk": "V téme Medzi riadkami použijem výraz: narážka.",
+            "exampleUk": "У темі «Medzi riadkami» використовую: натяк.",
+            "exampleRu": "В теме «Medzi riadkami» использую: намек.",
+            "exampleEn": "In “Medzi riadkami”, I use: hint, pointed remark."
           },
           {
             "wordId": "b2-s01-l005-w07",
@@ -307,11 +299,11 @@
             "uk": "зрозуміти",
             "ru": "понять",
             "en": "to understand",
-            "pronunciationUk": "pochopiть",
-            "exampleSk": "Chcem pochopiť, čo tým myslíš.",
-            "exampleUk": "Я хочу зрозуміти, що ти цим маєш на увазі.",
-            "exampleRu": "Пример: понять.",
-            "exampleEn": "Example phrase for: to understand."
+            "pronunciationUk": "pochopit'",
+            "exampleSk": "V téme Medzi riadkami použijem výraz: pochopiť.",
+            "exampleUk": "У темі «Medzi riadkami» використовую: зрозуміти.",
+            "exampleRu": "В теме «Medzi riadkami» использую: понять.",
+            "exampleEn": "In “Medzi riadkami”, I use: to understand."
           },
           {
             "wordId": "b2-s01-l005-w08",
@@ -319,11 +311,11 @@
             "uk": "інтерпретувати",
             "ru": "интерпретировать",
             "en": "to interpret",
-            "pronunciationUk": "interpretovaть",
-            "exampleSk": "Možno to interpretujem nesprávne.",
-            "exampleUk": "Можливо, я це неправильно інтерпретую.",
-            "exampleRu": "Пример: интерпретировать.",
-            "exampleEn": "Example phrase for: to interpret."
+            "pronunciationUk": "interpretovat'",
+            "exampleSk": "V téme Medzi riadkami použijem výraz: interpretovať.",
+            "exampleUk": "У темі «Medzi riadkami» використовую: інтерпретувати.",
+            "exampleRu": "В теме «Medzi riadkami» использую: интерпретировать.",
+            "exampleEn": "In “Medzi riadkami”, I use: to interpret."
           }
         ],
         "button": "До практики"
@@ -336,16 +328,15 @@
           "ru": "между строк, подтекст",
           "en": "between the lines",
           "pronunciationUk": "medzi riadkami",
-          "exampleSk": "Treba čítať aj medzi riadkami.",
-          "exampleUk": "Треба читати також між рядками.",
-          "exampleRu": "Пример: между строк, подтекст.",
-          "exampleEn": "Example phrase for: between the lines.",
+          "exampleSk": "V téme Medzi riadkami použijem výraz: medzi riadkami.",
+          "exampleUk": "У темі «Medzi riadkami» використовую: між рядками, підтекст.",
+          "exampleRu": "В теме «Medzi riadkami» использую: между строк, подтекст.",
+          "exampleEn": "In “Medzi riadkami”, I use: between the lines.",
           "level": "B2",
           "topic": "Medzi riadkami",
           "tags": [
             "b2_s01",
-            "nuance",
-            "social-interaction",
+            "b2",
             "ownership:new"
           ],
           "ownership": "NEW"
@@ -357,16 +348,15 @@
           "ru": "непрямо",
           "en": "indirectly",
           "pronunciationUk": "nepriamo",
-          "exampleSk": "Povedal to nepriamo.",
-          "exampleUk": "Він сказав це непрямо.",
-          "exampleRu": "Пример: непрямо.",
-          "exampleEn": "Example phrase for: indirectly.",
+          "exampleSk": "V téme Medzi riadkami použijem výraz: nepriamo.",
+          "exampleUk": "У темі «Medzi riadkami» використовую: непрямо.",
+          "exampleRu": "В теме «Medzi riadkami» использую: непрямо.",
+          "exampleEn": "In “Medzi riadkami”, I use: indirectly.",
           "level": "B2",
           "topic": "Medzi riadkami",
           "tags": [
             "b2_s01",
-            "nuance",
-            "social-interaction",
+            "b2",
             "ownership:new"
           ],
           "ownership": "NEW"
@@ -375,19 +365,18 @@
           "id": "b2-s01-l005-w03",
           "sk": "náznak",
           "uk": "натяк",
-          "ru": "намёк",
+          "ru": "намек",
           "en": "hint",
-          "pronunciationUk": "nаznak",
-          "exampleSk": "V správe bol jasný náznak nespokojnosti.",
-          "exampleUk": "У повідомленні був чіткий натяк на невдоволення.",
-          "exampleRu": "Пример: намёк.",
-          "exampleEn": "Example phrase for: hint.",
+          "pronunciationUk": "naznak",
+          "exampleSk": "V téme Medzi riadkami použijem výraz: náznak.",
+          "exampleUk": "У темі «Medzi riadkami» використовую: натяк.",
+          "exampleRu": "В теме «Medzi riadkami» использую: намек.",
+          "exampleEn": "In “Medzi riadkami”, I use: hint.",
           "level": "B2",
           "topic": "Medzi riadkami",
           "tags": [
             "b2_s01",
-            "nuance",
-            "social-interaction",
+            "b2",
             "ownership:new"
           ],
           "ownership": "NEW"
@@ -398,17 +387,16 @@
           "uk": "тон",
           "ru": "тон",
           "en": "tone",
-          "pronunciationUk": "tоn",
-          "exampleSk": "Tón správy bol dosť chladný.",
-          "exampleUk": "Тон повідомлення був досить холодний.",
-          "exampleRu": "Пример: тон.",
-          "exampleEn": "Example phrase for: tone.",
+          "pronunciationUk": "ton",
+          "exampleSk": "V téme Medzi riadkami použijem výraz: tón.",
+          "exampleUk": "У темі «Medzi riadkami» використовую: тон.",
+          "exampleRu": "В теме «Medzi riadkami» использую: тон.",
+          "exampleEn": "In “Medzi riadkami”, I use: tone.",
           "level": "B2",
           "topic": "Medzi riadkami",
           "tags": [
             "b2_s01",
-            "nuance",
-            "social-interaction",
+            "b2",
             "ownership:new"
           ],
           "ownership": "NEW"
@@ -416,20 +404,19 @@
         {
           "id": "b2-s01-l005-w05",
           "sk": "vyjadrenie",
-          "uk": "висловлювання, формулювання",
-          "ru": "высказывание, формулировка",
-          "en": "expression, statement",
+          "uk": "висловлювання",
+          "ru": "высказывание",
+          "en": "statement",
           "pronunciationUk": "vyjadrenie",
-          "exampleSk": "To vyjadrenie môže znieť tvrdo.",
-          "exampleUk": "Це формулювання може звучати жорстко.",
-          "exampleRu": "Пример: высказывание, формулировка.",
-          "exampleEn": "Example phrase for: expression, statement.",
+          "exampleSk": "V téme Medzi riadkami použijem výraz: vyjadrenie.",
+          "exampleUk": "У темі «Medzi riadkami» використовую: висловлювання.",
+          "exampleRu": "В теме «Medzi riadkami» использую: высказывание.",
+          "exampleEn": "In “Medzi riadkami”, I use: statement.",
           "level": "B2",
           "topic": "Medzi riadkami",
           "tags": [
             "b2_s01",
-            "nuance",
-            "social-interaction",
+            "b2",
             "ownership:new"
           ],
           "ownership": "NEW"
@@ -437,20 +424,19 @@
         {
           "id": "b2-s01-l005-w06",
           "sk": "narážka",
-          "uk": "натяк, непряма репліка",
-          "ru": "намёк, непрямая реплика",
-          "en": "allusion, pointed remark",
-          "pronunciationUk": "narажka",
-          "exampleSk": "Nebola to kritika, skôr narážka.",
-          "exampleUk": "Це була не критика, радше натяк.",
-          "exampleRu": "Пример: намёк, непрямая реплика.",
-          "exampleEn": "Example phrase for: allusion, pointed remark.",
+          "uk": "натяк",
+          "ru": "намек",
+          "en": "hint, pointed remark",
+          "pronunciationUk": "narazhka",
+          "exampleSk": "V téme Medzi riadkami použijem výraz: narážka.",
+          "exampleUk": "У темі «Medzi riadkami» використовую: натяк.",
+          "exampleRu": "В теме «Medzi riadkami» использую: намек.",
+          "exampleEn": "In “Medzi riadkami”, I use: hint, pointed remark.",
           "level": "B2",
           "topic": "Medzi riadkami",
           "tags": [
             "b2_s01",
-            "nuance",
-            "social-interaction",
+            "b2",
             "ownership:new"
           ],
           "ownership": "NEW"
@@ -461,17 +447,16 @@
           "uk": "зрозуміти",
           "ru": "понять",
           "en": "to understand",
-          "pronunciationUk": "pochopiть",
-          "exampleSk": "Chcem pochopiť, čo tým myslíš.",
-          "exampleUk": "Я хочу зрозуміти, що ти цим маєш на увазі.",
-          "exampleRu": "Пример: понять.",
-          "exampleEn": "Example phrase for: to understand.",
+          "pronunciationUk": "pochopit'",
+          "exampleSk": "V téme Medzi riadkami použijem výraz: pochopiť.",
+          "exampleUk": "У темі «Medzi riadkami» використовую: зрозуміти.",
+          "exampleRu": "В теме «Medzi riadkami» использую: понять.",
+          "exampleEn": "In “Medzi riadkami”, I use: to understand.",
           "level": "B2",
           "topic": "Medzi riadkami",
           "tags": [
             "b2_s01",
-            "nuance",
-            "social-interaction",
+            "b2",
             "ownership:new"
           ],
           "ownership": "NEW"
@@ -482,17 +467,16 @@
           "uk": "інтерпретувати",
           "ru": "интерпретировать",
           "en": "to interpret",
-          "pronunciationUk": "interpretovaть",
-          "exampleSk": "Možno to interpretujem nesprávne.",
-          "exampleUk": "Можливо, я це неправильно інтерпретую.",
-          "exampleRu": "Пример: интерпретировать.",
-          "exampleEn": "Example phrase for: to interpret.",
+          "pronunciationUk": "interpretovat'",
+          "exampleSk": "V téme Medzi riadkami použijem výraz: interpretovať.",
+          "exampleUk": "У темі «Medzi riadkami» використовую: інтерпретувати.",
+          "exampleRu": "В теме «Medzi riadkami» использую: интерпретировать.",
+          "exampleEn": "In “Medzi riadkami”, I use: to interpret.",
           "level": "B2",
           "topic": "Medzi riadkami",
           "tags": [
             "b2_s01",
-            "nuance",
-            "social-interaction",
+            "b2",
             "ownership:new"
           ],
           "ownership": "NEW"
@@ -526,18 +510,18 @@
             {
               "id": "b",
               "text": {
-                "uk": "тон",
-                "ru": "тон",
-                "en": "tone"
+                "uk": "непрямо",
+                "ru": "непрямо",
+                "en": "indirectly"
               },
               "correct": false
             },
             {
               "id": "c",
               "text": {
-                "uk": "зрозуміти",
-                "ru": "понять",
-                "en": "to understand"
+                "uk": "натяк",
+                "ru": "намек",
+                "en": "hint"
               },
               "correct": false
             }
@@ -548,11 +532,11 @@
           "lessonId": "b2-s01-l005",
           "type": "matching",
           "order": 2,
-          "question": "З'єднай словацькі фрази з точним значенням.",
+          "question": "З'єднай фрази з поясненнями.",
           "questionLocalized": {
-            "uk": "З'єднай словацькі фрази з точним значенням.",
-            "ru": "Соедини словацкие фразы с точным значением.",
-            "en": "Match the Slovak phrases with their exact meaning."
+            "uk": "З'єднай фрази з поясненнями.",
+            "ru": "Соедини фразы с объяснениями.",
+            "en": "Match phrases with explanations."
           },
           "wordIds": [
             "b2-s01-l005-w01",
@@ -576,7 +560,7 @@
             {
               "left": "náznak",
               "right": "натяк",
-              "rightRu": "намёк",
+              "rightRu": "намек",
               "rightEn": "hint"
             },
             {
@@ -590,59 +574,12 @@
         {
           "id": "b2-s01-l005-e03",
           "lessonId": "b2-s01-l005",
-          "type": "meaning_in_context",
-          "order": 3,
-          "question": "Що найкраще підходить до контексту «Medzi riadkami»?",
-          "questionLocalized": {
-            "uk": "Що найкраще підходить до контексту «Medzi riadkami»?",
-            "ru": "Что лучше всего подходит к контексту «Medzi riadkami»?",
-            "en": "What best fits the context “Medzi riadkami”?"
-          },
-          "wordIds": [
-            "b2-s01-l005-w02"
-          ],
-          "context": {
-            "sk": "Nechcem reagovať automaticky. Najprv potrebujem lepšie pochopiť situáciu."
-          },
-          "options": [
-            {
-              "id": "a",
-              "text": {
-                "uk": "непрямо",
-                "ru": "непрямо",
-                "en": "indirectly"
-              },
-              "correct": true
-            },
-            {
-              "id": "b",
-              "text": {
-                "uk": "висловлювання, формулювання",
-                "ru": "высказывание, формулировка",
-                "en": "expression, statement"
-              },
-              "correct": false
-            },
-            {
-              "id": "c",
-              "text": {
-                "uk": "інтерпретувати",
-                "ru": "интерпретировать",
-                "en": "to interpret"
-              },
-              "correct": false
-            }
-          ]
-        },
-        {
-          "id": "b2-s01-l005-e04",
-          "lessonId": "b2-s01-l005",
           "type": "fill_blank",
-          "order": 4,
+          "order": 3,
           "question": "Впиши словацькою: натяк.",
           "questionLocalized": {
             "uk": "Впиши словацькою: натяк.",
-            "ru": "Впиши по-словацки: намёк.",
+            "ru": "Впиши по-словацки: намек.",
             "en": "Write in Slovak: hint."
           },
           "wordIds": [
@@ -659,132 +596,133 @@
           }
         },
         {
-          "id": "b2-s01-l005-e05",
+          "id": "b2-s01-l005-e04",
           "lessonId": "b2-s01-l005",
           "type": "dropdown_blank",
-          "order": 5,
-          "question": "Обери природну фразу для речення.",
+          "order": 4,
+          "question": "Обери точну фразу для B2-речення.",
           "questionLocalized": {
-            "uk": "Обери природну фразу для речення.",
-            "ru": "Выбери естественную фразу для предложения.",
-            "en": "Choose the natural phrase for the sentence."
+            "uk": "Обери точну фразу для B2-речення.",
+            "ru": "Выбери точную фразу для B2-предложения.",
+            "en": "Choose the precise phrase for a B2 sentence."
           },
           "wordIds": [
             "b2-s01-l005-w04"
           ],
           "sentenceParts": [
             {
-              "text": "V tejto poznámke cítim "
+              "text": "V tejto situácii je dôležité použiť "
             },
             {
               "blankId": "blank1",
               "options": [
                 "tón",
                 "medzi riadkami",
-                "narážka"
+                "nepriamo"
               ],
               "correct": "tón"
             },
             {
-              "text": ", preto sa radšej spýtam."
+              "text": "."
             }
           ]
         },
         {
-          "id": "b2-s01-l005-e06",
+          "id": "b2-s01-l005-e05",
           "lessonId": "b2-s01-l005",
           "type": "sentence_builder",
-          "order": 6,
-          "question": "Склади B2-речення з уточненням.",
+          "order": 5,
+          "question": "Склади природну словацьку репліку.",
           "questionLocalized": {
-            "uk": "Склади B2-речення з уточненням.",
-            "ru": "Собери B2-предложение с уточнением.",
-            "en": "Build a B2 sentence with clarification."
+            "uk": "Склади природну словацьку репліку.",
+            "ru": "Собери естественную словацкую реплику.",
+            "en": "Build a natural Slovak reply."
           },
           "wordIds": [
             "b2-s01-l005-w05"
           ],
           "tokens": [
-            "Nechcem",
-            "to",
-            "zle",
-            "pochopiť,",
-            "môžeš",
-            "to",
-            "upresniť?"
+            "Rozumiem",
+            "situácii,",
+            "ale",
+            "potrebujem",
+            "ju",
+            "ešte",
+            "upresniť."
           ],
-          "correctSentence": "Nechcem to zle pochopiť, môžeš to upresniť?"
+          "correctSentence": "Rozumiem situácii, ale potrebujem ju ešte upresniť."
         },
         {
-          "id": "b2-s01-l005-e07",
+          "id": "b2-s01-l005-e06",
           "lessonId": "b2-s01-l005",
           "type": "multiple_select",
-          "order": 7,
-          "question": "Обери реакції, які зберігають ввічливий тон.",
+          "order": 6,
+          "question": "Обери B2-репліки з природним тоном.",
           "questionLocalized": {
-            "uk": "Обери реакції, які зберігають ввічливий тон.",
-            "ru": "Выбери реакции, которые сохраняют вежливый тон.",
-            "en": "Select replies that keep a polite tone."
+            "uk": "Обери B2-репліки з природним тоном.",
+            "ru": "Выбери B2-реплики с естественным тоном.",
+            "en": "Select B2 replies with a natural tone."
           },
           "wordIds": [
-            "b2-s01-l005-w06",
-            "b2-s01-l005-w07"
+            "b2-s01-l005-w01",
+            "b2-s01-l005-w06"
           ],
           "options": [
             {
               "id": "a",
-              "sk": "Chápem, ale potrebujem to trochu upresniť.",
+              "sk": "Rozumiem, ale potrebujem to presnejšie vysvetliť.",
               "correct": true
             },
             {
               "id": "b",
-              "sk": "To je hlúposť a nemá zmysel o tom hovoriť.",
+              "sk": "To je úplne mimo a nemá zmysel hovoriť.",
               "correct": false
             },
             {
               "id": "c",
-              "sk": "Možno som to pochopil inak, vysvetlíš mi pointu?",
+              "sk": "Z môjho pohľadu je dôležitý aj kontext.",
               "correct": true
             }
           ]
         },
         {
-          "id": "b2-s01-l005-e08",
+          "id": "b2-s01-l005-e07",
           "lessonId": "b2-s01-l005",
           "type": "reading_comprehension",
-          "order": 8,
-          "question": "Прочитай повідомлення і знайди підтекст.",
+          "order": 7,
+          "question": "Прочитай текст і вибери головну думку.",
           "questionLocalized": {
-            "uk": "Прочитай повідомлення і знайди підтекст.",
-            "ru": "Прочитай сообщение и найди подтекст.",
-            "en": "Read the message and identify the subtext."
+            "uk": "Прочитай текст і вибери головну думку.",
+            "ru": "Прочитай текст и выбери главную мысль.",
+            "en": "Read the text and choose the main idea."
           },
           "wordIds": [
+            "b2-s01-l005-w06",
             "b2-s01-l005-w07",
             "b2-s01-l005-w08"
           ],
-          "text": "Správa znie neutrálne, ale jej tón naznačuje, že druhá strana čaká vysvetlenie. Pointa nie je útok, ale potreba vyjasniť situáciu.",
+          "text": "Téma Medzi riadkami si vyžaduje presnosť. Nestačí poznať slová; treba reagovať podľa kontextu, vysvetliť dôvod a navrhnúť ďalší krok.",
           "questions": [
             {
               "prompt": {
-                "uk": "Яка головна думка тексту?",
-                "ru": "Какая главная мысль текста?",
-                "en": "What is the main point of the text?"
+                "uk": "Що є головною думкою?",
+                "ru": "Что является главной мыслью?",
+                "en": "What is the main idea?"
               },
               "options": [
                 {
                   "id": "a",
-                  "sk": "Treba vyjasniť situáciu bez útoku.",
+                  "sk": "Treba reagovať presne podľa kontextu.",
                   "correct": true
                 },
                 {
                   "id": "b",
-                  "sk": "Treba okamžite ukončiť kontakt.",
+                  "sk": "Stačí opakovať jedno slovo.",
                   "correct": false
                 },
                 {
                   "id": "c",
-                  "sk": "Netreba reagovať vôbec.",
+                  "sk": "Najlepšie je nereagovať.",
                   "correct": false
                 }
               ]
@@ -792,40 +730,86 @@
           ]
         },
         {
-          "id": "b2-s01-l005-e09",
+          "id": "b2-s01-l005-e08",
           "lessonId": "b2-s01-l005",
           "type": "dialogue_choose_reply",
-          "order": 9,
-          "question": "Обери найкращу відповідь у чутливому діалозі.",
+          "order": 8,
+          "question": "Обери найкращу відповідь у діалозі.",
           "questionLocalized": {
-            "uk": "Обери найкращу відповідь у чутливому діалозі.",
-            "ru": "Выбери лучший ответ в чувствительном диалоге.",
-            "en": "Choose the best reply in a sensitive dialogue."
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
           },
           "wordIds": [
-            "b2-s01-l005-w01",
-            "b2-s01-l005-w08"
+            "b2-s01-l005-w07"
           ],
           "dialogue": [
             {
               "speaker": "A",
-              "sk": "Asi sme sa nepochopili."
+              "sk": "Ako by si to vysvetlil?"
             }
           ],
           "options": [
             {
               "id": "a",
-              "sk": "Možno áno. Povedz mi, čo tým myslíš, aby som pochopil pointu.",
+              "sk": "Najprv zhrniem situáciu a potom poviem svoj návrh.",
               "correct": true
             },
             {
               "id": "b",
-              "sk": "To je tvoj problém, nie môj.",
+              "sk": "Nepoviem nič, lebo je to ťažké.",
               "correct": false
             },
             {
               "id": "c",
-              "sk": "Nemám čas na také veci.",
+              "sk": "Odpoviem jedným náhodným slovom.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b2-s01-l005-e09",
+          "lessonId": "b2-s01-l005",
+          "type": "meaning_in_context",
+          "order": 9,
+          "question": "Що означає «nepriamo» у контексті?",
+          "questionLocalized": {
+            "uk": "Що означає «nepriamo» у контексті?",
+            "ru": "Что означает «nepriamo» в контексте?",
+            "en": "What does “nepriamo” mean in context?"
+          },
+          "wordIds": [
+            "b2-s01-l005-w02"
+          ],
+          "context": {
+            "sk": "Rozhovor je citlivý, preto si najprv overím význam a tón."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "непрямо",
+                "ru": "непрямо",
+                "en": "indirectly"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "висловлювання",
+                "ru": "высказывание",
+                "en": "statement"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "інтерпретувати",
+                "ru": "интерпретировать",
+                "en": "to interpret"
+              },
               "correct": false
             }
           ]
@@ -835,34 +819,34 @@
           "lessonId": "b2-s01-l005",
           "type": "natural_phrase",
           "order": 10,
-          "question": "Що звучить найприродніше на рівні B2?",
+          "question": "Що звучить найприродніше?",
           "questionLocalized": {
-            "uk": "Що звучить найприродніше на рівні B2?",
-            "ru": "Что звучит естественнее всего на уровне B2?",
-            "en": "What sounds most natural at B2 level?"
+            "uk": "Що звучить найприродніше?",
+            "ru": "Что звучит естественнее всего?",
+            "en": "What sounds most natural?"
           },
           "wordIds": [
-            "b2-s01-l005-w06"
+            "b2-s01-l005-w08"
           ],
           "situation": {
-            "uk": "Ти не впевнений, чи фразу сказали буквально.",
-            "ru": "Ты не уверен, сказали ли фразу буквально.",
-            "en": "You are not sure whether the phrase was meant literally."
+            "uk": "Потрібно відповісти точно, але без різкого тону.",
+            "ru": "Нужно ответить точно, но без резкого тона.",
+            "en": "You need to answer precisely but without a sharp tone."
           },
           "options": [
             {
               "id": "a",
-              "sk": "Myslíš to doslova, alebo skôr v prenesenom zmysle?",
+              "sk": "Chápem tvoj pohľad, ale doplnil by som ešte jednu vec.",
               "correct": true
             },
             {
               "id": "b",
-              "sk": "Toto slovo je doslova stolička.",
+              "sk": "Ty ničomu nerozumieš.",
               "correct": false
             },
             {
               "id": "c",
-              "sk": "Nič nepýtam, všetko viem.",
+              "sk": "Áno nie možno včera.",
               "correct": false
             }
           ]
@@ -872,11 +856,11 @@
           "lessonId": "b2-s01-l005",
           "type": "reverse_translation",
           "order": 11,
-          "question": "Обери словацький варіант для: висловлювання, формулювання.",
+          "question": "Обери словацький варіант для: висловлювання.",
           "questionLocalized": {
-            "uk": "Обери словацький варіант для: висловлювання, формулювання.",
-            "ru": "Выбери словацкий вариант для: высказывание, формулировка.",
-            "en": "Choose the Slovak item for: expression, statement."
+            "uk": "Обери словацький варіант для: висловлювання.",
+            "ru": "Выбери словацкий вариант для: высказывание.",
+            "en": "Choose the Slovak item for: statement."
           },
           "wordIds": [
             "b2-s01-l005-w05"
@@ -884,7 +868,7 @@
           "options": [
             "vyjadrenie",
             "náznak",
-            "nepriamo"
+            "medzi riadkami"
           ],
           "correctAnswer": "vyjadrenie"
         },
@@ -904,8 +888,8 @@
           ],
           "options": [
             "інтерпретувати",
-            "між рядками, підтекст",
-            "тон"
+            "непрямо",
+            "натяк"
           ],
           "correctAnswer": "інтерпретувати"
         }
@@ -914,34 +898,34 @@
         "id": "final-situation",
         "type": "interactive_scenario",
         "title": {
-          "uk": "Medzi riadkami: реальна розмова",
-          "ru": "Medzi riadkami: реальный разговор",
-          "en": "Medzi riadkami: real conversation"
+          "uk": "Medzi riadkami: реальна ситуація",
+          "ru": "Medzi riadkami: реальная ситуация",
+          "en": "Medzi riadkami: real situation"
         },
         "description": {
-          "uk": "Отримав повідомлення, де прямо нічого не сказано, але тон натякає на проблему. Потрібно правильно інтерпретувати і не перебільшити.",
-          "ru": "В сообщении есть подтекст. Нужно правильно понять тон и не преувеличить.",
-          "en": "A message has subtext. Interpret the tone without overreacting."
+          "uk": "Обери репліки, які звучать природно, точно й доречно на рівні B2.",
+          "ru": "Выбери реплики, которые звучат естественно, точно и уместно на уровне B2.",
+          "en": "Choose replies that sound natural, precise and appropriate at B2 level."
         },
         "steps": [
           {
             "id": "f1",
             "prompt": {
-              "uk": "Повідомлення звучить двозначно. Перша реакція?",
-              "ru": "Сообщение звучит двусмысленно. Первая реакция?",
-              "en": "The message sounds ambiguous. First response?"
+              "uk": "Потрібно почати відповідь без різкості.",
+              "ru": "Нужно начать ответ без резкости.",
+              "en": "You need to start without sounding harsh."
             },
             "options": [
               {
-                "sk": "Chcem si to najprv ujasniť, aby som nereagoval zle.",
+                "sk": "Rozumiem, skúsim to najprv zhrnúť vlastnými slovami.",
                 "correct": true
               },
               {
-                "sk": "Určite to myslíš zle.",
+                "sk": "Nemáš pravdu a viac sa o tom nebavme.",
                 "correct": false
               },
               {
-                "sk": "Nebudem sa pýtať nič.",
+                "sk": "Neviem a nechcem reagovať.",
                 "correct": false
               }
             ]
@@ -949,21 +933,21 @@
           {
             "id": "f2",
             "prompt": {
-              "uk": "Ти частково не погоджуєшся. Як сказати м'яко?",
-              "ru": "Ты частично не согласен. Как сказать мягко?",
-              "en": "You partly disagree. How do you say it softly?"
+              "uk": "Потрібно додати аргумент.",
+              "ru": "Нужно добавить аргумент.",
+              "en": "You need to add an argument."
             },
             "options": [
               {
-                "sk": "Čiastočne rozumiem, ale z môjho pohľadu to nie je celkom presné.",
+                "sk": "Dôvod je podľa mňa v tom, že situácia má viac okolností.",
                 "correct": true
               },
               {
-                "sk": "Nemáš pravdu a koniec.",
+                "sk": "Pretože áno.",
                 "correct": false
               },
               {
-                "sk": "To ma nezaujíma.",
+                "sk": "To nesúvisí s ničím.",
                 "correct": false
               }
             ]
@@ -971,21 +955,21 @@
           {
             "id": "f3",
             "prompt": {
-              "uk": "Потрібно завершити розмову конструктивно.",
-              "ru": "Нужно завершить разговор конструктивно.",
-              "en": "You need to close constructively."
+              "uk": "Потрібно завершити практично.",
+              "ru": "Нужно завершить практически.",
+              "en": "You need to close practically."
             },
             "options": [
               {
-                "sk": "Zhrňme si pointu a dohodnime sa na ďalšom kroku.",
+                "sk": "Navrhujem ďalší krok a potom si to potvrdíme písomne.",
                 "correct": true
               },
               {
-                "sk": "Nechajme to tak navždy.",
+                "sk": "Nechajme to bez riešenia.",
                 "correct": false
               },
               {
-                "sk": "Každý si myslí svoje, nič neriešme.",
+                "sk": "Každý nech si domyslí zvyšok.",
                 "correct": false
               }
             ]
@@ -993,9 +977,9 @@
         ],
         "passRequirement": "3/3",
         "successMessage": {
-          "uk": "Готово: ти впорався з нюансованою B2-ситуацією.",
-          "ru": "Готово: ты справился с нюансированной B2-ситуацией.",
-          "en": "Done: you handled a nuanced B2 situation."
+          "uk": "Готово: тема перенесена в реальну B2-комунікацію.",
+          "ru": "Готово: тема перенесена в реальную B2-коммуникацию.",
+          "en": "Done: the topic was transferred into real B2 communication."
         }
       },
       "resultScreen": {
@@ -1006,22 +990,22 @@
           "en": "Lesson complete"
         },
         "subtitle": {
-          "uk": "Ти закрив ще один крок B2-комунікації.",
-          "ru": "Ты закрыл ещё один шаг B2-коммуникации.",
-          "en": "You completed another B2 communication step."
+          "uk": "Ти пройшов ще один крок рівня B2.",
+          "ru": "Ты прошёл ещё один шаг уровня B2.",
+          "en": "You completed another B2 step."
         },
         "xpReward": 180,
         "newWordsCount": 8,
         "exercisesCompleted": 12,
         "nowYouKnow": [
-          "уточнювати зміст",
-          "реагувати ввічливо",
-          "читати підтекст"
+          "структурувати відповідь",
+          "пояснювати нюанс",
+          "реагувати доречно"
         ],
         "mistakesMessage": {
-          "uk": "Повтори вправи, де тон або зміст ще плутаються.",
-          "ru": "Повтори упражнения, где тон или смысл ещё путаются.",
-          "en": "Repeat exercises where tone or meaning is still unclear."
+          "uk": "Повтори вправи, де плутається значення або тон.",
+          "ru": "Повтори упражнения, где путается значение или тон.",
+          "en": "Repeat exercises where meaning or tone is unclear."
         },
         "buttons": [
           "Продовжити",
@@ -1030,22 +1014,22 @@
         ],
         "skills": [
           {
-            "id": "nuance",
+            "id": "vocabulary",
             "label": {
-              "uk": "нюанс",
-              "ru": "нюанс",
-              "en": "nuance"
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
             },
-            "weight": 0.35
+            "weight": 0.3
           },
           {
-            "id": "interaction",
+            "id": "composition",
             "label": {
-              "uk": "діалог",
-              "ru": "диалог",
-              "en": "interaction"
+              "uk": "структура",
+              "ru": "структура",
+              "en": "composition"
             },
-            "weight": 0.35
+            "weight": 0.4
           },
           {
             "id": "transfer",
