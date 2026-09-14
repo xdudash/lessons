@@ -1,0 +1,1115 @@
+{
+  "lessons": [
+    {
+      "id": "c1-s13-l074",
+      "sectionId": "c1_s13",
+      "level": "C1",
+      "title": {
+        "sk": "Keď sa niečo pokazí",
+        "uk": "Keď sa niečo pokazí",
+        "ru": "Keď sa niečo pokazí",
+        "en": "Keď sa niečo pokazí"
+      },
+      "topic": {
+        "sk": "Keď sa niečo pokazí",
+        "uk": "Keď sa niečo pokazí",
+        "ru": "Keď sa niečo pokazí",
+        "en": "Keď sa niečo pokazí"
+      },
+      "description": {
+        "sk": "Precvičíš si tému Keď sa niečo pokazí v komplexnej komunikácii na úrovni C1.",
+        "uk": "Тренуємо тему «Keď sa niečo pokazí»: аргументовано, точно й у реальному контексті.",
+        "ru": "решаем сложную проблему в поездке и объясняем последовательность действий.",
+        "en": "Practice the C1 topic “Keď sa niečo pokazí” in complex communication. Section: Travel, mobility and unfamiliar situations."
+      },
+      "order": 74,
+      "xpReward": 220,
+      "estimatedMinutes": 38,
+      "isPublished": false,
+      "intro": {
+        "sk": "Precvičíš si tému Keď sa niečo pokazí v komplexnej komunikácii na úrovni C1.",
+        "uk": "Тренуємо тему «Keď sa niečo pokazí»: аргументовано, точно й у реальному контексті.",
+        "ru": "решаем сложную проблему в поездке и объясняем последовательность действий.",
+        "en": "Practice the C1 topic “Keď sa niečo pokazí” in complex communication. Section: Travel, mobility and unfamiliar situations."
+      },
+      "completionMessage": {
+        "sk": "Výborne. Tému vieš použiť v náročnejšej komunikácii.",
+        "uk": "Добре. Тепер можеш використати тему в складнішій розмові.",
+        "ru": "Хорошо. Теперь можешь использовать тему в более сложном разговоре.",
+        "en": "Good. You can now use the topic in more complex communication."
+      },
+      "updatedAt": "2026-09-14T00:00:00Z",
+      "localization": {
+        "uiLanguages": [
+          "uk",
+          "ru",
+          "en"
+        ],
+        "targetLanguage": "sk",
+        "fallbackUiLanguage": "uk"
+      },
+      "assets": {
+        "images": {},
+        "audio": {}
+      },
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": {
+          "sk": "Keď sa niečo pokazí",
+          "uk": "Keď sa niečo pokazí",
+          "ru": "Keď sa niečo pokazí",
+          "en": "Keď sa niečo pokazí"
+        },
+        "shortDescription": {
+          "uk": "Тренуємо тему «Keď sa niečo pokazí»: аргументовано, точно й у реальному контексті.",
+          "ru": "решаем сложную проблему в поездке и объясняем последовательность действий.",
+          "en": "Practice the C1 topic “Keď sa niečo pokazí” in complex communication. Section: Travel, mobility and unfamiliar situations."
+        },
+        "outcomes": [
+          {
+            "uk": "пояснити думку точніше й довше",
+            "ru": "объяснить мысль точнее и длиннее",
+            "en": "explain an idea more precisely and at greater length"
+          },
+          {
+            "uk": "використати нові C1-фрази в контексті",
+            "ru": "использовать новые C1-фразы в контексте",
+            "en": "use new C1 phrases in context"
+          },
+          {
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
+          }
+        ],
+        "newWords": [
+          "c1-s13-l074-w01",
+          "c1-s13-l074-w02",
+          "c1-s13-l074-w03",
+          "c1-s13-l074-w04",
+          "c1-s13-l074-w05",
+          "c1-s13-l074-w06",
+          "c1-s13-l074-w07",
+          "c1-s13-l074-w08"
+        ],
+        "exercisesCount": 14,
+        "reward": "+220 XP",
+        "estimatedMinutes": 38,
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "id": "t1",
+          "screenType": "theory",
+          "order": 1,
+          "title": {
+            "uk": "Фокус уроку",
+            "ru": "Фокус урока",
+            "en": "Lesson focus"
+          },
+          "body": {
+            "uk": "Тренуємо тему «Keď sa niečo pokazí»: аргументовано, точно й у реальному контексті.",
+            "ru": "решаем сложную проблему в поездке и объясняем последовательность действий.",
+            "en": "Practice the C1 topic “Keď sa niečo pokazí” in complex communication. Section: Travel, mobility and unfamiliar situations."
+          },
+          "examples": [
+            {
+              "sk": "V téme Keď sa niečo pokazí použijem výraz: pokaziť sa.",
+              "translation": {
+                "uk": "У темі «Keď sa niečo pokazí» використовую: вираз «pokaziť sa» у темі «Keď sa niečo pokazí».",
+                "ru": "В теме «Keď sa niečo pokazí» использую: выражение «pokaziť sa» в теме «Keď sa niečo pokazí».",
+                "en": "In “Keď sa niečo pokazí”, I use: the expression “pokaziť sa” in the topic “Keď sa niečo pokazí”."
+              }
+            },
+            {
+              "sk": "V téme Keď sa niečo pokazí použijem výraz: zrušený.",
+              "translation": {
+                "uk": "У темі «Keď sa niečo pokazí» використовую: вираз «zrušený» у темі «Keď sa niečo pokazí».",
+                "ru": "В теме «Keď sa niečo pokazí» использую: выражение «zrušený» в теме «Keď sa niečo pokazí».",
+                "en": "In “Keď sa niečo pokazí”, I use: the expression “zrušený” in the topic “Keď sa niečo pokazí”."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "На C1 важливо не просто відповісти, а показати причину, умову, наслідок або нюанс.",
+            "ru": "На C1 важно не просто ответить, а показать причину, условие, последствие или нюанс.",
+            "en": "At C1, show a reason, condition, consequence or nuance."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t2",
+          "screenType": "theory",
+          "order": 2,
+          "title": {
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer model"
+          },
+          "body": {
+            "uk": "Будуй відповідь за схемою: контекст -> позиція -> аргумент -> приклад -> наступний крок.",
+            "ru": "Строй ответ по схеме: контекст -> позиция -> аргумент -> пример -> следующий шаг.",
+            "en": "Build the answer as: context -> position -> argument -> example -> next step."
+          },
+          "examples": [
+            {
+              "sk": "Z môjho pohľadu je dôležité najprv vysvetliť kontext.",
+              "translation": {
+                "uk": "З моєї точки зору важливо спочатку пояснити контекст.",
+                "ru": "С моей точки зрения важно сначала объяснить контекст.",
+                "en": "From my point of view, it is important to explain the context first."
+              }
+            },
+            {
+              "sk": "Na druhej strane treba zohľadniť aj praktické dôsledky.",
+              "translation": {
+                "uk": "З іншого боку, треба врахувати також практичні наслідки.",
+                "ru": "С другой стороны, нужно учесть и практические последствия.",
+                "en": "On the other hand, practical consequences must also be considered."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "Одна сильна відповідь має структуру, а не лише правильні слова.",
+            "ru": "Один сильный ответ имеет структуру, а не только правильные слова.",
+            "en": "A strong answer has structure, not only correct words."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t3",
+          "screenType": "theory",
+          "order": 3,
+          "title": {
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
+          },
+          "body": {
+            "uk": "У фіналі потрібно вибрати репліку, яка реально рухає ситуацію вперед.",
+            "ru": "В финале нужно выбрать реплику, которая реально двигает ситуацию дальше.",
+            "en": "In the final task, choose the reply that moves the situation forward."
+          },
+          "examples": [
+            {
+              "sk": "Navrhujem, aby sme si najprv ujasnili priority.",
+              "translation": {
+                "uk": "Пропоную спочатку прояснити пріоритети.",
+                "ru": "Предлагаю сначала прояснить приоритеты.",
+                "en": "I suggest clarifying priorities first."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "C1 = самостійна, зв'язна й доречна комунікація.",
+            "ru": "C1 = самостоятельная, связная и уместная коммуникация.",
+            "en": "C1 means independent, connected and appropriate communication."
+          },
+          "button": "До слів"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": {
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
+        },
+        "description": {
+          "uk": "Ці одиниці взяті з затвердженого C1-плану.",
+          "ru": "Эти единицы взяты из утвержденного C1-плана.",
+          "en": "These items come from the approved C1 plan."
+        },
+        "items": [
+          {
+            "wordId": "c1-s13-l074-w01",
+            "sk": "pokaziť sa",
+            "uk": "вираз «pokaziť sa» у темі «Keď sa niečo pokazí»",
+            "ru": "выражение «pokaziť sa» в теме «Keď sa niečo pokazí»",
+            "en": "the expression “pokaziť sa” in the topic “Keď sa niečo pokazí”",
+            "pronunciationUk": "pokazit' sa",
+            "exampleSk": "V téme Keď sa niečo pokazí použijem výraz: pokaziť sa.",
+            "exampleUk": "У темі «Keď sa niečo pokazí» використовую: вираз «pokaziť sa» у темі «Keď sa niečo pokazí».",
+            "exampleRu": "В теме «Keď sa niečo pokazí» использую: выражение «pokaziť sa» в теме «Keď sa niečo pokazí».",
+            "exampleEn": "In “Keď sa niečo pokazí”, I use: the expression “pokaziť sa” in the topic “Keď sa niečo pokazí”."
+          },
+          {
+            "wordId": "c1-s13-l074-w02",
+            "sk": "zrušený",
+            "uk": "вираз «zrušený» у темі «Keď sa niečo pokazí»",
+            "ru": "выражение «zrušený» в теме «Keď sa niečo pokazí»",
+            "en": "the expression “zrušený” in the topic “Keď sa niečo pokazí”",
+            "pronunciationUk": "zrusheny",
+            "exampleSk": "V téme Keď sa niečo pokazí použijem výraz: zrušený.",
+            "exampleUk": "У темі «Keď sa niečo pokazí» використовую: вираз «zrušený» у темі «Keď sa niečo pokazí».",
+            "exampleRu": "В теме «Keď sa niečo pokazí» использую: выражение «zrušený» в теме «Keď sa niečo pokazí».",
+            "exampleEn": "In “Keď sa niečo pokazí”, I use: the expression “zrušený” in the topic “Keď sa niečo pokazí”."
+          },
+          {
+            "wordId": "c1-s13-l074-w03",
+            "sk": "meškať",
+            "uk": "вираз «meškať» у темі «Keď sa niečo pokazí»",
+            "ru": "выражение «meškať» в теме «Keď sa niečo pokazí»",
+            "en": "the expression “meškať” in the topic “Keď sa niečo pokazí”",
+            "pronunciationUk": "meshkat'",
+            "exampleSk": "V téme Keď sa niečo pokazí použijem výraz: meškať.",
+            "exampleUk": "У темі «Keď sa niečo pokazí» використовую: вираз «meškať» у темі «Keď sa niečo pokazí».",
+            "exampleRu": "В теме «Keď sa niečo pokazí» использую: выражение «meškať» в теме «Keď sa niečo pokazí».",
+            "exampleEn": "In “Keď sa niečo pokazí”, I use: the expression “meškať” in the topic “Keď sa niečo pokazí”."
+          },
+          {
+            "wordId": "c1-s13-l074-w04",
+            "sk": "náhradný",
+            "uk": "вираз «náhradný» у темі «Keď sa niečo pokazí»",
+            "ru": "выражение «náhradný» в теме «Keď sa niečo pokazí»",
+            "en": "the expression “náhradný” in the topic “Keď sa niečo pokazí”",
+            "pronunciationUk": "nahradny",
+            "exampleSk": "V téme Keď sa niečo pokazí použijem výraz: náhradný.",
+            "exampleUk": "У темі «Keď sa niečo pokazí» використовую: вираз «náhradný» у темі «Keď sa niečo pokazí».",
+            "exampleRu": "В теме «Keď sa niečo pokazí» использую: выражение «náhradný» в теме «Keď sa niečo pokazí».",
+            "exampleEn": "In “Keď sa niečo pokazí”, I use: the expression “náhradný” in the topic “Keď sa niečo pokazí”."
+          },
+          {
+            "wordId": "c1-s13-l074-w05",
+            "sk": "kompenzácia",
+            "uk": "вираз «kompenzácia» у темі «Keď sa niečo pokazí»",
+            "ru": "выражение «kompenzácia» в теме «Keď sa niečo pokazí»",
+            "en": "the expression “kompenzácia” in the topic “Keď sa niečo pokazí”",
+            "pronunciationUk": "kompenzacia",
+            "exampleSk": "V téme Keď sa niečo pokazí použijem výraz: kompenzácia.",
+            "exampleUk": "У темі «Keď sa niečo pokazí» використовую: вираз «kompenzácia» у темі «Keď sa niečo pokazí».",
+            "exampleRu": "В теме «Keď sa niečo pokazí» использую: выражение «kompenzácia» в теме «Keď sa niečo pokazí».",
+            "exampleEn": "In “Keď sa niečo pokazí”, I use: the expression “kompenzácia” in the topic “Keď sa niečo pokazí”."
+          },
+          {
+            "wordId": "c1-s13-l074-w06",
+            "sk": "reklamovať",
+            "uk": "вираз «reklamovať» у темі «Keď sa niečo pokazí»",
+            "ru": "выражение «reklamovať» в теме «Keď sa niečo pokazí»",
+            "en": "the expression “reklamovať” in the topic “Keď sa niečo pokazí”",
+            "pronunciationUk": "reklamovat'",
+            "exampleSk": "V téme Keď sa niečo pokazí použijem výraz: reklamovať.",
+            "exampleUk": "У темі «Keď sa niečo pokazí» використовую: вираз «reklamovať» у темі «Keď sa niečo pokazí».",
+            "exampleRu": "В теме «Keď sa niečo pokazí» использую: выражение «reklamovať» в теме «Keď sa niečo pokazí».",
+            "exampleEn": "In “Keď sa niečo pokazí”, I use: the expression “reklamovať” in the topic “Keď sa niečo pokazí”."
+          },
+          {
+            "wordId": "c1-s13-l074-w07",
+            "sk": "vybaviť",
+            "uk": "вираз «vybaviť» у темі «Keď sa niečo pokazí»",
+            "ru": "выражение «vybaviť» в теме «Keď sa niečo pokazí»",
+            "en": "the expression “vybaviť” in the topic “Keď sa niečo pokazí”",
+            "pronunciationUk": "vybavit'",
+            "exampleSk": "V téme Keď sa niečo pokazí použijem výraz: vybaviť.",
+            "exampleUk": "У темі «Keď sa niečo pokazí» використовую: вираз «vybaviť» у темі «Keď sa niečo pokazí».",
+            "exampleRu": "В теме «Keď sa niečo pokazí» использую: выражение «vybaviť» в теме «Keď sa niečo pokazí».",
+            "exampleEn": "In “Keď sa niečo pokazí”, I use: the expression “vybaviť” in the topic “Keď sa niečo pokazí”."
+          },
+          {
+            "wordId": "c1-s13-l074-w08",
+            "sk": "náprava",
+            "uk": "вираз «náprava» у темі «Keď sa niečo pokazí»",
+            "ru": "выражение «náprava» в теме «Keď sa niečo pokazí»",
+            "en": "the expression “náprava” in the topic “Keď sa niečo pokazí”",
+            "pronunciationUk": "naprava",
+            "exampleSk": "V téme Keď sa niečo pokazí použijem výraz: náprava.",
+            "exampleUk": "У темі «Keď sa niečo pokazí» використовую: вираз «náprava» у темі «Keď sa niečo pokazí».",
+            "exampleRu": "В теме «Keď sa niečo pokazí» использую: выражение «náprava» в теме «Keď sa niečo pokazí».",
+            "exampleEn": "In “Keď sa niečo pokazí”, I use: the expression “náprava” in the topic “Keď sa niečo pokazí”."
+          }
+        ],
+        "button": "До практики"
+      },
+      "words": [
+        {
+          "id": "c1-s13-l074-w01",
+          "sk": "pokaziť sa",
+          "uk": "вираз «pokaziť sa» у темі «Keď sa niečo pokazí»",
+          "ru": "выражение «pokaziť sa» в теме «Keď sa niečo pokazí»",
+          "en": "the expression “pokaziť sa” in the topic “Keď sa niečo pokazí”",
+          "pronunciationUk": "pokazit' sa",
+          "exampleSk": "V téme Keď sa niečo pokazí použijem výraz: pokaziť sa.",
+          "exampleUk": "У темі «Keď sa niečo pokazí» використовую: вираз «pokaziť sa» у темі «Keď sa niečo pokazí».",
+          "exampleRu": "В теме «Keď sa niečo pokazí» использую: выражение «pokaziť sa» в теме «Keď sa niečo pokazí».",
+          "exampleEn": "In “Keď sa niečo pokazí”, I use: the expression “pokaziť sa” in the topic “Keď sa niečo pokazí”.",
+          "level": "C1",
+          "topic": "Keď sa niečo pokazí",
+          "tags": [
+            "c1_s13",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s13-l074-w02",
+          "sk": "zrušený",
+          "uk": "вираз «zrušený» у темі «Keď sa niečo pokazí»",
+          "ru": "выражение «zrušený» в теме «Keď sa niečo pokazí»",
+          "en": "the expression “zrušený” in the topic “Keď sa niečo pokazí”",
+          "pronunciationUk": "zrusheny",
+          "exampleSk": "V téme Keď sa niečo pokazí použijem výraz: zrušený.",
+          "exampleUk": "У темі «Keď sa niečo pokazí» використовую: вираз «zrušený» у темі «Keď sa niečo pokazí».",
+          "exampleRu": "В теме «Keď sa niečo pokazí» использую: выражение «zrušený» в теме «Keď sa niečo pokazí».",
+          "exampleEn": "In “Keď sa niečo pokazí”, I use: the expression “zrušený” in the topic “Keď sa niečo pokazí”.",
+          "level": "C1",
+          "topic": "Keď sa niečo pokazí",
+          "tags": [
+            "c1_s13",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s13-l074-w03",
+          "sk": "meškať",
+          "uk": "вираз «meškať» у темі «Keď sa niečo pokazí»",
+          "ru": "выражение «meškať» в теме «Keď sa niečo pokazí»",
+          "en": "the expression “meškať” in the topic “Keď sa niečo pokazí”",
+          "pronunciationUk": "meshkat'",
+          "exampleSk": "V téme Keď sa niečo pokazí použijem výraz: meškať.",
+          "exampleUk": "У темі «Keď sa niečo pokazí» використовую: вираз «meškať» у темі «Keď sa niečo pokazí».",
+          "exampleRu": "В теме «Keď sa niečo pokazí» использую: выражение «meškať» в теме «Keď sa niečo pokazí».",
+          "exampleEn": "In “Keď sa niečo pokazí”, I use: the expression “meškať” in the topic “Keď sa niečo pokazí”.",
+          "level": "C1",
+          "topic": "Keď sa niečo pokazí",
+          "tags": [
+            "c1_s13",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s13-l074-w04",
+          "sk": "náhradný",
+          "uk": "вираз «náhradný» у темі «Keď sa niečo pokazí»",
+          "ru": "выражение «náhradný» в теме «Keď sa niečo pokazí»",
+          "en": "the expression “náhradný” in the topic “Keď sa niečo pokazí”",
+          "pronunciationUk": "nahradny",
+          "exampleSk": "V téme Keď sa niečo pokazí použijem výraz: náhradný.",
+          "exampleUk": "У темі «Keď sa niečo pokazí» використовую: вираз «náhradný» у темі «Keď sa niečo pokazí».",
+          "exampleRu": "В теме «Keď sa niečo pokazí» использую: выражение «náhradný» в теме «Keď sa niečo pokazí».",
+          "exampleEn": "In “Keď sa niečo pokazí”, I use: the expression “náhradný” in the topic “Keď sa niečo pokazí”.",
+          "level": "C1",
+          "topic": "Keď sa niečo pokazí",
+          "tags": [
+            "c1_s13",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s13-l074-w05",
+          "sk": "kompenzácia",
+          "uk": "вираз «kompenzácia» у темі «Keď sa niečo pokazí»",
+          "ru": "выражение «kompenzácia» в теме «Keď sa niečo pokazí»",
+          "en": "the expression “kompenzácia” in the topic “Keď sa niečo pokazí”",
+          "pronunciationUk": "kompenzacia",
+          "exampleSk": "V téme Keď sa niečo pokazí použijem výraz: kompenzácia.",
+          "exampleUk": "У темі «Keď sa niečo pokazí» використовую: вираз «kompenzácia» у темі «Keď sa niečo pokazí».",
+          "exampleRu": "В теме «Keď sa niečo pokazí» использую: выражение «kompenzácia» в теме «Keď sa niečo pokazí».",
+          "exampleEn": "In “Keď sa niečo pokazí”, I use: the expression “kompenzácia” in the topic “Keď sa niečo pokazí”.",
+          "level": "C1",
+          "topic": "Keď sa niečo pokazí",
+          "tags": [
+            "c1_s13",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s13-l074-w06",
+          "sk": "reklamovať",
+          "uk": "вираз «reklamovať» у темі «Keď sa niečo pokazí»",
+          "ru": "выражение «reklamovať» в теме «Keď sa niečo pokazí»",
+          "en": "the expression “reklamovať” in the topic “Keď sa niečo pokazí”",
+          "pronunciationUk": "reklamovat'",
+          "exampleSk": "V téme Keď sa niečo pokazí použijem výraz: reklamovať.",
+          "exampleUk": "У темі «Keď sa niečo pokazí» використовую: вираз «reklamovať» у темі «Keď sa niečo pokazí».",
+          "exampleRu": "В теме «Keď sa niečo pokazí» использую: выражение «reklamovať» в теме «Keď sa niečo pokazí».",
+          "exampleEn": "In “Keď sa niečo pokazí”, I use: the expression “reklamovať” in the topic “Keď sa niečo pokazí”.",
+          "level": "C1",
+          "topic": "Keď sa niečo pokazí",
+          "tags": [
+            "c1_s13",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s13-l074-w07",
+          "sk": "vybaviť",
+          "uk": "вираз «vybaviť» у темі «Keď sa niečo pokazí»",
+          "ru": "выражение «vybaviť» в теме «Keď sa niečo pokazí»",
+          "en": "the expression “vybaviť” in the topic “Keď sa niečo pokazí”",
+          "pronunciationUk": "vybavit'",
+          "exampleSk": "V téme Keď sa niečo pokazí použijem výraz: vybaviť.",
+          "exampleUk": "У темі «Keď sa niečo pokazí» використовую: вираз «vybaviť» у темі «Keď sa niečo pokazí».",
+          "exampleRu": "В теме «Keď sa niečo pokazí» использую: выражение «vybaviť» в теме «Keď sa niečo pokazí».",
+          "exampleEn": "In “Keď sa niečo pokazí”, I use: the expression “vybaviť” in the topic “Keď sa niečo pokazí”.",
+          "level": "C1",
+          "topic": "Keď sa niečo pokazí",
+          "tags": [
+            "c1_s13",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s13-l074-w08",
+          "sk": "náprava",
+          "uk": "вираз «náprava» у темі «Keď sa niečo pokazí»",
+          "ru": "выражение «náprava» в теме «Keď sa niečo pokazí»",
+          "en": "the expression “náprava” in the topic “Keď sa niečo pokazí”",
+          "pronunciationUk": "naprava",
+          "exampleSk": "V téme Keď sa niečo pokazí použijem výraz: náprava.",
+          "exampleUk": "У темі «Keď sa niečo pokazí» використовую: вираз «náprava» у темі «Keď sa niečo pokazí».",
+          "exampleRu": "В теме «Keď sa niečo pokazí» использую: выражение «náprava» в теме «Keď sa niečo pokazí».",
+          "exampleEn": "In “Keď sa niečo pokazí”, I use: the expression “náprava” in the topic “Keď sa niečo pokazí”.",
+          "level": "C1",
+          "topic": "Keď sa niečo pokazí",
+          "tags": [
+            "c1_s13",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "c1-s13-l074-e01",
+          "lessonId": "c1-s13-l074",
+          "type": "single_choice",
+          "order": 1,
+          "question": "Що означає «pokaziť sa»?",
+          "questionLocalized": {
+            "uk": "Що означає «pokaziť sa»?",
+            "ru": "Что означает «pokaziť sa»?",
+            "en": "What does “pokaziť sa” mean?"
+          },
+          "wordIds": [
+            "c1-s13-l074-w01"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "вираз «pokaziť sa» у темі «Keď sa niečo pokazí»",
+                "ru": "выражение «pokaziť sa» в теме «Keď sa niečo pokazí»",
+                "en": "the expression “pokaziť sa” in the topic “Keď sa niečo pokazí”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "вираз «zrušený» у темі «Keď sa niečo pokazí»",
+                "ru": "выражение «zrušený» в теме «Keď sa niečo pokazí»",
+                "en": "the expression “zrušený” in the topic “Keď sa niečo pokazí”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "вираз «meškať» у темі «Keď sa niečo pokazí»",
+                "ru": "выражение «meškať» в теме «Keď sa niečo pokazí»",
+                "en": "the expression “meškať” in the topic “Keď sa niečo pokazí”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s13-l074-e02",
+          "lessonId": "c1-s13-l074",
+          "type": "matching",
+          "order": 2,
+          "question": "З'єднай фрази з поясненнями.",
+          "questionLocalized": {
+            "uk": "З'єднай фрази з поясненнями.",
+            "ru": "Соедини фразы с объяснениями.",
+            "en": "Match phrases with explanations."
+          },
+          "wordIds": [
+            "c1-s13-l074-w01",
+            "c1-s13-l074-w02",
+            "c1-s13-l074-w03",
+            "c1-s13-l074-w04"
+          ],
+          "pairs": [
+            {
+              "left": "pokaziť sa",
+              "right": "вираз «pokaziť sa» у темі «Keď sa niečo pokazí»",
+              "rightRu": "выражение «pokaziť sa» в теме «Keď sa niečo pokazí»",
+              "rightEn": "the expression “pokaziť sa” in the topic “Keď sa niečo pokazí”"
+            },
+            {
+              "left": "zrušený",
+              "right": "вираз «zrušený» у темі «Keď sa niečo pokazí»",
+              "rightRu": "выражение «zrušený» в теме «Keď sa niečo pokazí»",
+              "rightEn": "the expression “zrušený” in the topic “Keď sa niečo pokazí”"
+            },
+            {
+              "left": "meškať",
+              "right": "вираз «meškať» у темі «Keď sa niečo pokazí»",
+              "rightRu": "выражение «meškať» в теме «Keď sa niečo pokazí»",
+              "rightEn": "the expression “meškať” in the topic “Keď sa niečo pokazí”"
+            },
+            {
+              "left": "náhradný",
+              "right": "вираз «náhradný» у темі «Keď sa niečo pokazí»",
+              "rightRu": "выражение «náhradný» в теме «Keď sa niečo pokazí»",
+              "rightEn": "the expression “náhradný” in the topic “Keď sa niečo pokazí”"
+            }
+          ]
+        },
+        {
+          "id": "c1-s13-l074-e03",
+          "lessonId": "c1-s13-l074",
+          "type": "fill_blank",
+          "order": 3,
+          "question": "Впиши словацькою: вираз «meškať» у темі «Keď sa niečo pokazí».",
+          "questionLocalized": {
+            "uk": "Впиши словацькою: вираз «meškať» у темі «Keď sa niečo pokazí».",
+            "ru": "Впиши по-словацки: выражение «meškať» в теме «Keď sa niečo pokazí».",
+            "en": "Write in Slovak: the expression “meškať” in the topic “Keď sa niečo pokazí”."
+          },
+          "wordIds": [
+            "c1-s13-l074-w03"
+          ],
+          "sentence": "______",
+          "acceptedAnswers": [
+            "meškať"
+          ],
+          "hint": {
+            "uk": "Початок: me...",
+            "ru": "Начало: me...",
+            "en": "Start: me..."
+          }
+        },
+        {
+          "id": "c1-s13-l074-e04",
+          "lessonId": "c1-s13-l074",
+          "type": "dropdown_blank",
+          "order": 4,
+          "question": "Обери точну фразу для C1-речення.",
+          "questionLocalized": {
+            "uk": "Обери точну фразу для C1-речення.",
+            "ru": "Выбери точную фразу для C1-предложения.",
+            "en": "Choose the precise phrase for a C1 sentence."
+          },
+          "wordIds": [
+            "c1-s13-l074-w04"
+          ],
+          "sentenceParts": [
+            {
+              "text": "V tejto situácii je dôležité použiť "
+            },
+            {
+              "blankId": "blank1",
+              "options": [
+                "náhradný",
+                "pokaziť sa",
+                "zrušený"
+              ],
+              "correct": "náhradný"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "c1-s13-l074-e05",
+          "lessonId": "c1-s13-l074",
+          "type": "sentence_builder",
+          "order": 5,
+          "question": "Склади природну словацьку репліку.",
+          "questionLocalized": {
+            "uk": "Склади природну словацьку репліку.",
+            "ru": "Собери естественную словацкую реплику.",
+            "en": "Build a natural Slovak reply."
+          },
+          "wordIds": [
+            "c1-s13-l074-w05"
+          ],
+          "tokens": [
+            "Rozumiem",
+            "situácii,",
+            "ale",
+            "potrebujem",
+            "ju",
+            "ešte",
+            "upresniť."
+          ],
+          "correctSentence": "Rozumiem situácii, ale potrebujem ju ešte upresniť."
+        },
+        {
+          "id": "c1-s13-l074-e06",
+          "lessonId": "c1-s13-l074",
+          "type": "multiple_select",
+          "order": 6,
+          "question": "Обери C1-репліки з природним тоном.",
+          "questionLocalized": {
+            "uk": "Обери C1-репліки з природним тоном.",
+            "ru": "Выбери C1-реплики с естественным тоном.",
+            "en": "Select C1 replies with a natural tone."
+          },
+          "wordIds": [
+            "c1-s13-l074-w01",
+            "c1-s13-l074-w06"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Rozumiem, ale potrebujem to presnejšie vysvetliť.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "To je úplne mimo a nemá zmysel hovoriť.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Z môjho pohľadu je dôležitý aj kontext.",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "id": "c1-s13-l074-e07",
+          "lessonId": "c1-s13-l074",
+          "type": "reading_comprehension",
+          "order": 7,
+          "question": "Прочитай текст і вибери головну думку.",
+          "questionLocalized": {
+            "uk": "Прочитай текст і вибери головну думку.",
+            "ru": "Прочитай текст и выбери главную мысль.",
+            "en": "Read the text and choose the main idea."
+          },
+          "wordIds": [
+            "c1-s13-l074-w06",
+            "c1-s13-l074-w07",
+            "c1-s13-l074-w08"
+          ],
+          "text": "Téma Keď sa niečo pokazí si vyžaduje presnosť. Nestačí poznať slová; treba reagovať podľa kontextu, vysvetliť dôvod a navrhnúť ďalší krok.",
+          "questions": [
+            {
+              "prompt": {
+                "uk": "Що є головною думкою?",
+                "ru": "Что является главной мыслью?",
+                "en": "What is the main idea?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "Treba reagovať presne podľa kontextu.",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "Stačí opakovať jedno slovo.",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "Najlepšie je nereagovať.",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c1-s13-l074-e08",
+          "lessonId": "c1-s13-l074",
+          "type": "dialogue_choose_reply",
+          "order": 8,
+          "question": "Обери найкращу відповідь у діалозі.",
+          "questionLocalized": {
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
+          },
+          "wordIds": [
+            "c1-s13-l074-w07"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Ako by si to vysvetlil?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Najprv zhrniem situáciu a potom poviem svoj návrh.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Nepoviem nič, lebo je to ťažké.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Odpoviem jedným náhodným slovom.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s13-l074-e09",
+          "lessonId": "c1-s13-l074",
+          "type": "meaning_in_context",
+          "order": 9,
+          "question": "Що означає «zrušený» у контексті?",
+          "questionLocalized": {
+            "uk": "Що означає «zrušený» у контексті?",
+            "ru": "Что означает «zrušený» в контексте?",
+            "en": "What does “zrušený” mean in context?"
+          },
+          "wordIds": [
+            "c1-s13-l074-w02"
+          ],
+          "context": {
+            "sk": "Rozhovor je citlivý, preto si najprv overím význam a tón."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "вираз «zrušený» у темі «Keď sa niečo pokazí»",
+                "ru": "выражение «zrušený» в теме «Keď sa niečo pokazí»",
+                "en": "the expression “zrušený” in the topic “Keď sa niečo pokazí”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "вираз «kompenzácia» у темі «Keď sa niečo pokazí»",
+                "ru": "выражение «kompenzácia» в теме «Keď sa niečo pokazí»",
+                "en": "the expression “kompenzácia” in the topic “Keď sa niečo pokazí”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "вираз «náprava» у темі «Keď sa niečo pokazí»",
+                "ru": "выражение «náprava» в теме «Keď sa niečo pokazí»",
+                "en": "the expression “náprava” in the topic “Keď sa niečo pokazí”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s13-l074-e10",
+          "lessonId": "c1-s13-l074",
+          "type": "natural_phrase",
+          "order": 10,
+          "question": "Що звучить найприродніше?",
+          "questionLocalized": {
+            "uk": "Що звучить найприродніше?",
+            "ru": "Что звучит естественнее всего?",
+            "en": "What sounds most natural?"
+          },
+          "wordIds": [
+            "c1-s13-l074-w08"
+          ],
+          "situation": {
+            "uk": "Потрібно відповісти точно, але без різкого тону.",
+            "ru": "Нужно ответить точно, но без резкого тона.",
+            "en": "You need to answer precisely but without a sharp tone."
+          },
+          "options": [
+            {
+              "id": "a",
+              "sk": "Chápem tvoj pohľad, ale doplnil by som ešte jednu vec.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Ty ničomu nerozumieš.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Áno nie možno včera.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s13-l074-e11",
+          "lessonId": "c1-s13-l074",
+          "type": "reverse_translation",
+          "order": 11,
+          "question": "Обери словацький варіант для: вираз «kompenzácia» у темі «Keď sa niečo pokazí».",
+          "questionLocalized": {
+            "uk": "Обери словацький варіант для: вираз «kompenzácia» у темі «Keď sa niečo pokazí».",
+            "ru": "Выбери словацкий вариант для: выражение «kompenzácia» в теме «Keď sa niečo pokazí».",
+            "en": "Choose the Slovak item for: the expression “kompenzácia” in the topic “Keď sa niečo pokazí”."
+          },
+          "wordIds": [
+            "c1-s13-l074-w05"
+          ],
+          "options": [
+            "kompenzácia",
+            "meškať",
+            "pokaziť sa"
+          ],
+          "correctAnswer": "kompenzácia"
+        },
+        {
+          "id": "c1-s13-l074-e12",
+          "lessonId": "c1-s13-l074",
+          "type": "sentence_order",
+          "order": 12,
+          "question": "Віднови логічний порядок C1-відповіді.",
+          "questionLocalized": {
+            "uk": "Віднови логічний порядок C1-відповіді.",
+            "ru": "Восстанови логический порядок C1-ответа.",
+            "en": "Restore the logical order of a C1 answer."
+          },
+          "wordIds": [
+            "c1-s13-l074-w01",
+            "c1-s13-l074-w02"
+          ],
+          "items": [
+            "Najprv treba pomenovať kontext.",
+            "Potom možno doplniť presnejší výraz.",
+            "Napokon z toho vyplýva konkrétny záver."
+          ],
+          "correctOrder": [
+            "Najprv treba pomenovať kontext.",
+            "Potom možno doplniť presnejší výraz.",
+            "Napokon z toho vyplýva konkrétny záver."
+          ]
+        },
+        {
+          "id": "c1-s13-l074-e13",
+          "lessonId": "c1-s13-l074",
+          "type": "dialogue_choose_reply",
+          "order": 13,
+          "question": "Обери відповідь з точним регістром.",
+          "questionLocalized": {
+            "uk": "Обери відповідь з точним регістром.",
+            "ru": "Выбери ответ с точным регистром.",
+            "en": "Choose the reply with the right register."
+          },
+          "wordIds": [
+            "c1-s13-l074-w03",
+            "c1-s13-l074-w04"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Potrebujem to povedať odborne, ale nie zbytočne tvrdo."
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Rozumiem. Preformuloval by som to vecne a zároveň opatrne.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Napíš tam čokoľvek, hlavne rýchlo.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Daj tam najtvrdšiu možnú formuláciu.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s13-l074-e14",
+          "lessonId": "c1-s13-l074",
+          "type": "multiple_choice_translation",
+          "order": 14,
+          "question": "Що відповідає словацькому «náprava»?",
+          "questionLocalized": {
+            "uk": "Що відповідає словацькому «náprava»?",
+            "ru": "Что соответствует словацкому «náprava»?",
+            "en": "What matches the Slovak “náprava”?"
+          },
+          "wordIds": [
+            "c1-s13-l074-w08"
+          ],
+          "options": [
+            "вираз «náprava» у темі «Keď sa niečo pokazí»",
+            "вираз «zrušený» у темі «Keď sa niečo pokazí»",
+            "вираз «meškať» у темі «Keď sa niečo pokazí»"
+          ],
+          "correctAnswer": "вираз «náprava» у темі «Keď sa niečo pokazí»"
+        }
+      ],
+      "finalSituation": {
+        "id": "final-situation",
+        "type": "interactive_scenario",
+        "title": {
+          "uk": "Keď sa niečo pokazí: реальна ситуація",
+          "ru": "Keď sa niečo pokazí: реальная ситуация",
+          "en": "Keď sa niečo pokazí: real situation"
+        },
+        "description": {
+          "uk": "Обери репліки, які звучать природно, точно й доречно на рівні C1.",
+          "ru": "Выбери реплики, которые звучат естественно, точно и уместно на уровне C1.",
+          "en": "Choose replies that sound natural, precise and appropriate at C1 level."
+        },
+        "steps": [
+          {
+            "id": "f1",
+            "prompt": {
+              "uk": "Потрібно почати відповідь без різкості.",
+              "ru": "Нужно начать ответ без резкости.",
+              "en": "You need to start without sounding harsh."
+            },
+            "options": [
+              {
+                "sk": "Rozumiem, skúsim to najprv zhrnúť vlastnými slovami.",
+                "correct": true
+              },
+              {
+                "sk": "Nemáš pravdu a viac sa o tom nebavme.",
+                "correct": false
+              },
+              {
+                "sk": "Neviem a nechcem reagovať.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "prompt": {
+              "uk": "Потрібно додати аргумент.",
+              "ru": "Нужно добавить аргумент.",
+              "en": "You need to add an argument."
+            },
+            "options": [
+              {
+                "sk": "Dôvod je podľa mňa v tom, že situácia má viac okolností.",
+                "correct": true
+              },
+              {
+                "sk": "Pretože áno.",
+                "correct": false
+              },
+              {
+                "sk": "To nesúvisí s ničím.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f3",
+            "prompt": {
+              "uk": "Потрібно завершити практично.",
+              "ru": "Нужно завершить практически.",
+              "en": "You need to close practically."
+            },
+            "options": [
+              {
+                "sk": "Navrhujem ďalší krok a potom si to potvrdíme písomne.",
+                "correct": true
+              },
+              {
+                "sk": "Nechajme to bez riešenia.",
+                "correct": false
+              },
+              {
+                "sk": "Každý nech si domyslí zvyšok.",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "passRequirement": "3/3",
+        "successMessage": {
+          "uk": "Готово: тема перенесена в реальну C1-комунікацію.",
+          "ru": "Готово: тема перенесена в реальную C1-коммуникацию.",
+          "en": "Done: the topic was transferred into real C1 communication."
+        }
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": {
+          "uk": "Урок завершено",
+          "ru": "Урок завершён",
+          "en": "Lesson complete"
+        },
+        "subtitle": {
+          "uk": "Ти пройшов ще один крок рівня C1.",
+          "ru": "Ты прошёл ещё один шаг уровня C1.",
+          "en": "You completed another C1 step."
+        },
+        "xpReward": 220,
+        "newWordsCount": 8,
+        "exercisesCompleted": 14,
+        "nowYouKnow": [
+          "структурувати відповідь",
+          "пояснювати нюанс",
+          "реагувати доречно"
+        ],
+        "mistakesMessage": {
+          "uk": "Повтори вправи, де плутається значення або тон.",
+          "ru": "Повтори упражнения, где путается значение или тон.",
+          "en": "Repeat exercises where meaning or tone is unclear."
+        },
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "skills": [
+          {
+            "id": "vocabulary",
+            "label": {
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
+            },
+            "weight": 0.3
+          },
+          {
+            "id": "composition",
+            "label": {
+              "uk": "структура",
+              "ru": "структура",
+              "en": "composition"
+            },
+            "weight": 0.4
+          },
+          {
+            "id": "transfer",
+            "label": {
+              "uk": "перенесення",
+              "ru": "перенос",
+              "en": "transfer"
+            },
+            "weight": 0.3
+          }
+        ],
+        "nextLesson": {
+          "id": "c1-s13-l075"
+        }
+      }
+    }
+  ]
+}

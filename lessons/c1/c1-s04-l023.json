@@ -1,0 +1,1115 @@
+{
+  "lessons": [
+    {
+      "id": "c1-s04-l023",
+      "sectionId": "c1_s04",
+      "level": "C1",
+      "title": {
+        "sk": "Spoločenský problém",
+        "uk": "Spoločenský problém",
+        "ru": "Spoločenský problém",
+        "en": "Spoločenský problém"
+      },
+      "topic": {
+        "sk": "Spoločenský problém",
+        "uk": "Spoločenský problém",
+        "ru": "Spoločenský problém",
+        "en": "Spoločenský problém"
+      },
+      "description": {
+        "sk": "Precvičíš si tému Spoločenský problém v komplexnej komunikácii na úrovni C1.",
+        "uk": "Тренуємо тему «Spoločenský problém»: аргументовано, точно й у реальному контексті.",
+        "ru": "рассматриваем проблему с разных сторон и формулируем возможные решения.",
+        "en": "Practice the C1 topic “Spoločenský problém” in complex communication. Section: Society and public life."
+      },
+      "order": 23,
+      "xpReward": 220,
+      "estimatedMinutes": 38,
+      "isPublished": false,
+      "intro": {
+        "sk": "Precvičíš si tému Spoločenský problém v komplexnej komunikácii na úrovni C1.",
+        "uk": "Тренуємо тему «Spoločenský problém»: аргументовано, точно й у реальному контексті.",
+        "ru": "рассматриваем проблему с разных сторон и формулируем возможные решения.",
+        "en": "Practice the C1 topic “Spoločenský problém” in complex communication. Section: Society and public life."
+      },
+      "completionMessage": {
+        "sk": "Výborne. Tému vieš použiť v náročnejšej komunikácii.",
+        "uk": "Добре. Тепер можеш використати тему в складнішій розмові.",
+        "ru": "Хорошо. Теперь можешь использовать тему в более сложном разговоре.",
+        "en": "Good. You can now use the topic in more complex communication."
+      },
+      "updatedAt": "2026-09-14T00:00:00Z",
+      "localization": {
+        "uiLanguages": [
+          "uk",
+          "ru",
+          "en"
+        ],
+        "targetLanguage": "sk",
+        "fallbackUiLanguage": "uk"
+      },
+      "assets": {
+        "images": {},
+        "audio": {}
+      },
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": {
+          "sk": "Spoločenský problém",
+          "uk": "Spoločenský problém",
+          "ru": "Spoločenský problém",
+          "en": "Spoločenský problém"
+        },
+        "shortDescription": {
+          "uk": "Тренуємо тему «Spoločenský problém»: аргументовано, точно й у реальному контексті.",
+          "ru": "рассматриваем проблему с разных сторон и формулируем возможные решения.",
+          "en": "Practice the C1 topic “Spoločenský problém” in complex communication. Section: Society and public life."
+        },
+        "outcomes": [
+          {
+            "uk": "пояснити думку точніше й довше",
+            "ru": "объяснить мысль точнее и длиннее",
+            "en": "explain an idea more precisely and at greater length"
+          },
+          {
+            "uk": "використати нові C1-фрази в контексті",
+            "ru": "использовать новые C1-фразы в контексте",
+            "en": "use new C1 phrases in context"
+          },
+          {
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
+          }
+        ],
+        "newWords": [
+          "c1-s04-l023-w01",
+          "c1-s04-l023-w02",
+          "c1-s04-l023-w03",
+          "c1-s04-l023-w04",
+          "c1-s04-l023-w05",
+          "c1-s04-l023-w06",
+          "c1-s04-l023-w07",
+          "c1-s04-l023-w08"
+        ],
+        "exercisesCount": 14,
+        "reward": "+220 XP",
+        "estimatedMinutes": 38,
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "id": "t1",
+          "screenType": "theory",
+          "order": 1,
+          "title": {
+            "uk": "Фокус уроку",
+            "ru": "Фокус урока",
+            "en": "Lesson focus"
+          },
+          "body": {
+            "uk": "Тренуємо тему «Spoločenský problém»: аргументовано, точно й у реальному контексті.",
+            "ru": "рассматриваем проблему с разных сторон и формулируем возможные решения.",
+            "en": "Practice the C1 topic “Spoločenský problém” in complex communication. Section: Society and public life."
+          },
+          "examples": [
+            {
+              "sk": "V téme Spoločenský problém použijem výraz: problém.",
+              "translation": {
+                "uk": "У темі «Spoločenský problém» використовую: вираз «problém» у темі «Spoločenský problém».",
+                "ru": "В теме «Spoločenský problém» использую: выражение «problém» в теме «Spoločenský problém».",
+                "en": "In “Spoločenský problém”, I use: the expression “problém” in the topic “Spoločenský problém”."
+              }
+            },
+            {
+              "sk": "V téme Spoločenský problém použijem výraz: príčina.",
+              "translation": {
+                "uk": "У темі «Spoločenský problém» використовую: вираз «príčina» у темі «Spoločenský problém».",
+                "ru": "В теме «Spoločenský problém» использую: выражение «príčina» в теме «Spoločenský problém».",
+                "en": "In “Spoločenský problém”, I use: the expression “príčina” in the topic “Spoločenský problém”."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "На C1 важливо не просто відповісти, а показати причину, умову, наслідок або нюанс.",
+            "ru": "На C1 важно не просто ответить, а показать причину, условие, последствие или нюанс.",
+            "en": "At C1, show a reason, condition, consequence or nuance."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t2",
+          "screenType": "theory",
+          "order": 2,
+          "title": {
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer model"
+          },
+          "body": {
+            "uk": "Будуй відповідь за схемою: контекст -> позиція -> аргумент -> приклад -> наступний крок.",
+            "ru": "Строй ответ по схеме: контекст -> позиция -> аргумент -> пример -> следующий шаг.",
+            "en": "Build the answer as: context -> position -> argument -> example -> next step."
+          },
+          "examples": [
+            {
+              "sk": "Z môjho pohľadu je dôležité najprv vysvetliť kontext.",
+              "translation": {
+                "uk": "З моєї точки зору важливо спочатку пояснити контекст.",
+                "ru": "С моей точки зрения важно сначала объяснить контекст.",
+                "en": "From my point of view, it is important to explain the context first."
+              }
+            },
+            {
+              "sk": "Na druhej strane treba zohľadniť aj praktické dôsledky.",
+              "translation": {
+                "uk": "З іншого боку, треба врахувати також практичні наслідки.",
+                "ru": "С другой стороны, нужно учесть и практические последствия.",
+                "en": "On the other hand, practical consequences must also be considered."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "Одна сильна відповідь має структуру, а не лише правильні слова.",
+            "ru": "Один сильный ответ имеет структуру, а не только правильные слова.",
+            "en": "A strong answer has structure, not only correct words."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t3",
+          "screenType": "theory",
+          "order": 3,
+          "title": {
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
+          },
+          "body": {
+            "uk": "У фіналі потрібно вибрати репліку, яка реально рухає ситуацію вперед.",
+            "ru": "В финале нужно выбрать реплику, которая реально двигает ситуацию дальше.",
+            "en": "In the final task, choose the reply that moves the situation forward."
+          },
+          "examples": [
+            {
+              "sk": "Navrhujem, aby sme si najprv ujasnili priority.",
+              "translation": {
+                "uk": "Пропоную спочатку прояснити пріоритети.",
+                "ru": "Предлагаю сначала прояснить приоритеты.",
+                "en": "I suggest clarifying priorities first."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "C1 = самостійна, зв'язна й доречна комунікація.",
+            "ru": "C1 = самостоятельная, связная и уместная коммуникация.",
+            "en": "C1 means independent, connected and appropriate communication."
+          },
+          "button": "До слів"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": {
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
+        },
+        "description": {
+          "uk": "Ці одиниці взяті з затвердженого C1-плану.",
+          "ru": "Эти единицы взяты из утвержденного C1-плана.",
+          "en": "These items come from the approved C1 plan."
+        },
+        "items": [
+          {
+            "wordId": "c1-s04-l023-w01",
+            "sk": "problém",
+            "uk": "вираз «problém» у темі «Spoločenský problém»",
+            "ru": "выражение «problém» в теме «Spoločenský problém»",
+            "en": "the expression “problém” in the topic “Spoločenský problém”",
+            "pronunciationUk": "problem",
+            "exampleSk": "V téme Spoločenský problém použijem výraz: problém.",
+            "exampleUk": "У темі «Spoločenský problém» використовую: вираз «problém» у темі «Spoločenský problém».",
+            "exampleRu": "В теме «Spoločenský problém» использую: выражение «problém» в теме «Spoločenský problém».",
+            "exampleEn": "In “Spoločenský problém”, I use: the expression “problém” in the topic “Spoločenský problém”."
+          },
+          {
+            "wordId": "c1-s04-l023-w02",
+            "sk": "príčina",
+            "uk": "вираз «príčina» у темі «Spoločenský problém»",
+            "ru": "выражение «príčina» в теме «Spoločenský problém»",
+            "en": "the expression “príčina” in the topic “Spoločenský problém”",
+            "pronunciationUk": "prichina",
+            "exampleSk": "V téme Spoločenský problém použijem výraz: príčina.",
+            "exampleUk": "У темі «Spoločenský problém» використовую: вираз «príčina» у темі «Spoločenský problém».",
+            "exampleRu": "В теме «Spoločenský problém» использую: выражение «príčina» в теме «Spoločenský problém».",
+            "exampleEn": "In “Spoločenský problém”, I use: the expression “príčina” in the topic “Spoločenský problém”."
+          },
+          {
+            "wordId": "c1-s04-l023-w03",
+            "sk": "dôsledok",
+            "uk": "вираз «dôsledok» у темі «Spoločenský problém»",
+            "ru": "выражение «dôsledok» в теме «Spoločenský problém»",
+            "en": "the expression “dôsledok” in the topic “Spoločenský problém”",
+            "pronunciationUk": "duosledok",
+            "exampleSk": "V téme Spoločenský problém použijem výraz: dôsledok.",
+            "exampleUk": "У темі «Spoločenský problém» використовую: вираз «dôsledok» у темі «Spoločenský problém».",
+            "exampleRu": "В теме «Spoločenský problém» использую: выражение «dôsledok» в теме «Spoločenský problém».",
+            "exampleEn": "In “Spoločenský problém”, I use: the expression “dôsledok” in the topic “Spoločenský problém”."
+          },
+          {
+            "wordId": "c1-s04-l023-w04",
+            "sk": "riešenie",
+            "uk": "вираз «riešenie» у темі «Spoločenský problém»",
+            "ru": "выражение «riešenie» в теме «Spoločenský problém»",
+            "en": "the expression “riešenie” in the topic “Spoločenský problém”",
+            "pronunciationUk": "rieshenie",
+            "exampleSk": "V téme Spoločenský problém použijem výraz: riešenie.",
+            "exampleUk": "У темі «Spoločenský problém» використовую: вираз «riešenie» у темі «Spoločenský problém».",
+            "exampleRu": "В теме «Spoločenský problém» использую: выражение «riešenie» в теме «Spoločenský problém».",
+            "exampleEn": "In “Spoločenský problém”, I use: the expression “riešenie” in the topic “Spoločenský problém”."
+          },
+          {
+            "wordId": "c1-s04-l023-w05",
+            "sk": "opatrenie",
+            "uk": "вираз «opatrenie» у темі «Spoločenský problém»",
+            "ru": "выражение «opatrenie» в теме «Spoločenský problém»",
+            "en": "the expression “opatrenie” in the topic “Spoločenský problém”",
+            "pronunciationUk": "opatrenie",
+            "exampleSk": "V téme Spoločenský problém použijem výraz: opatrenie.",
+            "exampleUk": "У темі «Spoločenský problém» використовую: вираз «opatrenie» у темі «Spoločenský problém».",
+            "exampleRu": "В теме «Spoločenský problém» использую: выражение «opatrenie» в теме «Spoločenský problém».",
+            "exampleEn": "In “Spoločenský problém”, I use: the expression “opatrenie” in the topic “Spoločenský problém”."
+          },
+          {
+            "wordId": "c1-s04-l023-w06",
+            "sk": "prevencia",
+            "uk": "вираз «prevencia» у темі «Spoločenský problém»",
+            "ru": "выражение «prevencia» в теме «Spoločenský problém»",
+            "en": "the expression “prevencia” in the topic “Spoločenský problém”",
+            "pronunciationUk": "prevencia",
+            "exampleSk": "V téme Spoločenský problém použijem výraz: prevencia.",
+            "exampleUk": "У темі «Spoločenský problém» використовую: вираз «prevencia» у темі «Spoločenský problém».",
+            "exampleRu": "В теме «Spoločenský problém» использую: выражение «prevencia» в теме «Spoločenský problém».",
+            "exampleEn": "In “Spoločenský problém”, I use: the expression “prevencia” in the topic “Spoločenský problém”."
+          },
+          {
+            "wordId": "c1-s04-l023-w07",
+            "sk": "náklady",
+            "uk": "вираз «náklady» у темі «Spoločenský problém»",
+            "ru": "выражение «náklady» в теме «Spoločenský problém»",
+            "en": "the expression “náklady” in the topic “Spoločenský problém”",
+            "pronunciationUk": "naklady",
+            "exampleSk": "V téme Spoločenský problém použijem výraz: náklady.",
+            "exampleUk": "У темі «Spoločenský problém» використовую: вираз «náklady» у темі «Spoločenský problém».",
+            "exampleRu": "В теме «Spoločenský problém» использую: выражение «náklady» в теме «Spoločenský problém».",
+            "exampleEn": "In “Spoločenský problém”, I use: the expression “náklady” in the topic “Spoločenský problém”."
+          },
+          {
+            "wordId": "c1-s04-l023-w08",
+            "sk": "dopad",
+            "uk": "вираз «dopad» у темі «Spoločenský problém»",
+            "ru": "выражение «dopad» в теме «Spoločenský problém»",
+            "en": "the expression “dopad” in the topic “Spoločenský problém”",
+            "pronunciationUk": "dopad",
+            "exampleSk": "V téme Spoločenský problém použijem výraz: dopad.",
+            "exampleUk": "У темі «Spoločenský problém» використовую: вираз «dopad» у темі «Spoločenský problém».",
+            "exampleRu": "В теме «Spoločenský problém» использую: выражение «dopad» в теме «Spoločenský problém».",
+            "exampleEn": "In “Spoločenský problém”, I use: the expression “dopad” in the topic “Spoločenský problém”."
+          }
+        ],
+        "button": "До практики"
+      },
+      "words": [
+        {
+          "id": "c1-s04-l023-w01",
+          "sk": "problém",
+          "uk": "вираз «problém» у темі «Spoločenský problém»",
+          "ru": "выражение «problém» в теме «Spoločenský problém»",
+          "en": "the expression “problém” in the topic “Spoločenský problém”",
+          "pronunciationUk": "problem",
+          "exampleSk": "V téme Spoločenský problém použijem výraz: problém.",
+          "exampleUk": "У темі «Spoločenský problém» використовую: вираз «problém» у темі «Spoločenský problém».",
+          "exampleRu": "В теме «Spoločenský problém» использую: выражение «problém» в теме «Spoločenský problém».",
+          "exampleEn": "In “Spoločenský problém”, I use: the expression “problém” in the topic “Spoločenský problém”.",
+          "level": "C1",
+          "topic": "Spoločenský problém",
+          "tags": [
+            "c1_s04",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s04-l023-w02",
+          "sk": "príčina",
+          "uk": "вираз «príčina» у темі «Spoločenský problém»",
+          "ru": "выражение «príčina» в теме «Spoločenský problém»",
+          "en": "the expression “príčina” in the topic “Spoločenský problém”",
+          "pronunciationUk": "prichina",
+          "exampleSk": "V téme Spoločenský problém použijem výraz: príčina.",
+          "exampleUk": "У темі «Spoločenský problém» використовую: вираз «príčina» у темі «Spoločenský problém».",
+          "exampleRu": "В теме «Spoločenský problém» использую: выражение «príčina» в теме «Spoločenský problém».",
+          "exampleEn": "In “Spoločenský problém”, I use: the expression “príčina” in the topic “Spoločenský problém”.",
+          "level": "C1",
+          "topic": "Spoločenský problém",
+          "tags": [
+            "c1_s04",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s04-l023-w03",
+          "sk": "dôsledok",
+          "uk": "вираз «dôsledok» у темі «Spoločenský problém»",
+          "ru": "выражение «dôsledok» в теме «Spoločenský problém»",
+          "en": "the expression “dôsledok” in the topic “Spoločenský problém”",
+          "pronunciationUk": "duosledok",
+          "exampleSk": "V téme Spoločenský problém použijem výraz: dôsledok.",
+          "exampleUk": "У темі «Spoločenský problém» використовую: вираз «dôsledok» у темі «Spoločenský problém».",
+          "exampleRu": "В теме «Spoločenský problém» использую: выражение «dôsledok» в теме «Spoločenský problém».",
+          "exampleEn": "In “Spoločenský problém”, I use: the expression “dôsledok” in the topic “Spoločenský problém”.",
+          "level": "C1",
+          "topic": "Spoločenský problém",
+          "tags": [
+            "c1_s04",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s04-l023-w04",
+          "sk": "riešenie",
+          "uk": "вираз «riešenie» у темі «Spoločenský problém»",
+          "ru": "выражение «riešenie» в теме «Spoločenský problém»",
+          "en": "the expression “riešenie” in the topic “Spoločenský problém”",
+          "pronunciationUk": "rieshenie",
+          "exampleSk": "V téme Spoločenský problém použijem výraz: riešenie.",
+          "exampleUk": "У темі «Spoločenský problém» використовую: вираз «riešenie» у темі «Spoločenský problém».",
+          "exampleRu": "В теме «Spoločenský problém» использую: выражение «riešenie» в теме «Spoločenský problém».",
+          "exampleEn": "In “Spoločenský problém”, I use: the expression “riešenie” in the topic “Spoločenský problém”.",
+          "level": "C1",
+          "topic": "Spoločenský problém",
+          "tags": [
+            "c1_s04",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s04-l023-w05",
+          "sk": "opatrenie",
+          "uk": "вираз «opatrenie» у темі «Spoločenský problém»",
+          "ru": "выражение «opatrenie» в теме «Spoločenský problém»",
+          "en": "the expression “opatrenie” in the topic “Spoločenský problém”",
+          "pronunciationUk": "opatrenie",
+          "exampleSk": "V téme Spoločenský problém použijem výraz: opatrenie.",
+          "exampleUk": "У темі «Spoločenský problém» використовую: вираз «opatrenie» у темі «Spoločenský problém».",
+          "exampleRu": "В теме «Spoločenský problém» использую: выражение «opatrenie» в теме «Spoločenský problém».",
+          "exampleEn": "In “Spoločenský problém”, I use: the expression “opatrenie” in the topic “Spoločenský problém”.",
+          "level": "C1",
+          "topic": "Spoločenský problém",
+          "tags": [
+            "c1_s04",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s04-l023-w06",
+          "sk": "prevencia",
+          "uk": "вираз «prevencia» у темі «Spoločenský problém»",
+          "ru": "выражение «prevencia» в теме «Spoločenský problém»",
+          "en": "the expression “prevencia” in the topic “Spoločenský problém”",
+          "pronunciationUk": "prevencia",
+          "exampleSk": "V téme Spoločenský problém použijem výraz: prevencia.",
+          "exampleUk": "У темі «Spoločenský problém» використовую: вираз «prevencia» у темі «Spoločenský problém».",
+          "exampleRu": "В теме «Spoločenský problém» использую: выражение «prevencia» в теме «Spoločenský problém».",
+          "exampleEn": "In “Spoločenský problém”, I use: the expression “prevencia” in the topic “Spoločenský problém”.",
+          "level": "C1",
+          "topic": "Spoločenský problém",
+          "tags": [
+            "c1_s04",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s04-l023-w07",
+          "sk": "náklady",
+          "uk": "вираз «náklady» у темі «Spoločenský problém»",
+          "ru": "выражение «náklady» в теме «Spoločenský problém»",
+          "en": "the expression “náklady” in the topic “Spoločenský problém”",
+          "pronunciationUk": "naklady",
+          "exampleSk": "V téme Spoločenský problém použijem výraz: náklady.",
+          "exampleUk": "У темі «Spoločenský problém» використовую: вираз «náklady» у темі «Spoločenský problém».",
+          "exampleRu": "В теме «Spoločenský problém» использую: выражение «náklady» в теме «Spoločenský problém».",
+          "exampleEn": "In “Spoločenský problém”, I use: the expression “náklady” in the topic “Spoločenský problém”.",
+          "level": "C1",
+          "topic": "Spoločenský problém",
+          "tags": [
+            "c1_s04",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s04-l023-w08",
+          "sk": "dopad",
+          "uk": "вираз «dopad» у темі «Spoločenský problém»",
+          "ru": "выражение «dopad» в теме «Spoločenský problém»",
+          "en": "the expression “dopad” in the topic “Spoločenský problém”",
+          "pronunciationUk": "dopad",
+          "exampleSk": "V téme Spoločenský problém použijem výraz: dopad.",
+          "exampleUk": "У темі «Spoločenský problém» використовую: вираз «dopad» у темі «Spoločenský problém».",
+          "exampleRu": "В теме «Spoločenský problém» использую: выражение «dopad» в теме «Spoločenský problém».",
+          "exampleEn": "In “Spoločenský problém”, I use: the expression “dopad” in the topic “Spoločenský problém”.",
+          "level": "C1",
+          "topic": "Spoločenský problém",
+          "tags": [
+            "c1_s04",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "c1-s04-l023-e01",
+          "lessonId": "c1-s04-l023",
+          "type": "single_choice",
+          "order": 1,
+          "question": "Що означає «problém»?",
+          "questionLocalized": {
+            "uk": "Що означає «problém»?",
+            "ru": "Что означает «problém»?",
+            "en": "What does “problém” mean?"
+          },
+          "wordIds": [
+            "c1-s04-l023-w01"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "вираз «problém» у темі «Spoločenský problém»",
+                "ru": "выражение «problém» в теме «Spoločenský problém»",
+                "en": "the expression “problém” in the topic “Spoločenský problém”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "вираз «príčina» у темі «Spoločenský problém»",
+                "ru": "выражение «príčina» в теме «Spoločenský problém»",
+                "en": "the expression “príčina” in the topic “Spoločenský problém”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "вираз «dôsledok» у темі «Spoločenský problém»",
+                "ru": "выражение «dôsledok» в теме «Spoločenský problém»",
+                "en": "the expression “dôsledok” in the topic “Spoločenský problém”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s04-l023-e02",
+          "lessonId": "c1-s04-l023",
+          "type": "matching",
+          "order": 2,
+          "question": "З'єднай фрази з поясненнями.",
+          "questionLocalized": {
+            "uk": "З'єднай фрази з поясненнями.",
+            "ru": "Соедини фразы с объяснениями.",
+            "en": "Match phrases with explanations."
+          },
+          "wordIds": [
+            "c1-s04-l023-w01",
+            "c1-s04-l023-w02",
+            "c1-s04-l023-w03",
+            "c1-s04-l023-w04"
+          ],
+          "pairs": [
+            {
+              "left": "problém",
+              "right": "вираз «problém» у темі «Spoločenský problém»",
+              "rightRu": "выражение «problém» в теме «Spoločenský problém»",
+              "rightEn": "the expression “problém” in the topic “Spoločenský problém”"
+            },
+            {
+              "left": "príčina",
+              "right": "вираз «príčina» у темі «Spoločenský problém»",
+              "rightRu": "выражение «príčina» в теме «Spoločenský problém»",
+              "rightEn": "the expression “príčina” in the topic “Spoločenský problém”"
+            },
+            {
+              "left": "dôsledok",
+              "right": "вираз «dôsledok» у темі «Spoločenský problém»",
+              "rightRu": "выражение «dôsledok» в теме «Spoločenský problém»",
+              "rightEn": "the expression “dôsledok” in the topic “Spoločenský problém”"
+            },
+            {
+              "left": "riešenie",
+              "right": "вираз «riešenie» у темі «Spoločenský problém»",
+              "rightRu": "выражение «riešenie» в теме «Spoločenský problém»",
+              "rightEn": "the expression “riešenie” in the topic “Spoločenský problém”"
+            }
+          ]
+        },
+        {
+          "id": "c1-s04-l023-e03",
+          "lessonId": "c1-s04-l023",
+          "type": "fill_blank",
+          "order": 3,
+          "question": "Впиши словацькою: вираз «dôsledok» у темі «Spoločenský problém».",
+          "questionLocalized": {
+            "uk": "Впиши словацькою: вираз «dôsledok» у темі «Spoločenský problém».",
+            "ru": "Впиши по-словацки: выражение «dôsledok» в теме «Spoločenský problém».",
+            "en": "Write in Slovak: the expression “dôsledok” in the topic “Spoločenský problém”."
+          },
+          "wordIds": [
+            "c1-s04-l023-w03"
+          ],
+          "sentence": "______",
+          "acceptedAnswers": [
+            "dôsledok"
+          ],
+          "hint": {
+            "uk": "Початок: dô...",
+            "ru": "Начало: dô...",
+            "en": "Start: dô..."
+          }
+        },
+        {
+          "id": "c1-s04-l023-e04",
+          "lessonId": "c1-s04-l023",
+          "type": "dropdown_blank",
+          "order": 4,
+          "question": "Обери точну фразу для C1-речення.",
+          "questionLocalized": {
+            "uk": "Обери точну фразу для C1-речення.",
+            "ru": "Выбери точную фразу для C1-предложения.",
+            "en": "Choose the precise phrase for a C1 sentence."
+          },
+          "wordIds": [
+            "c1-s04-l023-w04"
+          ],
+          "sentenceParts": [
+            {
+              "text": "V tejto situácii je dôležité použiť "
+            },
+            {
+              "blankId": "blank1",
+              "options": [
+                "riešenie",
+                "problém",
+                "príčina"
+              ],
+              "correct": "riešenie"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "c1-s04-l023-e05",
+          "lessonId": "c1-s04-l023",
+          "type": "sentence_builder",
+          "order": 5,
+          "question": "Склади природну словацьку репліку.",
+          "questionLocalized": {
+            "uk": "Склади природну словацьку репліку.",
+            "ru": "Собери естественную словацкую реплику.",
+            "en": "Build a natural Slovak reply."
+          },
+          "wordIds": [
+            "c1-s04-l023-w05"
+          ],
+          "tokens": [
+            "Rozumiem",
+            "situácii,",
+            "ale",
+            "potrebujem",
+            "ju",
+            "ešte",
+            "upresniť."
+          ],
+          "correctSentence": "Rozumiem situácii, ale potrebujem ju ešte upresniť."
+        },
+        {
+          "id": "c1-s04-l023-e06",
+          "lessonId": "c1-s04-l023",
+          "type": "multiple_select",
+          "order": 6,
+          "question": "Обери C1-репліки з природним тоном.",
+          "questionLocalized": {
+            "uk": "Обери C1-репліки з природним тоном.",
+            "ru": "Выбери C1-реплики с естественным тоном.",
+            "en": "Select C1 replies with a natural tone."
+          },
+          "wordIds": [
+            "c1-s04-l023-w01",
+            "c1-s04-l023-w06"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Rozumiem, ale potrebujem to presnejšie vysvetliť.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "To je úplne mimo a nemá zmysel hovoriť.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Z môjho pohľadu je dôležitý aj kontext.",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "id": "c1-s04-l023-e07",
+          "lessonId": "c1-s04-l023",
+          "type": "reading_comprehension",
+          "order": 7,
+          "question": "Прочитай текст і вибери головну думку.",
+          "questionLocalized": {
+            "uk": "Прочитай текст і вибери головну думку.",
+            "ru": "Прочитай текст и выбери главную мысль.",
+            "en": "Read the text and choose the main idea."
+          },
+          "wordIds": [
+            "c1-s04-l023-w06",
+            "c1-s04-l023-w07",
+            "c1-s04-l023-w08"
+          ],
+          "text": "Téma Spoločenský problém si vyžaduje presnosť. Nestačí poznať slová; treba reagovať podľa kontextu, vysvetliť dôvod a navrhnúť ďalší krok.",
+          "questions": [
+            {
+              "prompt": {
+                "uk": "Що є головною думкою?",
+                "ru": "Что является главной мыслью?",
+                "en": "What is the main idea?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "Treba reagovať presne podľa kontextu.",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "Stačí opakovať jedno slovo.",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "Najlepšie je nereagovať.",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c1-s04-l023-e08",
+          "lessonId": "c1-s04-l023",
+          "type": "dialogue_choose_reply",
+          "order": 8,
+          "question": "Обери найкращу відповідь у діалозі.",
+          "questionLocalized": {
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
+          },
+          "wordIds": [
+            "c1-s04-l023-w07"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Ako by si to vysvetlil?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Najprv zhrniem situáciu a potom poviem svoj návrh.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Nepoviem nič, lebo je to ťažké.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Odpoviem jedným náhodným slovom.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s04-l023-e09",
+          "lessonId": "c1-s04-l023",
+          "type": "meaning_in_context",
+          "order": 9,
+          "question": "Що означає «príčina» у контексті?",
+          "questionLocalized": {
+            "uk": "Що означає «príčina» у контексті?",
+            "ru": "Что означает «príčina» в контексте?",
+            "en": "What does “príčina” mean in context?"
+          },
+          "wordIds": [
+            "c1-s04-l023-w02"
+          ],
+          "context": {
+            "sk": "Rozhovor je citlivý, preto si najprv overím význam a tón."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "вираз «príčina» у темі «Spoločenský problém»",
+                "ru": "выражение «príčina» в теме «Spoločenský problém»",
+                "en": "the expression “príčina” in the topic “Spoločenský problém”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "вираз «opatrenie» у темі «Spoločenský problém»",
+                "ru": "выражение «opatrenie» в теме «Spoločenský problém»",
+                "en": "the expression “opatrenie” in the topic “Spoločenský problém”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "вираз «dopad» у темі «Spoločenský problém»",
+                "ru": "выражение «dopad» в теме «Spoločenský problém»",
+                "en": "the expression “dopad” in the topic “Spoločenský problém”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s04-l023-e10",
+          "lessonId": "c1-s04-l023",
+          "type": "natural_phrase",
+          "order": 10,
+          "question": "Що звучить найприродніше?",
+          "questionLocalized": {
+            "uk": "Що звучить найприродніше?",
+            "ru": "Что звучит естественнее всего?",
+            "en": "What sounds most natural?"
+          },
+          "wordIds": [
+            "c1-s04-l023-w08"
+          ],
+          "situation": {
+            "uk": "Потрібно відповісти точно, але без різкого тону.",
+            "ru": "Нужно ответить точно, но без резкого тона.",
+            "en": "You need to answer precisely but without a sharp tone."
+          },
+          "options": [
+            {
+              "id": "a",
+              "sk": "Chápem tvoj pohľad, ale doplnil by som ešte jednu vec.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Ty ničomu nerozumieš.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Áno nie možno včera.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s04-l023-e11",
+          "lessonId": "c1-s04-l023",
+          "type": "reverse_translation",
+          "order": 11,
+          "question": "Обери словацький варіант для: вираз «opatrenie» у темі «Spoločenský problém».",
+          "questionLocalized": {
+            "uk": "Обери словацький варіант для: вираз «opatrenie» у темі «Spoločenský problém».",
+            "ru": "Выбери словацкий вариант для: выражение «opatrenie» в теме «Spoločenský problém».",
+            "en": "Choose the Slovak item for: the expression “opatrenie” in the topic “Spoločenský problém”."
+          },
+          "wordIds": [
+            "c1-s04-l023-w05"
+          ],
+          "options": [
+            "opatrenie",
+            "dôsledok",
+            "problém"
+          ],
+          "correctAnswer": "opatrenie"
+        },
+        {
+          "id": "c1-s04-l023-e12",
+          "lessonId": "c1-s04-l023",
+          "type": "sentence_order",
+          "order": 12,
+          "question": "Віднови логічний порядок C1-відповіді.",
+          "questionLocalized": {
+            "uk": "Віднови логічний порядок C1-відповіді.",
+            "ru": "Восстанови логический порядок C1-ответа.",
+            "en": "Restore the logical order of a C1 answer."
+          },
+          "wordIds": [
+            "c1-s04-l023-w01",
+            "c1-s04-l023-w02"
+          ],
+          "items": [
+            "Najprv treba pomenovať kontext.",
+            "Potom možno doplniť presnejší výraz.",
+            "Napokon z toho vyplýva konkrétny záver."
+          ],
+          "correctOrder": [
+            "Najprv treba pomenovať kontext.",
+            "Potom možno doplniť presnejší výraz.",
+            "Napokon z toho vyplýva konkrétny záver."
+          ]
+        },
+        {
+          "id": "c1-s04-l023-e13",
+          "lessonId": "c1-s04-l023",
+          "type": "dialogue_choose_reply",
+          "order": 13,
+          "question": "Обери відповідь з точним регістром.",
+          "questionLocalized": {
+            "uk": "Обери відповідь з точним регістром.",
+            "ru": "Выбери ответ с точным регистром.",
+            "en": "Choose the reply with the right register."
+          },
+          "wordIds": [
+            "c1-s04-l023-w03",
+            "c1-s04-l023-w04"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Potrebujem to povedať odborne, ale nie zbytočne tvrdo."
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Rozumiem. Preformuloval by som to vecne a zároveň opatrne.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Napíš tam čokoľvek, hlavne rýchlo.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Daj tam najtvrdšiu možnú formuláciu.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s04-l023-e14",
+          "lessonId": "c1-s04-l023",
+          "type": "multiple_choice_translation",
+          "order": 14,
+          "question": "Що відповідає словацькому «dopad»?",
+          "questionLocalized": {
+            "uk": "Що відповідає словацькому «dopad»?",
+            "ru": "Что соответствует словацкому «dopad»?",
+            "en": "What matches the Slovak “dopad”?"
+          },
+          "wordIds": [
+            "c1-s04-l023-w08"
+          ],
+          "options": [
+            "вираз «dopad» у темі «Spoločenský problém»",
+            "вираз «príčina» у темі «Spoločenský problém»",
+            "вираз «dôsledok» у темі «Spoločenský problém»"
+          ],
+          "correctAnswer": "вираз «dopad» у темі «Spoločenský problém»"
+        }
+      ],
+      "finalSituation": {
+        "id": "final-situation",
+        "type": "interactive_scenario",
+        "title": {
+          "uk": "Spoločenský problém: реальна ситуація",
+          "ru": "Spoločenský problém: реальная ситуация",
+          "en": "Spoločenský problém: real situation"
+        },
+        "description": {
+          "uk": "Обери репліки, які звучать природно, точно й доречно на рівні C1.",
+          "ru": "Выбери реплики, которые звучат естественно, точно и уместно на уровне C1.",
+          "en": "Choose replies that sound natural, precise and appropriate at C1 level."
+        },
+        "steps": [
+          {
+            "id": "f1",
+            "prompt": {
+              "uk": "Потрібно почати відповідь без різкості.",
+              "ru": "Нужно начать ответ без резкости.",
+              "en": "You need to start without sounding harsh."
+            },
+            "options": [
+              {
+                "sk": "Rozumiem, skúsim to najprv zhrnúť vlastnými slovami.",
+                "correct": true
+              },
+              {
+                "sk": "Nemáš pravdu a viac sa o tom nebavme.",
+                "correct": false
+              },
+              {
+                "sk": "Neviem a nechcem reagovať.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "prompt": {
+              "uk": "Потрібно додати аргумент.",
+              "ru": "Нужно добавить аргумент.",
+              "en": "You need to add an argument."
+            },
+            "options": [
+              {
+                "sk": "Dôvod je podľa mňa v tom, že situácia má viac okolností.",
+                "correct": true
+              },
+              {
+                "sk": "Pretože áno.",
+                "correct": false
+              },
+              {
+                "sk": "To nesúvisí s ničím.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f3",
+            "prompt": {
+              "uk": "Потрібно завершити практично.",
+              "ru": "Нужно завершить практически.",
+              "en": "You need to close practically."
+            },
+            "options": [
+              {
+                "sk": "Navrhujem ďalší krok a potom si to potvrdíme písomne.",
+                "correct": true
+              },
+              {
+                "sk": "Nechajme to bez riešenia.",
+                "correct": false
+              },
+              {
+                "sk": "Každý nech si domyslí zvyšok.",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "passRequirement": "3/3",
+        "successMessage": {
+          "uk": "Готово: тема перенесена в реальну C1-комунікацію.",
+          "ru": "Готово: тема перенесена в реальную C1-коммуникацию.",
+          "en": "Done: the topic was transferred into real C1 communication."
+        }
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": {
+          "uk": "Урок завершено",
+          "ru": "Урок завершён",
+          "en": "Lesson complete"
+        },
+        "subtitle": {
+          "uk": "Ти пройшов ще один крок рівня C1.",
+          "ru": "Ты прошёл ещё один шаг уровня C1.",
+          "en": "You completed another C1 step."
+        },
+        "xpReward": 220,
+        "newWordsCount": 8,
+        "exercisesCompleted": 14,
+        "nowYouKnow": [
+          "структурувати відповідь",
+          "пояснювати нюанс",
+          "реагувати доречно"
+        ],
+        "mistakesMessage": {
+          "uk": "Повтори вправи, де плутається значення або тон.",
+          "ru": "Повтори упражнения, где путается значение или тон.",
+          "en": "Repeat exercises where meaning or tone is unclear."
+        },
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "skills": [
+          {
+            "id": "vocabulary",
+            "label": {
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
+            },
+            "weight": 0.3
+          },
+          {
+            "id": "composition",
+            "label": {
+              "uk": "структура",
+              "ru": "структура",
+              "en": "composition"
+            },
+            "weight": 0.4
+          },
+          {
+            "id": "transfer",
+            "label": {
+              "uk": "перенесення",
+              "ru": "перенос",
+              "en": "transfer"
+            },
+            "weight": 0.3
+          }
+        ],
+        "nextLesson": {
+          "id": "c1-s04-l024"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1115 @@
+{
+  "lessons": [
+    {
+      "id": "c1-s09-l051",
+      "sectionId": "c1_s09",
+      "level": "C1",
+      "title": {
+        "sk": "Umenie je vec názoru",
+        "uk": "Umenie je vec názoru",
+        "ru": "Umenie je vec názoru",
+        "en": "Umenie je vec názoru"
+      },
+      "topic": {
+        "sk": "Umenie je vec názoru",
+        "uk": "Umenie je vec názoru",
+        "ru": "Umenie je vec názoru",
+        "en": "Umenie je vec názoru"
+      },
+      "description": {
+        "sk": "Precvičíš si tému Umenie je vec názoru v komplexnej komunikácii na úrovni C1.",
+        "uk": "Тренуємо тему «Umenie je vec názoru»: аргументовано, точно й у реальному контексті.",
+        "ru": "сравниваем субъективную оценку искусства и аргументируем личный вкус.",
+        "en": "Practice the C1 topic “Umenie je vec názoru” in complex communication. Section: Culture, art and interpretation."
+      },
+      "order": 51,
+      "xpReward": 220,
+      "estimatedMinutes": 38,
+      "isPublished": false,
+      "intro": {
+        "sk": "Precvičíš si tému Umenie je vec názoru v komplexnej komunikácii na úrovni C1.",
+        "uk": "Тренуємо тему «Umenie je vec názoru»: аргументовано, точно й у реальному контексті.",
+        "ru": "сравниваем субъективную оценку искусства и аргументируем личный вкус.",
+        "en": "Practice the C1 topic “Umenie je vec názoru” in complex communication. Section: Culture, art and interpretation."
+      },
+      "completionMessage": {
+        "sk": "Výborne. Tému vieš použiť v náročnejšej komunikácii.",
+        "uk": "Добре. Тепер можеш використати тему в складнішій розмові.",
+        "ru": "Хорошо. Теперь можешь использовать тему в более сложном разговоре.",
+        "en": "Good. You can now use the topic in more complex communication."
+      },
+      "updatedAt": "2026-09-14T00:00:00Z",
+      "localization": {
+        "uiLanguages": [
+          "uk",
+          "ru",
+          "en"
+        ],
+        "targetLanguage": "sk",
+        "fallbackUiLanguage": "uk"
+      },
+      "assets": {
+        "images": {},
+        "audio": {}
+      },
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": {
+          "sk": "Umenie je vec názoru",
+          "uk": "Umenie je vec názoru",
+          "ru": "Umenie je vec názoru",
+          "en": "Umenie je vec názoru"
+        },
+        "shortDescription": {
+          "uk": "Тренуємо тему «Umenie je vec názoru»: аргументовано, точно й у реальному контексті.",
+          "ru": "сравниваем субъективную оценку искусства и аргументируем личный вкус.",
+          "en": "Practice the C1 topic “Umenie je vec názoru” in complex communication. Section: Culture, art and interpretation."
+        },
+        "outcomes": [
+          {
+            "uk": "пояснити думку точніше й довше",
+            "ru": "объяснить мысль точнее и длиннее",
+            "en": "explain an idea more precisely and at greater length"
+          },
+          {
+            "uk": "використати нові C1-фрази в контексті",
+            "ru": "использовать новые C1-фразы в контексте",
+            "en": "use new C1 phrases in context"
+          },
+          {
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
+          }
+        ],
+        "newWords": [
+          "c1-s09-l051-w01",
+          "c1-s09-l051-w02",
+          "c1-s09-l051-w03",
+          "c1-s09-l051-w04",
+          "c1-s09-l051-w05",
+          "c1-s09-l051-w06",
+          "c1-s09-l051-w07",
+          "c1-s09-l051-w08"
+        ],
+        "exercisesCount": 14,
+        "reward": "+220 XP",
+        "estimatedMinutes": 38,
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "id": "t1",
+          "screenType": "theory",
+          "order": 1,
+          "title": {
+            "uk": "Фокус уроку",
+            "ru": "Фокус урока",
+            "en": "Lesson focus"
+          },
+          "body": {
+            "uk": "Тренуємо тему «Umenie je vec názoru»: аргументовано, точно й у реальному контексті.",
+            "ru": "сравниваем субъективную оценку искусства и аргументируем личный вкус.",
+            "en": "Practice the C1 topic “Umenie je vec názoru” in complex communication. Section: Culture, art and interpretation."
+          },
+          "examples": [
+            {
+              "sk": "V téme Umenie je vec názoru použijem výraz: umenie.",
+              "translation": {
+                "uk": "У темі «Umenie je vec názoru» використовую: вираз «umenie» у темі «Umenie je vec názoru».",
+                "ru": "В теме «Umenie je vec názoru» использую: выражение «umenie» в теме «Umenie je vec názoru».",
+                "en": "In “Umenie je vec názoru”, I use: the expression “umenie” in the topic “Umenie je vec názoru”."
+              }
+            },
+            {
+              "sk": "V téme Umenie je vec názoru použijem výraz: vkus.",
+              "translation": {
+                "uk": "У темі «Umenie je vec názoru» використовую: вираз «vkus» у темі «Umenie je vec názoru».",
+                "ru": "В теме «Umenie je vec názoru» использую: выражение «vkus» в теме «Umenie je vec názoru».",
+                "en": "In “Umenie je vec názoru”, I use: the expression “vkus” in the topic “Umenie je vec názoru”."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "На C1 важливо не просто відповісти, а показати причину, умову, наслідок або нюанс.",
+            "ru": "На C1 важно не просто ответить, а показать причину, условие, последствие или нюанс.",
+            "en": "At C1, show a reason, condition, consequence or nuance."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t2",
+          "screenType": "theory",
+          "order": 2,
+          "title": {
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer model"
+          },
+          "body": {
+            "uk": "Будуй відповідь за схемою: контекст -> позиція -> аргумент -> приклад -> наступний крок.",
+            "ru": "Строй ответ по схеме: контекст -> позиция -> аргумент -> пример -> следующий шаг.",
+            "en": "Build the answer as: context -> position -> argument -> example -> next step."
+          },
+          "examples": [
+            {
+              "sk": "Z môjho pohľadu je dôležité najprv vysvetliť kontext.",
+              "translation": {
+                "uk": "З моєї точки зору важливо спочатку пояснити контекст.",
+                "ru": "С моей точки зрения важно сначала объяснить контекст.",
+                "en": "From my point of view, it is important to explain the context first."
+              }
+            },
+            {
+              "sk": "Na druhej strane treba zohľadniť aj praktické dôsledky.",
+              "translation": {
+                "uk": "З іншого боку, треба врахувати також практичні наслідки.",
+                "ru": "С другой стороны, нужно учесть и практические последствия.",
+                "en": "On the other hand, practical consequences must also be considered."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "Одна сильна відповідь має структуру, а не лише правильні слова.",
+            "ru": "Один сильный ответ имеет структуру, а не только правильные слова.",
+            "en": "A strong answer has structure, not only correct words."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t3",
+          "screenType": "theory",
+          "order": 3,
+          "title": {
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
+          },
+          "body": {
+            "uk": "У фіналі потрібно вибрати репліку, яка реально рухає ситуацію вперед.",
+            "ru": "В финале нужно выбрать реплику, которая реально двигает ситуацию дальше.",
+            "en": "In the final task, choose the reply that moves the situation forward."
+          },
+          "examples": [
+            {
+              "sk": "Navrhujem, aby sme si najprv ujasnili priority.",
+              "translation": {
+                "uk": "Пропоную спочатку прояснити пріоритети.",
+                "ru": "Предлагаю сначала прояснить приоритеты.",
+                "en": "I suggest clarifying priorities first."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "C1 = самостійна, зв'язна й доречна комунікація.",
+            "ru": "C1 = самостоятельная, связная и уместная коммуникация.",
+            "en": "C1 means independent, connected and appropriate communication."
+          },
+          "button": "До слів"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": {
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
+        },
+        "description": {
+          "uk": "Ці одиниці взяті з затвердженого C1-плану.",
+          "ru": "Эти единицы взяты из утвержденного C1-плана.",
+          "en": "These items come from the approved C1 plan."
+        },
+        "items": [
+          {
+            "wordId": "c1-s09-l051-w01",
+            "sk": "umenie",
+            "uk": "вираз «umenie» у темі «Umenie je vec názoru»",
+            "ru": "выражение «umenie» в теме «Umenie je vec názoru»",
+            "en": "the expression “umenie” in the topic “Umenie je vec názoru”",
+            "pronunciationUk": "umenie",
+            "exampleSk": "V téme Umenie je vec názoru použijem výraz: umenie.",
+            "exampleUk": "У темі «Umenie je vec názoru» використовую: вираз «umenie» у темі «Umenie je vec názoru».",
+            "exampleRu": "В теме «Umenie je vec názoru» использую: выражение «umenie» в теме «Umenie je vec názoru».",
+            "exampleEn": "In “Umenie je vec názoru”, I use: the expression “umenie” in the topic “Umenie je vec názoru”."
+          },
+          {
+            "wordId": "c1-s09-l051-w02",
+            "sk": "vkus",
+            "uk": "вираз «vkus» у темі «Umenie je vec názoru»",
+            "ru": "выражение «vkus» в теме «Umenie je vec názoru»",
+            "en": "the expression “vkus” in the topic “Umenie je vec názoru”",
+            "pronunciationUk": "vkus",
+            "exampleSk": "V téme Umenie je vec názoru použijem výraz: vkus.",
+            "exampleUk": "У темі «Umenie je vec názoru» використовую: вираз «vkus» у темі «Umenie je vec názoru».",
+            "exampleRu": "В теме «Umenie je vec názoru» использую: выражение «vkus» в теме «Umenie je vec názoru».",
+            "exampleEn": "In “Umenie je vec názoru”, I use: the expression “vkus” in the topic “Umenie je vec názoru”."
+          },
+          {
+            "wordId": "c1-s09-l051-w03",
+            "sk": "estetický",
+            "uk": "вираз «estetický» у темі «Umenie je vec názoru»",
+            "ru": "выражение «estetický» в теме «Umenie je vec názoru»",
+            "en": "the expression “estetický” in the topic “Umenie je vec názoru”",
+            "pronunciationUk": "esteticky",
+            "exampleSk": "V téme Umenie je vec názoru použijem výraz: estetický.",
+            "exampleUk": "У темі «Umenie je vec názoru» використовую: вираз «estetický» у темі «Umenie je vec názoru».",
+            "exampleRu": "В теме «Umenie je vec názoru» использую: выражение «estetický» в теме «Umenie je vec názoru».",
+            "exampleEn": "In “Umenie je vec názoru”, I use: the expression “estetický” in the topic “Umenie je vec názoru”."
+          },
+          {
+            "wordId": "c1-s09-l051-w04",
+            "sk": "subjektívny",
+            "uk": "вираз «subjektívny» у темі «Umenie je vec názoru»",
+            "ru": "выражение «subjektívny» в теме «Umenie je vec názoru»",
+            "en": "the expression “subjektívny” in the topic “Umenie je vec názoru”",
+            "pronunciationUk": "subjektivny",
+            "exampleSk": "V téme Umenie je vec názoru použijem výraz: subjektívny.",
+            "exampleUk": "У темі «Umenie je vec názoru» використовую: вираз «subjektívny» у темі «Umenie je vec názoru».",
+            "exampleRu": "В теме «Umenie je vec názoru» использую: выражение «subjektívny» в теме «Umenie je vec názoru».",
+            "exampleEn": "In “Umenie je vec názoru”, I use: the expression “subjektívny” in the topic “Umenie je vec názoru”."
+          },
+          {
+            "wordId": "c1-s09-l051-w05",
+            "sk": "hodnotiť",
+            "uk": "вираз «hodnotiť» у темі «Umenie je vec názoru»",
+            "ru": "выражение «hodnotiť» в теме «Umenie je vec názoru»",
+            "en": "the expression “hodnotiť” in the topic “Umenie je vec názoru”",
+            "pronunciationUk": "hodnotit'",
+            "exampleSk": "V téme Umenie je vec názoru použijem výraz: hodnotiť.",
+            "exampleUk": "У темі «Umenie je vec názoru» використовую: вираз «hodnotiť» у темі «Umenie je vec názoru».",
+            "exampleRu": "В теме «Umenie je vec názoru» использую: выражение «hodnotiť» в теме «Umenie je vec názoru».",
+            "exampleEn": "In “Umenie je vec názoru”, I use: the expression “hodnotiť” in the topic “Umenie je vec názoru”."
+          },
+          {
+            "wordId": "c1-s09-l051-w06",
+            "sk": "umelecký",
+            "uk": "вираз «umelecký» у темі «Umenie je vec názoru»",
+            "ru": "выражение «umelecký» в теме «Umenie je vec názoru»",
+            "en": "the expression “umelecký” in the topic “Umenie je vec názoru”",
+            "pronunciationUk": "umelecky",
+            "exampleSk": "V téme Umenie je vec názoru použijem výraz: umelecký.",
+            "exampleUk": "У темі «Umenie je vec názoru» використовую: вираз «umelecký» у темі «Umenie je vec názoru».",
+            "exampleRu": "В теме «Umenie je vec názoru» использую: выражение «umelecký» в теме «Umenie je vec názoru».",
+            "exampleEn": "In “Umenie je vec názoru”, I use: the expression “umelecký” in the topic “Umenie je vec názoru”."
+          },
+          {
+            "wordId": "c1-s09-l051-w07",
+            "sk": "pôsobivý",
+            "uk": "вираз «pôsobivý» у темі «Umenie je vec názoru»",
+            "ru": "выражение «pôsobivý» в теме «Umenie je vec názoru»",
+            "en": "the expression “pôsobivý” in the topic “Umenie je vec názoru”",
+            "pronunciationUk": "puosobivy",
+            "exampleSk": "V téme Umenie je vec názoru použijem výraz: pôsobivý.",
+            "exampleUk": "У темі «Umenie je vec názoru» використовую: вираз «pôsobivý» у темі «Umenie je vec názoru».",
+            "exampleRu": "В теме «Umenie je vec názoru» использую: выражение «pôsobivý» в теме «Umenie je vec názoru».",
+            "exampleEn": "In “Umenie je vec názoru”, I use: the expression “pôsobivý” in the topic “Umenie je vec názoru”."
+          },
+          {
+            "wordId": "c1-s09-l051-w08",
+            "sk": "banálny",
+            "uk": "вираз «banálny» у темі «Umenie je vec názoru»",
+            "ru": "выражение «banálny» в теме «Umenie je vec názoru»",
+            "en": "the expression “banálny” in the topic “Umenie je vec názoru”",
+            "pronunciationUk": "banalny",
+            "exampleSk": "V téme Umenie je vec názoru použijem výraz: banálny.",
+            "exampleUk": "У темі «Umenie je vec názoru» використовую: вираз «banálny» у темі «Umenie je vec názoru».",
+            "exampleRu": "В теме «Umenie je vec názoru» использую: выражение «banálny» в теме «Umenie je vec názoru».",
+            "exampleEn": "In “Umenie je vec názoru”, I use: the expression “banálny” in the topic “Umenie je vec názoru”."
+          }
+        ],
+        "button": "До практики"
+      },
+      "words": [
+        {
+          "id": "c1-s09-l051-w01",
+          "sk": "umenie",
+          "uk": "вираз «umenie» у темі «Umenie je vec názoru»",
+          "ru": "выражение «umenie» в теме «Umenie je vec názoru»",
+          "en": "the expression “umenie” in the topic “Umenie je vec názoru”",
+          "pronunciationUk": "umenie",
+          "exampleSk": "V téme Umenie je vec názoru použijem výraz: umenie.",
+          "exampleUk": "У темі «Umenie je vec názoru» використовую: вираз «umenie» у темі «Umenie je vec názoru».",
+          "exampleRu": "В теме «Umenie je vec názoru» использую: выражение «umenie» в теме «Umenie je vec názoru».",
+          "exampleEn": "In “Umenie je vec názoru”, I use: the expression “umenie” in the topic “Umenie je vec názoru”.",
+          "level": "C1",
+          "topic": "Umenie je vec názoru",
+          "tags": [
+            "c1_s09",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s09-l051-w02",
+          "sk": "vkus",
+          "uk": "вираз «vkus» у темі «Umenie je vec názoru»",
+          "ru": "выражение «vkus» в теме «Umenie je vec názoru»",
+          "en": "the expression “vkus” in the topic “Umenie je vec názoru”",
+          "pronunciationUk": "vkus",
+          "exampleSk": "V téme Umenie je vec názoru použijem výraz: vkus.",
+          "exampleUk": "У темі «Umenie je vec názoru» використовую: вираз «vkus» у темі «Umenie je vec názoru».",
+          "exampleRu": "В теме «Umenie je vec názoru» использую: выражение «vkus» в теме «Umenie je vec názoru».",
+          "exampleEn": "In “Umenie je vec názoru”, I use: the expression “vkus” in the topic “Umenie je vec názoru”.",
+          "level": "C1",
+          "topic": "Umenie je vec názoru",
+          "tags": [
+            "c1_s09",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s09-l051-w03",
+          "sk": "estetický",
+          "uk": "вираз «estetický» у темі «Umenie je vec názoru»",
+          "ru": "выражение «estetický» в теме «Umenie je vec názoru»",
+          "en": "the expression “estetický” in the topic “Umenie je vec názoru”",
+          "pronunciationUk": "esteticky",
+          "exampleSk": "V téme Umenie je vec názoru použijem výraz: estetický.",
+          "exampleUk": "У темі «Umenie je vec názoru» використовую: вираз «estetický» у темі «Umenie je vec názoru».",
+          "exampleRu": "В теме «Umenie je vec názoru» использую: выражение «estetický» в теме «Umenie je vec názoru».",
+          "exampleEn": "In “Umenie je vec názoru”, I use: the expression “estetický” in the topic “Umenie je vec názoru”.",
+          "level": "C1",
+          "topic": "Umenie je vec názoru",
+          "tags": [
+            "c1_s09",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s09-l051-w04",
+          "sk": "subjektívny",
+          "uk": "вираз «subjektívny» у темі «Umenie je vec názoru»",
+          "ru": "выражение «subjektívny» в теме «Umenie je vec názoru»",
+          "en": "the expression “subjektívny” in the topic “Umenie je vec názoru”",
+          "pronunciationUk": "subjektivny",
+          "exampleSk": "V téme Umenie je vec názoru použijem výraz: subjektívny.",
+          "exampleUk": "У темі «Umenie je vec názoru» використовую: вираз «subjektívny» у темі «Umenie je vec názoru».",
+          "exampleRu": "В теме «Umenie je vec názoru» использую: выражение «subjektívny» в теме «Umenie je vec názoru».",
+          "exampleEn": "In “Umenie je vec názoru”, I use: the expression “subjektívny” in the topic “Umenie je vec názoru”.",
+          "level": "C1",
+          "topic": "Umenie je vec názoru",
+          "tags": [
+            "c1_s09",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s09-l051-w05",
+          "sk": "hodnotiť",
+          "uk": "вираз «hodnotiť» у темі «Umenie je vec názoru»",
+          "ru": "выражение «hodnotiť» в теме «Umenie je vec názoru»",
+          "en": "the expression “hodnotiť” in the topic “Umenie je vec názoru”",
+          "pronunciationUk": "hodnotit'",
+          "exampleSk": "V téme Umenie je vec názoru použijem výraz: hodnotiť.",
+          "exampleUk": "У темі «Umenie je vec názoru» використовую: вираз «hodnotiť» у темі «Umenie je vec názoru».",
+          "exampleRu": "В теме «Umenie je vec názoru» использую: выражение «hodnotiť» в теме «Umenie je vec názoru».",
+          "exampleEn": "In “Umenie je vec názoru”, I use: the expression “hodnotiť” in the topic “Umenie je vec názoru”.",
+          "level": "C1",
+          "topic": "Umenie je vec názoru",
+          "tags": [
+            "c1_s09",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s09-l051-w06",
+          "sk": "umelecký",
+          "uk": "вираз «umelecký» у темі «Umenie je vec názoru»",
+          "ru": "выражение «umelecký» в теме «Umenie je vec názoru»",
+          "en": "the expression “umelecký” in the topic “Umenie je vec názoru”",
+          "pronunciationUk": "umelecky",
+          "exampleSk": "V téme Umenie je vec názoru použijem výraz: umelecký.",
+          "exampleUk": "У темі «Umenie je vec názoru» використовую: вираз «umelecký» у темі «Umenie je vec názoru».",
+          "exampleRu": "В теме «Umenie je vec názoru» использую: выражение «umelecký» в теме «Umenie je vec názoru».",
+          "exampleEn": "In “Umenie je vec názoru”, I use: the expression “umelecký” in the topic “Umenie je vec názoru”.",
+          "level": "C1",
+          "topic": "Umenie je vec názoru",
+          "tags": [
+            "c1_s09",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s09-l051-w07",
+          "sk": "pôsobivý",
+          "uk": "вираз «pôsobivý» у темі «Umenie je vec názoru»",
+          "ru": "выражение «pôsobivý» в теме «Umenie je vec názoru»",
+          "en": "the expression “pôsobivý” in the topic “Umenie je vec názoru”",
+          "pronunciationUk": "puosobivy",
+          "exampleSk": "V téme Umenie je vec názoru použijem výraz: pôsobivý.",
+          "exampleUk": "У темі «Umenie je vec názoru» використовую: вираз «pôsobivý» у темі «Umenie je vec názoru».",
+          "exampleRu": "В теме «Umenie je vec názoru» использую: выражение «pôsobivý» в теме «Umenie je vec názoru».",
+          "exampleEn": "In “Umenie je vec názoru”, I use: the expression “pôsobivý” in the topic “Umenie je vec názoru”.",
+          "level": "C1",
+          "topic": "Umenie je vec názoru",
+          "tags": [
+            "c1_s09",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s09-l051-w08",
+          "sk": "banálny",
+          "uk": "вираз «banálny» у темі «Umenie je vec názoru»",
+          "ru": "выражение «banálny» в теме «Umenie je vec názoru»",
+          "en": "the expression “banálny” in the topic “Umenie je vec názoru”",
+          "pronunciationUk": "banalny",
+          "exampleSk": "V téme Umenie je vec názoru použijem výraz: banálny.",
+          "exampleUk": "У темі «Umenie je vec názoru» використовую: вираз «banálny» у темі «Umenie je vec názoru».",
+          "exampleRu": "В теме «Umenie je vec názoru» использую: выражение «banálny» в теме «Umenie je vec názoru».",
+          "exampleEn": "In “Umenie je vec názoru”, I use: the expression “banálny” in the topic “Umenie je vec názoru”.",
+          "level": "C1",
+          "topic": "Umenie je vec názoru",
+          "tags": [
+            "c1_s09",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "c1-s09-l051-e01",
+          "lessonId": "c1-s09-l051",
+          "type": "single_choice",
+          "order": 1,
+          "question": "Що означає «umenie»?",
+          "questionLocalized": {
+            "uk": "Що означає «umenie»?",
+            "ru": "Что означает «umenie»?",
+            "en": "What does “umenie” mean?"
+          },
+          "wordIds": [
+            "c1-s09-l051-w01"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "вираз «umenie» у темі «Umenie je vec názoru»",
+                "ru": "выражение «umenie» в теме «Umenie je vec názoru»",
+                "en": "the expression “umenie” in the topic “Umenie je vec názoru”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "вираз «vkus» у темі «Umenie je vec názoru»",
+                "ru": "выражение «vkus» в теме «Umenie je vec názoru»",
+                "en": "the expression “vkus” in the topic “Umenie je vec názoru”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "вираз «estetický» у темі «Umenie je vec názoru»",
+                "ru": "выражение «estetický» в теме «Umenie je vec názoru»",
+                "en": "the expression “estetický” in the topic “Umenie je vec názoru”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s09-l051-e02",
+          "lessonId": "c1-s09-l051",
+          "type": "matching",
+          "order": 2,
+          "question": "З'єднай фрази з поясненнями.",
+          "questionLocalized": {
+            "uk": "З'єднай фрази з поясненнями.",
+            "ru": "Соедини фразы с объяснениями.",
+            "en": "Match phrases with explanations."
+          },
+          "wordIds": [
+            "c1-s09-l051-w01",
+            "c1-s09-l051-w02",
+            "c1-s09-l051-w03",
+            "c1-s09-l051-w04"
+          ],
+          "pairs": [
+            {
+              "left": "umenie",
+              "right": "вираз «umenie» у темі «Umenie je vec názoru»",
+              "rightRu": "выражение «umenie» в теме «Umenie je vec názoru»",
+              "rightEn": "the expression “umenie” in the topic “Umenie je vec názoru”"
+            },
+            {
+              "left": "vkus",
+              "right": "вираз «vkus» у темі «Umenie je vec názoru»",
+              "rightRu": "выражение «vkus» в теме «Umenie je vec názoru»",
+              "rightEn": "the expression “vkus” in the topic “Umenie je vec názoru”"
+            },
+            {
+              "left": "estetický",
+              "right": "вираз «estetický» у темі «Umenie je vec názoru»",
+              "rightRu": "выражение «estetický» в теме «Umenie je vec názoru»",
+              "rightEn": "the expression “estetický” in the topic “Umenie je vec názoru”"
+            },
+            {
+              "left": "subjektívny",
+              "right": "вираз «subjektívny» у темі «Umenie je vec názoru»",
+              "rightRu": "выражение «subjektívny» в теме «Umenie je vec názoru»",
+              "rightEn": "the expression “subjektívny” in the topic “Umenie je vec názoru”"
+            }
+          ]
+        },
+        {
+          "id": "c1-s09-l051-e03",
+          "lessonId": "c1-s09-l051",
+          "type": "fill_blank",
+          "order": 3,
+          "question": "Впиши словацькою: вираз «estetický» у темі «Umenie je vec názoru».",
+          "questionLocalized": {
+            "uk": "Впиши словацькою: вираз «estetický» у темі «Umenie je vec názoru».",
+            "ru": "Впиши по-словацки: выражение «estetický» в теме «Umenie je vec názoru».",
+            "en": "Write in Slovak: the expression “estetický” in the topic “Umenie je vec názoru”."
+          },
+          "wordIds": [
+            "c1-s09-l051-w03"
+          ],
+          "sentence": "______",
+          "acceptedAnswers": [
+            "estetický"
+          ],
+          "hint": {
+            "uk": "Початок: es...",
+            "ru": "Начало: es...",
+            "en": "Start: es..."
+          }
+        },
+        {
+          "id": "c1-s09-l051-e04",
+          "lessonId": "c1-s09-l051",
+          "type": "dropdown_blank",
+          "order": 4,
+          "question": "Обери точну фразу для C1-речення.",
+          "questionLocalized": {
+            "uk": "Обери точну фразу для C1-речення.",
+            "ru": "Выбери точную фразу для C1-предложения.",
+            "en": "Choose the precise phrase for a C1 sentence."
+          },
+          "wordIds": [
+            "c1-s09-l051-w04"
+          ],
+          "sentenceParts": [
+            {
+              "text": "V tejto situácii je dôležité použiť "
+            },
+            {
+              "blankId": "blank1",
+              "options": [
+                "subjektívny",
+                "umenie",
+                "vkus"
+              ],
+              "correct": "subjektívny"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "c1-s09-l051-e05",
+          "lessonId": "c1-s09-l051",
+          "type": "sentence_builder",
+          "order": 5,
+          "question": "Склади природну словацьку репліку.",
+          "questionLocalized": {
+            "uk": "Склади природну словацьку репліку.",
+            "ru": "Собери естественную словацкую реплику.",
+            "en": "Build a natural Slovak reply."
+          },
+          "wordIds": [
+            "c1-s09-l051-w05"
+          ],
+          "tokens": [
+            "Rozumiem",
+            "situácii,",
+            "ale",
+            "potrebujem",
+            "ju",
+            "ešte",
+            "upresniť."
+          ],
+          "correctSentence": "Rozumiem situácii, ale potrebujem ju ešte upresniť."
+        },
+        {
+          "id": "c1-s09-l051-e06",
+          "lessonId": "c1-s09-l051",
+          "type": "multiple_select",
+          "order": 6,
+          "question": "Обери C1-репліки з природним тоном.",
+          "questionLocalized": {
+            "uk": "Обери C1-репліки з природним тоном.",
+            "ru": "Выбери C1-реплики с естественным тоном.",
+            "en": "Select C1 replies with a natural tone."
+          },
+          "wordIds": [
+            "c1-s09-l051-w01",
+            "c1-s09-l051-w06"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Rozumiem, ale potrebujem to presnejšie vysvetliť.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "To je úplne mimo a nemá zmysel hovoriť.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Z môjho pohľadu je dôležitý aj kontext.",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "id": "c1-s09-l051-e07",
+          "lessonId": "c1-s09-l051",
+          "type": "reading_comprehension",
+          "order": 7,
+          "question": "Прочитай текст і вибери головну думку.",
+          "questionLocalized": {
+            "uk": "Прочитай текст і вибери головну думку.",
+            "ru": "Прочитай текст и выбери главную мысль.",
+            "en": "Read the text and choose the main idea."
+          },
+          "wordIds": [
+            "c1-s09-l051-w06",
+            "c1-s09-l051-w07",
+            "c1-s09-l051-w08"
+          ],
+          "text": "Téma Umenie je vec názoru si vyžaduje presnosť. Nestačí poznať slová; treba reagovať podľa kontextu, vysvetliť dôvod a navrhnúť ďalší krok.",
+          "questions": [
+            {
+              "prompt": {
+                "uk": "Що є головною думкою?",
+                "ru": "Что является главной мыслью?",
+                "en": "What is the main idea?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "Treba reagovať presne podľa kontextu.",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "Stačí opakovať jedno slovo.",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "Najlepšie je nereagovať.",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c1-s09-l051-e08",
+          "lessonId": "c1-s09-l051",
+          "type": "dialogue_choose_reply",
+          "order": 8,
+          "question": "Обери найкращу відповідь у діалозі.",
+          "questionLocalized": {
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
+          },
+          "wordIds": [
+            "c1-s09-l051-w07"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Ako by si to vysvetlil?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Najprv zhrniem situáciu a potom poviem svoj návrh.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Nepoviem nič, lebo je to ťažké.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Odpoviem jedným náhodným slovom.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s09-l051-e09",
+          "lessonId": "c1-s09-l051",
+          "type": "meaning_in_context",
+          "order": 9,
+          "question": "Що означає «vkus» у контексті?",
+          "questionLocalized": {
+            "uk": "Що означає «vkus» у контексті?",
+            "ru": "Что означает «vkus» в контексте?",
+            "en": "What does “vkus” mean in context?"
+          },
+          "wordIds": [
+            "c1-s09-l051-w02"
+          ],
+          "context": {
+            "sk": "Rozhovor je citlivý, preto si najprv overím význam a tón."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "вираз «vkus» у темі «Umenie je vec názoru»",
+                "ru": "выражение «vkus» в теме «Umenie je vec názoru»",
+                "en": "the expression “vkus” in the topic “Umenie je vec názoru”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "вираз «hodnotiť» у темі «Umenie je vec názoru»",
+                "ru": "выражение «hodnotiť» в теме «Umenie je vec názoru»",
+                "en": "the expression “hodnotiť” in the topic “Umenie je vec názoru”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "вираз «banálny» у темі «Umenie je vec názoru»",
+                "ru": "выражение «banálny» в теме «Umenie je vec názoru»",
+                "en": "the expression “banálny” in the topic “Umenie je vec názoru”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s09-l051-e10",
+          "lessonId": "c1-s09-l051",
+          "type": "natural_phrase",
+          "order": 10,
+          "question": "Що звучить найприродніше?",
+          "questionLocalized": {
+            "uk": "Що звучить найприродніше?",
+            "ru": "Что звучит естественнее всего?",
+            "en": "What sounds most natural?"
+          },
+          "wordIds": [
+            "c1-s09-l051-w08"
+          ],
+          "situation": {
+            "uk": "Потрібно відповісти точно, але без різкого тону.",
+            "ru": "Нужно ответить точно, но без резкого тона.",
+            "en": "You need to answer precisely but without a sharp tone."
+          },
+          "options": [
+            {
+              "id": "a",
+              "sk": "Chápem tvoj pohľad, ale doplnil by som ešte jednu vec.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Ty ničomu nerozumieš.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Áno nie možno včera.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s09-l051-e11",
+          "lessonId": "c1-s09-l051",
+          "type": "reverse_translation",
+          "order": 11,
+          "question": "Обери словацький варіант для: вираз «hodnotiť» у темі «Umenie je vec názoru».",
+          "questionLocalized": {
+            "uk": "Обери словацький варіант для: вираз «hodnotiť» у темі «Umenie je vec názoru».",
+            "ru": "Выбери словацкий вариант для: выражение «hodnotiť» в теме «Umenie je vec názoru».",
+            "en": "Choose the Slovak item for: the expression “hodnotiť” in the topic “Umenie je vec názoru”."
+          },
+          "wordIds": [
+            "c1-s09-l051-w05"
+          ],
+          "options": [
+            "hodnotiť",
+            "estetický",
+            "umenie"
+          ],
+          "correctAnswer": "hodnotiť"
+        },
+        {
+          "id": "c1-s09-l051-e12",
+          "lessonId": "c1-s09-l051",
+          "type": "sentence_order",
+          "order": 12,
+          "question": "Віднови логічний порядок C1-відповіді.",
+          "questionLocalized": {
+            "uk": "Віднови логічний порядок C1-відповіді.",
+            "ru": "Восстанови логический порядок C1-ответа.",
+            "en": "Restore the logical order of a C1 answer."
+          },
+          "wordIds": [
+            "c1-s09-l051-w01",
+            "c1-s09-l051-w02"
+          ],
+          "items": [
+            "Najprv treba pomenovať kontext.",
+            "Potom možno doplniť presnejší výraz.",
+            "Napokon z toho vyplýva konkrétny záver."
+          ],
+          "correctOrder": [
+            "Najprv treba pomenovať kontext.",
+            "Potom možno doplniť presnejší výraz.",
+            "Napokon z toho vyplýva konkrétny záver."
+          ]
+        },
+        {
+          "id": "c1-s09-l051-e13",
+          "lessonId": "c1-s09-l051",
+          "type": "dialogue_choose_reply",
+          "order": 13,
+          "question": "Обери відповідь з точним регістром.",
+          "questionLocalized": {
+            "uk": "Обери відповідь з точним регістром.",
+            "ru": "Выбери ответ с точным регистром.",
+            "en": "Choose the reply with the right register."
+          },
+          "wordIds": [
+            "c1-s09-l051-w03",
+            "c1-s09-l051-w04"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Potrebujem to povedať odborne, ale nie zbytočne tvrdo."
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Rozumiem. Preformuloval by som to vecne a zároveň opatrne.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Napíš tam čokoľvek, hlavne rýchlo.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Daj tam najtvrdšiu možnú formuláciu.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s09-l051-e14",
+          "lessonId": "c1-s09-l051",
+          "type": "multiple_choice_translation",
+          "order": 14,
+          "question": "Що відповідає словацькому «banálny»?",
+          "questionLocalized": {
+            "uk": "Що відповідає словацькому «banálny»?",
+            "ru": "Что соответствует словацкому «banálny»?",
+            "en": "What matches the Slovak “banálny”?"
+          },
+          "wordIds": [
+            "c1-s09-l051-w08"
+          ],
+          "options": [
+            "вираз «banálny» у темі «Umenie je vec názoru»",
+            "вираз «vkus» у темі «Umenie je vec názoru»",
+            "вираз «estetický» у темі «Umenie je vec názoru»"
+          ],
+          "correctAnswer": "вираз «banálny» у темі «Umenie je vec názoru»"
+        }
+      ],
+      "finalSituation": {
+        "id": "final-situation",
+        "type": "interactive_scenario",
+        "title": {
+          "uk": "Umenie je vec názoru: реальна ситуація",
+          "ru": "Umenie je vec názoru: реальная ситуация",
+          "en": "Umenie je vec názoru: real situation"
+        },
+        "description": {
+          "uk": "Обери репліки, які звучать природно, точно й доречно на рівні C1.",
+          "ru": "Выбери реплики, которые звучат естественно, точно и уместно на уровне C1.",
+          "en": "Choose replies that sound natural, precise and appropriate at C1 level."
+        },
+        "steps": [
+          {
+            "id": "f1",
+            "prompt": {
+              "uk": "Потрібно почати відповідь без різкості.",
+              "ru": "Нужно начать ответ без резкости.",
+              "en": "You need to start without sounding harsh."
+            },
+            "options": [
+              {
+                "sk": "Rozumiem, skúsim to najprv zhrnúť vlastnými slovami.",
+                "correct": true
+              },
+              {
+                "sk": "Nemáš pravdu a viac sa o tom nebavme.",
+                "correct": false
+              },
+              {
+                "sk": "Neviem a nechcem reagovať.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "prompt": {
+              "uk": "Потрібно додати аргумент.",
+              "ru": "Нужно добавить аргумент.",
+              "en": "You need to add an argument."
+            },
+            "options": [
+              {
+                "sk": "Dôvod je podľa mňa v tom, že situácia má viac okolností.",
+                "correct": true
+              },
+              {
+                "sk": "Pretože áno.",
+                "correct": false
+              },
+              {
+                "sk": "To nesúvisí s ničím.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f3",
+            "prompt": {
+              "uk": "Потрібно завершити практично.",
+              "ru": "Нужно завершить практически.",
+              "en": "You need to close practically."
+            },
+            "options": [
+              {
+                "sk": "Navrhujem ďalší krok a potom si to potvrdíme písomne.",
+                "correct": true
+              },
+              {
+                "sk": "Nechajme to bez riešenia.",
+                "correct": false
+              },
+              {
+                "sk": "Každý nech si domyslí zvyšok.",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "passRequirement": "3/3",
+        "successMessage": {
+          "uk": "Готово: тема перенесена в реальну C1-комунікацію.",
+          "ru": "Готово: тема перенесена в реальную C1-коммуникацию.",
+          "en": "Done: the topic was transferred into real C1 communication."
+        }
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": {
+          "uk": "Урок завершено",
+          "ru": "Урок завершён",
+          "en": "Lesson complete"
+        },
+        "subtitle": {
+          "uk": "Ти пройшов ще один крок рівня C1.",
+          "ru": "Ты прошёл ещё один шаг уровня C1.",
+          "en": "You completed another C1 step."
+        },
+        "xpReward": 220,
+        "newWordsCount": 8,
+        "exercisesCompleted": 14,
+        "nowYouKnow": [
+          "структурувати відповідь",
+          "пояснювати нюанс",
+          "реагувати доречно"
+        ],
+        "mistakesMessage": {
+          "uk": "Повтори вправи, де плутається значення або тон.",
+          "ru": "Повтори упражнения, где путается значение или тон.",
+          "en": "Repeat exercises where meaning or tone is unclear."
+        },
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "skills": [
+          {
+            "id": "vocabulary",
+            "label": {
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
+            },
+            "weight": 0.3
+          },
+          {
+            "id": "composition",
+            "label": {
+              "uk": "структура",
+              "ru": "структура",
+              "en": "composition"
+            },
+            "weight": 0.4
+          },
+          {
+            "id": "transfer",
+            "label": {
+              "uk": "перенесення",
+              "ru": "перенос",
+              "en": "transfer"
+            },
+            "weight": 0.3
+          }
+        ],
+        "nextLesson": {
+          "id": "c1-s09-l052"
+        }
+      }
+    }
+  ]
+}

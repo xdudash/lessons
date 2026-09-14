@@ -1,0 +1,1115 @@
+{
+  "lessons": [
+    {
+      "id": "c1-s06-l033",
+      "sectionId": "c1_s06",
+      "level": "C1",
+      "title": {
+        "sk": "Ako si overiť zdroj",
+        "uk": "Ako si overiť zdroj",
+        "ru": "Ako si overiť zdroj",
+        "en": "Ako si overiť zdroj"
+      },
+      "topic": {
+        "sk": "Ako si overiť zdroj",
+        "uk": "Ako si overiť zdroj",
+        "ru": "Ako si overiť zdroj",
+        "en": "Ako si overiť zdroj"
+      },
+      "description": {
+        "sk": "Precvičíš si tému Ako si overiť zdroj v komplexnej komunikácii na úrovni C1.",
+        "uk": "Тренуємо тему «Ako si overiť zdroj»: аргументовано, точно й у реальному контексті.",
+        "ru": "оцениваем достоверность информации и распознаём слабые источники.",
+        "en": "Practice the C1 topic “Ako si overiť zdroj” in complex communication. Section: Education, learning and knowledge."
+      },
+      "order": 33,
+      "xpReward": 220,
+      "estimatedMinutes": 38,
+      "isPublished": false,
+      "intro": {
+        "sk": "Precvičíš si tému Ako si overiť zdroj v komplexnej komunikácii na úrovni C1.",
+        "uk": "Тренуємо тему «Ako si overiť zdroj»: аргументовано, точно й у реальному контексті.",
+        "ru": "оцениваем достоверность информации и распознаём слабые источники.",
+        "en": "Practice the C1 topic “Ako si overiť zdroj” in complex communication. Section: Education, learning and knowledge."
+      },
+      "completionMessage": {
+        "sk": "Výborne. Tému vieš použiť v náročnejšej komunikácii.",
+        "uk": "Добре. Тепер можеш використати тему в складнішій розмові.",
+        "ru": "Хорошо. Теперь можешь использовать тему в более сложном разговоре.",
+        "en": "Good. You can now use the topic in more complex communication."
+      },
+      "updatedAt": "2026-09-14T00:00:00Z",
+      "localization": {
+        "uiLanguages": [
+          "uk",
+          "ru",
+          "en"
+        ],
+        "targetLanguage": "sk",
+        "fallbackUiLanguage": "uk"
+      },
+      "assets": {
+        "images": {},
+        "audio": {}
+      },
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": {
+          "sk": "Ako si overiť zdroj",
+          "uk": "Ako si overiť zdroj",
+          "ru": "Ako si overiť zdroj",
+          "en": "Ako si overiť zdroj"
+        },
+        "shortDescription": {
+          "uk": "Тренуємо тему «Ako si overiť zdroj»: аргументовано, точно й у реальному контексті.",
+          "ru": "оцениваем достоверность информации и распознаём слабые источники.",
+          "en": "Practice the C1 topic “Ako si overiť zdroj” in complex communication. Section: Education, learning and knowledge."
+        },
+        "outcomes": [
+          {
+            "uk": "пояснити думку точніше й довше",
+            "ru": "объяснить мысль точнее и длиннее",
+            "en": "explain an idea more precisely and at greater length"
+          },
+          {
+            "uk": "використати нові C1-фрази в контексті",
+            "ru": "использовать новые C1-фразы в контексте",
+            "en": "use new C1 phrases in context"
+          },
+          {
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
+          }
+        ],
+        "newWords": [
+          "c1-s06-l033-w01",
+          "c1-s06-l033-w02",
+          "c1-s06-l033-w03",
+          "c1-s06-l033-w04",
+          "c1-s06-l033-w05",
+          "c1-s06-l033-w06",
+          "c1-s06-l033-w07",
+          "c1-s06-l033-w08"
+        ],
+        "exercisesCount": 14,
+        "reward": "+220 XP",
+        "estimatedMinutes": 38,
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "id": "t1",
+          "screenType": "theory",
+          "order": 1,
+          "title": {
+            "uk": "Фокус уроку",
+            "ru": "Фокус урока",
+            "en": "Lesson focus"
+          },
+          "body": {
+            "uk": "Тренуємо тему «Ako si overiť zdroj»: аргументовано, точно й у реальному контексті.",
+            "ru": "оцениваем достоверность информации и распознаём слабые источники.",
+            "en": "Practice the C1 topic “Ako si overiť zdroj” in complex communication. Section: Education, learning and knowledge."
+          },
+          "examples": [
+            {
+              "sk": "V téme Ako si overiť zdroj použijem výraz: dôveryhodný.",
+              "translation": {
+                "uk": "У темі «Ako si overiť zdroj» використовую: вираз «dôveryhodný» у темі «Ako si overiť zdroj».",
+                "ru": "В теме «Ako si overiť zdroj» использую: выражение «dôveryhodný» в теме «Ako si overiť zdroj».",
+                "en": "In “Ako si overiť zdroj”, I use: the expression “dôveryhodný” in the topic “Ako si overiť zdroj”."
+              }
+            },
+            {
+              "sk": "V téme Ako si overiť zdroj použijem výraz: zdroj.",
+              "translation": {
+                "uk": "У темі «Ako si overiť zdroj» використовую: вираз «zdroj» у темі «Ako si overiť zdroj».",
+                "ru": "В теме «Ako si overiť zdroj» использую: выражение «zdroj» в теме «Ako si overiť zdroj».",
+                "en": "In “Ako si overiť zdroj”, I use: the expression “zdroj” in the topic “Ako si overiť zdroj”."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "На C1 важливо не просто відповісти, а показати причину, умову, наслідок або нюанс.",
+            "ru": "На C1 важно не просто ответить, а показать причину, условие, последствие или нюанс.",
+            "en": "At C1, show a reason, condition, consequence or nuance."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t2",
+          "screenType": "theory",
+          "order": 2,
+          "title": {
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer model"
+          },
+          "body": {
+            "uk": "Будуй відповідь за схемою: контекст -> позиція -> аргумент -> приклад -> наступний крок.",
+            "ru": "Строй ответ по схеме: контекст -> позиция -> аргумент -> пример -> следующий шаг.",
+            "en": "Build the answer as: context -> position -> argument -> example -> next step."
+          },
+          "examples": [
+            {
+              "sk": "Z môjho pohľadu je dôležité najprv vysvetliť kontext.",
+              "translation": {
+                "uk": "З моєї точки зору важливо спочатку пояснити контекст.",
+                "ru": "С моей точки зрения важно сначала объяснить контекст.",
+                "en": "From my point of view, it is important to explain the context first."
+              }
+            },
+            {
+              "sk": "Na druhej strane treba zohľadniť aj praktické dôsledky.",
+              "translation": {
+                "uk": "З іншого боку, треба врахувати також практичні наслідки.",
+                "ru": "С другой стороны, нужно учесть и практические последствия.",
+                "en": "On the other hand, practical consequences must also be considered."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "Одна сильна відповідь має структуру, а не лише правильні слова.",
+            "ru": "Один сильный ответ имеет структуру, а не только правильные слова.",
+            "en": "A strong answer has structure, not only correct words."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t3",
+          "screenType": "theory",
+          "order": 3,
+          "title": {
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
+          },
+          "body": {
+            "uk": "У фіналі потрібно вибрати репліку, яка реально рухає ситуацію вперед.",
+            "ru": "В финале нужно выбрать реплику, которая реально двигает ситуацию дальше.",
+            "en": "In the final task, choose the reply that moves the situation forward."
+          },
+          "examples": [
+            {
+              "sk": "Navrhujem, aby sme si najprv ujasnili priority.",
+              "translation": {
+                "uk": "Пропоную спочатку прояснити пріоритети.",
+                "ru": "Предлагаю сначала прояснить приоритеты.",
+                "en": "I suggest clarifying priorities first."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "C1 = самостійна, зв'язна й доречна комунікація.",
+            "ru": "C1 = самостоятельная, связная и уместная коммуникация.",
+            "en": "C1 means independent, connected and appropriate communication."
+          },
+          "button": "До слів"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": {
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
+        },
+        "description": {
+          "uk": "Ці одиниці взяті з затвердженого C1-плану.",
+          "ru": "Эти единицы взяты из утвержденного C1-плана.",
+          "en": "These items come from the approved C1 plan."
+        },
+        "items": [
+          {
+            "wordId": "c1-s06-l033-w01",
+            "sk": "dôveryhodný",
+            "uk": "вираз «dôveryhodný» у темі «Ako si overiť zdroj»",
+            "ru": "выражение «dôveryhodný» в теме «Ako si overiť zdroj»",
+            "en": "the expression “dôveryhodný” in the topic “Ako si overiť zdroj”",
+            "pronunciationUk": "duoveryhodny",
+            "exampleSk": "V téme Ako si overiť zdroj použijem výraz: dôveryhodný.",
+            "exampleUk": "У темі «Ako si overiť zdroj» використовую: вираз «dôveryhodný» у темі «Ako si overiť zdroj».",
+            "exampleRu": "В теме «Ako si overiť zdroj» использую: выражение «dôveryhodný» в теме «Ako si overiť zdroj».",
+            "exampleEn": "In “Ako si overiť zdroj”, I use: the expression “dôveryhodný” in the topic “Ako si overiť zdroj”."
+          },
+          {
+            "wordId": "c1-s06-l033-w02",
+            "sk": "zdroj",
+            "uk": "вираз «zdroj» у темі «Ako si overiť zdroj»",
+            "ru": "выражение «zdroj» в теме «Ako si overiť zdroj»",
+            "en": "the expression “zdroj” in the topic “Ako si overiť zdroj”",
+            "pronunciationUk": "zdroj",
+            "exampleSk": "V téme Ako si overiť zdroj použijem výraz: zdroj.",
+            "exampleUk": "У темі «Ako si overiť zdroj» використовую: вираз «zdroj» у темі «Ako si overiť zdroj».",
+            "exampleRu": "В теме «Ako si overiť zdroj» использую: выражение «zdroj» в теме «Ako si overiť zdroj».",
+            "exampleEn": "In “Ako si overiť zdroj”, I use: the expression “zdroj” in the topic “Ako si overiť zdroj”."
+          },
+          {
+            "wordId": "c1-s06-l033-w03",
+            "sk": "autor",
+            "uk": "вираз «autor» у темі «Ako si overiť zdroj»",
+            "ru": "выражение «autor» в теме «Ako si overiť zdroj»",
+            "en": "the expression “autor” in the topic “Ako si overiť zdroj”",
+            "pronunciationUk": "autor",
+            "exampleSk": "V téme Ako si overiť zdroj použijem výraz: autor.",
+            "exampleUk": "У темі «Ako si overiť zdroj» використовую: вираз «autor» у темі «Ako si overiť zdroj».",
+            "exampleRu": "В теме «Ako si overiť zdroj» использую: выражение «autor» в теме «Ako si overiť zdroj».",
+            "exampleEn": "In “Ako si overiť zdroj”, I use: the expression “autor” in the topic “Ako si overiť zdroj”."
+          },
+          {
+            "wordId": "c1-s06-l033-w04",
+            "sk": "overovanie",
+            "uk": "вираз «overovanie» у темі «Ako si overiť zdroj»",
+            "ru": "выражение «overovanie» в теме «Ako si overiť zdroj»",
+            "en": "the expression “overovanie” in the topic “Ako si overiť zdroj”",
+            "pronunciationUk": "overovanie",
+            "exampleSk": "V téme Ako si overiť zdroj použijem výraz: overovanie.",
+            "exampleUk": "У темі «Ako si overiť zdroj» використовую: вираз «overovanie» у темі «Ako si overiť zdroj».",
+            "exampleRu": "В теме «Ako si overiť zdroj» использую: выражение «overovanie» в теме «Ako si overiť zdroj».",
+            "exampleEn": "In “Ako si overiť zdroj”, I use: the expression “overovanie” in the topic “Ako si overiť zdroj”."
+          },
+          {
+            "wordId": "c1-s06-l033-w05",
+            "sk": "tvrdenie",
+            "uk": "твердження",
+            "ru": "утверждение",
+            "en": "claim",
+            "pronunciationUk": "tvrdenie",
+            "exampleSk": "V téme Ako si overiť zdroj použijem výraz: tvrdenie.",
+            "exampleUk": "У темі «Ako si overiť zdroj» використовую: твердження.",
+            "exampleRu": "В теме «Ako si overiť zdroj» использую: утверждение.",
+            "exampleEn": "In “Ako si overiť zdroj”, I use: claim."
+          },
+          {
+            "wordId": "c1-s06-l033-w06",
+            "sk": "dôkaz",
+            "uk": "вираз «dôkaz» у темі «Ako si overiť zdroj»",
+            "ru": "выражение «dôkaz» в теме «Ako si overiť zdroj»",
+            "en": "the expression “dôkaz” in the topic “Ako si overiť zdroj”",
+            "pronunciationUk": "duokaz",
+            "exampleSk": "V téme Ako si overiť zdroj použijem výraz: dôkaz.",
+            "exampleUk": "У темі «Ako si overiť zdroj» використовую: вираз «dôkaz» у темі «Ako si overiť zdroj».",
+            "exampleRu": "В теме «Ako si overiť zdroj» использую: выражение «dôkaz» в теме «Ako si overiť zdroj».",
+            "exampleEn": "In “Ako si overiť zdroj”, I use: the expression “dôkaz” in the topic “Ako si overiť zdroj”."
+          },
+          {
+            "wordId": "c1-s06-l033-w07",
+            "sk": "zaujatý",
+            "uk": "вираз «zaujatý» у темі «Ako si overiť zdroj»",
+            "ru": "выражение «zaujatý» в теме «Ako si overiť zdroj»",
+            "en": "the expression “zaujatý” in the topic “Ako si overiť zdroj”",
+            "pronunciationUk": "zaujaty",
+            "exampleSk": "V téme Ako si overiť zdroj použijem výraz: zaujatý.",
+            "exampleUk": "У темі «Ako si overiť zdroj» використовую: вираз «zaujatý» у темі «Ako si overiť zdroj».",
+            "exampleRu": "В теме «Ako si overiť zdroj» использую: выражение «zaujatý» в теме «Ako si overiť zdroj».",
+            "exampleEn": "In “Ako si overiť zdroj”, I use: the expression “zaujatý” in the topic “Ako si overiť zdroj”."
+          },
+          {
+            "wordId": "c1-s06-l033-w08",
+            "sk": "nezávislý",
+            "uk": "вираз «nezávislý» у темі «Ako si overiť zdroj»",
+            "ru": "выражение «nezávislý» в теме «Ako si overiť zdroj»",
+            "en": "the expression “nezávislý” in the topic “Ako si overiť zdroj”",
+            "pronunciationUk": "nezavisly",
+            "exampleSk": "V téme Ako si overiť zdroj použijem výraz: nezávislý.",
+            "exampleUk": "У темі «Ako si overiť zdroj» використовую: вираз «nezávislý» у темі «Ako si overiť zdroj».",
+            "exampleRu": "В теме «Ako si overiť zdroj» использую: выражение «nezávislý» в теме «Ako si overiť zdroj».",
+            "exampleEn": "In “Ako si overiť zdroj”, I use: the expression “nezávislý” in the topic “Ako si overiť zdroj”."
+          }
+        ],
+        "button": "До практики"
+      },
+      "words": [
+        {
+          "id": "c1-s06-l033-w01",
+          "sk": "dôveryhodný",
+          "uk": "вираз «dôveryhodný» у темі «Ako si overiť zdroj»",
+          "ru": "выражение «dôveryhodný» в теме «Ako si overiť zdroj»",
+          "en": "the expression “dôveryhodný” in the topic “Ako si overiť zdroj”",
+          "pronunciationUk": "duoveryhodny",
+          "exampleSk": "V téme Ako si overiť zdroj použijem výraz: dôveryhodný.",
+          "exampleUk": "У темі «Ako si overiť zdroj» використовую: вираз «dôveryhodný» у темі «Ako si overiť zdroj».",
+          "exampleRu": "В теме «Ako si overiť zdroj» использую: выражение «dôveryhodný» в теме «Ako si overiť zdroj».",
+          "exampleEn": "In “Ako si overiť zdroj”, I use: the expression “dôveryhodný” in the topic “Ako si overiť zdroj”.",
+          "level": "C1",
+          "topic": "Ako si overiť zdroj",
+          "tags": [
+            "c1_s06",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s06-l033-w02",
+          "sk": "zdroj",
+          "uk": "вираз «zdroj» у темі «Ako si overiť zdroj»",
+          "ru": "выражение «zdroj» в теме «Ako si overiť zdroj»",
+          "en": "the expression “zdroj” in the topic “Ako si overiť zdroj”",
+          "pronunciationUk": "zdroj",
+          "exampleSk": "V téme Ako si overiť zdroj použijem výraz: zdroj.",
+          "exampleUk": "У темі «Ako si overiť zdroj» використовую: вираз «zdroj» у темі «Ako si overiť zdroj».",
+          "exampleRu": "В теме «Ako si overiť zdroj» использую: выражение «zdroj» в теме «Ako si overiť zdroj».",
+          "exampleEn": "In “Ako si overiť zdroj”, I use: the expression “zdroj” in the topic “Ako si overiť zdroj”.",
+          "level": "C1",
+          "topic": "Ako si overiť zdroj",
+          "tags": [
+            "c1_s06",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s06-l033-w03",
+          "sk": "autor",
+          "uk": "вираз «autor» у темі «Ako si overiť zdroj»",
+          "ru": "выражение «autor» в теме «Ako si overiť zdroj»",
+          "en": "the expression “autor” in the topic “Ako si overiť zdroj”",
+          "pronunciationUk": "autor",
+          "exampleSk": "V téme Ako si overiť zdroj použijem výraz: autor.",
+          "exampleUk": "У темі «Ako si overiť zdroj» використовую: вираз «autor» у темі «Ako si overiť zdroj».",
+          "exampleRu": "В теме «Ako si overiť zdroj» использую: выражение «autor» в теме «Ako si overiť zdroj».",
+          "exampleEn": "In “Ako si overiť zdroj”, I use: the expression “autor” in the topic “Ako si overiť zdroj”.",
+          "level": "C1",
+          "topic": "Ako si overiť zdroj",
+          "tags": [
+            "c1_s06",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s06-l033-w04",
+          "sk": "overovanie",
+          "uk": "вираз «overovanie» у темі «Ako si overiť zdroj»",
+          "ru": "выражение «overovanie» в теме «Ako si overiť zdroj»",
+          "en": "the expression “overovanie” in the topic “Ako si overiť zdroj”",
+          "pronunciationUk": "overovanie",
+          "exampleSk": "V téme Ako si overiť zdroj použijem výraz: overovanie.",
+          "exampleUk": "У темі «Ako si overiť zdroj» використовую: вираз «overovanie» у темі «Ako si overiť zdroj».",
+          "exampleRu": "В теме «Ako si overiť zdroj» использую: выражение «overovanie» в теме «Ako si overiť zdroj».",
+          "exampleEn": "In “Ako si overiť zdroj”, I use: the expression “overovanie” in the topic “Ako si overiť zdroj”.",
+          "level": "C1",
+          "topic": "Ako si overiť zdroj",
+          "tags": [
+            "c1_s06",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s06-l033-w05",
+          "sk": "tvrdenie",
+          "uk": "твердження",
+          "ru": "утверждение",
+          "en": "claim",
+          "pronunciationUk": "tvrdenie",
+          "exampleSk": "V téme Ako si overiť zdroj použijem výraz: tvrdenie.",
+          "exampleUk": "У темі «Ako si overiť zdroj» використовую: твердження.",
+          "exampleRu": "В теме «Ako si overiť zdroj» использую: утверждение.",
+          "exampleEn": "In “Ako si overiť zdroj”, I use: claim.",
+          "level": "C1",
+          "topic": "Ako si overiť zdroj",
+          "tags": [
+            "c1_s06",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s06-l033-w06",
+          "sk": "dôkaz",
+          "uk": "вираз «dôkaz» у темі «Ako si overiť zdroj»",
+          "ru": "выражение «dôkaz» в теме «Ako si overiť zdroj»",
+          "en": "the expression “dôkaz” in the topic “Ako si overiť zdroj”",
+          "pronunciationUk": "duokaz",
+          "exampleSk": "V téme Ako si overiť zdroj použijem výraz: dôkaz.",
+          "exampleUk": "У темі «Ako si overiť zdroj» використовую: вираз «dôkaz» у темі «Ako si overiť zdroj».",
+          "exampleRu": "В теме «Ako si overiť zdroj» использую: выражение «dôkaz» в теме «Ako si overiť zdroj».",
+          "exampleEn": "In “Ako si overiť zdroj”, I use: the expression “dôkaz” in the topic “Ako si overiť zdroj”.",
+          "level": "C1",
+          "topic": "Ako si overiť zdroj",
+          "tags": [
+            "c1_s06",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s06-l033-w07",
+          "sk": "zaujatý",
+          "uk": "вираз «zaujatý» у темі «Ako si overiť zdroj»",
+          "ru": "выражение «zaujatý» в теме «Ako si overiť zdroj»",
+          "en": "the expression “zaujatý” in the topic “Ako si overiť zdroj”",
+          "pronunciationUk": "zaujaty",
+          "exampleSk": "V téme Ako si overiť zdroj použijem výraz: zaujatý.",
+          "exampleUk": "У темі «Ako si overiť zdroj» використовую: вираз «zaujatý» у темі «Ako si overiť zdroj».",
+          "exampleRu": "В теме «Ako si overiť zdroj» использую: выражение «zaujatý» в теме «Ako si overiť zdroj».",
+          "exampleEn": "In “Ako si overiť zdroj”, I use: the expression “zaujatý” in the topic “Ako si overiť zdroj”.",
+          "level": "C1",
+          "topic": "Ako si overiť zdroj",
+          "tags": [
+            "c1_s06",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s06-l033-w08",
+          "sk": "nezávislý",
+          "uk": "вираз «nezávislý» у темі «Ako si overiť zdroj»",
+          "ru": "выражение «nezávislý» в теме «Ako si overiť zdroj»",
+          "en": "the expression “nezávislý” in the topic “Ako si overiť zdroj”",
+          "pronunciationUk": "nezavisly",
+          "exampleSk": "V téme Ako si overiť zdroj použijem výraz: nezávislý.",
+          "exampleUk": "У темі «Ako si overiť zdroj» використовую: вираз «nezávislý» у темі «Ako si overiť zdroj».",
+          "exampleRu": "В теме «Ako si overiť zdroj» использую: выражение «nezávislý» в теме «Ako si overiť zdroj».",
+          "exampleEn": "In “Ako si overiť zdroj”, I use: the expression “nezávislý” in the topic “Ako si overiť zdroj”.",
+          "level": "C1",
+          "topic": "Ako si overiť zdroj",
+          "tags": [
+            "c1_s06",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "c1-s06-l033-e01",
+          "lessonId": "c1-s06-l033",
+          "type": "single_choice",
+          "order": 1,
+          "question": "Що означає «dôveryhodný»?",
+          "questionLocalized": {
+            "uk": "Що означає «dôveryhodný»?",
+            "ru": "Что означает «dôveryhodný»?",
+            "en": "What does “dôveryhodný” mean?"
+          },
+          "wordIds": [
+            "c1-s06-l033-w01"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "вираз «dôveryhodný» у темі «Ako si overiť zdroj»",
+                "ru": "выражение «dôveryhodný» в теме «Ako si overiť zdroj»",
+                "en": "the expression “dôveryhodný” in the topic “Ako si overiť zdroj”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "вираз «zdroj» у темі «Ako si overiť zdroj»",
+                "ru": "выражение «zdroj» в теме «Ako si overiť zdroj»",
+                "en": "the expression “zdroj” in the topic “Ako si overiť zdroj”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "вираз «autor» у темі «Ako si overiť zdroj»",
+                "ru": "выражение «autor» в теме «Ako si overiť zdroj»",
+                "en": "the expression “autor” in the topic “Ako si overiť zdroj”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s06-l033-e02",
+          "lessonId": "c1-s06-l033",
+          "type": "matching",
+          "order": 2,
+          "question": "З'єднай фрази з поясненнями.",
+          "questionLocalized": {
+            "uk": "З'єднай фрази з поясненнями.",
+            "ru": "Соедини фразы с объяснениями.",
+            "en": "Match phrases with explanations."
+          },
+          "wordIds": [
+            "c1-s06-l033-w01",
+            "c1-s06-l033-w02",
+            "c1-s06-l033-w03",
+            "c1-s06-l033-w04"
+          ],
+          "pairs": [
+            {
+              "left": "dôveryhodný",
+              "right": "вираз «dôveryhodný» у темі «Ako si overiť zdroj»",
+              "rightRu": "выражение «dôveryhodný» в теме «Ako si overiť zdroj»",
+              "rightEn": "the expression “dôveryhodný” in the topic “Ako si overiť zdroj”"
+            },
+            {
+              "left": "zdroj",
+              "right": "вираз «zdroj» у темі «Ako si overiť zdroj»",
+              "rightRu": "выражение «zdroj» в теме «Ako si overiť zdroj»",
+              "rightEn": "the expression “zdroj” in the topic “Ako si overiť zdroj”"
+            },
+            {
+              "left": "autor",
+              "right": "вираз «autor» у темі «Ako si overiť zdroj»",
+              "rightRu": "выражение «autor» в теме «Ako si overiť zdroj»",
+              "rightEn": "the expression “autor” in the topic “Ako si overiť zdroj”"
+            },
+            {
+              "left": "overovanie",
+              "right": "вираз «overovanie» у темі «Ako si overiť zdroj»",
+              "rightRu": "выражение «overovanie» в теме «Ako si overiť zdroj»",
+              "rightEn": "the expression “overovanie” in the topic “Ako si overiť zdroj”"
+            }
+          ]
+        },
+        {
+          "id": "c1-s06-l033-e03",
+          "lessonId": "c1-s06-l033",
+          "type": "fill_blank",
+          "order": 3,
+          "question": "Впиши словацькою: вираз «autor» у темі «Ako si overiť zdroj».",
+          "questionLocalized": {
+            "uk": "Впиши словацькою: вираз «autor» у темі «Ako si overiť zdroj».",
+            "ru": "Впиши по-словацки: выражение «autor» в теме «Ako si overiť zdroj».",
+            "en": "Write in Slovak: the expression “autor” in the topic “Ako si overiť zdroj”."
+          },
+          "wordIds": [
+            "c1-s06-l033-w03"
+          ],
+          "sentence": "______",
+          "acceptedAnswers": [
+            "autor"
+          ],
+          "hint": {
+            "uk": "Початок: au...",
+            "ru": "Начало: au...",
+            "en": "Start: au..."
+          }
+        },
+        {
+          "id": "c1-s06-l033-e04",
+          "lessonId": "c1-s06-l033",
+          "type": "dropdown_blank",
+          "order": 4,
+          "question": "Обери точну фразу для C1-речення.",
+          "questionLocalized": {
+            "uk": "Обери точну фразу для C1-речення.",
+            "ru": "Выбери точную фразу для C1-предложения.",
+            "en": "Choose the precise phrase for a C1 sentence."
+          },
+          "wordIds": [
+            "c1-s06-l033-w04"
+          ],
+          "sentenceParts": [
+            {
+              "text": "V tejto situácii je dôležité použiť "
+            },
+            {
+              "blankId": "blank1",
+              "options": [
+                "overovanie",
+                "dôveryhodný",
+                "zdroj"
+              ],
+              "correct": "overovanie"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "c1-s06-l033-e05",
+          "lessonId": "c1-s06-l033",
+          "type": "sentence_builder",
+          "order": 5,
+          "question": "Склади природну словацьку репліку.",
+          "questionLocalized": {
+            "uk": "Склади природну словацьку репліку.",
+            "ru": "Собери естественную словацкую реплику.",
+            "en": "Build a natural Slovak reply."
+          },
+          "wordIds": [
+            "c1-s06-l033-w05"
+          ],
+          "tokens": [
+            "Rozumiem",
+            "situácii,",
+            "ale",
+            "potrebujem",
+            "ju",
+            "ešte",
+            "upresniť."
+          ],
+          "correctSentence": "Rozumiem situácii, ale potrebujem ju ešte upresniť."
+        },
+        {
+          "id": "c1-s06-l033-e06",
+          "lessonId": "c1-s06-l033",
+          "type": "multiple_select",
+          "order": 6,
+          "question": "Обери C1-репліки з природним тоном.",
+          "questionLocalized": {
+            "uk": "Обери C1-репліки з природним тоном.",
+            "ru": "Выбери C1-реплики с естественным тоном.",
+            "en": "Select C1 replies with a natural tone."
+          },
+          "wordIds": [
+            "c1-s06-l033-w01",
+            "c1-s06-l033-w06"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Rozumiem, ale potrebujem to presnejšie vysvetliť.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "To je úplne mimo a nemá zmysel hovoriť.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Z môjho pohľadu je dôležitý aj kontext.",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "id": "c1-s06-l033-e07",
+          "lessonId": "c1-s06-l033",
+          "type": "reading_comprehension",
+          "order": 7,
+          "question": "Прочитай текст і вибери головну думку.",
+          "questionLocalized": {
+            "uk": "Прочитай текст і вибери головну думку.",
+            "ru": "Прочитай текст и выбери главную мысль.",
+            "en": "Read the text and choose the main idea."
+          },
+          "wordIds": [
+            "c1-s06-l033-w06",
+            "c1-s06-l033-w07",
+            "c1-s06-l033-w08"
+          ],
+          "text": "Téma Ako si overiť zdroj si vyžaduje presnosť. Nestačí poznať slová; treba reagovať podľa kontextu, vysvetliť dôvod a navrhnúť ďalší krok.",
+          "questions": [
+            {
+              "prompt": {
+                "uk": "Що є головною думкою?",
+                "ru": "Что является главной мыслью?",
+                "en": "What is the main idea?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "Treba reagovať presne podľa kontextu.",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "Stačí opakovať jedno slovo.",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "Najlepšie je nereagovať.",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c1-s06-l033-e08",
+          "lessonId": "c1-s06-l033",
+          "type": "dialogue_choose_reply",
+          "order": 8,
+          "question": "Обери найкращу відповідь у діалозі.",
+          "questionLocalized": {
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
+          },
+          "wordIds": [
+            "c1-s06-l033-w07"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Ako by si to vysvetlil?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Najprv zhrniem situáciu a potom poviem svoj návrh.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Nepoviem nič, lebo je to ťažké.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Odpoviem jedným náhodným slovom.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s06-l033-e09",
+          "lessonId": "c1-s06-l033",
+          "type": "meaning_in_context",
+          "order": 9,
+          "question": "Що означає «zdroj» у контексті?",
+          "questionLocalized": {
+            "uk": "Що означає «zdroj» у контексті?",
+            "ru": "Что означает «zdroj» в контексте?",
+            "en": "What does “zdroj” mean in context?"
+          },
+          "wordIds": [
+            "c1-s06-l033-w02"
+          ],
+          "context": {
+            "sk": "Rozhovor je citlivý, preto si najprv overím význam a tón."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "вираз «zdroj» у темі «Ako si overiť zdroj»",
+                "ru": "выражение «zdroj» в теме «Ako si overiť zdroj»",
+                "en": "the expression “zdroj” in the topic “Ako si overiť zdroj”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "твердження",
+                "ru": "утверждение",
+                "en": "claim"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "вираз «nezávislý» у темі «Ako si overiť zdroj»",
+                "ru": "выражение «nezávislý» в теме «Ako si overiť zdroj»",
+                "en": "the expression “nezávislý” in the topic “Ako si overiť zdroj”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s06-l033-e10",
+          "lessonId": "c1-s06-l033",
+          "type": "natural_phrase",
+          "order": 10,
+          "question": "Що звучить найприродніше?",
+          "questionLocalized": {
+            "uk": "Що звучить найприродніше?",
+            "ru": "Что звучит естественнее всего?",
+            "en": "What sounds most natural?"
+          },
+          "wordIds": [
+            "c1-s06-l033-w08"
+          ],
+          "situation": {
+            "uk": "Потрібно відповісти точно, але без різкого тону.",
+            "ru": "Нужно ответить точно, но без резкого тона.",
+            "en": "You need to answer precisely but without a sharp tone."
+          },
+          "options": [
+            {
+              "id": "a",
+              "sk": "Chápem tvoj pohľad, ale doplnil by som ešte jednu vec.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Ty ničomu nerozumieš.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Áno nie možno včera.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s06-l033-e11",
+          "lessonId": "c1-s06-l033",
+          "type": "reverse_translation",
+          "order": 11,
+          "question": "Обери словацький варіант для: твердження.",
+          "questionLocalized": {
+            "uk": "Обери словацький варіант для: твердження.",
+            "ru": "Выбери словацкий вариант для: утверждение.",
+            "en": "Choose the Slovak item for: claim."
+          },
+          "wordIds": [
+            "c1-s06-l033-w05"
+          ],
+          "options": [
+            "tvrdenie",
+            "autor",
+            "dôveryhodný"
+          ],
+          "correctAnswer": "tvrdenie"
+        },
+        {
+          "id": "c1-s06-l033-e12",
+          "lessonId": "c1-s06-l033",
+          "type": "sentence_order",
+          "order": 12,
+          "question": "Віднови логічний порядок C1-відповіді.",
+          "questionLocalized": {
+            "uk": "Віднови логічний порядок C1-відповіді.",
+            "ru": "Восстанови логический порядок C1-ответа.",
+            "en": "Restore the logical order of a C1 answer."
+          },
+          "wordIds": [
+            "c1-s06-l033-w01",
+            "c1-s06-l033-w02"
+          ],
+          "items": [
+            "Najprv treba pomenovať kontext.",
+            "Potom možno doplniť presnejší výraz.",
+            "Napokon z toho vyplýva konkrétny záver."
+          ],
+          "correctOrder": [
+            "Najprv treba pomenovať kontext.",
+            "Potom možno doplniť presnejší výraz.",
+            "Napokon z toho vyplýva konkrétny záver."
+          ]
+        },
+        {
+          "id": "c1-s06-l033-e13",
+          "lessonId": "c1-s06-l033",
+          "type": "dialogue_choose_reply",
+          "order": 13,
+          "question": "Обери відповідь з точним регістром.",
+          "questionLocalized": {
+            "uk": "Обери відповідь з точним регістром.",
+            "ru": "Выбери ответ с точным регистром.",
+            "en": "Choose the reply with the right register."
+          },
+          "wordIds": [
+            "c1-s06-l033-w03",
+            "c1-s06-l033-w04"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Potrebujem to povedať odborne, ale nie zbytočne tvrdo."
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Rozumiem. Preformuloval by som to vecne a zároveň opatrne.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Napíš tam čokoľvek, hlavne rýchlo.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Daj tam najtvrdšiu možnú formuláciu.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s06-l033-e14",
+          "lessonId": "c1-s06-l033",
+          "type": "multiple_choice_translation",
+          "order": 14,
+          "question": "Що відповідає словацькому «nezávislý»?",
+          "questionLocalized": {
+            "uk": "Що відповідає словацькому «nezávislý»?",
+            "ru": "Что соответствует словацкому «nezávislý»?",
+            "en": "What matches the Slovak “nezávislý”?"
+          },
+          "wordIds": [
+            "c1-s06-l033-w08"
+          ],
+          "options": [
+            "вираз «nezávislý» у темі «Ako si overiť zdroj»",
+            "вираз «zdroj» у темі «Ako si overiť zdroj»",
+            "вираз «autor» у темі «Ako si overiť zdroj»"
+          ],
+          "correctAnswer": "вираз «nezávislý» у темі «Ako si overiť zdroj»"
+        }
+      ],
+      "finalSituation": {
+        "id": "final-situation",
+        "type": "interactive_scenario",
+        "title": {
+          "uk": "Ako si overiť zdroj: реальна ситуація",
+          "ru": "Ako si overiť zdroj: реальная ситуация",
+          "en": "Ako si overiť zdroj: real situation"
+        },
+        "description": {
+          "uk": "Обери репліки, які звучать природно, точно й доречно на рівні C1.",
+          "ru": "Выбери реплики, которые звучат естественно, точно и уместно на уровне C1.",
+          "en": "Choose replies that sound natural, precise and appropriate at C1 level."
+        },
+        "steps": [
+          {
+            "id": "f1",
+            "prompt": {
+              "uk": "Потрібно почати відповідь без різкості.",
+              "ru": "Нужно начать ответ без резкости.",
+              "en": "You need to start without sounding harsh."
+            },
+            "options": [
+              {
+                "sk": "Rozumiem, skúsim to najprv zhrnúť vlastnými slovami.",
+                "correct": true
+              },
+              {
+                "sk": "Nemáš pravdu a viac sa o tom nebavme.",
+                "correct": false
+              },
+              {
+                "sk": "Neviem a nechcem reagovať.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "prompt": {
+              "uk": "Потрібно додати аргумент.",
+              "ru": "Нужно добавить аргумент.",
+              "en": "You need to add an argument."
+            },
+            "options": [
+              {
+                "sk": "Dôvod je podľa mňa v tom, že situácia má viac okolností.",
+                "correct": true
+              },
+              {
+                "sk": "Pretože áno.",
+                "correct": false
+              },
+              {
+                "sk": "To nesúvisí s ničím.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f3",
+            "prompt": {
+              "uk": "Потрібно завершити практично.",
+              "ru": "Нужно завершить практически.",
+              "en": "You need to close practically."
+            },
+            "options": [
+              {
+                "sk": "Navrhujem ďalší krok a potom si to potvrdíme písomne.",
+                "correct": true
+              },
+              {
+                "sk": "Nechajme to bez riešenia.",
+                "correct": false
+              },
+              {
+                "sk": "Každý nech si domyslí zvyšok.",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "passRequirement": "3/3",
+        "successMessage": {
+          "uk": "Готово: тема перенесена в реальну C1-комунікацію.",
+          "ru": "Готово: тема перенесена в реальную C1-коммуникацию.",
+          "en": "Done: the topic was transferred into real C1 communication."
+        }
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": {
+          "uk": "Урок завершено",
+          "ru": "Урок завершён",
+          "en": "Lesson complete"
+        },
+        "subtitle": {
+          "uk": "Ти пройшов ще один крок рівня C1.",
+          "ru": "Ты прошёл ещё один шаг уровня C1.",
+          "en": "You completed another C1 step."
+        },
+        "xpReward": 220,
+        "newWordsCount": 8,
+        "exercisesCompleted": 14,
+        "nowYouKnow": [
+          "структурувати відповідь",
+          "пояснювати нюанс",
+          "реагувати доречно"
+        ],
+        "mistakesMessage": {
+          "uk": "Повтори вправи, де плутається значення або тон.",
+          "ru": "Повтори упражнения, где путается значение или тон.",
+          "en": "Repeat exercises where meaning or tone is unclear."
+        },
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "skills": [
+          {
+            "id": "vocabulary",
+            "label": {
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
+            },
+            "weight": 0.3
+          },
+          {
+            "id": "composition",
+            "label": {
+              "uk": "структура",
+              "ru": "структура",
+              "en": "composition"
+            },
+            "weight": 0.4
+          },
+          {
+            "id": "transfer",
+            "label": {
+              "uk": "перенесення",
+              "ru": "перенос",
+              "en": "transfer"
+            },
+            "weight": 0.3
+          }
+        ],
+        "nextLesson": {
+          "id": "c1-s06-l034"
+        }
+      }
+    }
+  ]
+}

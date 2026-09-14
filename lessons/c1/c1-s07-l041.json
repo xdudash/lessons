@@ -1,0 +1,1115 @@
+{
+  "lessons": [
+    {
+      "id": "c1-s07-l041",
+      "sectionId": "c1_s07",
+      "level": "C1",
+      "title": {
+        "sk": "Informácia sa šíri",
+        "uk": "Informácia sa šíri",
+        "ru": "Informácia sa šíri",
+        "en": "Informácia sa šíri"
+      },
+      "topic": {
+        "sk": "Informácia sa šíri",
+        "uk": "Informácia sa šíri",
+        "ru": "Informácia sa šíri",
+        "en": "Informácia sa šíri"
+      },
+      "description": {
+        "sk": "Precvičíš si tému Informácia sa šíri v komplexnej komunikácii na úrovni C1.",
+        "uk": "Тренуємо тему «Informácia sa šíri»: аргументовано, точно й у реальному контексті.",
+        "ru": "описываем, как распространяются слухи, новости и непроверенная информация.",
+        "en": "Practice the C1 topic “Informácia sa šíri” in complex communication. Section: Media, news and information."
+      },
+      "order": 41,
+      "xpReward": 220,
+      "estimatedMinutes": 38,
+      "isPublished": false,
+      "intro": {
+        "sk": "Precvičíš si tému Informácia sa šíri v komplexnej komunikácii na úrovni C1.",
+        "uk": "Тренуємо тему «Informácia sa šíri»: аргументовано, точно й у реальному контексті.",
+        "ru": "описываем, как распространяются слухи, новости и непроверенная информация.",
+        "en": "Practice the C1 topic “Informácia sa šíri” in complex communication. Section: Media, news and information."
+      },
+      "completionMessage": {
+        "sk": "Výborne. Tému vieš použiť v náročnejšej komunikácii.",
+        "uk": "Добре. Тепер можеш використати тему в складнішій розмові.",
+        "ru": "Хорошо. Теперь можешь использовать тему в более сложном разговоре.",
+        "en": "Good. You can now use the topic in more complex communication."
+      },
+      "updatedAt": "2026-09-14T00:00:00Z",
+      "localization": {
+        "uiLanguages": [
+          "uk",
+          "ru",
+          "en"
+        ],
+        "targetLanguage": "sk",
+        "fallbackUiLanguage": "uk"
+      },
+      "assets": {
+        "images": {},
+        "audio": {}
+      },
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": {
+          "sk": "Informácia sa šíri",
+          "uk": "Informácia sa šíri",
+          "ru": "Informácia sa šíri",
+          "en": "Informácia sa šíri"
+        },
+        "shortDescription": {
+          "uk": "Тренуємо тему «Informácia sa šíri»: аргументовано, точно й у реальному контексті.",
+          "ru": "описываем, как распространяются слухи, новости и непроверенная информация.",
+          "en": "Practice the C1 topic “Informácia sa šíri” in complex communication. Section: Media, news and information."
+        },
+        "outcomes": [
+          {
+            "uk": "пояснити думку точніше й довше",
+            "ru": "объяснить мысль точнее и длиннее",
+            "en": "explain an idea more precisely and at greater length"
+          },
+          {
+            "uk": "використати нові C1-фрази в контексті",
+            "ru": "использовать новые C1-фразы в контексте",
+            "en": "use new C1 phrases in context"
+          },
+          {
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
+          }
+        ],
+        "newWords": [
+          "c1-s07-l041-w01",
+          "c1-s07-l041-w02",
+          "c1-s07-l041-w03",
+          "c1-s07-l041-w04",
+          "c1-s07-l041-w05",
+          "c1-s07-l041-w06",
+          "c1-s07-l041-w07",
+          "c1-s07-l041-w08"
+        ],
+        "exercisesCount": 14,
+        "reward": "+220 XP",
+        "estimatedMinutes": 38,
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "id": "t1",
+          "screenType": "theory",
+          "order": 1,
+          "title": {
+            "uk": "Фокус уроку",
+            "ru": "Фокус урока",
+            "en": "Lesson focus"
+          },
+          "body": {
+            "uk": "Тренуємо тему «Informácia sa šíri»: аргументовано, точно й у реальному контексті.",
+            "ru": "описываем, как распространяются слухи, новости и непроверенная информация.",
+            "en": "Practice the C1 topic “Informácia sa šíri” in complex communication. Section: Media, news and information."
+          },
+          "examples": [
+            {
+              "sk": "V téme Informácia sa šíri použijem výraz: šíriť sa.",
+              "translation": {
+                "uk": "У темі «Informácia sa šíri» використовую: вираз «šíriť sa» у темі «Informácia sa šíri».",
+                "ru": "В теме «Informácia sa šíri» использую: выражение «šíriť sa» в теме «Informácia sa šíri».",
+                "en": "In “Informácia sa šíri”, I use: the expression “šíriť sa” in the topic “Informácia sa šíri”."
+              }
+            },
+            {
+              "sk": "V téme Informácia sa šíri použijem výraz: fáma.",
+              "translation": {
+                "uk": "У темі «Informácia sa šíri» використовую: вираз «fáma» у темі «Informácia sa šíri».",
+                "ru": "В теме «Informácia sa šíri» использую: выражение «fáma» в теме «Informácia sa šíri».",
+                "en": "In “Informácia sa šíri”, I use: the expression “fáma” in the topic “Informácia sa šíri”."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "На C1 важливо не просто відповісти, а показати причину, умову, наслідок або нюанс.",
+            "ru": "На C1 важно не просто ответить, а показать причину, условие, последствие или нюанс.",
+            "en": "At C1, show a reason, condition, consequence or nuance."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t2",
+          "screenType": "theory",
+          "order": 2,
+          "title": {
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer model"
+          },
+          "body": {
+            "uk": "Будуй відповідь за схемою: контекст -> позиція -> аргумент -> приклад -> наступний крок.",
+            "ru": "Строй ответ по схеме: контекст -> позиция -> аргумент -> пример -> следующий шаг.",
+            "en": "Build the answer as: context -> position -> argument -> example -> next step."
+          },
+          "examples": [
+            {
+              "sk": "Z môjho pohľadu je dôležité najprv vysvetliť kontext.",
+              "translation": {
+                "uk": "З моєї точки зору важливо спочатку пояснити контекст.",
+                "ru": "С моей точки зрения важно сначала объяснить контекст.",
+                "en": "From my point of view, it is important to explain the context first."
+              }
+            },
+            {
+              "sk": "Na druhej strane treba zohľadniť aj praktické dôsledky.",
+              "translation": {
+                "uk": "З іншого боку, треба врахувати також практичні наслідки.",
+                "ru": "С другой стороны, нужно учесть и практические последствия.",
+                "en": "On the other hand, practical consequences must also be considered."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "Одна сильна відповідь має структуру, а не лише правильні слова.",
+            "ru": "Один сильный ответ имеет структуру, а не только правильные слова.",
+            "en": "A strong answer has structure, not only correct words."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t3",
+          "screenType": "theory",
+          "order": 3,
+          "title": {
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
+          },
+          "body": {
+            "uk": "У фіналі потрібно вибрати репліку, яка реально рухає ситуацію вперед.",
+            "ru": "В финале нужно выбрать реплику, которая реально двигает ситуацию дальше.",
+            "en": "In the final task, choose the reply that moves the situation forward."
+          },
+          "examples": [
+            {
+              "sk": "Navrhujem, aby sme si najprv ujasnili priority.",
+              "translation": {
+                "uk": "Пропоную спочатку прояснити пріоритети.",
+                "ru": "Предлагаю сначала прояснить приоритеты.",
+                "en": "I suggest clarifying priorities first."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "C1 = самостійна, зв'язна й доречна комунікація.",
+            "ru": "C1 = самостоятельная, связная и уместная коммуникация.",
+            "en": "C1 means independent, connected and appropriate communication."
+          },
+          "button": "До слів"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": {
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
+        },
+        "description": {
+          "uk": "Ці одиниці взяті з затвердженого C1-плану.",
+          "ru": "Эти единицы взяты из утвержденного C1-плана.",
+          "en": "These items come from the approved C1 plan."
+        },
+        "items": [
+          {
+            "wordId": "c1-s07-l041-w01",
+            "sk": "šíriť sa",
+            "uk": "вираз «šíriť sa» у темі «Informácia sa šíri»",
+            "ru": "выражение «šíriť sa» в теме «Informácia sa šíri»",
+            "en": "the expression “šíriť sa” in the topic “Informácia sa šíri”",
+            "pronunciationUk": "shirit' sa",
+            "exampleSk": "V téme Informácia sa šíri použijem výraz: šíriť sa.",
+            "exampleUk": "У темі «Informácia sa šíri» використовую: вираз «šíriť sa» у темі «Informácia sa šíri».",
+            "exampleRu": "В теме «Informácia sa šíri» использую: выражение «šíriť sa» в теме «Informácia sa šíri».",
+            "exampleEn": "In “Informácia sa šíri”, I use: the expression “šíriť sa” in the topic “Informácia sa šíri”."
+          },
+          {
+            "wordId": "c1-s07-l041-w02",
+            "sk": "fáma",
+            "uk": "вираз «fáma» у темі «Informácia sa šíri»",
+            "ru": "выражение «fáma» в теме «Informácia sa šíri»",
+            "en": "the expression “fáma” in the topic “Informácia sa šíri”",
+            "pronunciationUk": "fama",
+            "exampleSk": "V téme Informácia sa šíri použijem výraz: fáma.",
+            "exampleUk": "У темі «Informácia sa šíri» використовую: вираз «fáma» у темі «Informácia sa šíri».",
+            "exampleRu": "В теме «Informácia sa šíri» использую: выражение «fáma» в теме «Informácia sa šíri».",
+            "exampleEn": "In “Informácia sa šíri”, I use: the expression “fáma” in the topic “Informácia sa šíri”."
+          },
+          {
+            "wordId": "c1-s07-l041-w03",
+            "sk": "neoverený",
+            "uk": "вираз «neoverený» у темі «Informácia sa šíri»",
+            "ru": "выражение «neoverený» в теме «Informácia sa šíri»",
+            "en": "the expression “neoverený” in the topic “Informácia sa šíri”",
+            "pronunciationUk": "neovereny",
+            "exampleSk": "V téme Informácia sa šíri použijem výraz: neoverený.",
+            "exampleUk": "У темі «Informácia sa šíri» використовую: вираз «neoverený» у темі «Informácia sa šíri».",
+            "exampleRu": "В теме «Informácia sa šíri» использую: выражение «neoverený» в теме «Informácia sa šíri».",
+            "exampleEn": "In “Informácia sa šíri”, I use: the expression “neoverený” in the topic “Informácia sa šíri”."
+          },
+          {
+            "wordId": "c1-s07-l041-w04",
+            "sk": "dôveryhodnosť",
+            "uk": "вираз «dôveryhodnosť» у темі «Informácia sa šíri»",
+            "ru": "выражение «dôveryhodnosť» в теме «Informácia sa šíri»",
+            "en": "the expression “dôveryhodnosť” in the topic “Informácia sa šíri”",
+            "pronunciationUk": "duoveryhodnost'",
+            "exampleSk": "V téme Informácia sa šíri použijem výraz: dôveryhodnosť.",
+            "exampleUk": "У темі «Informácia sa šíri» використовую: вираз «dôveryhodnosť» у темі «Informácia sa šíri».",
+            "exampleRu": "В теме «Informácia sa šíri» использую: выражение «dôveryhodnosť» в теме «Informácia sa šíri».",
+            "exampleEn": "In “Informácia sa šíri”, I use: the expression “dôveryhodnosť” in the topic “Informácia sa šíri”."
+          },
+          {
+            "wordId": "c1-s07-l041-w05",
+            "sk": "potvrdenie",
+            "uk": "вираз «potvrdenie» у темі «Informácia sa šíri»",
+            "ru": "выражение «potvrdenie» в теме «Informácia sa šíri»",
+            "en": "the expression “potvrdenie” in the topic “Informácia sa šíri”",
+            "pronunciationUk": "potvrdenie",
+            "exampleSk": "V téme Informácia sa šíri použijem výraz: potvrdenie.",
+            "exampleUk": "У темі «Informácia sa šíri» використовую: вираз «potvrdenie» у темі «Informácia sa šíri».",
+            "exampleRu": "В теме «Informácia sa šíri» использую: выражение «potvrdenie» в теме «Informácia sa šíri».",
+            "exampleEn": "In “Informácia sa šíri”, I use: the expression “potvrdenie” in the topic “Informácia sa šíri”."
+          },
+          {
+            "wordId": "c1-s07-l041-w06",
+            "sk": "zdroj",
+            "uk": "вираз «zdroj» у темі «Informácia sa šíri»",
+            "ru": "выражение «zdroj» в теме «Informácia sa šíri»",
+            "en": "the expression “zdroj” in the topic “Informácia sa šíri”",
+            "pronunciationUk": "zdroj",
+            "exampleSk": "V téme Informácia sa šíri použijem výraz: zdroj.",
+            "exampleUk": "У темі «Informácia sa šíri» використовую: вираз «zdroj» у темі «Informácia sa šíri».",
+            "exampleRu": "В теме «Informácia sa šíri» использую: выражение «zdroj» в теме «Informácia sa šíri».",
+            "exampleEn": "In “Informácia sa šíri”, I use: the expression “zdroj” in the topic “Informácia sa šíri”."
+          },
+          {
+            "wordId": "c1-s07-l041-w07",
+            "sk": "preposlať",
+            "uk": "вираз «preposlať» у темі «Informácia sa šíri»",
+            "ru": "выражение «preposlať» в теме «Informácia sa šíri»",
+            "en": "the expression “preposlať” in the topic “Informácia sa šíri”",
+            "pronunciationUk": "preposlat'",
+            "exampleSk": "V téme Informácia sa šíri použijem výraz: preposlať.",
+            "exampleUk": "У темі «Informácia sa šíri» використовую: вираз «preposlať» у темі «Informácia sa šíri».",
+            "exampleRu": "В теме «Informácia sa šíri» использую: выражение «preposlať» в теме «Informácia sa šíri».",
+            "exampleEn": "In “Informácia sa šíri”, I use: the expression “preposlať” in the topic “Informácia sa šíri”."
+          },
+          {
+            "wordId": "c1-s07-l041-w08",
+            "sk": "zdieľať",
+            "uk": "вираз «zdieľať» у темі «Informácia sa šíri»",
+            "ru": "выражение «zdieľať» в теме «Informácia sa šíri»",
+            "en": "the expression “zdieľať” in the topic “Informácia sa šíri”",
+            "pronunciationUk": "zdiel'at'",
+            "exampleSk": "V téme Informácia sa šíri použijem výraz: zdieľať.",
+            "exampleUk": "У темі «Informácia sa šíri» використовую: вираз «zdieľať» у темі «Informácia sa šíri».",
+            "exampleRu": "В теме «Informácia sa šíri» использую: выражение «zdieľať» в теме «Informácia sa šíri».",
+            "exampleEn": "In “Informácia sa šíri”, I use: the expression “zdieľať” in the topic “Informácia sa šíri”."
+          }
+        ],
+        "button": "До практики"
+      },
+      "words": [
+        {
+          "id": "c1-s07-l041-w01",
+          "sk": "šíriť sa",
+          "uk": "вираз «šíriť sa» у темі «Informácia sa šíri»",
+          "ru": "выражение «šíriť sa» в теме «Informácia sa šíri»",
+          "en": "the expression “šíriť sa” in the topic “Informácia sa šíri”",
+          "pronunciationUk": "shirit' sa",
+          "exampleSk": "V téme Informácia sa šíri použijem výraz: šíriť sa.",
+          "exampleUk": "У темі «Informácia sa šíri» використовую: вираз «šíriť sa» у темі «Informácia sa šíri».",
+          "exampleRu": "В теме «Informácia sa šíri» использую: выражение «šíriť sa» в теме «Informácia sa šíri».",
+          "exampleEn": "In “Informácia sa šíri”, I use: the expression “šíriť sa” in the topic “Informácia sa šíri”.",
+          "level": "C1",
+          "topic": "Informácia sa šíri",
+          "tags": [
+            "c1_s07",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s07-l041-w02",
+          "sk": "fáma",
+          "uk": "вираз «fáma» у темі «Informácia sa šíri»",
+          "ru": "выражение «fáma» в теме «Informácia sa šíri»",
+          "en": "the expression “fáma” in the topic “Informácia sa šíri”",
+          "pronunciationUk": "fama",
+          "exampleSk": "V téme Informácia sa šíri použijem výraz: fáma.",
+          "exampleUk": "У темі «Informácia sa šíri» використовую: вираз «fáma» у темі «Informácia sa šíri».",
+          "exampleRu": "В теме «Informácia sa šíri» использую: выражение «fáma» в теме «Informácia sa šíri».",
+          "exampleEn": "In “Informácia sa šíri”, I use: the expression “fáma” in the topic “Informácia sa šíri”.",
+          "level": "C1",
+          "topic": "Informácia sa šíri",
+          "tags": [
+            "c1_s07",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s07-l041-w03",
+          "sk": "neoverený",
+          "uk": "вираз «neoverený» у темі «Informácia sa šíri»",
+          "ru": "выражение «neoverený» в теме «Informácia sa šíri»",
+          "en": "the expression “neoverený” in the topic “Informácia sa šíri”",
+          "pronunciationUk": "neovereny",
+          "exampleSk": "V téme Informácia sa šíri použijem výraz: neoverený.",
+          "exampleUk": "У темі «Informácia sa šíri» використовую: вираз «neoverený» у темі «Informácia sa šíri».",
+          "exampleRu": "В теме «Informácia sa šíri» использую: выражение «neoverený» в теме «Informácia sa šíri».",
+          "exampleEn": "In “Informácia sa šíri”, I use: the expression “neoverený” in the topic “Informácia sa šíri”.",
+          "level": "C1",
+          "topic": "Informácia sa šíri",
+          "tags": [
+            "c1_s07",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s07-l041-w04",
+          "sk": "dôveryhodnosť",
+          "uk": "вираз «dôveryhodnosť» у темі «Informácia sa šíri»",
+          "ru": "выражение «dôveryhodnosť» в теме «Informácia sa šíri»",
+          "en": "the expression “dôveryhodnosť” in the topic “Informácia sa šíri”",
+          "pronunciationUk": "duoveryhodnost'",
+          "exampleSk": "V téme Informácia sa šíri použijem výraz: dôveryhodnosť.",
+          "exampleUk": "У темі «Informácia sa šíri» використовую: вираз «dôveryhodnosť» у темі «Informácia sa šíri».",
+          "exampleRu": "В теме «Informácia sa šíri» использую: выражение «dôveryhodnosť» в теме «Informácia sa šíri».",
+          "exampleEn": "In “Informácia sa šíri”, I use: the expression “dôveryhodnosť” in the topic “Informácia sa šíri”.",
+          "level": "C1",
+          "topic": "Informácia sa šíri",
+          "tags": [
+            "c1_s07",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s07-l041-w05",
+          "sk": "potvrdenie",
+          "uk": "вираз «potvrdenie» у темі «Informácia sa šíri»",
+          "ru": "выражение «potvrdenie» в теме «Informácia sa šíri»",
+          "en": "the expression “potvrdenie” in the topic “Informácia sa šíri”",
+          "pronunciationUk": "potvrdenie",
+          "exampleSk": "V téme Informácia sa šíri použijem výraz: potvrdenie.",
+          "exampleUk": "У темі «Informácia sa šíri» використовую: вираз «potvrdenie» у темі «Informácia sa šíri».",
+          "exampleRu": "В теме «Informácia sa šíri» использую: выражение «potvrdenie» в теме «Informácia sa šíri».",
+          "exampleEn": "In “Informácia sa šíri”, I use: the expression “potvrdenie” in the topic “Informácia sa šíri”.",
+          "level": "C1",
+          "topic": "Informácia sa šíri",
+          "tags": [
+            "c1_s07",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s07-l041-w06",
+          "sk": "zdroj",
+          "uk": "вираз «zdroj» у темі «Informácia sa šíri»",
+          "ru": "выражение «zdroj» в теме «Informácia sa šíri»",
+          "en": "the expression “zdroj” in the topic “Informácia sa šíri”",
+          "pronunciationUk": "zdroj",
+          "exampleSk": "V téme Informácia sa šíri použijem výraz: zdroj.",
+          "exampleUk": "У темі «Informácia sa šíri» використовую: вираз «zdroj» у темі «Informácia sa šíri».",
+          "exampleRu": "В теме «Informácia sa šíri» использую: выражение «zdroj» в теме «Informácia sa šíri».",
+          "exampleEn": "In “Informácia sa šíri”, I use: the expression “zdroj” in the topic “Informácia sa šíri”.",
+          "level": "C1",
+          "topic": "Informácia sa šíri",
+          "tags": [
+            "c1_s07",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s07-l041-w07",
+          "sk": "preposlať",
+          "uk": "вираз «preposlať» у темі «Informácia sa šíri»",
+          "ru": "выражение «preposlať» в теме «Informácia sa šíri»",
+          "en": "the expression “preposlať” in the topic “Informácia sa šíri”",
+          "pronunciationUk": "preposlat'",
+          "exampleSk": "V téme Informácia sa šíri použijem výraz: preposlať.",
+          "exampleUk": "У темі «Informácia sa šíri» використовую: вираз «preposlať» у темі «Informácia sa šíri».",
+          "exampleRu": "В теме «Informácia sa šíri» использую: выражение «preposlať» в теме «Informácia sa šíri».",
+          "exampleEn": "In “Informácia sa šíri”, I use: the expression “preposlať” in the topic “Informácia sa šíri”.",
+          "level": "C1",
+          "topic": "Informácia sa šíri",
+          "tags": [
+            "c1_s07",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s07-l041-w08",
+          "sk": "zdieľať",
+          "uk": "вираз «zdieľať» у темі «Informácia sa šíri»",
+          "ru": "выражение «zdieľať» в теме «Informácia sa šíri»",
+          "en": "the expression “zdieľať” in the topic “Informácia sa šíri”",
+          "pronunciationUk": "zdiel'at'",
+          "exampleSk": "V téme Informácia sa šíri použijem výraz: zdieľať.",
+          "exampleUk": "У темі «Informácia sa šíri» використовую: вираз «zdieľať» у темі «Informácia sa šíri».",
+          "exampleRu": "В теме «Informácia sa šíri» использую: выражение «zdieľať» в теме «Informácia sa šíri».",
+          "exampleEn": "In “Informácia sa šíri”, I use: the expression “zdieľať” in the topic “Informácia sa šíri”.",
+          "level": "C1",
+          "topic": "Informácia sa šíri",
+          "tags": [
+            "c1_s07",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "c1-s07-l041-e01",
+          "lessonId": "c1-s07-l041",
+          "type": "single_choice",
+          "order": 1,
+          "question": "Що означає «šíriť sa»?",
+          "questionLocalized": {
+            "uk": "Що означає «šíriť sa»?",
+            "ru": "Что означает «šíriť sa»?",
+            "en": "What does “šíriť sa” mean?"
+          },
+          "wordIds": [
+            "c1-s07-l041-w01"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "вираз «šíriť sa» у темі «Informácia sa šíri»",
+                "ru": "выражение «šíriť sa» в теме «Informácia sa šíri»",
+                "en": "the expression “šíriť sa” in the topic “Informácia sa šíri”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "вираз «fáma» у темі «Informácia sa šíri»",
+                "ru": "выражение «fáma» в теме «Informácia sa šíri»",
+                "en": "the expression “fáma” in the topic “Informácia sa šíri”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "вираз «neoverený» у темі «Informácia sa šíri»",
+                "ru": "выражение «neoverený» в теме «Informácia sa šíri»",
+                "en": "the expression “neoverený” in the topic “Informácia sa šíri”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s07-l041-e02",
+          "lessonId": "c1-s07-l041",
+          "type": "matching",
+          "order": 2,
+          "question": "З'єднай фрази з поясненнями.",
+          "questionLocalized": {
+            "uk": "З'єднай фрази з поясненнями.",
+            "ru": "Соедини фразы с объяснениями.",
+            "en": "Match phrases with explanations."
+          },
+          "wordIds": [
+            "c1-s07-l041-w01",
+            "c1-s07-l041-w02",
+            "c1-s07-l041-w03",
+            "c1-s07-l041-w04"
+          ],
+          "pairs": [
+            {
+              "left": "šíriť sa",
+              "right": "вираз «šíriť sa» у темі «Informácia sa šíri»",
+              "rightRu": "выражение «šíriť sa» в теме «Informácia sa šíri»",
+              "rightEn": "the expression “šíriť sa” in the topic “Informácia sa šíri”"
+            },
+            {
+              "left": "fáma",
+              "right": "вираз «fáma» у темі «Informácia sa šíri»",
+              "rightRu": "выражение «fáma» в теме «Informácia sa šíri»",
+              "rightEn": "the expression “fáma” in the topic “Informácia sa šíri”"
+            },
+            {
+              "left": "neoverený",
+              "right": "вираз «neoverený» у темі «Informácia sa šíri»",
+              "rightRu": "выражение «neoverený» в теме «Informácia sa šíri»",
+              "rightEn": "the expression “neoverený” in the topic “Informácia sa šíri”"
+            },
+            {
+              "left": "dôveryhodnosť",
+              "right": "вираз «dôveryhodnosť» у темі «Informácia sa šíri»",
+              "rightRu": "выражение «dôveryhodnosť» в теме «Informácia sa šíri»",
+              "rightEn": "the expression “dôveryhodnosť” in the topic “Informácia sa šíri”"
+            }
+          ]
+        },
+        {
+          "id": "c1-s07-l041-e03",
+          "lessonId": "c1-s07-l041",
+          "type": "fill_blank",
+          "order": 3,
+          "question": "Впиши словацькою: вираз «neoverený» у темі «Informácia sa šíri».",
+          "questionLocalized": {
+            "uk": "Впиши словацькою: вираз «neoverený» у темі «Informácia sa šíri».",
+            "ru": "Впиши по-словацки: выражение «neoverený» в теме «Informácia sa šíri».",
+            "en": "Write in Slovak: the expression “neoverený” in the topic “Informácia sa šíri”."
+          },
+          "wordIds": [
+            "c1-s07-l041-w03"
+          ],
+          "sentence": "______",
+          "acceptedAnswers": [
+            "neoverený"
+          ],
+          "hint": {
+            "uk": "Початок: ne...",
+            "ru": "Начало: ne...",
+            "en": "Start: ne..."
+          }
+        },
+        {
+          "id": "c1-s07-l041-e04",
+          "lessonId": "c1-s07-l041",
+          "type": "dropdown_blank",
+          "order": 4,
+          "question": "Обери точну фразу для C1-речення.",
+          "questionLocalized": {
+            "uk": "Обери точну фразу для C1-речення.",
+            "ru": "Выбери точную фразу для C1-предложения.",
+            "en": "Choose the precise phrase for a C1 sentence."
+          },
+          "wordIds": [
+            "c1-s07-l041-w04"
+          ],
+          "sentenceParts": [
+            {
+              "text": "V tejto situácii je dôležité použiť "
+            },
+            {
+              "blankId": "blank1",
+              "options": [
+                "dôveryhodnosť",
+                "šíriť sa",
+                "fáma"
+              ],
+              "correct": "dôveryhodnosť"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "c1-s07-l041-e05",
+          "lessonId": "c1-s07-l041",
+          "type": "sentence_builder",
+          "order": 5,
+          "question": "Склади природну словацьку репліку.",
+          "questionLocalized": {
+            "uk": "Склади природну словацьку репліку.",
+            "ru": "Собери естественную словацкую реплику.",
+            "en": "Build a natural Slovak reply."
+          },
+          "wordIds": [
+            "c1-s07-l041-w05"
+          ],
+          "tokens": [
+            "Rozumiem",
+            "situácii,",
+            "ale",
+            "potrebujem",
+            "ju",
+            "ešte",
+            "upresniť."
+          ],
+          "correctSentence": "Rozumiem situácii, ale potrebujem ju ešte upresniť."
+        },
+        {
+          "id": "c1-s07-l041-e06",
+          "lessonId": "c1-s07-l041",
+          "type": "multiple_select",
+          "order": 6,
+          "question": "Обери C1-репліки з природним тоном.",
+          "questionLocalized": {
+            "uk": "Обери C1-репліки з природним тоном.",
+            "ru": "Выбери C1-реплики с естественным тоном.",
+            "en": "Select C1 replies with a natural tone."
+          },
+          "wordIds": [
+            "c1-s07-l041-w01",
+            "c1-s07-l041-w06"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Rozumiem, ale potrebujem to presnejšie vysvetliť.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "To je úplne mimo a nemá zmysel hovoriť.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Z môjho pohľadu je dôležitý aj kontext.",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "id": "c1-s07-l041-e07",
+          "lessonId": "c1-s07-l041",
+          "type": "reading_comprehension",
+          "order": 7,
+          "question": "Прочитай текст і вибери головну думку.",
+          "questionLocalized": {
+            "uk": "Прочитай текст і вибери головну думку.",
+            "ru": "Прочитай текст и выбери главную мысль.",
+            "en": "Read the text and choose the main idea."
+          },
+          "wordIds": [
+            "c1-s07-l041-w06",
+            "c1-s07-l041-w07",
+            "c1-s07-l041-w08"
+          ],
+          "text": "Téma Informácia sa šíri si vyžaduje presnosť. Nestačí poznať slová; treba reagovať podľa kontextu, vysvetliť dôvod a navrhnúť ďalší krok.",
+          "questions": [
+            {
+              "prompt": {
+                "uk": "Що є головною думкою?",
+                "ru": "Что является главной мыслью?",
+                "en": "What is the main idea?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "Treba reagovať presne podľa kontextu.",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "Stačí opakovať jedno slovo.",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "Najlepšie je nereagovať.",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c1-s07-l041-e08",
+          "lessonId": "c1-s07-l041",
+          "type": "dialogue_choose_reply",
+          "order": 8,
+          "question": "Обери найкращу відповідь у діалозі.",
+          "questionLocalized": {
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
+          },
+          "wordIds": [
+            "c1-s07-l041-w07"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Ako by si to vysvetlil?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Najprv zhrniem situáciu a potom poviem svoj návrh.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Nepoviem nič, lebo je to ťažké.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Odpoviem jedným náhodným slovom.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s07-l041-e09",
+          "lessonId": "c1-s07-l041",
+          "type": "meaning_in_context",
+          "order": 9,
+          "question": "Що означає «fáma» у контексті?",
+          "questionLocalized": {
+            "uk": "Що означає «fáma» у контексті?",
+            "ru": "Что означает «fáma» в контексте?",
+            "en": "What does “fáma” mean in context?"
+          },
+          "wordIds": [
+            "c1-s07-l041-w02"
+          ],
+          "context": {
+            "sk": "Rozhovor je citlivý, preto si najprv overím význam a tón."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "вираз «fáma» у темі «Informácia sa šíri»",
+                "ru": "выражение «fáma» в теме «Informácia sa šíri»",
+                "en": "the expression “fáma” in the topic “Informácia sa šíri”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "вираз «potvrdenie» у темі «Informácia sa šíri»",
+                "ru": "выражение «potvrdenie» в теме «Informácia sa šíri»",
+                "en": "the expression “potvrdenie” in the topic “Informácia sa šíri”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "вираз «zdieľať» у темі «Informácia sa šíri»",
+                "ru": "выражение «zdieľať» в теме «Informácia sa šíri»",
+                "en": "the expression “zdieľať” in the topic “Informácia sa šíri”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s07-l041-e10",
+          "lessonId": "c1-s07-l041",
+          "type": "natural_phrase",
+          "order": 10,
+          "question": "Що звучить найприродніше?",
+          "questionLocalized": {
+            "uk": "Що звучить найприродніше?",
+            "ru": "Что звучит естественнее всего?",
+            "en": "What sounds most natural?"
+          },
+          "wordIds": [
+            "c1-s07-l041-w08"
+          ],
+          "situation": {
+            "uk": "Потрібно відповісти точно, але без різкого тону.",
+            "ru": "Нужно ответить точно, но без резкого тона.",
+            "en": "You need to answer precisely but without a sharp tone."
+          },
+          "options": [
+            {
+              "id": "a",
+              "sk": "Chápem tvoj pohľad, ale doplnil by som ešte jednu vec.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Ty ničomu nerozumieš.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Áno nie možno včera.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s07-l041-e11",
+          "lessonId": "c1-s07-l041",
+          "type": "reverse_translation",
+          "order": 11,
+          "question": "Обери словацький варіант для: вираз «potvrdenie» у темі «Informácia sa šíri».",
+          "questionLocalized": {
+            "uk": "Обери словацький варіант для: вираз «potvrdenie» у темі «Informácia sa šíri».",
+            "ru": "Выбери словацкий вариант для: выражение «potvrdenie» в теме «Informácia sa šíri».",
+            "en": "Choose the Slovak item for: the expression “potvrdenie” in the topic “Informácia sa šíri”."
+          },
+          "wordIds": [
+            "c1-s07-l041-w05"
+          ],
+          "options": [
+            "potvrdenie",
+            "neoverený",
+            "šíriť sa"
+          ],
+          "correctAnswer": "potvrdenie"
+        },
+        {
+          "id": "c1-s07-l041-e12",
+          "lessonId": "c1-s07-l041",
+          "type": "sentence_order",
+          "order": 12,
+          "question": "Віднови логічний порядок C1-відповіді.",
+          "questionLocalized": {
+            "uk": "Віднови логічний порядок C1-відповіді.",
+            "ru": "Восстанови логический порядок C1-ответа.",
+            "en": "Restore the logical order of a C1 answer."
+          },
+          "wordIds": [
+            "c1-s07-l041-w01",
+            "c1-s07-l041-w02"
+          ],
+          "items": [
+            "Najprv treba pomenovať kontext.",
+            "Potom možno doplniť presnejší výraz.",
+            "Napokon z toho vyplýva konkrétny záver."
+          ],
+          "correctOrder": [
+            "Najprv treba pomenovať kontext.",
+            "Potom možno doplniť presnejší výraz.",
+            "Napokon z toho vyplýva konkrétny záver."
+          ]
+        },
+        {
+          "id": "c1-s07-l041-e13",
+          "lessonId": "c1-s07-l041",
+          "type": "dialogue_choose_reply",
+          "order": 13,
+          "question": "Обери відповідь з точним регістром.",
+          "questionLocalized": {
+            "uk": "Обери відповідь з точним регістром.",
+            "ru": "Выбери ответ с точным регистром.",
+            "en": "Choose the reply with the right register."
+          },
+          "wordIds": [
+            "c1-s07-l041-w03",
+            "c1-s07-l041-w04"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Potrebujem to povedať odborne, ale nie zbytočne tvrdo."
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Rozumiem. Preformuloval by som to vecne a zároveň opatrne.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Napíš tam čokoľvek, hlavne rýchlo.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Daj tam najtvrdšiu možnú formuláciu.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s07-l041-e14",
+          "lessonId": "c1-s07-l041",
+          "type": "multiple_choice_translation",
+          "order": 14,
+          "question": "Що відповідає словацькому «zdieľať»?",
+          "questionLocalized": {
+            "uk": "Що відповідає словацькому «zdieľať»?",
+            "ru": "Что соответствует словацкому «zdieľať»?",
+            "en": "What matches the Slovak “zdieľať”?"
+          },
+          "wordIds": [
+            "c1-s07-l041-w08"
+          ],
+          "options": [
+            "вираз «zdieľať» у темі «Informácia sa šíri»",
+            "вираз «fáma» у темі «Informácia sa šíri»",
+            "вираз «neoverený» у темі «Informácia sa šíri»"
+          ],
+          "correctAnswer": "вираз «zdieľať» у темі «Informácia sa šíri»"
+        }
+      ],
+      "finalSituation": {
+        "id": "final-situation",
+        "type": "interactive_scenario",
+        "title": {
+          "uk": "Informácia sa šíri: реальна ситуація",
+          "ru": "Informácia sa šíri: реальная ситуация",
+          "en": "Informácia sa šíri: real situation"
+        },
+        "description": {
+          "uk": "Обери репліки, які звучать природно, точно й доречно на рівні C1.",
+          "ru": "Выбери реплики, которые звучат естественно, точно и уместно на уровне C1.",
+          "en": "Choose replies that sound natural, precise and appropriate at C1 level."
+        },
+        "steps": [
+          {
+            "id": "f1",
+            "prompt": {
+              "uk": "Потрібно почати відповідь без різкості.",
+              "ru": "Нужно начать ответ без резкости.",
+              "en": "You need to start without sounding harsh."
+            },
+            "options": [
+              {
+                "sk": "Rozumiem, skúsim to najprv zhrnúť vlastnými slovami.",
+                "correct": true
+              },
+              {
+                "sk": "Nemáš pravdu a viac sa o tom nebavme.",
+                "correct": false
+              },
+              {
+                "sk": "Neviem a nechcem reagovať.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "prompt": {
+              "uk": "Потрібно додати аргумент.",
+              "ru": "Нужно добавить аргумент.",
+              "en": "You need to add an argument."
+            },
+            "options": [
+              {
+                "sk": "Dôvod je podľa mňa v tom, že situácia má viac okolností.",
+                "correct": true
+              },
+              {
+                "sk": "Pretože áno.",
+                "correct": false
+              },
+              {
+                "sk": "To nesúvisí s ničím.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f3",
+            "prompt": {
+              "uk": "Потрібно завершити практично.",
+              "ru": "Нужно завершить практически.",
+              "en": "You need to close practically."
+            },
+            "options": [
+              {
+                "sk": "Navrhujem ďalší krok a potom si to potvrdíme písomne.",
+                "correct": true
+              },
+              {
+                "sk": "Nechajme to bez riešenia.",
+                "correct": false
+              },
+              {
+                "sk": "Každý nech si domyslí zvyšok.",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "passRequirement": "3/3",
+        "successMessage": {
+          "uk": "Готово: тема перенесена в реальну C1-комунікацію.",
+          "ru": "Готово: тема перенесена в реальную C1-коммуникацию.",
+          "en": "Done: the topic was transferred into real C1 communication."
+        }
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": {
+          "uk": "Урок завершено",
+          "ru": "Урок завершён",
+          "en": "Lesson complete"
+        },
+        "subtitle": {
+          "uk": "Ти пройшов ще один крок рівня C1.",
+          "ru": "Ты прошёл ещё один шаг уровня C1.",
+          "en": "You completed another C1 step."
+        },
+        "xpReward": 220,
+        "newWordsCount": 8,
+        "exercisesCompleted": 14,
+        "nowYouKnow": [
+          "структурувати відповідь",
+          "пояснювати нюанс",
+          "реагувати доречно"
+        ],
+        "mistakesMessage": {
+          "uk": "Повтори вправи, де плутається значення або тон.",
+          "ru": "Повтори упражнения, где путается значение или тон.",
+          "en": "Repeat exercises where meaning or tone is unclear."
+        },
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "skills": [
+          {
+            "id": "vocabulary",
+            "label": {
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
+            },
+            "weight": 0.3
+          },
+          {
+            "id": "composition",
+            "label": {
+              "uk": "структура",
+              "ru": "структура",
+              "en": "composition"
+            },
+            "weight": 0.4
+          },
+          {
+            "id": "transfer",
+            "label": {
+              "uk": "перенесення",
+              "ru": "перенос",
+              "en": "transfer"
+            },
+            "weight": 0.3
+          }
+        ],
+        "nextLesson": {
+          "id": "c1-s07-l042"
+        }
+      }
+    }
+  ]
+}

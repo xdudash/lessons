@@ -1,0 +1,1115 @@
+{
+  "lessons": [
+    {
+      "id": "c1-s11-l066",
+      "sectionId": "c1_s11",
+      "level": "C1",
+      "title": {
+        "sk": "Ako by sa to dalo zlepšiť?",
+        "uk": "Ako by sa to dalo zlepšiť?",
+        "ru": "Ako by sa to dalo zlepšiť?",
+        "en": "Ako by sa to dalo zlepšiť?"
+      },
+      "topic": {
+        "sk": "Ako by sa to dalo zlepšiť?",
+        "uk": "Ako by sa to dalo zlepšiť?",
+        "ru": "Ako by sa to dalo zlepšiť?",
+        "en": "Ako by sa to dalo zlepšiť?"
+      },
+      "description": {
+        "sk": "Precvičíš si tému Ako by sa to dalo zlepšiť? v komplexnej komunikácii na úrovni C1.",
+        "uk": "Тренуємо тему «Ako by sa to dalo zlepšiť?»: аргументовано, точно й у реальному контексті.",
+        "ru": "предлагаем реалистичные экологические изменения и оцениваем компромиссы.",
+        "en": "Practice the C1 topic “Ako by sa to dalo zlepšiť?” in complex communication. Section: Environment and modern life."
+      },
+      "order": 66,
+      "xpReward": 220,
+      "estimatedMinutes": 38,
+      "isPublished": false,
+      "intro": {
+        "sk": "Precvičíš si tému Ako by sa to dalo zlepšiť? v komplexnej komunikácii na úrovni C1.",
+        "uk": "Тренуємо тему «Ako by sa to dalo zlepšiť?»: аргументовано, точно й у реальному контексті.",
+        "ru": "предлагаем реалистичные экологические изменения и оцениваем компромиссы.",
+        "en": "Practice the C1 topic “Ako by sa to dalo zlepšiť?” in complex communication. Section: Environment and modern life."
+      },
+      "completionMessage": {
+        "sk": "Výborne. Tému vieš použiť v náročnejšej komunikácii.",
+        "uk": "Добре. Тепер можеш використати тему в складнішій розмові.",
+        "ru": "Хорошо. Теперь можешь использовать тему в более сложном разговоре.",
+        "en": "Good. You can now use the topic in more complex communication."
+      },
+      "updatedAt": "2026-09-14T00:00:00Z",
+      "localization": {
+        "uiLanguages": [
+          "uk",
+          "ru",
+          "en"
+        ],
+        "targetLanguage": "sk",
+        "fallbackUiLanguage": "uk"
+      },
+      "assets": {
+        "images": {},
+        "audio": {}
+      },
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": {
+          "sk": "Ako by sa to dalo zlepšiť?",
+          "uk": "Ako by sa to dalo zlepšiť?",
+          "ru": "Ako by sa to dalo zlepšiť?",
+          "en": "Ako by sa to dalo zlepšiť?"
+        },
+        "shortDescription": {
+          "uk": "Тренуємо тему «Ako by sa to dalo zlepšiť?»: аргументовано, точно й у реальному контексті.",
+          "ru": "предлагаем реалистичные экологические изменения и оцениваем компромиссы.",
+          "en": "Practice the C1 topic “Ako by sa to dalo zlepšiť?” in complex communication. Section: Environment and modern life."
+        },
+        "outcomes": [
+          {
+            "uk": "пояснити думку точніше й довше",
+            "ru": "объяснить мысль точнее и длиннее",
+            "en": "explain an idea more precisely and at greater length"
+          },
+          {
+            "uk": "використати нові C1-фрази в контексті",
+            "ru": "использовать новые C1-фразы в контексте",
+            "en": "use new C1 phrases in context"
+          },
+          {
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
+          }
+        ],
+        "newWords": [
+          "c1-s11-l066-w01",
+          "c1-s11-l066-w02",
+          "c1-s11-l066-w03",
+          "c1-s11-l066-w04",
+          "c1-s11-l066-w05",
+          "c1-s11-l066-w06",
+          "c1-s11-l066-w07",
+          "c1-s11-l066-w08"
+        ],
+        "exercisesCount": 14,
+        "reward": "+220 XP",
+        "estimatedMinutes": 38,
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "id": "t1",
+          "screenType": "theory",
+          "order": 1,
+          "title": {
+            "uk": "Фокус уроку",
+            "ru": "Фокус урока",
+            "en": "Lesson focus"
+          },
+          "body": {
+            "uk": "Тренуємо тему «Ako by sa to dalo zlepšiť?»: аргументовано, точно й у реальному контексті.",
+            "ru": "предлагаем реалистичные экологические изменения и оцениваем компромиссы.",
+            "en": "Practice the C1 topic “Ako by sa to dalo zlepšiť?” in complex communication. Section: Environment and modern life."
+          },
+          "examples": [
+            {
+              "sk": "V téme Ako by sa to dalo zlepšiť? použijem výraz: zlepšiť.",
+              "translation": {
+                "uk": "У темі «Ako by sa to dalo zlepšiť?» використовую: вираз «zlepšiť» у темі «Ako by sa to dalo zlepšiť?».",
+                "ru": "В теме «Ako by sa to dalo zlepšiť?» использую: выражение «zlepšiť» в теме «Ako by sa to dalo zlepšiť?».",
+                "en": "In “Ako by sa to dalo zlepšiť?”, I use: the expression “zlepšiť” in the topic “Ako by sa to dalo zlepšiť?”."
+              }
+            },
+            {
+              "sk": "V téme Ako by sa to dalo zlepšiť? použijem výraz: opatrenie.",
+              "translation": {
+                "uk": "У темі «Ako by sa to dalo zlepšiť?» використовую: вираз «opatrenie» у темі «Ako by sa to dalo zlepšiť?».",
+                "ru": "В теме «Ako by sa to dalo zlepšiť?» использую: выражение «opatrenie» в теме «Ako by sa to dalo zlepšiť?».",
+                "en": "In “Ako by sa to dalo zlepšiť?”, I use: the expression “opatrenie” in the topic “Ako by sa to dalo zlepšiť?”."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "На C1 важливо не просто відповісти, а показати причину, умову, наслідок або нюанс.",
+            "ru": "На C1 важно не просто ответить, а показать причину, условие, последствие или нюанс.",
+            "en": "At C1, show a reason, condition, consequence or nuance."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t2",
+          "screenType": "theory",
+          "order": 2,
+          "title": {
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer model"
+          },
+          "body": {
+            "uk": "Будуй відповідь за схемою: контекст -> позиція -> аргумент -> приклад -> наступний крок.",
+            "ru": "Строй ответ по схеме: контекст -> позиция -> аргумент -> пример -> следующий шаг.",
+            "en": "Build the answer as: context -> position -> argument -> example -> next step."
+          },
+          "examples": [
+            {
+              "sk": "Z môjho pohľadu je dôležité najprv vysvetliť kontext.",
+              "translation": {
+                "uk": "З моєї точки зору важливо спочатку пояснити контекст.",
+                "ru": "С моей точки зрения важно сначала объяснить контекст.",
+                "en": "From my point of view, it is important to explain the context first."
+              }
+            },
+            {
+              "sk": "Na druhej strane treba zohľadniť aj praktické dôsledky.",
+              "translation": {
+                "uk": "З іншого боку, треба врахувати також практичні наслідки.",
+                "ru": "С другой стороны, нужно учесть и практические последствия.",
+                "en": "On the other hand, practical consequences must also be considered."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "Одна сильна відповідь має структуру, а не лише правильні слова.",
+            "ru": "Один сильный ответ имеет структуру, а не только правильные слова.",
+            "en": "A strong answer has structure, not only correct words."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t3",
+          "screenType": "theory",
+          "order": 3,
+          "title": {
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
+          },
+          "body": {
+            "uk": "У фіналі потрібно вибрати репліку, яка реально рухає ситуацію вперед.",
+            "ru": "В финале нужно выбрать реплику, которая реально двигает ситуацию дальше.",
+            "en": "In the final task, choose the reply that moves the situation forward."
+          },
+          "examples": [
+            {
+              "sk": "Navrhujem, aby sme si najprv ujasnili priority.",
+              "translation": {
+                "uk": "Пропоную спочатку прояснити пріоритети.",
+                "ru": "Предлагаю сначала прояснить приоритеты.",
+                "en": "I suggest clarifying priorities first."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "C1 = самостійна, зв'язна й доречна комунікація.",
+            "ru": "C1 = самостоятельная, связная и уместная коммуникация.",
+            "en": "C1 means independent, connected and appropriate communication."
+          },
+          "button": "До слів"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": {
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
+        },
+        "description": {
+          "uk": "Ці одиниці взяті з затвердженого C1-плану.",
+          "ru": "Эти единицы взяты из утвержденного C1-плана.",
+          "en": "These items come from the approved C1 plan."
+        },
+        "items": [
+          {
+            "wordId": "c1-s11-l066-w01",
+            "sk": "zlepšiť",
+            "uk": "вираз «zlepšiť» у темі «Ako by sa to dalo zlepšiť?»",
+            "ru": "выражение «zlepšiť» в теме «Ako by sa to dalo zlepšiť?»",
+            "en": "the expression “zlepšiť” in the topic “Ako by sa to dalo zlepšiť?”",
+            "pronunciationUk": "zlepshit'",
+            "exampleSk": "V téme Ako by sa to dalo zlepšiť? použijem výraz: zlepšiť.",
+            "exampleUk": "У темі «Ako by sa to dalo zlepšiť?» використовую: вираз «zlepšiť» у темі «Ako by sa to dalo zlepšiť?».",
+            "exampleRu": "В теме «Ako by sa to dalo zlepšiť?» использую: выражение «zlepšiť» в теме «Ako by sa to dalo zlepšiť?».",
+            "exampleEn": "In “Ako by sa to dalo zlepšiť?”, I use: the expression “zlepšiť” in the topic “Ako by sa to dalo zlepšiť?”."
+          },
+          {
+            "wordId": "c1-s11-l066-w02",
+            "sk": "opatrenie",
+            "uk": "вираз «opatrenie» у темі «Ako by sa to dalo zlepšiť?»",
+            "ru": "выражение «opatrenie» в теме «Ako by sa to dalo zlepšiť?»",
+            "en": "the expression “opatrenie” in the topic “Ako by sa to dalo zlepšiť?”",
+            "pronunciationUk": "opatrenie",
+            "exampleSk": "V téme Ako by sa to dalo zlepšiť? použijem výraz: opatrenie.",
+            "exampleUk": "У темі «Ako by sa to dalo zlepšiť?» використовую: вираз «opatrenie» у темі «Ako by sa to dalo zlepšiť?».",
+            "exampleRu": "В теме «Ako by sa to dalo zlepšiť?» использую: выражение «opatrenie» в теме «Ako by sa to dalo zlepšiť?».",
+            "exampleEn": "In “Ako by sa to dalo zlepšiť?”, I use: the expression “opatrenie” in the topic “Ako by sa to dalo zlepšiť?”."
+          },
+          {
+            "wordId": "c1-s11-l066-w03",
+            "sk": "kompromis",
+            "uk": "вираз «kompromis» у темі «Ako by sa to dalo zlepšiť?»",
+            "ru": "выражение «kompromis» в теме «Ako by sa to dalo zlepšiť?»",
+            "en": "the expression “kompromis” in the topic “Ako by sa to dalo zlepšiť?”",
+            "pronunciationUk": "kompromis",
+            "exampleSk": "V téme Ako by sa to dalo zlepšiť? použijem výraz: kompromis.",
+            "exampleUk": "У темі «Ako by sa to dalo zlepšiť?» використовую: вираз «kompromis» у темі «Ako by sa to dalo zlepšiť?».",
+            "exampleRu": "В теме «Ako by sa to dalo zlepšiť?» использую: выражение «kompromis» в теме «Ako by sa to dalo zlepšiť?».",
+            "exampleEn": "In “Ako by sa to dalo zlepšiť?”, I use: the expression “kompromis” in the topic “Ako by sa to dalo zlepšiť?”."
+          },
+          {
+            "wordId": "c1-s11-l066-w04",
+            "sk": "uskutočniť",
+            "uk": "вираз «uskutočniť» у темі «Ako by sa to dalo zlepšiť?»",
+            "ru": "выражение «uskutočniť» в теме «Ako by sa to dalo zlepšiť?»",
+            "en": "the expression “uskutočniť” in the topic “Ako by sa to dalo zlepšiť?”",
+            "pronunciationUk": "uskutochnit'",
+            "exampleSk": "V téme Ako by sa to dalo zlepšiť? použijem výraz: uskutočniť.",
+            "exampleUk": "У темі «Ako by sa to dalo zlepšiť?» використовую: вираз «uskutočniť» у темі «Ako by sa to dalo zlepšiť?».",
+            "exampleRu": "В теме «Ako by sa to dalo zlepšiť?» использую: выражение «uskutočniť» в теме «Ako by sa to dalo zlepšiť?».",
+            "exampleEn": "In “Ako by sa to dalo zlepšiť?”, I use: the expression “uskutočniť” in the topic “Ako by sa to dalo zlepšiť?”."
+          },
+          {
+            "wordId": "c1-s11-l066-w05",
+            "sk": "zaviesť",
+            "uk": "вираз «zaviesť» у темі «Ako by sa to dalo zlepšiť?»",
+            "ru": "выражение «zaviesť» в теме «Ako by sa to dalo zlepšiť?»",
+            "en": "the expression “zaviesť” in the topic “Ako by sa to dalo zlepšiť?”",
+            "pronunciationUk": "zaviest'",
+            "exampleSk": "V téme Ako by sa to dalo zlepšiť? použijem výraz: zaviesť.",
+            "exampleUk": "У темі «Ako by sa to dalo zlepšiť?» використовую: вираз «zaviesť» у темі «Ako by sa to dalo zlepšiť?».",
+            "exampleRu": "В теме «Ako by sa to dalo zlepšiť?» использую: выражение «zaviesť» в теме «Ako by sa to dalo zlepšiť?».",
+            "exampleEn": "In “Ako by sa to dalo zlepšiť?”, I use: the expression “zaviesť” in the topic “Ako by sa to dalo zlepšiť?”."
+          },
+          {
+            "wordId": "c1-s11-l066-w06",
+            "sk": "obmedziť",
+            "uk": "вираз «obmedziť» у темі «Ako by sa to dalo zlepšiť?»",
+            "ru": "выражение «obmedziť» в теме «Ako by sa to dalo zlepšiť?»",
+            "en": "the expression “obmedziť” in the topic “Ako by sa to dalo zlepšiť?”",
+            "pronunciationUk": "obmedzit'",
+            "exampleSk": "V téme Ako by sa to dalo zlepšiť? použijem výraz: obmedziť.",
+            "exampleUk": "У темі «Ako by sa to dalo zlepšiť?» використовую: вираз «obmedziť» у темі «Ako by sa to dalo zlepšiť?».",
+            "exampleRu": "В теме «Ako by sa to dalo zlepšiť?» использую: выражение «obmedziť» в теме «Ako by sa to dalo zlepšiť?».",
+            "exampleEn": "In “Ako by sa to dalo zlepšiť?”, I use: the expression “obmedziť” in the topic “Ako by sa to dalo zlepšiť?”."
+          },
+          {
+            "wordId": "c1-s11-l066-w07",
+            "sk": "prínos",
+            "uk": "вираз «prínos» у темі «Ako by sa to dalo zlepšiť?»",
+            "ru": "выражение «prínos» в теме «Ako by sa to dalo zlepšiť?»",
+            "en": "the expression “prínos” in the topic “Ako by sa to dalo zlepšiť?”",
+            "pronunciationUk": "prinos",
+            "exampleSk": "V téme Ako by sa to dalo zlepšiť? použijem výraz: prínos.",
+            "exampleUk": "У темі «Ako by sa to dalo zlepšiť?» використовую: вираз «prínos» у темі «Ako by sa to dalo zlepšiť?».",
+            "exampleRu": "В теме «Ako by sa to dalo zlepšiť?» использую: выражение «prínos» в теме «Ako by sa to dalo zlepšiť?».",
+            "exampleEn": "In “Ako by sa to dalo zlepšiť?”, I use: the expression “prínos” in the topic “Ako by sa to dalo zlepšiť?”."
+          },
+          {
+            "wordId": "c1-s11-l066-w08",
+            "sk": "náklad",
+            "uk": "вираз «náklad» у темі «Ako by sa to dalo zlepšiť?»",
+            "ru": "выражение «náklad» в теме «Ako by sa to dalo zlepšiť?»",
+            "en": "the expression “náklad” in the topic “Ako by sa to dalo zlepšiť?”",
+            "pronunciationUk": "naklad",
+            "exampleSk": "V téme Ako by sa to dalo zlepšiť? použijem výraz: náklad.",
+            "exampleUk": "У темі «Ako by sa to dalo zlepšiť?» використовую: вираз «náklad» у темі «Ako by sa to dalo zlepšiť?».",
+            "exampleRu": "В теме «Ako by sa to dalo zlepšiť?» использую: выражение «náklad» в теме «Ako by sa to dalo zlepšiť?».",
+            "exampleEn": "In “Ako by sa to dalo zlepšiť?”, I use: the expression “náklad” in the topic “Ako by sa to dalo zlepšiť?”."
+          }
+        ],
+        "button": "До практики"
+      },
+      "words": [
+        {
+          "id": "c1-s11-l066-w01",
+          "sk": "zlepšiť",
+          "uk": "вираз «zlepšiť» у темі «Ako by sa to dalo zlepšiť?»",
+          "ru": "выражение «zlepšiť» в теме «Ako by sa to dalo zlepšiť?»",
+          "en": "the expression “zlepšiť” in the topic “Ako by sa to dalo zlepšiť?”",
+          "pronunciationUk": "zlepshit'",
+          "exampleSk": "V téme Ako by sa to dalo zlepšiť? použijem výraz: zlepšiť.",
+          "exampleUk": "У темі «Ako by sa to dalo zlepšiť?» використовую: вираз «zlepšiť» у темі «Ako by sa to dalo zlepšiť?».",
+          "exampleRu": "В теме «Ako by sa to dalo zlepšiť?» использую: выражение «zlepšiť» в теме «Ako by sa to dalo zlepšiť?».",
+          "exampleEn": "In “Ako by sa to dalo zlepšiť?”, I use: the expression “zlepšiť” in the topic “Ako by sa to dalo zlepšiť?”.",
+          "level": "C1",
+          "topic": "Ako by sa to dalo zlepšiť?",
+          "tags": [
+            "c1_s11",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s11-l066-w02",
+          "sk": "opatrenie",
+          "uk": "вираз «opatrenie» у темі «Ako by sa to dalo zlepšiť?»",
+          "ru": "выражение «opatrenie» в теме «Ako by sa to dalo zlepšiť?»",
+          "en": "the expression “opatrenie” in the topic “Ako by sa to dalo zlepšiť?”",
+          "pronunciationUk": "opatrenie",
+          "exampleSk": "V téme Ako by sa to dalo zlepšiť? použijem výraz: opatrenie.",
+          "exampleUk": "У темі «Ako by sa to dalo zlepšiť?» використовую: вираз «opatrenie» у темі «Ako by sa to dalo zlepšiť?».",
+          "exampleRu": "В теме «Ako by sa to dalo zlepšiť?» использую: выражение «opatrenie» в теме «Ako by sa to dalo zlepšiť?».",
+          "exampleEn": "In “Ako by sa to dalo zlepšiť?”, I use: the expression “opatrenie” in the topic “Ako by sa to dalo zlepšiť?”.",
+          "level": "C1",
+          "topic": "Ako by sa to dalo zlepšiť?",
+          "tags": [
+            "c1_s11",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s11-l066-w03",
+          "sk": "kompromis",
+          "uk": "вираз «kompromis» у темі «Ako by sa to dalo zlepšiť?»",
+          "ru": "выражение «kompromis» в теме «Ako by sa to dalo zlepšiť?»",
+          "en": "the expression “kompromis” in the topic “Ako by sa to dalo zlepšiť?”",
+          "pronunciationUk": "kompromis",
+          "exampleSk": "V téme Ako by sa to dalo zlepšiť? použijem výraz: kompromis.",
+          "exampleUk": "У темі «Ako by sa to dalo zlepšiť?» використовую: вираз «kompromis» у темі «Ako by sa to dalo zlepšiť?».",
+          "exampleRu": "В теме «Ako by sa to dalo zlepšiť?» использую: выражение «kompromis» в теме «Ako by sa to dalo zlepšiť?».",
+          "exampleEn": "In “Ako by sa to dalo zlepšiť?”, I use: the expression “kompromis” in the topic “Ako by sa to dalo zlepšiť?”.",
+          "level": "C1",
+          "topic": "Ako by sa to dalo zlepšiť?",
+          "tags": [
+            "c1_s11",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s11-l066-w04",
+          "sk": "uskutočniť",
+          "uk": "вираз «uskutočniť» у темі «Ako by sa to dalo zlepšiť?»",
+          "ru": "выражение «uskutočniť» в теме «Ako by sa to dalo zlepšiť?»",
+          "en": "the expression “uskutočniť” in the topic “Ako by sa to dalo zlepšiť?”",
+          "pronunciationUk": "uskutochnit'",
+          "exampleSk": "V téme Ako by sa to dalo zlepšiť? použijem výraz: uskutočniť.",
+          "exampleUk": "У темі «Ako by sa to dalo zlepšiť?» використовую: вираз «uskutočniť» у темі «Ako by sa to dalo zlepšiť?».",
+          "exampleRu": "В теме «Ako by sa to dalo zlepšiť?» использую: выражение «uskutočniť» в теме «Ako by sa to dalo zlepšiť?».",
+          "exampleEn": "In “Ako by sa to dalo zlepšiť?”, I use: the expression “uskutočniť” in the topic “Ako by sa to dalo zlepšiť?”.",
+          "level": "C1",
+          "topic": "Ako by sa to dalo zlepšiť?",
+          "tags": [
+            "c1_s11",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s11-l066-w05",
+          "sk": "zaviesť",
+          "uk": "вираз «zaviesť» у темі «Ako by sa to dalo zlepšiť?»",
+          "ru": "выражение «zaviesť» в теме «Ako by sa to dalo zlepšiť?»",
+          "en": "the expression “zaviesť” in the topic “Ako by sa to dalo zlepšiť?”",
+          "pronunciationUk": "zaviest'",
+          "exampleSk": "V téme Ako by sa to dalo zlepšiť? použijem výraz: zaviesť.",
+          "exampleUk": "У темі «Ako by sa to dalo zlepšiť?» використовую: вираз «zaviesť» у темі «Ako by sa to dalo zlepšiť?».",
+          "exampleRu": "В теме «Ako by sa to dalo zlepšiť?» использую: выражение «zaviesť» в теме «Ako by sa to dalo zlepšiť?».",
+          "exampleEn": "In “Ako by sa to dalo zlepšiť?”, I use: the expression “zaviesť” in the topic “Ako by sa to dalo zlepšiť?”.",
+          "level": "C1",
+          "topic": "Ako by sa to dalo zlepšiť?",
+          "tags": [
+            "c1_s11",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s11-l066-w06",
+          "sk": "obmedziť",
+          "uk": "вираз «obmedziť» у темі «Ako by sa to dalo zlepšiť?»",
+          "ru": "выражение «obmedziť» в теме «Ako by sa to dalo zlepšiť?»",
+          "en": "the expression “obmedziť” in the topic “Ako by sa to dalo zlepšiť?”",
+          "pronunciationUk": "obmedzit'",
+          "exampleSk": "V téme Ako by sa to dalo zlepšiť? použijem výraz: obmedziť.",
+          "exampleUk": "У темі «Ako by sa to dalo zlepšiť?» використовую: вираз «obmedziť» у темі «Ako by sa to dalo zlepšiť?».",
+          "exampleRu": "В теме «Ako by sa to dalo zlepšiť?» использую: выражение «obmedziť» в теме «Ako by sa to dalo zlepšiť?».",
+          "exampleEn": "In “Ako by sa to dalo zlepšiť?”, I use: the expression “obmedziť” in the topic “Ako by sa to dalo zlepšiť?”.",
+          "level": "C1",
+          "topic": "Ako by sa to dalo zlepšiť?",
+          "tags": [
+            "c1_s11",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s11-l066-w07",
+          "sk": "prínos",
+          "uk": "вираз «prínos» у темі «Ako by sa to dalo zlepšiť?»",
+          "ru": "выражение «prínos» в теме «Ako by sa to dalo zlepšiť?»",
+          "en": "the expression “prínos” in the topic “Ako by sa to dalo zlepšiť?”",
+          "pronunciationUk": "prinos",
+          "exampleSk": "V téme Ako by sa to dalo zlepšiť? použijem výraz: prínos.",
+          "exampleUk": "У темі «Ako by sa to dalo zlepšiť?» використовую: вираз «prínos» у темі «Ako by sa to dalo zlepšiť?».",
+          "exampleRu": "В теме «Ako by sa to dalo zlepšiť?» использую: выражение «prínos» в теме «Ako by sa to dalo zlepšiť?».",
+          "exampleEn": "In “Ako by sa to dalo zlepšiť?”, I use: the expression “prínos” in the topic “Ako by sa to dalo zlepšiť?”.",
+          "level": "C1",
+          "topic": "Ako by sa to dalo zlepšiť?",
+          "tags": [
+            "c1_s11",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s11-l066-w08",
+          "sk": "náklad",
+          "uk": "вираз «náklad» у темі «Ako by sa to dalo zlepšiť?»",
+          "ru": "выражение «náklad» в теме «Ako by sa to dalo zlepšiť?»",
+          "en": "the expression “náklad” in the topic “Ako by sa to dalo zlepšiť?”",
+          "pronunciationUk": "naklad",
+          "exampleSk": "V téme Ako by sa to dalo zlepšiť? použijem výraz: náklad.",
+          "exampleUk": "У темі «Ako by sa to dalo zlepšiť?» використовую: вираз «náklad» у темі «Ako by sa to dalo zlepšiť?».",
+          "exampleRu": "В теме «Ako by sa to dalo zlepšiť?» использую: выражение «náklad» в теме «Ako by sa to dalo zlepšiť?».",
+          "exampleEn": "In “Ako by sa to dalo zlepšiť?”, I use: the expression “náklad” in the topic “Ako by sa to dalo zlepšiť?”.",
+          "level": "C1",
+          "topic": "Ako by sa to dalo zlepšiť?",
+          "tags": [
+            "c1_s11",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "c1-s11-l066-e01",
+          "lessonId": "c1-s11-l066",
+          "type": "single_choice",
+          "order": 1,
+          "question": "Що означає «zlepšiť»?",
+          "questionLocalized": {
+            "uk": "Що означає «zlepšiť»?",
+            "ru": "Что означает «zlepšiť»?",
+            "en": "What does “zlepšiť” mean?"
+          },
+          "wordIds": [
+            "c1-s11-l066-w01"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "вираз «zlepšiť» у темі «Ako by sa to dalo zlepšiť?»",
+                "ru": "выражение «zlepšiť» в теме «Ako by sa to dalo zlepšiť?»",
+                "en": "the expression “zlepšiť” in the topic “Ako by sa to dalo zlepšiť?”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "вираз «opatrenie» у темі «Ako by sa to dalo zlepšiť?»",
+                "ru": "выражение «opatrenie» в теме «Ako by sa to dalo zlepšiť?»",
+                "en": "the expression “opatrenie” in the topic “Ako by sa to dalo zlepšiť?”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "вираз «kompromis» у темі «Ako by sa to dalo zlepšiť?»",
+                "ru": "выражение «kompromis» в теме «Ako by sa to dalo zlepšiť?»",
+                "en": "the expression “kompromis” in the topic “Ako by sa to dalo zlepšiť?”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s11-l066-e02",
+          "lessonId": "c1-s11-l066",
+          "type": "matching",
+          "order": 2,
+          "question": "З'єднай фрази з поясненнями.",
+          "questionLocalized": {
+            "uk": "З'єднай фрази з поясненнями.",
+            "ru": "Соедини фразы с объяснениями.",
+            "en": "Match phrases with explanations."
+          },
+          "wordIds": [
+            "c1-s11-l066-w01",
+            "c1-s11-l066-w02",
+            "c1-s11-l066-w03",
+            "c1-s11-l066-w04"
+          ],
+          "pairs": [
+            {
+              "left": "zlepšiť",
+              "right": "вираз «zlepšiť» у темі «Ako by sa to dalo zlepšiť?»",
+              "rightRu": "выражение «zlepšiť» в теме «Ako by sa to dalo zlepšiť?»",
+              "rightEn": "the expression “zlepšiť” in the topic “Ako by sa to dalo zlepšiť?”"
+            },
+            {
+              "left": "opatrenie",
+              "right": "вираз «opatrenie» у темі «Ako by sa to dalo zlepšiť?»",
+              "rightRu": "выражение «opatrenie» в теме «Ako by sa to dalo zlepšiť?»",
+              "rightEn": "the expression “opatrenie” in the topic “Ako by sa to dalo zlepšiť?”"
+            },
+            {
+              "left": "kompromis",
+              "right": "вираз «kompromis» у темі «Ako by sa to dalo zlepšiť?»",
+              "rightRu": "выражение «kompromis» в теме «Ako by sa to dalo zlepšiť?»",
+              "rightEn": "the expression “kompromis” in the topic “Ako by sa to dalo zlepšiť?”"
+            },
+            {
+              "left": "uskutočniť",
+              "right": "вираз «uskutočniť» у темі «Ako by sa to dalo zlepšiť?»",
+              "rightRu": "выражение «uskutočniť» в теме «Ako by sa to dalo zlepšiť?»",
+              "rightEn": "the expression “uskutočniť” in the topic “Ako by sa to dalo zlepšiť?”"
+            }
+          ]
+        },
+        {
+          "id": "c1-s11-l066-e03",
+          "lessonId": "c1-s11-l066",
+          "type": "fill_blank",
+          "order": 3,
+          "question": "Впиши словацькою: вираз «kompromis» у темі «Ako by sa to dalo zlepšiť?».",
+          "questionLocalized": {
+            "uk": "Впиши словацькою: вираз «kompromis» у темі «Ako by sa to dalo zlepšiť?».",
+            "ru": "Впиши по-словацки: выражение «kompromis» в теме «Ako by sa to dalo zlepšiť?».",
+            "en": "Write in Slovak: the expression “kompromis” in the topic “Ako by sa to dalo zlepšiť?”."
+          },
+          "wordIds": [
+            "c1-s11-l066-w03"
+          ],
+          "sentence": "______",
+          "acceptedAnswers": [
+            "kompromis"
+          ],
+          "hint": {
+            "uk": "Початок: ko...",
+            "ru": "Начало: ko...",
+            "en": "Start: ko..."
+          }
+        },
+        {
+          "id": "c1-s11-l066-e04",
+          "lessonId": "c1-s11-l066",
+          "type": "dropdown_blank",
+          "order": 4,
+          "question": "Обери точну фразу для C1-речення.",
+          "questionLocalized": {
+            "uk": "Обери точну фразу для C1-речення.",
+            "ru": "Выбери точную фразу для C1-предложения.",
+            "en": "Choose the precise phrase for a C1 sentence."
+          },
+          "wordIds": [
+            "c1-s11-l066-w04"
+          ],
+          "sentenceParts": [
+            {
+              "text": "V tejto situácii je dôležité použiť "
+            },
+            {
+              "blankId": "blank1",
+              "options": [
+                "uskutočniť",
+                "zlepšiť",
+                "opatrenie"
+              ],
+              "correct": "uskutočniť"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "c1-s11-l066-e05",
+          "lessonId": "c1-s11-l066",
+          "type": "sentence_builder",
+          "order": 5,
+          "question": "Склади природну словацьку репліку.",
+          "questionLocalized": {
+            "uk": "Склади природну словацьку репліку.",
+            "ru": "Собери естественную словацкую реплику.",
+            "en": "Build a natural Slovak reply."
+          },
+          "wordIds": [
+            "c1-s11-l066-w05"
+          ],
+          "tokens": [
+            "Rozumiem",
+            "situácii,",
+            "ale",
+            "potrebujem",
+            "ju",
+            "ešte",
+            "upresniť."
+          ],
+          "correctSentence": "Rozumiem situácii, ale potrebujem ju ešte upresniť."
+        },
+        {
+          "id": "c1-s11-l066-e06",
+          "lessonId": "c1-s11-l066",
+          "type": "multiple_select",
+          "order": 6,
+          "question": "Обери C1-репліки з природним тоном.",
+          "questionLocalized": {
+            "uk": "Обери C1-репліки з природним тоном.",
+            "ru": "Выбери C1-реплики с естественным тоном.",
+            "en": "Select C1 replies with a natural tone."
+          },
+          "wordIds": [
+            "c1-s11-l066-w01",
+            "c1-s11-l066-w06"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Rozumiem, ale potrebujem to presnejšie vysvetliť.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "To je úplne mimo a nemá zmysel hovoriť.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Z môjho pohľadu je dôležitý aj kontext.",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "id": "c1-s11-l066-e07",
+          "lessonId": "c1-s11-l066",
+          "type": "reading_comprehension",
+          "order": 7,
+          "question": "Прочитай текст і вибери головну думку.",
+          "questionLocalized": {
+            "uk": "Прочитай текст і вибери головну думку.",
+            "ru": "Прочитай текст и выбери главную мысль.",
+            "en": "Read the text and choose the main idea."
+          },
+          "wordIds": [
+            "c1-s11-l066-w06",
+            "c1-s11-l066-w07",
+            "c1-s11-l066-w08"
+          ],
+          "text": "Téma Ako by sa to dalo zlepšiť? si vyžaduje presnosť. Nestačí poznať slová; treba reagovať podľa kontextu, vysvetliť dôvod a navrhnúť ďalší krok.",
+          "questions": [
+            {
+              "prompt": {
+                "uk": "Що є головною думкою?",
+                "ru": "Что является главной мыслью?",
+                "en": "What is the main idea?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "Treba reagovať presne podľa kontextu.",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "Stačí opakovať jedno slovo.",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "Najlepšie je nereagovať.",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c1-s11-l066-e08",
+          "lessonId": "c1-s11-l066",
+          "type": "dialogue_choose_reply",
+          "order": 8,
+          "question": "Обери найкращу відповідь у діалозі.",
+          "questionLocalized": {
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
+          },
+          "wordIds": [
+            "c1-s11-l066-w07"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Ako by si to vysvetlil?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Najprv zhrniem situáciu a potom poviem svoj návrh.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Nepoviem nič, lebo je to ťažké.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Odpoviem jedným náhodným slovom.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s11-l066-e09",
+          "lessonId": "c1-s11-l066",
+          "type": "meaning_in_context",
+          "order": 9,
+          "question": "Що означає «opatrenie» у контексті?",
+          "questionLocalized": {
+            "uk": "Що означає «opatrenie» у контексті?",
+            "ru": "Что означает «opatrenie» в контексте?",
+            "en": "What does “opatrenie” mean in context?"
+          },
+          "wordIds": [
+            "c1-s11-l066-w02"
+          ],
+          "context": {
+            "sk": "Rozhovor je citlivý, preto si najprv overím význam a tón."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "вираз «opatrenie» у темі «Ako by sa to dalo zlepšiť?»",
+                "ru": "выражение «opatrenie» в теме «Ako by sa to dalo zlepšiť?»",
+                "en": "the expression “opatrenie” in the topic “Ako by sa to dalo zlepšiť?”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "вираз «zaviesť» у темі «Ako by sa to dalo zlepšiť?»",
+                "ru": "выражение «zaviesť» в теме «Ako by sa to dalo zlepšiť?»",
+                "en": "the expression “zaviesť” in the topic “Ako by sa to dalo zlepšiť?”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "вираз «náklad» у темі «Ako by sa to dalo zlepšiť?»",
+                "ru": "выражение «náklad» в теме «Ako by sa to dalo zlepšiť?»",
+                "en": "the expression “náklad” in the topic “Ako by sa to dalo zlepšiť?”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s11-l066-e10",
+          "lessonId": "c1-s11-l066",
+          "type": "natural_phrase",
+          "order": 10,
+          "question": "Що звучить найприродніше?",
+          "questionLocalized": {
+            "uk": "Що звучить найприродніше?",
+            "ru": "Что звучит естественнее всего?",
+            "en": "What sounds most natural?"
+          },
+          "wordIds": [
+            "c1-s11-l066-w08"
+          ],
+          "situation": {
+            "uk": "Потрібно відповісти точно, але без різкого тону.",
+            "ru": "Нужно ответить точно, но без резкого тона.",
+            "en": "You need to answer precisely but without a sharp tone."
+          },
+          "options": [
+            {
+              "id": "a",
+              "sk": "Chápem tvoj pohľad, ale doplnil by som ešte jednu vec.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Ty ničomu nerozumieš.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Áno nie možno včera.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s11-l066-e11",
+          "lessonId": "c1-s11-l066",
+          "type": "reverse_translation",
+          "order": 11,
+          "question": "Обери словацький варіант для: вираз «zaviesť» у темі «Ako by sa to dalo zlepšiť?».",
+          "questionLocalized": {
+            "uk": "Обери словацький варіант для: вираз «zaviesť» у темі «Ako by sa to dalo zlepšiť?».",
+            "ru": "Выбери словацкий вариант для: выражение «zaviesť» в теме «Ako by sa to dalo zlepšiť?».",
+            "en": "Choose the Slovak item for: the expression “zaviesť” in the topic “Ako by sa to dalo zlepšiť?”."
+          },
+          "wordIds": [
+            "c1-s11-l066-w05"
+          ],
+          "options": [
+            "zaviesť",
+            "kompromis",
+            "zlepšiť"
+          ],
+          "correctAnswer": "zaviesť"
+        },
+        {
+          "id": "c1-s11-l066-e12",
+          "lessonId": "c1-s11-l066",
+          "type": "sentence_order",
+          "order": 12,
+          "question": "Віднови логічний порядок C1-відповіді.",
+          "questionLocalized": {
+            "uk": "Віднови логічний порядок C1-відповіді.",
+            "ru": "Восстанови логический порядок C1-ответа.",
+            "en": "Restore the logical order of a C1 answer."
+          },
+          "wordIds": [
+            "c1-s11-l066-w01",
+            "c1-s11-l066-w02"
+          ],
+          "items": [
+            "Najprv treba pomenovať kontext.",
+            "Potom možno doplniť presnejší výraz.",
+            "Napokon z toho vyplýva konkrétny záver."
+          ],
+          "correctOrder": [
+            "Najprv treba pomenovať kontext.",
+            "Potom možno doplniť presnejší výraz.",
+            "Napokon z toho vyplýva konkrétny záver."
+          ]
+        },
+        {
+          "id": "c1-s11-l066-e13",
+          "lessonId": "c1-s11-l066",
+          "type": "dialogue_choose_reply",
+          "order": 13,
+          "question": "Обери відповідь з точним регістром.",
+          "questionLocalized": {
+            "uk": "Обери відповідь з точним регістром.",
+            "ru": "Выбери ответ с точным регистром.",
+            "en": "Choose the reply with the right register."
+          },
+          "wordIds": [
+            "c1-s11-l066-w03",
+            "c1-s11-l066-w04"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Potrebujem to povedať odborne, ale nie zbytočne tvrdo."
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Rozumiem. Preformuloval by som to vecne a zároveň opatrne.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Napíš tam čokoľvek, hlavne rýchlo.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Daj tam najtvrdšiu možnú formuláciu.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s11-l066-e14",
+          "lessonId": "c1-s11-l066",
+          "type": "multiple_choice_translation",
+          "order": 14,
+          "question": "Що відповідає словацькому «náklad»?",
+          "questionLocalized": {
+            "uk": "Що відповідає словацькому «náklad»?",
+            "ru": "Что соответствует словацкому «náklad»?",
+            "en": "What matches the Slovak “náklad”?"
+          },
+          "wordIds": [
+            "c1-s11-l066-w08"
+          ],
+          "options": [
+            "вираз «náklad» у темі «Ako by sa to dalo zlepšiť?»",
+            "вираз «opatrenie» у темі «Ako by sa to dalo zlepšiť?»",
+            "вираз «kompromis» у темі «Ako by sa to dalo zlepšiť?»"
+          ],
+          "correctAnswer": "вираз «náklad» у темі «Ako by sa to dalo zlepšiť?»"
+        }
+      ],
+      "finalSituation": {
+        "id": "final-situation",
+        "type": "interactive_scenario",
+        "title": {
+          "uk": "Ako by sa to dalo zlepšiť?: реальна ситуація",
+          "ru": "Ako by sa to dalo zlepšiť?: реальная ситуация",
+          "en": "Ako by sa to dalo zlepšiť?: real situation"
+        },
+        "description": {
+          "uk": "Обери репліки, які звучать природно, точно й доречно на рівні C1.",
+          "ru": "Выбери реплики, которые звучат естественно, точно и уместно на уровне C1.",
+          "en": "Choose replies that sound natural, precise and appropriate at C1 level."
+        },
+        "steps": [
+          {
+            "id": "f1",
+            "prompt": {
+              "uk": "Потрібно почати відповідь без різкості.",
+              "ru": "Нужно начать ответ без резкости.",
+              "en": "You need to start without sounding harsh."
+            },
+            "options": [
+              {
+                "sk": "Rozumiem, skúsim to najprv zhrnúť vlastnými slovami.",
+                "correct": true
+              },
+              {
+                "sk": "Nemáš pravdu a viac sa o tom nebavme.",
+                "correct": false
+              },
+              {
+                "sk": "Neviem a nechcem reagovať.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "prompt": {
+              "uk": "Потрібно додати аргумент.",
+              "ru": "Нужно добавить аргумент.",
+              "en": "You need to add an argument."
+            },
+            "options": [
+              {
+                "sk": "Dôvod je podľa mňa v tom, že situácia má viac okolností.",
+                "correct": true
+              },
+              {
+                "sk": "Pretože áno.",
+                "correct": false
+              },
+              {
+                "sk": "To nesúvisí s ničím.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f3",
+            "prompt": {
+              "uk": "Потрібно завершити практично.",
+              "ru": "Нужно завершить практически.",
+              "en": "You need to close practically."
+            },
+            "options": [
+              {
+                "sk": "Navrhujem ďalší krok a potom si to potvrdíme písomne.",
+                "correct": true
+              },
+              {
+                "sk": "Nechajme to bez riešenia.",
+                "correct": false
+              },
+              {
+                "sk": "Každý nech si domyslí zvyšok.",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "passRequirement": "3/3",
+        "successMessage": {
+          "uk": "Готово: тема перенесена в реальну C1-комунікацію.",
+          "ru": "Готово: тема перенесена в реальную C1-коммуникацию.",
+          "en": "Done: the topic was transferred into real C1 communication."
+        }
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": {
+          "uk": "Урок завершено",
+          "ru": "Урок завершён",
+          "en": "Lesson complete"
+        },
+        "subtitle": {
+          "uk": "Ти пройшов ще один крок рівня C1.",
+          "ru": "Ты прошёл ещё один шаг уровня C1.",
+          "en": "You completed another C1 step."
+        },
+        "xpReward": 220,
+        "newWordsCount": 8,
+        "exercisesCompleted": 14,
+        "nowYouKnow": [
+          "структурувати відповідь",
+          "пояснювати нюанс",
+          "реагувати доречно"
+        ],
+        "mistakesMessage": {
+          "uk": "Повтори вправи, де плутається значення або тон.",
+          "ru": "Повтори упражнения, где путается значение или тон.",
+          "en": "Repeat exercises where meaning or tone is unclear."
+        },
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "skills": [
+          {
+            "id": "vocabulary",
+            "label": {
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
+            },
+            "weight": 0.3
+          },
+          {
+            "id": "composition",
+            "label": {
+              "uk": "структура",
+              "ru": "структура",
+              "en": "composition"
+            },
+            "weight": 0.4
+          },
+          {
+            "id": "transfer",
+            "label": {
+              "uk": "перенесення",
+              "ru": "перенос",
+              "en": "transfer"
+            },
+            "weight": 0.3
+          }
+        ],
+        "nextLesson": {
+          "id": "c1-s12-l067"
+        }
+      }
+    }
+  ]
+}

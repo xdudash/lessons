@@ -1,0 +1,1115 @@
+{
+  "lessons": [
+    {
+      "id": "c1-s10-l059",
+      "sectionId": "c1_s10",
+      "level": "C1",
+      "title": {
+        "sk": "Reklama a rozhodovanie",
+        "uk": "Reklama a rozhodovanie",
+        "ru": "Reklama a rozhodovanie",
+        "en": "Reklama a rozhodovanie"
+      },
+      "topic": {
+        "sk": "Reklama a rozhodovanie",
+        "uk": "Reklama a rozhodovanie",
+        "ru": "Reklama a rozhodovanie",
+        "en": "Reklama a rozhodovanie"
+      },
+      "description": {
+        "sk": "Precvičíš si tému Reklama a rozhodovanie v komplexnej komunikácii na úrovni C1.",
+        "uk": "Тренуємо тему «Reklama a rozhodovanie»: аргументовано, точно й у реальному контексті.",
+        "ru": "анализируем, как реклама влияет на выбор и создаёт потребность.",
+        "en": "Practice the C1 topic “Reklama a rozhodovanie” in complex communication. Section: Economy, money and practical decisions."
+      },
+      "order": 59,
+      "xpReward": 220,
+      "estimatedMinutes": 38,
+      "isPublished": false,
+      "intro": {
+        "sk": "Precvičíš si tému Reklama a rozhodovanie v komplexnej komunikácii na úrovni C1.",
+        "uk": "Тренуємо тему «Reklama a rozhodovanie»: аргументовано, точно й у реальному контексті.",
+        "ru": "анализируем, как реклама влияет на выбор и создаёт потребность.",
+        "en": "Practice the C1 topic “Reklama a rozhodovanie” in complex communication. Section: Economy, money and practical decisions."
+      },
+      "completionMessage": {
+        "sk": "Výborne. Tému vieš použiť v náročnejšej komunikácii.",
+        "uk": "Добре. Тепер можеш використати тему в складнішій розмові.",
+        "ru": "Хорошо. Теперь можешь использовать тему в более сложном разговоре.",
+        "en": "Good. You can now use the topic in more complex communication."
+      },
+      "updatedAt": "2026-09-14T00:00:00Z",
+      "localization": {
+        "uiLanguages": [
+          "uk",
+          "ru",
+          "en"
+        ],
+        "targetLanguage": "sk",
+        "fallbackUiLanguage": "uk"
+      },
+      "assets": {
+        "images": {},
+        "audio": {}
+      },
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": {
+          "sk": "Reklama a rozhodovanie",
+          "uk": "Reklama a rozhodovanie",
+          "ru": "Reklama a rozhodovanie",
+          "en": "Reklama a rozhodovanie"
+        },
+        "shortDescription": {
+          "uk": "Тренуємо тему «Reklama a rozhodovanie»: аргументовано, точно й у реальному контексті.",
+          "ru": "анализируем, как реклама влияет на выбор и создаёт потребность.",
+          "en": "Practice the C1 topic “Reklama a rozhodovanie” in complex communication. Section: Economy, money and practical decisions."
+        },
+        "outcomes": [
+          {
+            "uk": "пояснити думку точніше й довше",
+            "ru": "объяснить мысль точнее и длиннее",
+            "en": "explain an idea more precisely and at greater length"
+          },
+          {
+            "uk": "використати нові C1-фрази в контексті",
+            "ru": "использовать новые C1-фразы в контексте",
+            "en": "use new C1 phrases in context"
+          },
+          {
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
+          }
+        ],
+        "newWords": [
+          "c1-s10-l059-w01",
+          "c1-s10-l059-w02",
+          "c1-s10-l059-w03",
+          "c1-s10-l059-w04",
+          "c1-s10-l059-w05",
+          "c1-s10-l059-w06",
+          "c1-s10-l059-w07",
+          "c1-s10-l059-w08"
+        ],
+        "exercisesCount": 14,
+        "reward": "+220 XP",
+        "estimatedMinutes": 38,
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "id": "t1",
+          "screenType": "theory",
+          "order": 1,
+          "title": {
+            "uk": "Фокус уроку",
+            "ru": "Фокус урока",
+            "en": "Lesson focus"
+          },
+          "body": {
+            "uk": "Тренуємо тему «Reklama a rozhodovanie»: аргументовано, точно й у реальному контексті.",
+            "ru": "анализируем, как реклама влияет на выбор и создаёт потребность.",
+            "en": "Practice the C1 topic “Reklama a rozhodovanie” in complex communication. Section: Economy, money and practical decisions."
+          },
+          "examples": [
+            {
+              "sk": "V téme Reklama a rozhodovanie použijem výraz: reklama.",
+              "translation": {
+                "uk": "У темі «Reklama a rozhodovanie» використовую: вираз «reklama» у темі «Reklama a rozhodovanie».",
+                "ru": "В теме «Reklama a rozhodovanie» использую: выражение «reklama» в теме «Reklama a rozhodovanie».",
+                "en": "In “Reklama a rozhodovanie”, I use: the expression “reklama” in the topic “Reklama a rozhodovanie”."
+              }
+            },
+            {
+              "sk": "V téme Reklama a rozhodovanie použijem výraz: spotrebiteľ.",
+              "translation": {
+                "uk": "У темі «Reklama a rozhodovanie» використовую: вираз «spotrebiteľ» у темі «Reklama a rozhodovanie».",
+                "ru": "В теме «Reklama a rozhodovanie» использую: выражение «spotrebiteľ» в теме «Reklama a rozhodovanie».",
+                "en": "In “Reklama a rozhodovanie”, I use: the expression “spotrebiteľ” in the topic “Reklama a rozhodovanie”."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "На C1 важливо не просто відповісти, а показати причину, умову, наслідок або нюанс.",
+            "ru": "На C1 важно не просто ответить, а показать причину, условие, последствие или нюанс.",
+            "en": "At C1, show a reason, condition, consequence or nuance."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t2",
+          "screenType": "theory",
+          "order": 2,
+          "title": {
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer model"
+          },
+          "body": {
+            "uk": "Будуй відповідь за схемою: контекст -> позиція -> аргумент -> приклад -> наступний крок.",
+            "ru": "Строй ответ по схеме: контекст -> позиция -> аргумент -> пример -> следующий шаг.",
+            "en": "Build the answer as: context -> position -> argument -> example -> next step."
+          },
+          "examples": [
+            {
+              "sk": "Z môjho pohľadu je dôležité najprv vysvetliť kontext.",
+              "translation": {
+                "uk": "З моєї точки зору важливо спочатку пояснити контекст.",
+                "ru": "С моей точки зрения важно сначала объяснить контекст.",
+                "en": "From my point of view, it is important to explain the context first."
+              }
+            },
+            {
+              "sk": "Na druhej strane treba zohľadniť aj praktické dôsledky.",
+              "translation": {
+                "uk": "З іншого боку, треба врахувати також практичні наслідки.",
+                "ru": "С другой стороны, нужно учесть и практические последствия.",
+                "en": "On the other hand, practical consequences must also be considered."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "Одна сильна відповідь має структуру, а не лише правильні слова.",
+            "ru": "Один сильный ответ имеет структуру, а не только правильные слова.",
+            "en": "A strong answer has structure, not only correct words."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t3",
+          "screenType": "theory",
+          "order": 3,
+          "title": {
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
+          },
+          "body": {
+            "uk": "У фіналі потрібно вибрати репліку, яка реально рухає ситуацію вперед.",
+            "ru": "В финале нужно выбрать реплику, которая реально двигает ситуацию дальше.",
+            "en": "In the final task, choose the reply that moves the situation forward."
+          },
+          "examples": [
+            {
+              "sk": "Navrhujem, aby sme si najprv ujasnili priority.",
+              "translation": {
+                "uk": "Пропоную спочатку прояснити пріоритети.",
+                "ru": "Предлагаю сначала прояснить приоритеты.",
+                "en": "I suggest clarifying priorities first."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "C1 = самостійна, зв'язна й доречна комунікація.",
+            "ru": "C1 = самостоятельная, связная и уместная коммуникация.",
+            "en": "C1 means independent, connected and appropriate communication."
+          },
+          "button": "До слів"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": {
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
+        },
+        "description": {
+          "uk": "Ці одиниці взяті з затвердженого C1-плану.",
+          "ru": "Эти единицы взяты из утвержденного C1-плана.",
+          "en": "These items come from the approved C1 plan."
+        },
+        "items": [
+          {
+            "wordId": "c1-s10-l059-w01",
+            "sk": "reklama",
+            "uk": "вираз «reklama» у темі «Reklama a rozhodovanie»",
+            "ru": "выражение «reklama» в теме «Reklama a rozhodovanie»",
+            "en": "the expression “reklama” in the topic “Reklama a rozhodovanie”",
+            "pronunciationUk": "reklama",
+            "exampleSk": "V téme Reklama a rozhodovanie použijem výraz: reklama.",
+            "exampleUk": "У темі «Reklama a rozhodovanie» використовую: вираз «reklama» у темі «Reklama a rozhodovanie».",
+            "exampleRu": "В теме «Reklama a rozhodovanie» использую: выражение «reklama» в теме «Reklama a rozhodovanie».",
+            "exampleEn": "In “Reklama a rozhodovanie”, I use: the expression “reklama” in the topic “Reklama a rozhodovanie”."
+          },
+          {
+            "wordId": "c1-s10-l059-w02",
+            "sk": "spotrebiteľ",
+            "uk": "вираз «spotrebiteľ» у темі «Reklama a rozhodovanie»",
+            "ru": "выражение «spotrebiteľ» в теме «Reklama a rozhodovanie»",
+            "en": "the expression “spotrebiteľ” in the topic “Reklama a rozhodovanie”",
+            "pronunciationUk": "spotrebitel'",
+            "exampleSk": "V téme Reklama a rozhodovanie použijem výraz: spotrebiteľ.",
+            "exampleUk": "У темі «Reklama a rozhodovanie» використовую: вираз «spotrebiteľ» у темі «Reklama a rozhodovanie».",
+            "exampleRu": "В теме «Reklama a rozhodovanie» использую: выражение «spotrebiteľ» в теме «Reklama a rozhodovanie».",
+            "exampleEn": "In “Reklama a rozhodovanie”, I use: the expression “spotrebiteľ” in the topic “Reklama a rozhodovanie”."
+          },
+          {
+            "wordId": "c1-s10-l059-w03",
+            "sk": "kampaň",
+            "uk": "вираз «kampaň» у темі «Reklama a rozhodovanie»",
+            "ru": "выражение «kampaň» в теме «Reklama a rozhodovanie»",
+            "en": "the expression “kampaň” in the topic “Reklama a rozhodovanie”",
+            "pronunciationUk": "kampan'",
+            "exampleSk": "V téme Reklama a rozhodovanie použijem výraz: kampaň.",
+            "exampleUk": "У темі «Reklama a rozhodovanie» використовую: вираз «kampaň» у темі «Reklama a rozhodovanie».",
+            "exampleRu": "В теме «Reklama a rozhodovanie» использую: выражение «kampaň» в теме «Reklama a rozhodovanie».",
+            "exampleEn": "In “Reklama a rozhodovanie”, I use: the expression “kampaň” in the topic “Reklama a rozhodovanie”."
+          },
+          {
+            "wordId": "c1-s10-l059-w04",
+            "sk": "presvedčiť",
+            "uk": "вираз «presvedčiť» у темі «Reklama a rozhodovanie»",
+            "ru": "выражение «presvedčiť» в теме «Reklama a rozhodovanie»",
+            "en": "the expression “presvedčiť” in the topic “Reklama a rozhodovanie”",
+            "pronunciationUk": "presvedchit'",
+            "exampleSk": "V téme Reklama a rozhodovanie použijem výraz: presvedčiť.",
+            "exampleUk": "У темі «Reklama a rozhodovanie» використовую: вираз «presvedčiť» у темі «Reklama a rozhodovanie».",
+            "exampleRu": "В теме «Reklama a rozhodovanie» использую: выражение «presvedčiť» в теме «Reklama a rozhodovanie».",
+            "exampleEn": "In “Reklama a rozhodovanie”, I use: the expression “presvedčiť” in the topic “Reklama a rozhodovanie”."
+          },
+          {
+            "wordId": "c1-s10-l059-w05",
+            "sk": "upútať",
+            "uk": "вираз «upútať» у темі «Reklama a rozhodovanie»",
+            "ru": "выражение «upútať» в теме «Reklama a rozhodovanie»",
+            "en": "the expression “upútať” in the topic “Reklama a rozhodovanie”",
+            "pronunciationUk": "uputat'",
+            "exampleSk": "V téme Reklama a rozhodovanie použijem výraz: upútať.",
+            "exampleUk": "У темі «Reklama a rozhodovanie» використовую: вираз «upútať» у темі «Reklama a rozhodovanie».",
+            "exampleRu": "В теме «Reklama a rozhodovanie» использую: выражение «upútať» в теме «Reklama a rozhodovanie».",
+            "exampleEn": "In “Reklama a rozhodovanie”, I use: the expression “upútať” in the topic “Reklama a rozhodovanie”."
+          },
+          {
+            "wordId": "c1-s10-l059-w06",
+            "sk": "potreba",
+            "uk": "вираз «potreba» у темі «Reklama a rozhodovanie»",
+            "ru": "выражение «potreba» в теме «Reklama a rozhodovanie»",
+            "en": "the expression “potreba” in the topic “Reklama a rozhodovanie”",
+            "pronunciationUk": "potreba",
+            "exampleSk": "V téme Reklama a rozhodovanie použijem výraz: potreba.",
+            "exampleUk": "У темі «Reklama a rozhodovanie» використовую: вираз «potreba» у темі «Reklama a rozhodovanie».",
+            "exampleRu": "В теме «Reklama a rozhodovanie» использую: выражение «potreba» в теме «Reklama a rozhodovanie».",
+            "exampleEn": "In “Reklama a rozhodovanie”, I use: the expression “potreba” in the topic “Reklama a rozhodovanie”."
+          },
+          {
+            "wordId": "c1-s10-l059-w07",
+            "sk": "značka",
+            "uk": "вираз «značka» у темі «Reklama a rozhodovanie»",
+            "ru": "выражение «značka» в теме «Reklama a rozhodovanie»",
+            "en": "the expression “značka” in the topic “Reklama a rozhodovanie”",
+            "pronunciationUk": "znachka",
+            "exampleSk": "V téme Reklama a rozhodovanie použijem výraz: značka.",
+            "exampleUk": "У темі «Reklama a rozhodovanie» використовую: вираз «značka» у темі «Reklama a rozhodovanie».",
+            "exampleRu": "В теме «Reklama a rozhodovanie» использую: выражение «značka» в теме «Reklama a rozhodovanie».",
+            "exampleEn": "In “Reklama a rozhodovanie”, I use: the expression “značka” in the topic “Reklama a rozhodovanie”."
+          },
+          {
+            "wordId": "c1-s10-l059-w08",
+            "sk": "propagácia",
+            "uk": "вираз «propagácia» у темі «Reklama a rozhodovanie»",
+            "ru": "выражение «propagácia» в теме «Reklama a rozhodovanie»",
+            "en": "the expression “propagácia” in the topic “Reklama a rozhodovanie”",
+            "pronunciationUk": "propagacia",
+            "exampleSk": "V téme Reklama a rozhodovanie použijem výraz: propagácia.",
+            "exampleUk": "У темі «Reklama a rozhodovanie» використовую: вираз «propagácia» у темі «Reklama a rozhodovanie».",
+            "exampleRu": "В теме «Reklama a rozhodovanie» использую: выражение «propagácia» в теме «Reklama a rozhodovanie».",
+            "exampleEn": "In “Reklama a rozhodovanie”, I use: the expression “propagácia” in the topic “Reklama a rozhodovanie”."
+          }
+        ],
+        "button": "До практики"
+      },
+      "words": [
+        {
+          "id": "c1-s10-l059-w01",
+          "sk": "reklama",
+          "uk": "вираз «reklama» у темі «Reklama a rozhodovanie»",
+          "ru": "выражение «reklama» в теме «Reklama a rozhodovanie»",
+          "en": "the expression “reklama” in the topic “Reklama a rozhodovanie”",
+          "pronunciationUk": "reklama",
+          "exampleSk": "V téme Reklama a rozhodovanie použijem výraz: reklama.",
+          "exampleUk": "У темі «Reklama a rozhodovanie» використовую: вираз «reklama» у темі «Reklama a rozhodovanie».",
+          "exampleRu": "В теме «Reklama a rozhodovanie» использую: выражение «reklama» в теме «Reklama a rozhodovanie».",
+          "exampleEn": "In “Reklama a rozhodovanie”, I use: the expression “reklama” in the topic “Reklama a rozhodovanie”.",
+          "level": "C1",
+          "topic": "Reklama a rozhodovanie",
+          "tags": [
+            "c1_s10",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s10-l059-w02",
+          "sk": "spotrebiteľ",
+          "uk": "вираз «spotrebiteľ» у темі «Reklama a rozhodovanie»",
+          "ru": "выражение «spotrebiteľ» в теме «Reklama a rozhodovanie»",
+          "en": "the expression “spotrebiteľ” in the topic “Reklama a rozhodovanie”",
+          "pronunciationUk": "spotrebitel'",
+          "exampleSk": "V téme Reklama a rozhodovanie použijem výraz: spotrebiteľ.",
+          "exampleUk": "У темі «Reklama a rozhodovanie» використовую: вираз «spotrebiteľ» у темі «Reklama a rozhodovanie».",
+          "exampleRu": "В теме «Reklama a rozhodovanie» использую: выражение «spotrebiteľ» в теме «Reklama a rozhodovanie».",
+          "exampleEn": "In “Reklama a rozhodovanie”, I use: the expression “spotrebiteľ” in the topic “Reklama a rozhodovanie”.",
+          "level": "C1",
+          "topic": "Reklama a rozhodovanie",
+          "tags": [
+            "c1_s10",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s10-l059-w03",
+          "sk": "kampaň",
+          "uk": "вираз «kampaň» у темі «Reklama a rozhodovanie»",
+          "ru": "выражение «kampaň» в теме «Reklama a rozhodovanie»",
+          "en": "the expression “kampaň” in the topic “Reklama a rozhodovanie”",
+          "pronunciationUk": "kampan'",
+          "exampleSk": "V téme Reklama a rozhodovanie použijem výraz: kampaň.",
+          "exampleUk": "У темі «Reklama a rozhodovanie» використовую: вираз «kampaň» у темі «Reklama a rozhodovanie».",
+          "exampleRu": "В теме «Reklama a rozhodovanie» использую: выражение «kampaň» в теме «Reklama a rozhodovanie».",
+          "exampleEn": "In “Reklama a rozhodovanie”, I use: the expression “kampaň” in the topic “Reklama a rozhodovanie”.",
+          "level": "C1",
+          "topic": "Reklama a rozhodovanie",
+          "tags": [
+            "c1_s10",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s10-l059-w04",
+          "sk": "presvedčiť",
+          "uk": "вираз «presvedčiť» у темі «Reklama a rozhodovanie»",
+          "ru": "выражение «presvedčiť» в теме «Reklama a rozhodovanie»",
+          "en": "the expression “presvedčiť” in the topic “Reklama a rozhodovanie”",
+          "pronunciationUk": "presvedchit'",
+          "exampleSk": "V téme Reklama a rozhodovanie použijem výraz: presvedčiť.",
+          "exampleUk": "У темі «Reklama a rozhodovanie» використовую: вираз «presvedčiť» у темі «Reklama a rozhodovanie».",
+          "exampleRu": "В теме «Reklama a rozhodovanie» использую: выражение «presvedčiť» в теме «Reklama a rozhodovanie».",
+          "exampleEn": "In “Reklama a rozhodovanie”, I use: the expression “presvedčiť” in the topic “Reklama a rozhodovanie”.",
+          "level": "C1",
+          "topic": "Reklama a rozhodovanie",
+          "tags": [
+            "c1_s10",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s10-l059-w05",
+          "sk": "upútať",
+          "uk": "вираз «upútať» у темі «Reklama a rozhodovanie»",
+          "ru": "выражение «upútať» в теме «Reklama a rozhodovanie»",
+          "en": "the expression “upútať” in the topic “Reklama a rozhodovanie”",
+          "pronunciationUk": "uputat'",
+          "exampleSk": "V téme Reklama a rozhodovanie použijem výraz: upútať.",
+          "exampleUk": "У темі «Reklama a rozhodovanie» використовую: вираз «upútať» у темі «Reklama a rozhodovanie».",
+          "exampleRu": "В теме «Reklama a rozhodovanie» использую: выражение «upútať» в теме «Reklama a rozhodovanie».",
+          "exampleEn": "In “Reklama a rozhodovanie”, I use: the expression “upútať” in the topic “Reklama a rozhodovanie”.",
+          "level": "C1",
+          "topic": "Reklama a rozhodovanie",
+          "tags": [
+            "c1_s10",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s10-l059-w06",
+          "sk": "potreba",
+          "uk": "вираз «potreba» у темі «Reklama a rozhodovanie»",
+          "ru": "выражение «potreba» в теме «Reklama a rozhodovanie»",
+          "en": "the expression “potreba” in the topic “Reklama a rozhodovanie”",
+          "pronunciationUk": "potreba",
+          "exampleSk": "V téme Reklama a rozhodovanie použijem výraz: potreba.",
+          "exampleUk": "У темі «Reklama a rozhodovanie» використовую: вираз «potreba» у темі «Reklama a rozhodovanie».",
+          "exampleRu": "В теме «Reklama a rozhodovanie» использую: выражение «potreba» в теме «Reklama a rozhodovanie».",
+          "exampleEn": "In “Reklama a rozhodovanie”, I use: the expression “potreba” in the topic “Reklama a rozhodovanie”.",
+          "level": "C1",
+          "topic": "Reklama a rozhodovanie",
+          "tags": [
+            "c1_s10",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s10-l059-w07",
+          "sk": "značka",
+          "uk": "вираз «značka» у темі «Reklama a rozhodovanie»",
+          "ru": "выражение «značka» в теме «Reklama a rozhodovanie»",
+          "en": "the expression “značka” in the topic “Reklama a rozhodovanie”",
+          "pronunciationUk": "znachka",
+          "exampleSk": "V téme Reklama a rozhodovanie použijem výraz: značka.",
+          "exampleUk": "У темі «Reklama a rozhodovanie» використовую: вираз «značka» у темі «Reklama a rozhodovanie».",
+          "exampleRu": "В теме «Reklama a rozhodovanie» использую: выражение «značka» в теме «Reklama a rozhodovanie».",
+          "exampleEn": "In “Reklama a rozhodovanie”, I use: the expression “značka” in the topic “Reklama a rozhodovanie”.",
+          "level": "C1",
+          "topic": "Reklama a rozhodovanie",
+          "tags": [
+            "c1_s10",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c1-s10-l059-w08",
+          "sk": "propagácia",
+          "uk": "вираз «propagácia» у темі «Reklama a rozhodovanie»",
+          "ru": "выражение «propagácia» в теме «Reklama a rozhodovanie»",
+          "en": "the expression “propagácia” in the topic “Reklama a rozhodovanie”",
+          "pronunciationUk": "propagacia",
+          "exampleSk": "V téme Reklama a rozhodovanie použijem výraz: propagácia.",
+          "exampleUk": "У темі «Reklama a rozhodovanie» використовую: вираз «propagácia» у темі «Reklama a rozhodovanie».",
+          "exampleRu": "В теме «Reklama a rozhodovanie» использую: выражение «propagácia» в теме «Reklama a rozhodovanie».",
+          "exampleEn": "In “Reklama a rozhodovanie”, I use: the expression “propagácia” in the topic “Reklama a rozhodovanie”.",
+          "level": "C1",
+          "topic": "Reklama a rozhodovanie",
+          "tags": [
+            "c1_s10",
+            "c1",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "c1-s10-l059-e01",
+          "lessonId": "c1-s10-l059",
+          "type": "single_choice",
+          "order": 1,
+          "question": "Що означає «reklama»?",
+          "questionLocalized": {
+            "uk": "Що означає «reklama»?",
+            "ru": "Что означает «reklama»?",
+            "en": "What does “reklama” mean?"
+          },
+          "wordIds": [
+            "c1-s10-l059-w01"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "вираз «reklama» у темі «Reklama a rozhodovanie»",
+                "ru": "выражение «reklama» в теме «Reklama a rozhodovanie»",
+                "en": "the expression “reklama” in the topic “Reklama a rozhodovanie”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "вираз «spotrebiteľ» у темі «Reklama a rozhodovanie»",
+                "ru": "выражение «spotrebiteľ» в теме «Reklama a rozhodovanie»",
+                "en": "the expression “spotrebiteľ” in the topic “Reklama a rozhodovanie”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "вираз «kampaň» у темі «Reklama a rozhodovanie»",
+                "ru": "выражение «kampaň» в теме «Reklama a rozhodovanie»",
+                "en": "the expression “kampaň” in the topic “Reklama a rozhodovanie”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s10-l059-e02",
+          "lessonId": "c1-s10-l059",
+          "type": "matching",
+          "order": 2,
+          "question": "З'єднай фрази з поясненнями.",
+          "questionLocalized": {
+            "uk": "З'єднай фрази з поясненнями.",
+            "ru": "Соедини фразы с объяснениями.",
+            "en": "Match phrases with explanations."
+          },
+          "wordIds": [
+            "c1-s10-l059-w01",
+            "c1-s10-l059-w02",
+            "c1-s10-l059-w03",
+            "c1-s10-l059-w04"
+          ],
+          "pairs": [
+            {
+              "left": "reklama",
+              "right": "вираз «reklama» у темі «Reklama a rozhodovanie»",
+              "rightRu": "выражение «reklama» в теме «Reklama a rozhodovanie»",
+              "rightEn": "the expression “reklama” in the topic “Reklama a rozhodovanie”"
+            },
+            {
+              "left": "spotrebiteľ",
+              "right": "вираз «spotrebiteľ» у темі «Reklama a rozhodovanie»",
+              "rightRu": "выражение «spotrebiteľ» в теме «Reklama a rozhodovanie»",
+              "rightEn": "the expression “spotrebiteľ” in the topic “Reklama a rozhodovanie”"
+            },
+            {
+              "left": "kampaň",
+              "right": "вираз «kampaň» у темі «Reklama a rozhodovanie»",
+              "rightRu": "выражение «kampaň» в теме «Reklama a rozhodovanie»",
+              "rightEn": "the expression “kampaň” in the topic “Reklama a rozhodovanie”"
+            },
+            {
+              "left": "presvedčiť",
+              "right": "вираз «presvedčiť» у темі «Reklama a rozhodovanie»",
+              "rightRu": "выражение «presvedčiť» в теме «Reklama a rozhodovanie»",
+              "rightEn": "the expression “presvedčiť” in the topic “Reklama a rozhodovanie”"
+            }
+          ]
+        },
+        {
+          "id": "c1-s10-l059-e03",
+          "lessonId": "c1-s10-l059",
+          "type": "fill_blank",
+          "order": 3,
+          "question": "Впиши словацькою: вираз «kampaň» у темі «Reklama a rozhodovanie».",
+          "questionLocalized": {
+            "uk": "Впиши словацькою: вираз «kampaň» у темі «Reklama a rozhodovanie».",
+            "ru": "Впиши по-словацки: выражение «kampaň» в теме «Reklama a rozhodovanie».",
+            "en": "Write in Slovak: the expression “kampaň” in the topic “Reklama a rozhodovanie”."
+          },
+          "wordIds": [
+            "c1-s10-l059-w03"
+          ],
+          "sentence": "______",
+          "acceptedAnswers": [
+            "kampaň"
+          ],
+          "hint": {
+            "uk": "Початок: ka...",
+            "ru": "Начало: ka...",
+            "en": "Start: ka..."
+          }
+        },
+        {
+          "id": "c1-s10-l059-e04",
+          "lessonId": "c1-s10-l059",
+          "type": "dropdown_blank",
+          "order": 4,
+          "question": "Обери точну фразу для C1-речення.",
+          "questionLocalized": {
+            "uk": "Обери точну фразу для C1-речення.",
+            "ru": "Выбери точную фразу для C1-предложения.",
+            "en": "Choose the precise phrase for a C1 sentence."
+          },
+          "wordIds": [
+            "c1-s10-l059-w04"
+          ],
+          "sentenceParts": [
+            {
+              "text": "V tejto situácii je dôležité použiť "
+            },
+            {
+              "blankId": "blank1",
+              "options": [
+                "presvedčiť",
+                "reklama",
+                "spotrebiteľ"
+              ],
+              "correct": "presvedčiť"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "c1-s10-l059-e05",
+          "lessonId": "c1-s10-l059",
+          "type": "sentence_builder",
+          "order": 5,
+          "question": "Склади природну словацьку репліку.",
+          "questionLocalized": {
+            "uk": "Склади природну словацьку репліку.",
+            "ru": "Собери естественную словацкую реплику.",
+            "en": "Build a natural Slovak reply."
+          },
+          "wordIds": [
+            "c1-s10-l059-w05"
+          ],
+          "tokens": [
+            "Rozumiem",
+            "situácii,",
+            "ale",
+            "potrebujem",
+            "ju",
+            "ešte",
+            "upresniť."
+          ],
+          "correctSentence": "Rozumiem situácii, ale potrebujem ju ešte upresniť."
+        },
+        {
+          "id": "c1-s10-l059-e06",
+          "lessonId": "c1-s10-l059",
+          "type": "multiple_select",
+          "order": 6,
+          "question": "Обери C1-репліки з природним тоном.",
+          "questionLocalized": {
+            "uk": "Обери C1-репліки з природним тоном.",
+            "ru": "Выбери C1-реплики с естественным тоном.",
+            "en": "Select C1 replies with a natural tone."
+          },
+          "wordIds": [
+            "c1-s10-l059-w01",
+            "c1-s10-l059-w06"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Rozumiem, ale potrebujem to presnejšie vysvetliť.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "To je úplne mimo a nemá zmysel hovoriť.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Z môjho pohľadu je dôležitý aj kontext.",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "id": "c1-s10-l059-e07",
+          "lessonId": "c1-s10-l059",
+          "type": "reading_comprehension",
+          "order": 7,
+          "question": "Прочитай текст і вибери головну думку.",
+          "questionLocalized": {
+            "uk": "Прочитай текст і вибери головну думку.",
+            "ru": "Прочитай текст и выбери главную мысль.",
+            "en": "Read the text and choose the main idea."
+          },
+          "wordIds": [
+            "c1-s10-l059-w06",
+            "c1-s10-l059-w07",
+            "c1-s10-l059-w08"
+          ],
+          "text": "Téma Reklama a rozhodovanie si vyžaduje presnosť. Nestačí poznať slová; treba reagovať podľa kontextu, vysvetliť dôvod a navrhnúť ďalší krok.",
+          "questions": [
+            {
+              "prompt": {
+                "uk": "Що є головною думкою?",
+                "ru": "Что является главной мыслью?",
+                "en": "What is the main idea?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "Treba reagovať presne podľa kontextu.",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "Stačí opakovať jedno slovo.",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "Najlepšie je nereagovať.",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c1-s10-l059-e08",
+          "lessonId": "c1-s10-l059",
+          "type": "dialogue_choose_reply",
+          "order": 8,
+          "question": "Обери найкращу відповідь у діалозі.",
+          "questionLocalized": {
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
+          },
+          "wordIds": [
+            "c1-s10-l059-w07"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Ako by si to vysvetlil?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Najprv zhrniem situáciu a potom poviem svoj návrh.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Nepoviem nič, lebo je to ťažké.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Odpoviem jedným náhodným slovom.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s10-l059-e09",
+          "lessonId": "c1-s10-l059",
+          "type": "meaning_in_context",
+          "order": 9,
+          "question": "Що означає «spotrebiteľ» у контексті?",
+          "questionLocalized": {
+            "uk": "Що означає «spotrebiteľ» у контексті?",
+            "ru": "Что означает «spotrebiteľ» в контексте?",
+            "en": "What does “spotrebiteľ” mean in context?"
+          },
+          "wordIds": [
+            "c1-s10-l059-w02"
+          ],
+          "context": {
+            "sk": "Rozhovor je citlivý, preto si najprv overím význam a tón."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "вираз «spotrebiteľ» у темі «Reklama a rozhodovanie»",
+                "ru": "выражение «spotrebiteľ» в теме «Reklama a rozhodovanie»",
+                "en": "the expression “spotrebiteľ” in the topic “Reklama a rozhodovanie”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "вираз «upútať» у темі «Reklama a rozhodovanie»",
+                "ru": "выражение «upútať» в теме «Reklama a rozhodovanie»",
+                "en": "the expression “upútať” in the topic “Reklama a rozhodovanie”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "вираз «propagácia» у темі «Reklama a rozhodovanie»",
+                "ru": "выражение «propagácia» в теме «Reklama a rozhodovanie»",
+                "en": "the expression “propagácia” in the topic “Reklama a rozhodovanie”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s10-l059-e10",
+          "lessonId": "c1-s10-l059",
+          "type": "natural_phrase",
+          "order": 10,
+          "question": "Що звучить найприродніше?",
+          "questionLocalized": {
+            "uk": "Що звучить найприродніше?",
+            "ru": "Что звучит естественнее всего?",
+            "en": "What sounds most natural?"
+          },
+          "wordIds": [
+            "c1-s10-l059-w08"
+          ],
+          "situation": {
+            "uk": "Потрібно відповісти точно, але без різкого тону.",
+            "ru": "Нужно ответить точно, но без резкого тона.",
+            "en": "You need to answer precisely but without a sharp tone."
+          },
+          "options": [
+            {
+              "id": "a",
+              "sk": "Chápem tvoj pohľad, ale doplnil by som ešte jednu vec.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Ty ničomu nerozumieš.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Áno nie možno včera.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s10-l059-e11",
+          "lessonId": "c1-s10-l059",
+          "type": "reverse_translation",
+          "order": 11,
+          "question": "Обери словацький варіант для: вираз «upútať» у темі «Reklama a rozhodovanie».",
+          "questionLocalized": {
+            "uk": "Обери словацький варіант для: вираз «upútať» у темі «Reklama a rozhodovanie».",
+            "ru": "Выбери словацкий вариант для: выражение «upútať» в теме «Reklama a rozhodovanie».",
+            "en": "Choose the Slovak item for: the expression “upútať” in the topic “Reklama a rozhodovanie”."
+          },
+          "wordIds": [
+            "c1-s10-l059-w05"
+          ],
+          "options": [
+            "upútať",
+            "kampaň",
+            "reklama"
+          ],
+          "correctAnswer": "upútať"
+        },
+        {
+          "id": "c1-s10-l059-e12",
+          "lessonId": "c1-s10-l059",
+          "type": "sentence_order",
+          "order": 12,
+          "question": "Віднови логічний порядок C1-відповіді.",
+          "questionLocalized": {
+            "uk": "Віднови логічний порядок C1-відповіді.",
+            "ru": "Восстанови логический порядок C1-ответа.",
+            "en": "Restore the logical order of a C1 answer."
+          },
+          "wordIds": [
+            "c1-s10-l059-w01",
+            "c1-s10-l059-w02"
+          ],
+          "items": [
+            "Najprv treba pomenovať kontext.",
+            "Potom možno doplniť presnejší výraz.",
+            "Napokon z toho vyplýva konkrétny záver."
+          ],
+          "correctOrder": [
+            "Najprv treba pomenovať kontext.",
+            "Potom možno doplniť presnejší výraz.",
+            "Napokon z toho vyplýva konkrétny záver."
+          ]
+        },
+        {
+          "id": "c1-s10-l059-e13",
+          "lessonId": "c1-s10-l059",
+          "type": "dialogue_choose_reply",
+          "order": 13,
+          "question": "Обери відповідь з точним регістром.",
+          "questionLocalized": {
+            "uk": "Обери відповідь з точним регістром.",
+            "ru": "Выбери ответ с точным регистром.",
+            "en": "Choose the reply with the right register."
+          },
+          "wordIds": [
+            "c1-s10-l059-w03",
+            "c1-s10-l059-w04"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Potrebujem to povedať odborne, ale nie zbytočne tvrdo."
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Rozumiem. Preformuloval by som to vecne a zároveň opatrne.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Napíš tam čokoľvek, hlavne rýchlo.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Daj tam najtvrdšiu možnú formuláciu.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c1-s10-l059-e14",
+          "lessonId": "c1-s10-l059",
+          "type": "multiple_choice_translation",
+          "order": 14,
+          "question": "Що відповідає словацькому «propagácia»?",
+          "questionLocalized": {
+            "uk": "Що відповідає словацькому «propagácia»?",
+            "ru": "Что соответствует словацкому «propagácia»?",
+            "en": "What matches the Slovak “propagácia”?"
+          },
+          "wordIds": [
+            "c1-s10-l059-w08"
+          ],
+          "options": [
+            "вираз «propagácia» у темі «Reklama a rozhodovanie»",
+            "вираз «spotrebiteľ» у темі «Reklama a rozhodovanie»",
+            "вираз «kampaň» у темі «Reklama a rozhodovanie»"
+          ],
+          "correctAnswer": "вираз «propagácia» у темі «Reklama a rozhodovanie»"
+        }
+      ],
+      "finalSituation": {
+        "id": "final-situation",
+        "type": "interactive_scenario",
+        "title": {
+          "uk": "Reklama a rozhodovanie: реальна ситуація",
+          "ru": "Reklama a rozhodovanie: реальная ситуация",
+          "en": "Reklama a rozhodovanie: real situation"
+        },
+        "description": {
+          "uk": "Обери репліки, які звучать природно, точно й доречно на рівні C1.",
+          "ru": "Выбери реплики, которые звучат естественно, точно и уместно на уровне C1.",
+          "en": "Choose replies that sound natural, precise and appropriate at C1 level."
+        },
+        "steps": [
+          {
+            "id": "f1",
+            "prompt": {
+              "uk": "Потрібно почати відповідь без різкості.",
+              "ru": "Нужно начать ответ без резкости.",
+              "en": "You need to start without sounding harsh."
+            },
+            "options": [
+              {
+                "sk": "Rozumiem, skúsim to najprv zhrnúť vlastnými slovami.",
+                "correct": true
+              },
+              {
+                "sk": "Nemáš pravdu a viac sa o tom nebavme.",
+                "correct": false
+              },
+              {
+                "sk": "Neviem a nechcem reagovať.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "prompt": {
+              "uk": "Потрібно додати аргумент.",
+              "ru": "Нужно добавить аргумент.",
+              "en": "You need to add an argument."
+            },
+            "options": [
+              {
+                "sk": "Dôvod je podľa mňa v tom, že situácia má viac okolností.",
+                "correct": true
+              },
+              {
+                "sk": "Pretože áno.",
+                "correct": false
+              },
+              {
+                "sk": "To nesúvisí s ničím.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f3",
+            "prompt": {
+              "uk": "Потрібно завершити практично.",
+              "ru": "Нужно завершить практически.",
+              "en": "You need to close practically."
+            },
+            "options": [
+              {
+                "sk": "Navrhujem ďalší krok a potom si to potvrdíme písomne.",
+                "correct": true
+              },
+              {
+                "sk": "Nechajme to bez riešenia.",
+                "correct": false
+              },
+              {
+                "sk": "Každý nech si domyslí zvyšok.",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "passRequirement": "3/3",
+        "successMessage": {
+          "uk": "Готово: тема перенесена в реальну C1-комунікацію.",
+          "ru": "Готово: тема перенесена в реальную C1-коммуникацию.",
+          "en": "Done: the topic was transferred into real C1 communication."
+        }
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": {
+          "uk": "Урок завершено",
+          "ru": "Урок завершён",
+          "en": "Lesson complete"
+        },
+        "subtitle": {
+          "uk": "Ти пройшов ще один крок рівня C1.",
+          "ru": "Ты прошёл ещё один шаг уровня C1.",
+          "en": "You completed another C1 step."
+        },
+        "xpReward": 220,
+        "newWordsCount": 8,
+        "exercisesCompleted": 14,
+        "nowYouKnow": [
+          "структурувати відповідь",
+          "пояснювати нюанс",
+          "реагувати доречно"
+        ],
+        "mistakesMessage": {
+          "uk": "Повтори вправи, де плутається значення або тон.",
+          "ru": "Повтори упражнения, где путается значение или тон.",
+          "en": "Repeat exercises where meaning or tone is unclear."
+        },
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "skills": [
+          {
+            "id": "vocabulary",
+            "label": {
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
+            },
+            "weight": 0.3
+          },
+          {
+            "id": "composition",
+            "label": {
+              "uk": "структура",
+              "ru": "структура",
+              "en": "composition"
+            },
+            "weight": 0.4
+          },
+          {
+            "id": "transfer",
+            "label": {
+              "uk": "перенесення",
+              "ru": "перенос",
+              "en": "transfer"
+            },
+            "weight": 0.3
+          }
+        ],
+        "nextLesson": {
+          "id": "c1-s10-l060"
+        }
+      }
+    }
+  ]
+}
