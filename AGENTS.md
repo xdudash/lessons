@@ -3,12 +3,20 @@
 ## Source of truth
 Read the current repository state before editing. GitHub `main` is the durable source of truth.
 
+Start every cold session with the SSD layer:
+- `README.md`
+- `docs/SSD_CONCEPT.md`
+- `docs/LESSON_PRODUCTION_REPORT.md`
+- `docs/NEXT_WORK_CHECKLIST.md`
+
 Level roadmaps are level-specific:
 - A1: `curriculum/A1_MASTER_LESSON_PLAN.md`.
 - A2: `A2/LESSON_PLAN.md`.
 - B1–C2: the corresponding `B1/LESSON_PLAN.md` … `C2/LESSON_PLAN.md`.
 
 Curriculum architecture is `curriculum/COURSE_ARCHITECTURE_V2.md`. The current SlovakGo application schema/runtime checker outrank stale local assumptions about fields or exercise mechanics.
+
+SSD means Source / Status / Decisions. Every lesson-production change must preserve all three: use the correct source files, update status/report files, and record important decisions or limitations.
 
 ## Language rules
 - Target language: Slovak (`slovenčina`). Never substitute Slovenian (`slovenščina`).
@@ -48,14 +56,16 @@ Use NEW → STABILIZE → CONTRAST → TRANSFER → INTEGRATE → MASTERY as lea
 Vocabulary repetition is intentional only when it serves review, transfer or mastery. For A2, completed A1 content is prerequisite evidence: an A1-owned item must not be relabeled as newly learned merely because it appears in the A2 map.
 
 ## Production workflow
-1. Read the current level plan, architecture, progress and `main` tree.
-2. Read the current application schema/runtime contract when lesson format is involved.
-3. Build the exact lesson map for the target batch: IDs, outcomes, prerequisites, ownership and transfer evidence.
-4. Draft/generate the complete batch before publication.
-5. Run structural schema validation, real runtime QA and semantic/adversarial curriculum QA.
-6. If a defect class appears, repair the source rule/generator and revalidate the whole affected set.
-7. Only green batches are written to the durable branch/main.
-8. Read back remote files and verify inventory, links and progress after publication.
+1. Read `README.md`, SSD docs, the current level plan, architecture, progress and `main` tree.
+2. Classify the work: new production, errata, QA hardening, schema alignment, localization repair or documentation.
+3. Read the current application schema/runtime contract when lesson format is involved.
+4. Build the exact affected map: IDs, outcomes, prerequisites, ownership, localization and transfer evidence.
+5. Draft/generate the complete affected set before publication.
+6. Run structural schema validation, real runtime QA where available and semantic/adversarial curriculum QA.
+7. If a defect class appears, repair the source rule/generator and revalidate the whole affected set.
+8. Update progress/report/SSD documents so the next session can continue safely.
+9. Only green batches are written to the durable branch/main.
+10. Read back remote files and verify inventory, links and progress after publication.
 
 ## Hard-failure gate
 STOP → IDENTIFY → REPAIR THE RULE → REVALIDATE THE WHOLE AFFECTED SET → COMMIT.
@@ -65,3 +75,9 @@ Do not continue dependent production on a known hard failure. Do not claim real 
 ## Repository hygiene
 Keep one canonical agent instruction file. Keep one authoritative lesson map per level. Remove temporary generators, one-shot workflows and stale audits when production is complete unless they have continuing repository value.
 Do not rewrite completed A1 while building A2 except for separately identified errata.
+
+## Reporting requirement
+When finishing lesson work, update the relevant files:
+- `progress/<LEVEL>_PROGRESS.md` for level status.
+- `docs/LESSON_PRODUCTION_REPORT.md` for QA evidence, known limitations and follow-up areas.
+- `docs/NEXT_WORK_CHECKLIST.md` only when the workflow itself changes.

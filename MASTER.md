@@ -5,6 +5,9 @@ Build a complete Slovak course from A1 through C2. Completeness is defined by CE
 
 ## Source of truth
 - GitHub `main` is the durable repository state.
+- `docs/SSD_CONCEPT.md` defines how to return to the project, understand status and continue safely.
+- `docs/LESSON_PRODUCTION_REPORT.md` records current production evidence and known follow-up areas.
+- `docs/NEXT_WORK_CHECKLIST.md` is the required pre-flight checklist before lesson edits.
 - A1: `curriculum/A1_MASTER_LESSON_PLAN.md`.
 - A2: `A2/LESSON_PLAN.md`.
 - B1–C2: the corresponding level-folder `LESSON_PLAN.md`.
@@ -40,9 +43,28 @@ A production-final lesson must pass applicable gates: JSON/schema validity; runt
 
 A2 additionally requires A1→A2 ownership control and a full 90-lesson chain ending at terminal `a2-s15-l90`.
 
+## SSD concept
+SSD means **Source / Status / Decisions**:
+
+- **Source:** every lesson change starts from the authoritative level plan, JSON contract, schema/runtime checker and current GitHub `main`.
+- **Status:** every completed batch updates the relevant progress file and production report.
+- **Decisions:** every non-obvious rule, trade-off or known limitation is written down before the next session forgets it.
+
+This repository must be understandable after a cold start. A future agent should be able to open `README.md`, follow the SSD documents and continue without relying on chat memory.
+
 ## Repository hygiene
 Keep one authoritative instruction document (`AGENTS.md`) and one authoritative lesson map per level. Temporary generators, one-shot workflows and stale audits are removed after successful production unless they have continuing value.
 
 ## Failure handling
 STOP → IDENTIFY → REPAIR → REVALIDATE THE WHOLE AFFECTED SET → COMMIT.
 Never continue dependent production on top of a known invalid state.
+
+## Return-to-work protocol
+1. Pull/read current `main`.
+2. Read `README.md`, `docs/SSD_CONCEPT.md`, `docs/LESSON_PRODUCTION_REPORT.md` and `docs/NEXT_WORK_CHECKLIST.md`.
+3. Read the target level plan and progress file.
+4. Identify whether the work is production, errata, QA hardening or documentation.
+5. Update source rules/generators before regenerating affected lessons.
+6. Run the full affected QA.
+7. Update status/report documents.
+8. Commit and publish only after fresh verification.
