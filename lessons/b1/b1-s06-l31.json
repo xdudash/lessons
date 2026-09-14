@@ -1,0 +1,1056 @@
+{
+  "lessons": [
+    {
+      "id": "b1-s06-l31",
+      "sectionId": "b1_s06",
+      "level": "B1",
+      "title": {
+        "sk": "Čomu sa venujem?",
+        "uk": "B1: Čomu sa venujem?",
+        "ru": "B1: Čomu sa venujem?",
+        "en": "B1: Čomu sa venujem?"
+      },
+      "topic": {
+        "sk": "Čomu sa venujem?",
+        "uk": "B1: Čomu sa venujem?",
+        "ru": "B1: Čomu sa venujem?",
+        "en": "B1: Čomu sa venujem?"
+      },
+      "description": {
+        "sk": "Precvičíš si tému Čomu sa venujem? v súvislej komunikácii na úrovni B1.",
+        "uk": "Тренуємо тему «Čomu sa venujem?»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+        "ru": "рассказываем о своей работе/учёбе, специализации и обычных задачах.",
+        "en": "Practice the B1 topic “Čomu sa venujem?” inside connected communication. Section: Work, study and professional communication."
+      },
+      "order": 31,
+      "xpReward": 140,
+      "estimatedMinutes": 28,
+      "isPublished": false,
+      "intro": {
+        "sk": "Precvičíš si tému Čomu sa venujem? v súvislej komunikácii na úrovni B1.",
+        "uk": "Тренуємо тему «Čomu sa venujem?»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+        "ru": "рассказываем о своей работе/учёбе, специализации и обычных задачах.",
+        "en": "Practice the B1 topic “Čomu sa venujem?” inside connected communication. Section: Work, study and professional communication."
+      },
+      "completionMessage": {
+        "sk": "Výborne. Pokračuj v používaní témy v reálnych situáciách.",
+        "uk": "Добре. Тепер перенеси тему в реальну розмову.",
+        "ru": "Хорошо. Теперь перенеси тему в реальный разговор.",
+        "en": "Good. Now transfer the topic into a real conversation."
+      },
+      "updatedAt": "2026-09-14T00:00:00Z",
+      "localization": {
+        "uiLanguages": [
+          "uk",
+          "ru",
+          "en"
+        ],
+        "targetLanguage": "sk",
+        "fallbackUiLanguage": "uk"
+      },
+      "assets": {
+        "images": {},
+        "audio": {}
+      },
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": {
+          "sk": "Čomu sa venujem?",
+          "uk": "B1: Čomu sa venujem?",
+          "ru": "B1: Čomu sa venujem?",
+          "en": "B1: Čomu sa venujem?"
+        },
+        "shortDescription": {
+          "uk": "Тренуємо тему «Čomu sa venujem?»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+          "ru": "рассказываем о своей работе/учёбе, специализации и обычных задачах.",
+          "en": "Practice the B1 topic “Čomu sa venujem?” inside connected communication. Section: Work, study and professional communication."
+        },
+        "outcomes": [
+          {
+            "uk": "пояснити тему «Čomu sa venujem?» зв'язно",
+            "ru": "связно объяснить тему «Čomu sa venujem?»",
+            "en": "explain the topic “Čomu sa venujem?” coherently"
+          },
+          {
+            "uk": "використати нові слова в контексті",
+            "ru": "использовать новые слова в контексте",
+            "en": "use new words in context"
+          },
+          {
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
+          }
+        ],
+        "newWords": [
+          "b1-s06-l31-w01",
+          "b1-s06-l31-w02",
+          "b1-s06-l31-w03",
+          "b1-s06-l31-w04",
+          "b1-s06-l31-w05",
+          "b1-s06-l31-w06",
+          "b1-s06-l31-w07",
+          "b1-s06-l31-w08"
+        ],
+        "exercisesCount": 12,
+        "reward": "+140 XP",
+        "estimatedMinutes": 28,
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "id": "t1",
+          "screenType": "theory",
+          "order": 1,
+          "title": {
+            "uk": "Сенс уроку",
+            "ru": "Смысл урока",
+            "en": "Lesson focus"
+          },
+          "body": {
+            "uk": "Тренуємо тему «Čomu sa venujem?»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+            "ru": "рассказываем о своей работе/учёбе, специализации и обычных задачах.",
+            "en": "Practice the B1 topic “Čomu sa venujem?” inside connected communication. Section: Work, study and professional communication."
+          },
+          "examples": [
+            {
+              "sk": "Téma je Čomu sa venujem?.",
+              "translation": {
+                "uk": "Тема: «Čomu sa venujem?».",
+                "ru": "Тема: «Čomu sa venujem?».",
+                "en": "Topic: “Čomu sa venujem?”."
+              }
+            },
+            {
+              "sk": "Používam výraz venovať sa v reálnej situácii.",
+              "translation": {
+                "uk": "Я використовую «venovať sa» у реальній ситуації.",
+                "ru": "Я использую «venovať sa» в реальной ситуации.",
+                "en": "I use “venovať sa” in a real situation."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "На B1 важливо не лише знати слово, а зв'язати його з причиною, прикладом і реакцією.",
+            "ru": "На B1 важно не только знать слово, а связать его с причиной, примером и реакцией.",
+            "en": "At B1, connect the item with a reason, example and reaction."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t2",
+          "screenType": "theory",
+          "order": 2,
+          "title": {
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer pattern"
+          },
+          "body": {
+            "uk": "Будуй відповідь за схемою: ситуація → причина → приклад → що роблю далі.",
+            "ru": "Строй ответ по схеме: ситуация → причина → пример → что делаю дальше.",
+            "en": "Build the answer as: situation → reason → example → next action."
+          },
+          "examples": [
+            {
+              "sk": "Najprv vysvetlím situáciu, potom použijem odbor.",
+              "translation": {
+                "uk": "Спочатку пояснюю ситуацію, потім використовую цільовий вираз.",
+                "ru": "Сначала объясняю ситуацию, потом использую целевое выражение.",
+                "en": "First I explain the situation, then I use the target item."
+              }
+            },
+            {
+              "sk": "Podľa mňa je dôležité hovoriť jasne o téme Čomu sa venujem?.",
+              "translation": {
+                "uk": "На мою думку, важливо говорити про тему ясно.",
+                "ru": "По моему мнению, важно говорить о теме ясно.",
+                "en": "In my opinion, it is important to speak about the topic clearly."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "Одна думка = одне зрозуміле речення. Потім додай причину або приклад.",
+            "ru": "Одна мысль = одно понятное предложение. Потом добавь причину или пример.",
+            "en": "One idea equals one clear sentence. Then add a reason or example."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t3",
+          "screenType": "theory",
+          "order": 3,
+          "title": {
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
+          },
+          "body": {
+            "uk": "У фінальній ситуації потрібно вибрати репліку, яка реально підходить до контексту, а не просто повторює слово.",
+            "ru": "В финальной ситуации нужно выбрать реплику, которая реально подходит к контексту, а не просто повторяет слово.",
+            "en": "In the final situation, choose a reply that fits the context, not just a repeated word."
+          },
+          "examples": [
+            {
+              "sk": "V praxi by som to povedal pokojne a konkrétne.",
+              "translation": {
+                "uk": "На практиці я сказав би це спокійно й конкретно.",
+                "ru": "На практике я сказал бы это спокойно и конкретно.",
+                "en": "In practice I would say it calmly and concretely."
+              }
+            },
+            {
+              "sk": "Ak niečomu nerozumiem, spýtam sa doplňujúcu otázku.",
+              "translation": {
+                "uk": "Якщо чогось не розумію, ставлю уточнювальне питання.",
+                "ru": "Если чего-то не понимаю, задаю уточняющий вопрос.",
+                "en": "If I do not understand something, I ask a follow-up question."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "B1 = зв'язна відповідь, уточнення і практичний результат.",
+            "ru": "B1 = связный ответ, уточнение и практический результат.",
+            "en": "B1 means a connected answer, clarification and a practical result."
+          },
+          "button": "Далі"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": {
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
+        },
+        "description": {
+          "uk": "Усі одиниці взяті з затвердженого плану B1.",
+          "ru": "Все единицы взяты из утвержденного плана B1.",
+          "en": "All items come from the approved B1 plan."
+        },
+        "items": [
+          {
+            "wordId": "b1-s06-l31-w01",
+            "sk": "venovať sa",
+            "uk": "словацьке слово/вираз «venovať sa»",
+            "ru": "словацкое слово/выражение «venovať sa»",
+            "en": "Slovak word/expression “venovať sa”",
+            "pronunciationUk": "venovaть sa",
+            "exampleSk": "V tejto situácii používam výraz venovať sa.",
+            "exampleUk": "У цій ситуації я використовую вираз «venovať sa».",
+            "exampleRu": "В этой ситуации я использую выражение «venovať sa».",
+            "exampleEn": "In this situation I use “venovať sa”."
+          },
+          {
+            "wordId": "b1-s06-l31-w02",
+            "sk": "odbor",
+            "uk": "словацьке слово/вираз «odbor»",
+            "ru": "словацкое слово/выражение «odbor»",
+            "en": "Slovak word/expression “odbor”",
+            "pronunciationUk": "odbor",
+            "exampleSk": "V tejto situácii používam výraz odbor.",
+            "exampleUk": "У цій ситуації я використовую вираз «odbor».",
+            "exampleRu": "В этой ситуации я использую выражение «odbor».",
+            "exampleEn": "In this situation I use “odbor”."
+          },
+          {
+            "wordId": "b1-s06-l31-w03",
+            "sk": "povolanie",
+            "uk": "словацьке слово/вираз «povolanie»",
+            "ru": "словацкое слово/выражение «povolanie»",
+            "en": "Slovak word/expression “povolanie”",
+            "pronunciationUk": "povolanie",
+            "exampleSk": "V tejto situácii používam výraz povolanie.",
+            "exampleUk": "У цій ситуації я використовую вираз «povolanie».",
+            "exampleRu": "В этой ситуации я использую выражение «povolanie».",
+            "exampleEn": "In this situation I use “povolanie”."
+          },
+          {
+            "wordId": "b1-s06-l31-w04",
+            "sk": "pozícia",
+            "uk": "словацьке слово/вираз «pozícia»",
+            "ru": "словацкое слово/выражение «pozícia»",
+            "en": "Slovak word/expression “pozícia”",
+            "pronunciationUk": "pozіcia",
+            "exampleSk": "V tejto situácii používam výraz pozícia.",
+            "exampleUk": "У цій ситуації я використовую вираз «pozícia».",
+            "exampleRu": "В этой ситуации я использую выражение «pozícia».",
+            "exampleEn": "In this situation I use “pozícia”."
+          },
+          {
+            "wordId": "b1-s06-l31-w05",
+            "sk": "úloha",
+            "uk": "словацьке слово/вираз «úloha»",
+            "ru": "словацкое слово/выражение «úloha»",
+            "en": "Slovak word/expression “úloha”",
+            "pronunciationUk": "уloha",
+            "exampleSk": "V tejto situácii používam výraz úloha.",
+            "exampleUk": "У цій ситуації я використовую вираз «úloha».",
+            "exampleRu": "В этой ситуации я использую выражение «úloha».",
+            "exampleEn": "In this situation I use “úloha”."
+          },
+          {
+            "wordId": "b1-s06-l31-w06",
+            "sk": "oblasť",
+            "uk": "словацьке слово/вираз «oblasť»",
+            "ru": "словацкое слово/выражение «oblasť»",
+            "en": "Slovak word/expression “oblasť”",
+            "pronunciationUk": "oblasть",
+            "exampleSk": "V tejto situácii používam výraz oblasť.",
+            "exampleUk": "У цій ситуації я використовую вираз «oblasť».",
+            "exampleRu": "В этой ситуации я использую выражение «oblasť».",
+            "exampleEn": "In this situation I use “oblasť”."
+          },
+          {
+            "wordId": "b1-s06-l31-w07",
+            "sk": "zodpovednosť",
+            "uk": "словацьке слово/вираз «zodpovednosť»",
+            "ru": "словацкое слово/выражение «zodpovednosť»",
+            "en": "Slovak word/expression “zodpovednosť”",
+            "pronunciationUk": "zodpovednosть",
+            "exampleSk": "V tejto situácii používam výraz zodpovednosť.",
+            "exampleUk": "У цій ситуації я використовую вираз «zodpovednosť».",
+            "exampleRu": "В этой ситуации я использую выражение «zodpovednosť».",
+            "exampleEn": "In this situation I use “zodpovednosť”."
+          },
+          {
+            "wordId": "b1-s06-l31-w08",
+            "sk": "skúsenosť",
+            "uk": "словацьке слово/вираз «skúsenosť»",
+            "ru": "словацкое слово/выражение «skúsenosť»",
+            "en": "Slovak word/expression “skúsenosť”",
+            "pronunciationUk": "skуsenosть",
+            "exampleSk": "V tejto situácii používam výraz skúsenosť.",
+            "exampleUk": "У цій ситуації я використовую вираз «skúsenosť».",
+            "exampleRu": "В этой ситуации я использую выражение «skúsenosť».",
+            "exampleEn": "In this situation I use “skúsenosť”."
+          }
+        ],
+        "button": "До практики"
+      },
+      "words": [
+        {
+          "id": "b1-s06-l31-w01",
+          "sk": "venovať sa",
+          "uk": "словацьке слово/вираз «venovať sa»",
+          "ru": "словацкое слово/выражение «venovať sa»",
+          "en": "Slovak word/expression “venovať sa”",
+          "pronunciationUk": "venovaть sa",
+          "exampleSk": "V tejto situácii používam výraz venovať sa.",
+          "exampleUk": "У цій ситуації я використовую вираз «venovať sa».",
+          "exampleRu": "В этой ситуации я использую выражение «venovať sa».",
+          "exampleEn": "In this situation I use “venovať sa”.",
+          "level": "B1",
+          "topic": "Čomu sa venujem?",
+          "tags": [
+            "b1_s06",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s06-l31-w02",
+          "sk": "odbor",
+          "uk": "словацьке слово/вираз «odbor»",
+          "ru": "словацкое слово/выражение «odbor»",
+          "en": "Slovak word/expression “odbor”",
+          "pronunciationUk": "odbor",
+          "exampleSk": "V tejto situácii používam výraz odbor.",
+          "exampleUk": "У цій ситуації я використовую вираз «odbor».",
+          "exampleRu": "В этой ситуации я использую выражение «odbor».",
+          "exampleEn": "In this situation I use “odbor”.",
+          "level": "B1",
+          "topic": "Čomu sa venujem?",
+          "tags": [
+            "b1_s06",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s06-l31-w03",
+          "sk": "povolanie",
+          "uk": "словацьке слово/вираз «povolanie»",
+          "ru": "словацкое слово/выражение «povolanie»",
+          "en": "Slovak word/expression “povolanie”",
+          "pronunciationUk": "povolanie",
+          "exampleSk": "V tejto situácii používam výraz povolanie.",
+          "exampleUk": "У цій ситуації я використовую вираз «povolanie».",
+          "exampleRu": "В этой ситуации я использую выражение «povolanie».",
+          "exampleEn": "In this situation I use “povolanie”.",
+          "level": "B1",
+          "topic": "Čomu sa venujem?",
+          "tags": [
+            "b1_s06",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s06-l31-w04",
+          "sk": "pozícia",
+          "uk": "словацьке слово/вираз «pozícia»",
+          "ru": "словацкое слово/выражение «pozícia»",
+          "en": "Slovak word/expression “pozícia”",
+          "pronunciationUk": "pozіcia",
+          "exampleSk": "V tejto situácii používam výraz pozícia.",
+          "exampleUk": "У цій ситуації я використовую вираз «pozícia».",
+          "exampleRu": "В этой ситуации я использую выражение «pozícia».",
+          "exampleEn": "In this situation I use “pozícia”.",
+          "level": "B1",
+          "topic": "Čomu sa venujem?",
+          "tags": [
+            "b1_s06",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s06-l31-w05",
+          "sk": "úloha",
+          "uk": "словацьке слово/вираз «úloha»",
+          "ru": "словацкое слово/выражение «úloha»",
+          "en": "Slovak word/expression “úloha”",
+          "pronunciationUk": "уloha",
+          "exampleSk": "V tejto situácii používam výraz úloha.",
+          "exampleUk": "У цій ситуації я використовую вираз «úloha».",
+          "exampleRu": "В этой ситуации я использую выражение «úloha».",
+          "exampleEn": "In this situation I use “úloha”.",
+          "level": "B1",
+          "topic": "Čomu sa venujem?",
+          "tags": [
+            "b1_s06",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s06-l31-w06",
+          "sk": "oblasť",
+          "uk": "словацьке слово/вираз «oblasť»",
+          "ru": "словацкое слово/выражение «oblasť»",
+          "en": "Slovak word/expression “oblasť”",
+          "pronunciationUk": "oblasть",
+          "exampleSk": "V tejto situácii používam výraz oblasť.",
+          "exampleUk": "У цій ситуації я використовую вираз «oblasť».",
+          "exampleRu": "В этой ситуации я использую выражение «oblasť».",
+          "exampleEn": "In this situation I use “oblasť”.",
+          "level": "B1",
+          "topic": "Čomu sa venujem?",
+          "tags": [
+            "b1_s06",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s06-l31-w07",
+          "sk": "zodpovednosť",
+          "uk": "словацьке слово/вираз «zodpovednosť»",
+          "ru": "словацкое слово/выражение «zodpovednosť»",
+          "en": "Slovak word/expression “zodpovednosť”",
+          "pronunciationUk": "zodpovednosть",
+          "exampleSk": "V tejto situácii používam výraz zodpovednosť.",
+          "exampleUk": "У цій ситуації я використовую вираз «zodpovednosť».",
+          "exampleRu": "В этой ситуации я использую выражение «zodpovednosť».",
+          "exampleEn": "In this situation I use “zodpovednosť”.",
+          "level": "B1",
+          "topic": "Čomu sa venujem?",
+          "tags": [
+            "b1_s06",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s06-l31-w08",
+          "sk": "skúsenosť",
+          "uk": "словацьке слово/вираз «skúsenosť»",
+          "ru": "словацкое слово/выражение «skúsenosť»",
+          "en": "Slovak word/expression “skúsenosť”",
+          "pronunciationUk": "skуsenosть",
+          "exampleSk": "V tejto situácii používam výraz skúsenosť.",
+          "exampleUk": "У цій ситуації я використовую вираз «skúsenosť».",
+          "exampleRu": "В этой ситуации я использую выражение «skúsenosť».",
+          "exampleEn": "In this situation I use “skúsenosť”.",
+          "level": "B1",
+          "topic": "Čomu sa venujem?",
+          "tags": [
+            "b1_s06",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "b1-s06-l31-e01",
+          "lessonId": "b1-s06-l31",
+          "type": "single_choice",
+          "order": 1,
+          "question": "Що тренує словацька одиниця «venovať sa»?",
+          "questionLocalized": {
+            "uk": "Що тренує словацька одиниця «venovať sa»?",
+            "ru": "Что тренирует словацкая единица «venovať sa»?",
+            "en": "What does the Slovak item “venovať sa” train?"
+          },
+          "wordIds": [
+            "b1-s06-l31-w01"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "словацьке слово/вираз «venovať sa»",
+                "ru": "словацкое слово/выражение «venovať sa»",
+                "en": "Slovak word/expression “venovať sa”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "словацьке слово/вираз «odbor»",
+                "ru": "словацкое слово/выражение «odbor»",
+                "en": "Slovak word/expression “odbor”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "словацьке слово/вираз «povolanie»",
+                "ru": "словацкое слово/выражение «povolanie»",
+                "en": "Slovak word/expression “povolanie”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s06-l31-e02",
+          "lessonId": "b1-s06-l31",
+          "type": "matching",
+          "order": 2,
+          "question": "З'єднай словацькі одиниці з поясненнями.",
+          "questionLocalized": {
+            "uk": "З'єднай словацькі одиниці з поясненнями.",
+            "ru": "Соедини словацкие единицы с объяснениями.",
+            "en": "Match Slovak items with explanations."
+          },
+          "wordIds": [
+            "b1-s06-l31-w01",
+            "b1-s06-l31-w02",
+            "b1-s06-l31-w03",
+            "b1-s06-l31-w04"
+          ],
+          "pairs": [
+            {
+              "left": "venovať sa",
+              "right": "словацьке слово/вираз «venovať sa»",
+              "rightRu": "словацкое слово/выражение «venovať sa»",
+              "rightEn": "Slovak word/expression “venovať sa”"
+            },
+            {
+              "left": "odbor",
+              "right": "словацьке слово/вираз «odbor»",
+              "rightRu": "словацкое слово/выражение «odbor»",
+              "rightEn": "Slovak word/expression “odbor”"
+            },
+            {
+              "left": "povolanie",
+              "right": "словацьке слово/вираз «povolanie»",
+              "rightRu": "словацкое слово/выражение «povolanie»",
+              "rightEn": "Slovak word/expression “povolanie”"
+            },
+            {
+              "left": "pozícia",
+              "right": "словацьке слово/вираз «pozícia»",
+              "rightRu": "словацкое слово/выражение «pozícia»",
+              "rightEn": "Slovak word/expression “pozícia”"
+            }
+          ]
+        },
+        {
+          "id": "b1-s06-l31-e03",
+          "lessonId": "b1-s06-l31",
+          "type": "fill_blank",
+          "order": 3,
+          "question": "Впиши словацькою: словацьке слово/вираз «povolanie».",
+          "questionLocalized": {
+            "uk": "Впиши словацькою: словацьке слово/вираз «povolanie».",
+            "ru": "Впиши по-словацки: словацкое слово/выражение «povolanie».",
+            "en": "Write in Slovak: Slovak word/expression “povolanie”."
+          },
+          "wordIds": [
+            "b1-s06-l31-w03"
+          ],
+          "sentence": "______",
+          "acceptedAnswers": [
+            "povolanie"
+          ],
+          "hint": {
+            "uk": "Початок: p…",
+            "ru": "Начало: p…",
+            "en": "Start: p…"
+          }
+        },
+        {
+          "id": "b1-s06-l31-e04",
+          "lessonId": "b1-s06-l31",
+          "type": "sentence_builder",
+          "order": 4,
+          "question": "Склади природне словацьке речення.",
+          "questionLocalized": {
+            "uk": "Склади природне словацьке речення.",
+            "ru": "Собери естественное словацкое предложение.",
+            "en": "Build a natural Slovak sentence."
+          },
+          "wordIds": [
+            "b1-s06-l31-w04"
+          ],
+          "tokens": [
+            "Používam",
+            "pozícia",
+            "v",
+            "reálnej",
+            "situácii."
+          ],
+          "correctSentence": "Používam pozícia v reálnej situácii."
+        },
+        {
+          "id": "b1-s06-l31-e05",
+          "lessonId": "b1-s06-l31",
+          "type": "multiple_select",
+          "order": 5,
+          "question": "Обери одиниці з цього уроку.",
+          "questionLocalized": {
+            "uk": "Обери одиниці з цього уроку.",
+            "ru": "Выбери единицы из этого урока.",
+            "en": "Select items from this lesson."
+          },
+          "wordIds": [
+            "b1-s06-l31-w01",
+            "b1-s06-l31-w02"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "venovať sa",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "odbor",
+              "correct": true
+            },
+            {
+              "id": "c",
+              "sk": "Dnes prší.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s06-l31-e06",
+          "lessonId": "b1-s06-l31",
+          "type": "reading_comprehension",
+          "order": 6,
+          "question": "Прочитай короткий контекст і знайди точну інформацію.",
+          "questionLocalized": {
+            "uk": "Прочитай короткий контекст і знайди точну інформацію.",
+            "ru": "Прочитай короткий контекст и найди точную информацию.",
+            "en": "Read the short context and find exact information."
+          },
+          "wordIds": [
+            "b1-s06-l31-w05",
+            "b1-s06-l31-w06",
+            "b1-s06-l31-w07"
+          ],
+          "text": "Téma je Čomu sa venujem?. V rozhovore používam výrazy úloha, oblasť a zodpovednosť.",
+          "questions": [
+            {
+              "prompt": {
+                "uk": "Яка тема прямо названа в тексті?",
+                "ru": "Какая тема прямо названа в тексте?",
+                "en": "Which topic is directly named in the text?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "Čomu sa venujem?",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "Počasie",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "Šport",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b1-s06-l31-e07",
+          "lessonId": "b1-s06-l31",
+          "type": "natural_phrase",
+          "order": 7,
+          "question": "Що звучить найприродніше в цій темі?",
+          "questionLocalized": {
+            "uk": "Що звучить найприродніше в цій темі?",
+            "ru": "Что звучит естественнее всего в этой теме?",
+            "en": "What sounds most natural in this topic?"
+          },
+          "wordIds": [
+            "b1-s06-l31-w06"
+          ],
+          "situation": {
+            "uk": "Тобі потрібно використати цільову одиницю в короткій репліці.",
+            "ru": "Нужно использовать целевую единицу в короткой реплике.",
+            "en": "You need to use the target item in a short reply."
+          },
+          "options": [
+            {
+              "id": "a",
+              "sk": "Používam oblasť v tejto téme.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Som autobus.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Včera zelený rýchlo.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s06-l31-e08",
+          "lessonId": "b1-s06-l31",
+          "type": "dropdown_blank",
+          "order": 8,
+          "question": "Обери точну словацьку одиницю: словацьке слово/вираз «zodpovednosť».",
+          "questionLocalized": {
+            "uk": "Обери точну словацьку одиницю: словацьке слово/вираз «zodpovednosť».",
+            "ru": "Выбери точную словацкую единицу: словацкое слово/выражение «zodpovednosť».",
+            "en": "Choose the exact Slovak item: Slovak word/expression “zodpovednosť”."
+          },
+          "wordIds": [
+            "b1-s06-l31-w07"
+          ],
+          "sentenceParts": [
+            {
+              "text": "Veta obsahuje "
+            },
+            {
+              "blankId": "b1",
+              "options": [
+                "zodpovednosť",
+                "venovať sa",
+                "odbor"
+              ],
+              "correct": "zodpovednosť"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "b1-s06-l31-e09",
+          "lessonId": "b1-s06-l31",
+          "type": "dialogue_choose_reply",
+          "order": 9,
+          "question": "Обери найкращу відповідь у діалозі.",
+          "questionLocalized": {
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
+          },
+          "wordIds": [
+            "b1-s06-l31-w08"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Vieš to vysvetliť cez skúsenosť?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Áno, použijem skúsenosť v príklade.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Nie, toto je úplne iná téma.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Nerozumiem otázke a nereagujem.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s06-l31-e10",
+          "lessonId": "b1-s06-l31",
+          "type": "meaning_in_context",
+          "order": 10,
+          "question": "Čo znamená výraz v kontexte: «odbor»?",
+          "questionLocalized": {
+            "uk": "Що означає вираз у контексті: «odbor»?",
+            "ru": "Что означает выражение в контексте: «odbor»?",
+            "en": "What does the item mean in context: “odbor”?"
+          },
+          "wordIds": [
+            "b1-s06-l31-w02"
+          ],
+          "context": {
+            "sk": "V tejto lekcii riešime odbor."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "словацьке слово/вираз «odbor»",
+                "ru": "словацкое слово/выражение «odbor»",
+                "en": "Slovak word/expression “odbor”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "словацьке слово/вираз «pozícia»",
+                "ru": "словацкое слово/выражение «pozícia»",
+                "en": "Slovak word/expression “pozícia”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "словацьке слово/вираз «úloha»",
+                "ru": "словацкое слово/выражение «úloha»",
+                "en": "Slovak word/expression “úloha”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s06-l31-e11",
+          "lessonId": "b1-s06-l31",
+          "type": "reverse_translation",
+          "order": 11,
+          "question": "Обери словацький варіант для: словацьке слово/вираз «úloha».",
+          "questionLocalized": {
+            "uk": "Обери словацький варіант для: словацьке слово/вираз «úloha».",
+            "ru": "Выбери словацкий вариант для: словацкое слово/выражение «úloha».",
+            "en": "Choose the Slovak item for: Slovak word/expression “úloha”."
+          },
+          "wordIds": [
+            "b1-s06-l31-w05"
+          ],
+          "options": [
+            "úloha",
+            "povolanie",
+            "venovať sa"
+          ],
+          "correctAnswer": "úloha"
+        },
+        {
+          "id": "b1-s06-l31-e12",
+          "lessonId": "b1-s06-l31",
+          "type": "multiple_choice_translation",
+          "order": 12,
+          "question": "Що відповідає словацькому «skúsenosť»?",
+          "questionLocalized": {
+            "uk": "Що відповідає словацькому «skúsenosť»?",
+            "ru": "Что соответствует словацкому «skúsenosť»?",
+            "en": "What matches the Slovak “skúsenosť”?"
+          },
+          "wordIds": [
+            "b1-s06-l31-w08"
+          ],
+          "options": [
+            "словацьке слово/вираз «skúsenosť»",
+            "словацьке слово/вираз «odbor»",
+            "словацьке слово/вираз «povolanie»"
+          ],
+          "correctAnswer": "словацьке слово/вираз «skúsenosť»"
+        }
+      ],
+      "finalSituation": {
+        "id": "final-situation",
+        "type": "interactive_scenario",
+        "title": {
+          "uk": "Čomu sa venujem?: життєва ситуація",
+          "ru": "Čomu sa venujem?: жизненная ситуация",
+          "en": "Čomu sa venujem?: real-life situation"
+        },
+        "description": {
+          "uk": "Обери репліку, яка природно вирішує ситуацію на рівні B1.",
+          "ru": "Выбери реплику, которая естественно решает ситуацию на уровне B1.",
+          "en": "Choose the reply that naturally solves the situation at B1 level."
+        },
+        "steps": [
+          {
+            "id": "f1",
+            "prompt": {
+              "uk": "Тебе просять коротко пояснити ситуацію. Що відповісти?",
+              "ru": "Тебя просят коротко объяснить ситуацию. Что ответить?",
+              "en": "You are asked to briefly explain the situation. What do you answer?"
+            },
+            "options": [
+              {
+                "sk": "Najprv vysvetlím tému Čomu sa venujem? a uvediem príklad.",
+                "correct": true
+              },
+              {
+                "sk": "Neviem nič povedať.",
+                "correct": false
+              },
+              {
+                "sk": "To nesúvisí s témou.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "prompt": {
+              "uk": "Потрібно відреагувати спокійно й конкретно.",
+              "ru": "Нужно отреагировать спокойно и конкретно.",
+              "en": "You need to react calmly and concretely."
+            },
+            "options": [
+              {
+                "sk": "Rozumiem. Skúsim to povedať jasnejšie cez venovať sa.",
+                "correct": true
+              },
+              {
+                "sk": "To je modrý autobus.",
+                "correct": false
+              },
+              {
+                "sk": "Nechcem hovoriť vôbec.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f3",
+            "prompt": {
+              "uk": "Потрібно завершити розмову практичною домовленістю.",
+              "ru": "Нужно завершить разговор практической договоренностью.",
+              "en": "You need to finish with a practical agreement."
+            },
+            "options": [
+              {
+                "sk": "Dohodnime sa na ďalšom kroku a potvrdím to správou.",
+                "correct": true
+              },
+              {
+                "sk": "Zajtra bolo včera.",
+                "correct": false
+              },
+              {
+                "sk": "Nemám žiadny návrh.",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "passRequirement": "3/3",
+        "successMessage": {
+          "uk": "Hotovo: použil si tému v realistickej situácii.",
+          "ru": "Готово: ты использовал тему в реалистичной ситуации.",
+          "en": "Done: you used the topic in a realistic situation."
+        }
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": {
+          "uk": "Урок завершено",
+          "ru": "Урок завершён",
+          "en": "Lesson complete"
+        },
+        "subtitle": {
+          "uk": "Ти завершив ще один крок рівня B1.",
+          "ru": "Ты завершил ещё один шаг уровня B1.",
+          "en": "You completed another B1 step."
+        },
+        "xpReward": 140,
+        "newWordsCount": 8,
+        "exercisesCompleted": 12,
+        "nowYouKnow": [
+          "говорити на тему «Čomu sa venujem?»",
+          "зв'язувати думки у коротку відповідь",
+          "реагувати в практичній ситуації"
+        ],
+        "mistakesMessage": {
+          "uk": "Повтори тільки ті вправи, де відповідь ще не автоматична.",
+          "ru": "Повтори только те упражнения, где ответ ещё не автоматический.",
+          "en": "Repeat only the exercises where the answer is not automatic yet."
+        },
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "skills": [
+          {
+            "id": "vocabulary",
+            "label": {
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
+            },
+            "weight": 0.3
+          },
+          {
+            "id": "communication",
+            "label": {
+              "uk": "комунікація",
+              "ru": "коммуникация",
+              "en": "communication"
+            },
+            "weight": 0.4
+          },
+          {
+            "id": "transfer",
+            "label": {
+              "uk": "перенесення",
+              "ru": "перенос",
+              "en": "transfer"
+            },
+            "weight": 0.3
+          }
+        ],
+        "nextLesson": {
+          "id": "b1-s06-l32"
+        }
+      }
+    }
+  ]
+}

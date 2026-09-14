@@ -1,0 +1,1056 @@
+{
+  "lessons": [
+    {
+      "id": "b1-s16-l94",
+      "sectionId": "b1_s16",
+      "level": "B1",
+      "title": {
+        "sk": "Ako vysvetliť svoj postup?",
+        "uk": "B1: Ako vysvetliť svoj postup?",
+        "ru": "B1: Ako vysvetliť svoj postup?",
+        "en": "B1: Ako vysvetliť svoj postup?"
+      },
+      "topic": {
+        "sk": "Ako vysvetliť svoj postup?",
+        "uk": "B1: Ako vysvetliť svoj postup?",
+        "ru": "B1: Ako vysvetliť svoj postup?",
+        "en": "B1: Ako vysvetliť svoj postup?"
+      },
+      "description": {
+        "sk": "Precvičíš si tému Ako vysvetliť svoj postup? v súvislej komunikácii na úrovni B1.",
+        "uk": "Тренуємо тему «Ako vysvetliť svoj postup?»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+        "ru": "объясняем шаги решения задачи и порядок действий.",
+        "en": "Practice the B1 topic “Ako vysvetliť svoj postup?” inside connected communication. Section: A2-to-B1 expansion: connected narration and problem solving."
+      },
+      "order": 94,
+      "xpReward": 140,
+      "estimatedMinutes": 28,
+      "isPublished": false,
+      "intro": {
+        "sk": "Precvičíš si tému Ako vysvetliť svoj postup? v súvislej komunikácii na úrovni B1.",
+        "uk": "Тренуємо тему «Ako vysvetliť svoj postup?»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+        "ru": "объясняем шаги решения задачи и порядок действий.",
+        "en": "Practice the B1 topic “Ako vysvetliť svoj postup?” inside connected communication. Section: A2-to-B1 expansion: connected narration and problem solving."
+      },
+      "completionMessage": {
+        "sk": "Výborne. Pokračuj v používaní témy v reálnych situáciách.",
+        "uk": "Добре. Тепер перенеси тему в реальну розмову.",
+        "ru": "Хорошо. Теперь перенеси тему в реальный разговор.",
+        "en": "Good. Now transfer the topic into a real conversation."
+      },
+      "updatedAt": "2026-09-14T00:00:00Z",
+      "localization": {
+        "uiLanguages": [
+          "uk",
+          "ru",
+          "en"
+        ],
+        "targetLanguage": "sk",
+        "fallbackUiLanguage": "uk"
+      },
+      "assets": {
+        "images": {},
+        "audio": {}
+      },
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": {
+          "sk": "Ako vysvetliť svoj postup?",
+          "uk": "B1: Ako vysvetliť svoj postup?",
+          "ru": "B1: Ako vysvetliť svoj postup?",
+          "en": "B1: Ako vysvetliť svoj postup?"
+        },
+        "shortDescription": {
+          "uk": "Тренуємо тему «Ako vysvetliť svoj postup?»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+          "ru": "объясняем шаги решения задачи и порядок действий.",
+          "en": "Practice the B1 topic “Ako vysvetliť svoj postup?” inside connected communication. Section: A2-to-B1 expansion: connected narration and problem solving."
+        },
+        "outcomes": [
+          {
+            "uk": "пояснити тему «Ako vysvetliť svoj postup?» зв'язно",
+            "ru": "связно объяснить тему «Ako vysvetliť svoj postup?»",
+            "en": "explain the topic “Ako vysvetliť svoj postup?” coherently"
+          },
+          {
+            "uk": "використати нові слова в контексті",
+            "ru": "использовать новые слова в контексте",
+            "en": "use new words in context"
+          },
+          {
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
+          }
+        ],
+        "newWords": [
+          "b1-s16-l94-w01",
+          "b1-s16-l94-w02",
+          "b1-s16-l94-w03",
+          "b1-s16-l94-w04",
+          "b1-s16-l94-w05",
+          "b1-s16-l94-w06",
+          "b1-s16-l94-w07",
+          "b1-s16-l94-w08"
+        ],
+        "exercisesCount": 12,
+        "reward": "+140 XP",
+        "estimatedMinutes": 28,
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "id": "t1",
+          "screenType": "theory",
+          "order": 1,
+          "title": {
+            "uk": "Сенс уроку",
+            "ru": "Смысл урока",
+            "en": "Lesson focus"
+          },
+          "body": {
+            "uk": "Тренуємо тему «Ako vysvetliť svoj postup?»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+            "ru": "объясняем шаги решения задачи и порядок действий.",
+            "en": "Practice the B1 topic “Ako vysvetliť svoj postup?” inside connected communication. Section: A2-to-B1 expansion: connected narration and problem solving."
+          },
+          "examples": [
+            {
+              "sk": "Téma je Ako vysvetliť svoj postup?.",
+              "translation": {
+                "uk": "Тема: «Ako vysvetliť svoj postup?».",
+                "ru": "Тема: «Ako vysvetliť svoj postup?».",
+                "en": "Topic: “Ako vysvetliť svoj postup?”."
+              }
+            },
+            {
+              "sk": "Používam výraz postup v reálnej situácii.",
+              "translation": {
+                "uk": "Я використовую «postup» у реальній ситуації.",
+                "ru": "Я использую «postup» в реальной ситуации.",
+                "en": "I use “postup” in a real situation."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "На B1 важливо не лише знати слово, а зв'язати його з причиною, прикладом і реакцією.",
+            "ru": "На B1 важно не только знать слово, а связать его с причиной, примером и реакцией.",
+            "en": "At B1, connect the item with a reason, example and reaction."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t2",
+          "screenType": "theory",
+          "order": 2,
+          "title": {
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer pattern"
+          },
+          "body": {
+            "uk": "Будуй відповідь за схемою: ситуація → причина → приклад → що роблю далі.",
+            "ru": "Строй ответ по схеме: ситуация → причина → пример → что делаю дальше.",
+            "en": "Build the answer as: situation → reason → example → next action."
+          },
+          "examples": [
+            {
+              "sk": "Najprv vysvetlím situáciu, potom použijem krok.",
+              "translation": {
+                "uk": "Спочатку пояснюю ситуацію, потім використовую цільовий вираз.",
+                "ru": "Сначала объясняю ситуацию, потом использую целевое выражение.",
+                "en": "First I explain the situation, then I use the target item."
+              }
+            },
+            {
+              "sk": "Podľa mňa je dôležité hovoriť jasne o téme Ako vysvetliť svoj postup?.",
+              "translation": {
+                "uk": "На мою думку, важливо говорити про тему ясно.",
+                "ru": "По моему мнению, важно говорить о теме ясно.",
+                "en": "In my opinion, it is important to speak about the topic clearly."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "Одна думка = одне зрозуміле речення. Потім додай причину або приклад.",
+            "ru": "Одна мысль = одно понятное предложение. Потом добавь причину или пример.",
+            "en": "One idea equals one clear sentence. Then add a reason or example."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t3",
+          "screenType": "theory",
+          "order": 3,
+          "title": {
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
+          },
+          "body": {
+            "uk": "У фінальній ситуації потрібно вибрати репліку, яка реально підходить до контексту, а не просто повторює слово.",
+            "ru": "В финальной ситуации нужно выбрать реплику, которая реально подходит к контексту, а не просто повторяет слово.",
+            "en": "In the final situation, choose a reply that fits the context, not just a repeated word."
+          },
+          "examples": [
+            {
+              "sk": "V praxi by som to povedal pokojne a konkrétne.",
+              "translation": {
+                "uk": "На практиці я сказав би це спокійно й конкретно.",
+                "ru": "На практике я сказал бы это спокойно и конкретно.",
+                "en": "In practice I would say it calmly and concretely."
+              }
+            },
+            {
+              "sk": "Ak niečomu nerozumiem, spýtam sa doplňujúcu otázku.",
+              "translation": {
+                "uk": "Якщо чогось не розумію, ставлю уточнювальне питання.",
+                "ru": "Если чего-то не понимаю, задаю уточняющий вопрос.",
+                "en": "If I do not understand something, I ask a follow-up question."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "B1 = зв'язна відповідь, уточнення і практичний результат.",
+            "ru": "B1 = связный ответ, уточнение и практический результат.",
+            "en": "B1 means a connected answer, clarification and a practical result."
+          },
+          "button": "Далі"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": {
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
+        },
+        "description": {
+          "uk": "Усі одиниці взяті з затвердженого плану B1.",
+          "ru": "Все единицы взяты из утвержденного плана B1.",
+          "en": "All items come from the approved B1 plan."
+        },
+        "items": [
+          {
+            "wordId": "b1-s16-l94-w01",
+            "sk": "postup",
+            "uk": "словацьке слово/вираз «postup»",
+            "ru": "словацкое слово/выражение «postup»",
+            "en": "Slovak word/expression “postup”",
+            "pronunciationUk": "postup",
+            "exampleSk": "V tejto situácii používam výraz postup.",
+            "exampleUk": "У цій ситуації я використовую вираз «postup».",
+            "exampleRu": "В этой ситуации я использую выражение «postup».",
+            "exampleEn": "In this situation I use “postup”."
+          },
+          {
+            "wordId": "b1-s16-l94-w02",
+            "sk": "krok",
+            "uk": "словацьке слово/вираз «krok»",
+            "ru": "словацкое слово/выражение «krok»",
+            "en": "Slovak word/expression “krok”",
+            "pronunciationUk": "krok",
+            "exampleSk": "V tejto situácii používam výraz krok.",
+            "exampleUk": "У цій ситуації я використовую вираз «krok».",
+            "exampleRu": "В этой ситуации я использую выражение «krok».",
+            "exampleEn": "In this situation I use “krok”."
+          },
+          {
+            "wordId": "b1-s16-l94-w03",
+            "sk": "najprv",
+            "uk": "словацьке слово/вираз «najprv»",
+            "ru": "словацкое слово/выражение «najprv»",
+            "en": "Slovak word/expression “najprv”",
+            "pronunciationUk": "najprv",
+            "exampleSk": "V tejto situácii používam výraz najprv.",
+            "exampleUk": "У цій ситуації я використовую вираз «najprv».",
+            "exampleRu": "В этой ситуации я использую выражение «najprv».",
+            "exampleEn": "In this situation I use “najprv”."
+          },
+          {
+            "wordId": "b1-s16-l94-w04",
+            "sk": "následne",
+            "uk": "словацьке слово/вираз «následne»",
+            "ru": "словацкое слово/выражение «následne»",
+            "en": "Slovak word/expression “následne”",
+            "pronunciationUk": "nаsledne",
+            "exampleSk": "V tejto situácii používam výraz následne.",
+            "exampleUk": "У цій ситуації я використовую вираз «následne».",
+            "exampleRu": "В этой ситуации я использую выражение «následne».",
+            "exampleEn": "In this situation I use “následne”."
+          },
+          {
+            "wordId": "b1-s16-l94-w05",
+            "sk": "potom",
+            "uk": "словацьке слово/вираз «potom»",
+            "ru": "словацкое слово/выражение «potom»",
+            "en": "Slovak word/expression “potom”",
+            "pronunciationUk": "potom",
+            "exampleSk": "V tejto situácii používam výraz potom.",
+            "exampleUk": "У цій ситуації я використовую вираз «potom».",
+            "exampleRu": "В этой ситуации я использую выражение «potom».",
+            "exampleEn": "In this situation I use “potom”."
+          },
+          {
+            "wordId": "b1-s16-l94-w06",
+            "sk": "zároveň",
+            "uk": "словацьке слово/вираз «zároveň»",
+            "ru": "словацкое слово/выражение «zároveň»",
+            "en": "Slovak word/expression “zároveň”",
+            "pronunciationUk": "zаroveнь",
+            "exampleSk": "V tejto situácii používam výraz zároveň.",
+            "exampleUk": "У цій ситуації я використовую вираз «zároveň».",
+            "exampleRu": "В этой ситуации я использую выражение «zároveň».",
+            "exampleEn": "In this situation I use “zároveň”."
+          },
+          {
+            "wordId": "b1-s16-l94-w07",
+            "sk": "nakoniec",
+            "uk": "словацьке слово/вираз «nakoniec»",
+            "ru": "словацкое слово/выражение «nakoniec»",
+            "en": "Slovak word/expression “nakoniec”",
+            "pronunciationUk": "nakoniec",
+            "exampleSk": "V tejto situácii používam výraz nakoniec.",
+            "exampleUk": "У цій ситуації я використовую вираз «nakoniec».",
+            "exampleRu": "В этой ситуации я использую выражение «nakoniec».",
+            "exampleEn": "In this situation I use “nakoniec”."
+          },
+          {
+            "wordId": "b1-s16-l94-w08",
+            "sk": "dôvod",
+            "uk": "словацьке слово/вираз «dôvod»",
+            "ru": "словацкое слово/выражение «dôvod»",
+            "en": "Slovak word/expression “dôvod”",
+            "pronunciationUk": "dуоvod",
+            "exampleSk": "V tejto situácii používam výraz dôvod.",
+            "exampleUk": "У цій ситуації я використовую вираз «dôvod».",
+            "exampleRu": "В этой ситуации я использую выражение «dôvod».",
+            "exampleEn": "In this situation I use “dôvod”."
+          }
+        ],
+        "button": "До практики"
+      },
+      "words": [
+        {
+          "id": "b1-s16-l94-w01",
+          "sk": "postup",
+          "uk": "словацьке слово/вираз «postup»",
+          "ru": "словацкое слово/выражение «postup»",
+          "en": "Slovak word/expression “postup”",
+          "pronunciationUk": "postup",
+          "exampleSk": "V tejto situácii používam výraz postup.",
+          "exampleUk": "У цій ситуації я використовую вираз «postup».",
+          "exampleRu": "В этой ситуации я использую выражение «postup».",
+          "exampleEn": "In this situation I use “postup”.",
+          "level": "B1",
+          "topic": "Ako vysvetliť svoj postup?",
+          "tags": [
+            "b1_s16",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s16-l94-w02",
+          "sk": "krok",
+          "uk": "словацьке слово/вираз «krok»",
+          "ru": "словацкое слово/выражение «krok»",
+          "en": "Slovak word/expression “krok”",
+          "pronunciationUk": "krok",
+          "exampleSk": "V tejto situácii používam výraz krok.",
+          "exampleUk": "У цій ситуації я використовую вираз «krok».",
+          "exampleRu": "В этой ситуации я использую выражение «krok».",
+          "exampleEn": "In this situation I use “krok”.",
+          "level": "B1",
+          "topic": "Ako vysvetliť svoj postup?",
+          "tags": [
+            "b1_s16",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s16-l94-w03",
+          "sk": "najprv",
+          "uk": "словацьке слово/вираз «najprv»",
+          "ru": "словацкое слово/выражение «najprv»",
+          "en": "Slovak word/expression “najprv”",
+          "pronunciationUk": "najprv",
+          "exampleSk": "V tejto situácii používam výraz najprv.",
+          "exampleUk": "У цій ситуації я використовую вираз «najprv».",
+          "exampleRu": "В этой ситуации я использую выражение «najprv».",
+          "exampleEn": "In this situation I use “najprv”.",
+          "level": "B1",
+          "topic": "Ako vysvetliť svoj postup?",
+          "tags": [
+            "b1_s16",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s16-l94-w04",
+          "sk": "následne",
+          "uk": "словацьке слово/вираз «následne»",
+          "ru": "словацкое слово/выражение «následne»",
+          "en": "Slovak word/expression “následne”",
+          "pronunciationUk": "nаsledne",
+          "exampleSk": "V tejto situácii používam výraz následne.",
+          "exampleUk": "У цій ситуації я використовую вираз «následne».",
+          "exampleRu": "В этой ситуации я использую выражение «následne».",
+          "exampleEn": "In this situation I use “následne”.",
+          "level": "B1",
+          "topic": "Ako vysvetliť svoj postup?",
+          "tags": [
+            "b1_s16",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s16-l94-w05",
+          "sk": "potom",
+          "uk": "словацьке слово/вираз «potom»",
+          "ru": "словацкое слово/выражение «potom»",
+          "en": "Slovak word/expression “potom”",
+          "pronunciationUk": "potom",
+          "exampleSk": "V tejto situácii používam výraz potom.",
+          "exampleUk": "У цій ситуації я використовую вираз «potom».",
+          "exampleRu": "В этой ситуации я использую выражение «potom».",
+          "exampleEn": "In this situation I use “potom”.",
+          "level": "B1",
+          "topic": "Ako vysvetliť svoj postup?",
+          "tags": [
+            "b1_s16",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s16-l94-w06",
+          "sk": "zároveň",
+          "uk": "словацьке слово/вираз «zároveň»",
+          "ru": "словацкое слово/выражение «zároveň»",
+          "en": "Slovak word/expression “zároveň”",
+          "pronunciationUk": "zаroveнь",
+          "exampleSk": "V tejto situácii používam výraz zároveň.",
+          "exampleUk": "У цій ситуації я використовую вираз «zároveň».",
+          "exampleRu": "В этой ситуации я использую выражение «zároveň».",
+          "exampleEn": "In this situation I use “zároveň”.",
+          "level": "B1",
+          "topic": "Ako vysvetliť svoj postup?",
+          "tags": [
+            "b1_s16",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s16-l94-w07",
+          "sk": "nakoniec",
+          "uk": "словацьке слово/вираз «nakoniec»",
+          "ru": "словацкое слово/выражение «nakoniec»",
+          "en": "Slovak word/expression “nakoniec”",
+          "pronunciationUk": "nakoniec",
+          "exampleSk": "V tejto situácii používam výraz nakoniec.",
+          "exampleUk": "У цій ситуації я використовую вираз «nakoniec».",
+          "exampleRu": "В этой ситуации я использую выражение «nakoniec».",
+          "exampleEn": "In this situation I use “nakoniec”.",
+          "level": "B1",
+          "topic": "Ako vysvetliť svoj postup?",
+          "tags": [
+            "b1_s16",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s16-l94-w08",
+          "sk": "dôvod",
+          "uk": "словацьке слово/вираз «dôvod»",
+          "ru": "словацкое слово/выражение «dôvod»",
+          "en": "Slovak word/expression “dôvod”",
+          "pronunciationUk": "dуоvod",
+          "exampleSk": "V tejto situácii používam výraz dôvod.",
+          "exampleUk": "У цій ситуації я використовую вираз «dôvod».",
+          "exampleRu": "В этой ситуации я использую выражение «dôvod».",
+          "exampleEn": "In this situation I use “dôvod”.",
+          "level": "B1",
+          "topic": "Ako vysvetliť svoj postup?",
+          "tags": [
+            "b1_s16",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "b1-s16-l94-e01",
+          "lessonId": "b1-s16-l94",
+          "type": "single_choice",
+          "order": 1,
+          "question": "Що тренує словацька одиниця «postup»?",
+          "questionLocalized": {
+            "uk": "Що тренує словацька одиниця «postup»?",
+            "ru": "Что тренирует словацкая единица «postup»?",
+            "en": "What does the Slovak item “postup” train?"
+          },
+          "wordIds": [
+            "b1-s16-l94-w01"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "словацьке слово/вираз «postup»",
+                "ru": "словацкое слово/выражение «postup»",
+                "en": "Slovak word/expression “postup”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "словацьке слово/вираз «krok»",
+                "ru": "словацкое слово/выражение «krok»",
+                "en": "Slovak word/expression “krok”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "словацьке слово/вираз «najprv»",
+                "ru": "словацкое слово/выражение «najprv»",
+                "en": "Slovak word/expression “najprv”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s16-l94-e02",
+          "lessonId": "b1-s16-l94",
+          "type": "matching",
+          "order": 2,
+          "question": "З'єднай словацькі одиниці з поясненнями.",
+          "questionLocalized": {
+            "uk": "З'єднай словацькі одиниці з поясненнями.",
+            "ru": "Соедини словацкие единицы с объяснениями.",
+            "en": "Match Slovak items with explanations."
+          },
+          "wordIds": [
+            "b1-s16-l94-w01",
+            "b1-s16-l94-w02",
+            "b1-s16-l94-w03",
+            "b1-s16-l94-w04"
+          ],
+          "pairs": [
+            {
+              "left": "postup",
+              "right": "словацьке слово/вираз «postup»",
+              "rightRu": "словацкое слово/выражение «postup»",
+              "rightEn": "Slovak word/expression “postup”"
+            },
+            {
+              "left": "krok",
+              "right": "словацьке слово/вираз «krok»",
+              "rightRu": "словацкое слово/выражение «krok»",
+              "rightEn": "Slovak word/expression “krok”"
+            },
+            {
+              "left": "najprv",
+              "right": "словацьке слово/вираз «najprv»",
+              "rightRu": "словацкое слово/выражение «najprv»",
+              "rightEn": "Slovak word/expression “najprv”"
+            },
+            {
+              "left": "následne",
+              "right": "словацьке слово/вираз «následne»",
+              "rightRu": "словацкое слово/выражение «následne»",
+              "rightEn": "Slovak word/expression “následne”"
+            }
+          ]
+        },
+        {
+          "id": "b1-s16-l94-e03",
+          "lessonId": "b1-s16-l94",
+          "type": "fill_blank",
+          "order": 3,
+          "question": "Впиши словацькою: словацьке слово/вираз «najprv».",
+          "questionLocalized": {
+            "uk": "Впиши словацькою: словацьке слово/вираз «najprv».",
+            "ru": "Впиши по-словацки: словацкое слово/выражение «najprv».",
+            "en": "Write in Slovak: Slovak word/expression “najprv”."
+          },
+          "wordIds": [
+            "b1-s16-l94-w03"
+          ],
+          "sentence": "______",
+          "acceptedAnswers": [
+            "najprv"
+          ],
+          "hint": {
+            "uk": "Початок: n…",
+            "ru": "Начало: n…",
+            "en": "Start: n…"
+          }
+        },
+        {
+          "id": "b1-s16-l94-e04",
+          "lessonId": "b1-s16-l94",
+          "type": "sentence_builder",
+          "order": 4,
+          "question": "Склади природне словацьке речення.",
+          "questionLocalized": {
+            "uk": "Склади природне словацьке речення.",
+            "ru": "Собери естественное словацкое предложение.",
+            "en": "Build a natural Slovak sentence."
+          },
+          "wordIds": [
+            "b1-s16-l94-w04"
+          ],
+          "tokens": [
+            "Používam",
+            "následne",
+            "v",
+            "reálnej",
+            "situácii."
+          ],
+          "correctSentence": "Používam následne v reálnej situácii."
+        },
+        {
+          "id": "b1-s16-l94-e05",
+          "lessonId": "b1-s16-l94",
+          "type": "multiple_select",
+          "order": 5,
+          "question": "Обери одиниці з цього уроку.",
+          "questionLocalized": {
+            "uk": "Обери одиниці з цього уроку.",
+            "ru": "Выбери единицы из этого урока.",
+            "en": "Select items from this lesson."
+          },
+          "wordIds": [
+            "b1-s16-l94-w01",
+            "b1-s16-l94-w02"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "postup",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "krok",
+              "correct": true
+            },
+            {
+              "id": "c",
+              "sk": "Dnes prší.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s16-l94-e06",
+          "lessonId": "b1-s16-l94",
+          "type": "reading_comprehension",
+          "order": 6,
+          "question": "Прочитай короткий контекст і знайди точну інформацію.",
+          "questionLocalized": {
+            "uk": "Прочитай короткий контекст і знайди точну інформацію.",
+            "ru": "Прочитай короткий контекст и найди точную информацию.",
+            "en": "Read the short context and find exact information."
+          },
+          "wordIds": [
+            "b1-s16-l94-w05",
+            "b1-s16-l94-w06",
+            "b1-s16-l94-w07"
+          ],
+          "text": "Téma je Ako vysvetliť svoj postup?. V rozhovore používam výrazy potom, zároveň a nakoniec.",
+          "questions": [
+            {
+              "prompt": {
+                "uk": "Яка тема прямо названа в тексті?",
+                "ru": "Какая тема прямо названа в тексте?",
+                "en": "Which topic is directly named in the text?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "Ako vysvetliť svoj postup?",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "Počasie",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "Šport",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b1-s16-l94-e07",
+          "lessonId": "b1-s16-l94",
+          "type": "natural_phrase",
+          "order": 7,
+          "question": "Що звучить найприродніше в цій темі?",
+          "questionLocalized": {
+            "uk": "Що звучить найприродніше в цій темі?",
+            "ru": "Что звучит естественнее всего в этой теме?",
+            "en": "What sounds most natural in this topic?"
+          },
+          "wordIds": [
+            "b1-s16-l94-w06"
+          ],
+          "situation": {
+            "uk": "Тобі потрібно використати цільову одиницю в короткій репліці.",
+            "ru": "Нужно использовать целевую единицу в короткой реплике.",
+            "en": "You need to use the target item in a short reply."
+          },
+          "options": [
+            {
+              "id": "a",
+              "sk": "Používam zároveň v tejto téme.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Som autobus.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Včera zelený rýchlo.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s16-l94-e08",
+          "lessonId": "b1-s16-l94",
+          "type": "dropdown_blank",
+          "order": 8,
+          "question": "Обери точну словацьку одиницю: словацьке слово/вираз «nakoniec».",
+          "questionLocalized": {
+            "uk": "Обери точну словацьку одиницю: словацьке слово/вираз «nakoniec».",
+            "ru": "Выбери точную словацкую единицу: словацкое слово/выражение «nakoniec».",
+            "en": "Choose the exact Slovak item: Slovak word/expression “nakoniec”."
+          },
+          "wordIds": [
+            "b1-s16-l94-w07"
+          ],
+          "sentenceParts": [
+            {
+              "text": "Veta obsahuje "
+            },
+            {
+              "blankId": "b1",
+              "options": [
+                "nakoniec",
+                "postup",
+                "krok"
+              ],
+              "correct": "nakoniec"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "b1-s16-l94-e09",
+          "lessonId": "b1-s16-l94",
+          "type": "dialogue_choose_reply",
+          "order": 9,
+          "question": "Обери найкращу відповідь у діалозі.",
+          "questionLocalized": {
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
+          },
+          "wordIds": [
+            "b1-s16-l94-w08"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Vieš to vysvetliť cez dôvod?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Áno, použijem dôvod v príklade.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Nie, toto je úplne iná téma.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Nerozumiem otázke a nereagujem.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s16-l94-e10",
+          "lessonId": "b1-s16-l94",
+          "type": "meaning_in_context",
+          "order": 10,
+          "question": "Čo znamená výraz v kontexte: «krok»?",
+          "questionLocalized": {
+            "uk": "Що означає вираз у контексті: «krok»?",
+            "ru": "Что означает выражение в контексте: «krok»?",
+            "en": "What does the item mean in context: “krok”?"
+          },
+          "wordIds": [
+            "b1-s16-l94-w02"
+          ],
+          "context": {
+            "sk": "V tejto lekcii riešime krok."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "словацьке слово/вираз «krok»",
+                "ru": "словацкое слово/выражение «krok»",
+                "en": "Slovak word/expression “krok”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "словацьке слово/вираз «následne»",
+                "ru": "словацкое слово/выражение «následne»",
+                "en": "Slovak word/expression “následne”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "словацьке слово/вираз «potom»",
+                "ru": "словацкое слово/выражение «potom»",
+                "en": "Slovak word/expression “potom”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s16-l94-e11",
+          "lessonId": "b1-s16-l94",
+          "type": "reverse_translation",
+          "order": 11,
+          "question": "Обери словацький варіант для: словацьке слово/вираз «potom».",
+          "questionLocalized": {
+            "uk": "Обери словацький варіант для: словацьке слово/вираз «potom».",
+            "ru": "Выбери словацкий вариант для: словацкое слово/выражение «potom».",
+            "en": "Choose the Slovak item for: Slovak word/expression “potom”."
+          },
+          "wordIds": [
+            "b1-s16-l94-w05"
+          ],
+          "options": [
+            "potom",
+            "najprv",
+            "postup"
+          ],
+          "correctAnswer": "potom"
+        },
+        {
+          "id": "b1-s16-l94-e12",
+          "lessonId": "b1-s16-l94",
+          "type": "multiple_choice_translation",
+          "order": 12,
+          "question": "Що відповідає словацькому «dôvod»?",
+          "questionLocalized": {
+            "uk": "Що відповідає словацькому «dôvod»?",
+            "ru": "Что соответствует словацкому «dôvod»?",
+            "en": "What matches the Slovak “dôvod”?"
+          },
+          "wordIds": [
+            "b1-s16-l94-w08"
+          ],
+          "options": [
+            "словацьке слово/вираз «dôvod»",
+            "словацьке слово/вираз «krok»",
+            "словацьке слово/вираз «najprv»"
+          ],
+          "correctAnswer": "словацьке слово/вираз «dôvod»"
+        }
+      ],
+      "finalSituation": {
+        "id": "final-situation",
+        "type": "interactive_scenario",
+        "title": {
+          "uk": "Ako vysvetliť svoj postup?: життєва ситуація",
+          "ru": "Ako vysvetliť svoj postup?: жизненная ситуация",
+          "en": "Ako vysvetliť svoj postup?: real-life situation"
+        },
+        "description": {
+          "uk": "Обери репліку, яка природно вирішує ситуацію на рівні B1.",
+          "ru": "Выбери реплику, которая естественно решает ситуацию на уровне B1.",
+          "en": "Choose the reply that naturally solves the situation at B1 level."
+        },
+        "steps": [
+          {
+            "id": "f1",
+            "prompt": {
+              "uk": "Тебе просять коротко пояснити ситуацію. Що відповісти?",
+              "ru": "Тебя просят коротко объяснить ситуацию. Что ответить?",
+              "en": "You are asked to briefly explain the situation. What do you answer?"
+            },
+            "options": [
+              {
+                "sk": "Najprv vysvetlím tému Ako vysvetliť svoj postup? a uvediem príklad.",
+                "correct": true
+              },
+              {
+                "sk": "Neviem nič povedať.",
+                "correct": false
+              },
+              {
+                "sk": "To nesúvisí s témou.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "prompt": {
+              "uk": "Потрібно відреагувати спокійно й конкретно.",
+              "ru": "Нужно отреагировать спокойно и конкретно.",
+              "en": "You need to react calmly and concretely."
+            },
+            "options": [
+              {
+                "sk": "Rozumiem. Skúsim to povedať jasnejšie cez postup.",
+                "correct": true
+              },
+              {
+                "sk": "To je modrý autobus.",
+                "correct": false
+              },
+              {
+                "sk": "Nechcem hovoriť vôbec.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f3",
+            "prompt": {
+              "uk": "Потрібно завершити розмову практичною домовленістю.",
+              "ru": "Нужно завершить разговор практической договоренностью.",
+              "en": "You need to finish with a practical agreement."
+            },
+            "options": [
+              {
+                "sk": "Dohodnime sa na ďalšom kroku a potvrdím to správou.",
+                "correct": true
+              },
+              {
+                "sk": "Zajtra bolo včera.",
+                "correct": false
+              },
+              {
+                "sk": "Nemám žiadny návrh.",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "passRequirement": "3/3",
+        "successMessage": {
+          "uk": "Hotovo: použil si tému v realistickej situácii.",
+          "ru": "Готово: ты использовал тему в реалистичной ситуации.",
+          "en": "Done: you used the topic in a realistic situation."
+        }
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": {
+          "uk": "Урок завершено",
+          "ru": "Урок завершён",
+          "en": "Lesson complete"
+        },
+        "subtitle": {
+          "uk": "Ти завершив ще один крок рівня B1.",
+          "ru": "Ты завершил ещё один шаг уровня B1.",
+          "en": "You completed another B1 step."
+        },
+        "xpReward": 140,
+        "newWordsCount": 8,
+        "exercisesCompleted": 12,
+        "nowYouKnow": [
+          "говорити на тему «Ako vysvetliť svoj postup?»",
+          "зв'язувати думки у коротку відповідь",
+          "реагувати в практичній ситуації"
+        ],
+        "mistakesMessage": {
+          "uk": "Повтори тільки ті вправи, де відповідь ще не автоматична.",
+          "ru": "Повтори только те упражнения, где ответ ещё не автоматический.",
+          "en": "Repeat only the exercises where the answer is not automatic yet."
+        },
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "skills": [
+          {
+            "id": "vocabulary",
+            "label": {
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
+            },
+            "weight": 0.3
+          },
+          {
+            "id": "communication",
+            "label": {
+              "uk": "комунікація",
+              "ru": "коммуникация",
+              "en": "communication"
+            },
+            "weight": 0.4
+          },
+          {
+            "id": "transfer",
+            "label": {
+              "uk": "перенесення",
+              "ru": "перенос",
+              "en": "transfer"
+            },
+            "weight": 0.3
+          }
+        ],
+        "nextLesson": {
+          "id": "b1-s16-l95"
+        }
+      }
+    }
+  ]
+}

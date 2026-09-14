@@ -1,0 +1,1056 @@
+{
+  "lessons": [
+    {
+      "id": "b1-s05-l29",
+      "sectionId": "b1_s05",
+      "level": "B1",
+      "title": {
+        "sk": "Ak sa niečo zmení",
+        "uk": "B1: Ak sa niečo zmení",
+        "ru": "B1: Ak sa niečo zmení",
+        "en": "B1: Ak sa niečo zmení"
+      },
+      "topic": {
+        "sk": "Ak sa niečo zmení",
+        "uk": "B1: Ak sa niečo zmení",
+        "ru": "B1: Ak sa niečo zmení",
+        "en": "B1: Ak sa niečo zmení"
+      },
+      "description": {
+        "sk": "Precvičíš si tému Ak sa niečo zmení v súvislej komunikácii na úrovni B1.",
+        "uk": "Тренуємо тему «Ak sa niečo zmení»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+        "ru": "реагируем на изменение обстоятельств и перестраиваем планы.",
+        "en": "Practice the B1 topic “Ak sa niečo zmení” inside connected communication. Section: Future, intentions and possibilities."
+      },
+      "order": 29,
+      "xpReward": 140,
+      "estimatedMinutes": 28,
+      "isPublished": false,
+      "intro": {
+        "sk": "Precvičíš si tému Ak sa niečo zmení v súvislej komunikácii na úrovni B1.",
+        "uk": "Тренуємо тему «Ak sa niečo zmení»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+        "ru": "реагируем на изменение обстоятельств и перестраиваем планы.",
+        "en": "Practice the B1 topic “Ak sa niečo zmení” inside connected communication. Section: Future, intentions and possibilities."
+      },
+      "completionMessage": {
+        "sk": "Výborne. Pokračuj v používaní témy v reálnych situáciách.",
+        "uk": "Добре. Тепер перенеси тему в реальну розмову.",
+        "ru": "Хорошо. Теперь перенеси тему в реальный разговор.",
+        "en": "Good. Now transfer the topic into a real conversation."
+      },
+      "updatedAt": "2026-09-14T00:00:00Z",
+      "localization": {
+        "uiLanguages": [
+          "uk",
+          "ru",
+          "en"
+        ],
+        "targetLanguage": "sk",
+        "fallbackUiLanguage": "uk"
+      },
+      "assets": {
+        "images": {},
+        "audio": {}
+      },
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": {
+          "sk": "Ak sa niečo zmení",
+          "uk": "B1: Ak sa niečo zmení",
+          "ru": "B1: Ak sa niečo zmení",
+          "en": "B1: Ak sa niečo zmení"
+        },
+        "shortDescription": {
+          "uk": "Тренуємо тему «Ak sa niečo zmení»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+          "ru": "реагируем на изменение обстоятельств и перестраиваем планы.",
+          "en": "Practice the B1 topic “Ak sa niečo zmení” inside connected communication. Section: Future, intentions and possibilities."
+        },
+        "outcomes": [
+          {
+            "uk": "пояснити тему «Ak sa niečo zmení» зв'язно",
+            "ru": "связно объяснить тему «Ak sa niečo zmení»",
+            "en": "explain the topic “Ak sa niečo zmení” coherently"
+          },
+          {
+            "uk": "використати нові слова в контексті",
+            "ru": "использовать новые слова в контексте",
+            "en": "use new words in context"
+          },
+          {
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
+          }
+        ],
+        "newWords": [
+          "b1-s05-l29-w01",
+          "b1-s05-l29-w02",
+          "b1-s05-l29-w03",
+          "b1-s05-l29-w04",
+          "b1-s05-l29-w05",
+          "b1-s05-l29-w06",
+          "b1-s05-l29-w07",
+          "b1-s05-l29-w08"
+        ],
+        "exercisesCount": 12,
+        "reward": "+140 XP",
+        "estimatedMinutes": 28,
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "id": "t1",
+          "screenType": "theory",
+          "order": 1,
+          "title": {
+            "uk": "Сенс уроку",
+            "ru": "Смысл урока",
+            "en": "Lesson focus"
+          },
+          "body": {
+            "uk": "Тренуємо тему «Ak sa niečo zmení»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+            "ru": "реагируем на изменение обстоятельств и перестраиваем планы.",
+            "en": "Practice the B1 topic “Ak sa niečo zmení” inside connected communication. Section: Future, intentions and possibilities."
+          },
+          "examples": [
+            {
+              "sk": "Téma je Ak sa niečo zmení.",
+              "translation": {
+                "uk": "Тема: «Ak sa niečo zmení».",
+                "ru": "Тема: «Ak sa niečo zmení».",
+                "en": "Topic: “Ak sa niečo zmení”."
+              }
+            },
+            {
+              "sk": "Používam výraz ak sa zmení v reálnej situácii.",
+              "translation": {
+                "uk": "Я використовую «ak sa zmení» у реальній ситуації.",
+                "ru": "Я использую «ak sa zmení» в реальной ситуации.",
+                "en": "I use “ak sa zmení” in a real situation."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "На B1 важливо не лише знати слово, а зв'язати його з причиною, прикладом і реакцією.",
+            "ru": "На B1 важно не только знать слово, а связать его с причиной, примером и реакцией.",
+            "en": "At B1, connect the item with a reason, example and reaction."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t2",
+          "screenType": "theory",
+          "order": 2,
+          "title": {
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer pattern"
+          },
+          "body": {
+            "uk": "Будуй відповідь за схемою: ситуація → причина → приклад → що роблю далі.",
+            "ru": "Строй ответ по схеме: ситуация → причина → пример → что делаю дальше.",
+            "en": "Build the answer as: situation → reason → example → next action."
+          },
+          "examples": [
+            {
+              "sk": "Najprv vysvetlím situáciu, potom použijem podľa toho.",
+              "translation": {
+                "uk": "Спочатку пояснюю ситуацію, потім використовую цільовий вираз.",
+                "ru": "Сначала объясняю ситуацию, потом использую целевое выражение.",
+                "en": "First I explain the situation, then I use the target item."
+              }
+            },
+            {
+              "sk": "Podľa mňa je dôležité hovoriť jasne o téme Ak sa niečo zmení.",
+              "translation": {
+                "uk": "На мою думку, важливо говорити про тему ясно.",
+                "ru": "По моему мнению, важно говорить о теме ясно.",
+                "en": "In my opinion, it is important to speak about the topic clearly."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "Одна думка = одне зрозуміле речення. Потім додай причину або приклад.",
+            "ru": "Одна мысль = одно понятное предложение. Потом добавь причину или пример.",
+            "en": "One idea equals one clear sentence. Then add a reason or example."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t3",
+          "screenType": "theory",
+          "order": 3,
+          "title": {
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
+          },
+          "body": {
+            "uk": "У фінальній ситуації потрібно вибрати репліку, яка реально підходить до контексту, а не просто повторює слово.",
+            "ru": "В финальной ситуации нужно выбрать реплику, которая реально подходит к контексту, а не просто повторяет слово.",
+            "en": "In the final situation, choose a reply that fits the context, not just a repeated word."
+          },
+          "examples": [
+            {
+              "sk": "V praxi by som to povedal pokojne a konkrétne.",
+              "translation": {
+                "uk": "На практиці я сказав би це спокійно й конкретно.",
+                "ru": "На практике я сказал бы это спокойно и конкретно.",
+                "en": "In practice I would say it calmly and concretely."
+              }
+            },
+            {
+              "sk": "Ak niečomu nerozumiem, spýtam sa doplňujúcu otázku.",
+              "translation": {
+                "uk": "Якщо чогось не розумію, ставлю уточнювальне питання.",
+                "ru": "Если чего-то не понимаю, задаю уточняющий вопрос.",
+                "en": "If I do not understand something, I ask a follow-up question."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "B1 = зв'язна відповідь, уточнення і практичний результат.",
+            "ru": "B1 = связный ответ, уточнение и практический результат.",
+            "en": "B1 means a connected answer, clarification and a practical result."
+          },
+          "button": "Далі"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": {
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
+        },
+        "description": {
+          "uk": "Усі одиниці взяті з затвердженого плану B1.",
+          "ru": "Все единицы взяты из утвержденного плана B1.",
+          "en": "All items come from the approved B1 plan."
+        },
+        "items": [
+          {
+            "wordId": "b1-s05-l29-w01",
+            "sk": "ak sa zmení",
+            "uk": "словацьке слово/вираз «ak sa zmení»",
+            "ru": "словацкое слово/выражение «ak sa zmení»",
+            "en": "Slovak word/expression “ak sa zmení”",
+            "pronunciationUk": "ak sa zmenі",
+            "exampleSk": "V tejto situácii používam výraz ak sa zmení.",
+            "exampleUk": "У цій ситуації я використовую вираз «ak sa zmení».",
+            "exampleRu": "В этой ситуации я использую выражение «ak sa zmení».",
+            "exampleEn": "In this situation I use “ak sa zmení”."
+          },
+          {
+            "wordId": "b1-s05-l29-w02",
+            "sk": "podľa toho",
+            "uk": "словацьке слово/вираз «podľa toho»",
+            "ru": "словацкое слово/выражение «podľa toho»",
+            "en": "Slovak word/expression “podľa toho”",
+            "pronunciationUk": "podльa toho",
+            "exampleSk": "V tejto situácii používam výraz podľa toho.",
+            "exampleUk": "У цій ситуації я використовую вираз «podľa toho».",
+            "exampleRu": "В этой ситуации я использую выражение «podľa toho».",
+            "exampleEn": "In this situation I use “podľa toho”."
+          },
+          {
+            "wordId": "b1-s05-l29-w03",
+            "sk": "v takom prípade",
+            "uk": "словацьке слово/вираз «v takom prípade»",
+            "ru": "словацкое слово/выражение «v takom prípade»",
+            "en": "Slovak word/expression “v takom prípade”",
+            "pronunciationUk": "v takom prіpade",
+            "exampleSk": "V tejto situácii používam výraz v takom prípade.",
+            "exampleUk": "У цій ситуації я використовую вираз «v takom prípade».",
+            "exampleRu": "В этой ситуации я использую выражение «v takom prípade».",
+            "exampleEn": "In this situation I use “v takom prípade”."
+          },
+          {
+            "wordId": "b1-s05-l29-w04",
+            "sk": "prispôsobiť",
+            "uk": "словацьке слово/вираз «prispôsobiť»",
+            "ru": "словацкое слово/выражение «prispôsobiť»",
+            "en": "Slovak word/expression “prispôsobiť”",
+            "pronunciationUk": "prispуоsobiть",
+            "exampleSk": "V tejto situácii používam výraz prispôsobiť.",
+            "exampleUk": "У цій ситуації я використовую вираз «prispôsobiť».",
+            "exampleRu": "В этой ситуации я использую выражение «prispôsobiť».",
+            "exampleEn": "In this situation I use “prispôsobiť”."
+          },
+          {
+            "wordId": "b1-s05-l29-w05",
+            "sk": "zmeniť plán",
+            "uk": "словацьке слово/вираз «zmeniť plán»",
+            "ru": "словацкое слово/выражение «zmeniť plán»",
+            "en": "Slovak word/expression “zmeniť plán”",
+            "pronunciationUk": "zmeniть plаn",
+            "exampleSk": "V tejto situácii používam výraz zmeniť plán.",
+            "exampleUk": "У цій ситуації я використовую вираз «zmeniť plán».",
+            "exampleRu": "В этой ситуации я использую выражение «zmeniť plán».",
+            "exampleEn": "In this situation I use “zmeniť plán”."
+          },
+          {
+            "wordId": "b1-s05-l29-w06",
+            "sk": "odložiť",
+            "uk": "словацьке слово/вираз «odložiť»",
+            "ru": "словацкое слово/выражение «odložiť»",
+            "en": "Slovak word/expression “odložiť”",
+            "pronunciationUk": "odloжiть",
+            "exampleSk": "V tejto situácii používam výraz odložiť.",
+            "exampleUk": "У цій ситуації я використовую вираз «odložiť».",
+            "exampleRu": "В этой ситуации я использую выражение «odložiť».",
+            "exampleEn": "In this situation I use “odložiť”."
+          },
+          {
+            "wordId": "b1-s05-l29-w07",
+            "sk": "presunúť",
+            "uk": "словацьке слово/вираз «presunúť»",
+            "ru": "словацкое слово/выражение «presunúť»",
+            "en": "Slovak word/expression “presunúť”",
+            "pronunciationUk": "presunуть",
+            "exampleSk": "V tejto situácii používam výraz presunúť.",
+            "exampleUk": "У цій ситуації я використовую вираз «presunúť».",
+            "exampleRu": "В этой ситуации я использую выражение «presunúť».",
+            "exampleEn": "In this situation I use “presunúť”."
+          },
+          {
+            "wordId": "b1-s05-l29-w08",
+            "sk": "potvrdiť",
+            "uk": "словацьке слово/вираз «potvrdiť»",
+            "ru": "словацкое слово/выражение «potvrdiť»",
+            "en": "Slovak word/expression “potvrdiť”",
+            "pronunciationUk": "potvrdiть",
+            "exampleSk": "V tejto situácii používam výraz potvrdiť.",
+            "exampleUk": "У цій ситуації я використовую вираз «potvrdiť».",
+            "exampleRu": "В этой ситуации я использую выражение «potvrdiť».",
+            "exampleEn": "In this situation I use “potvrdiť”."
+          }
+        ],
+        "button": "До практики"
+      },
+      "words": [
+        {
+          "id": "b1-s05-l29-w01",
+          "sk": "ak sa zmení",
+          "uk": "словацьке слово/вираз «ak sa zmení»",
+          "ru": "словацкое слово/выражение «ak sa zmení»",
+          "en": "Slovak word/expression “ak sa zmení”",
+          "pronunciationUk": "ak sa zmenі",
+          "exampleSk": "V tejto situácii používam výraz ak sa zmení.",
+          "exampleUk": "У цій ситуації я використовую вираз «ak sa zmení».",
+          "exampleRu": "В этой ситуации я использую выражение «ak sa zmení».",
+          "exampleEn": "In this situation I use “ak sa zmení”.",
+          "level": "B1",
+          "topic": "Ak sa niečo zmení",
+          "tags": [
+            "b1_s05",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s05-l29-w02",
+          "sk": "podľa toho",
+          "uk": "словацьке слово/вираз «podľa toho»",
+          "ru": "словацкое слово/выражение «podľa toho»",
+          "en": "Slovak word/expression “podľa toho”",
+          "pronunciationUk": "podльa toho",
+          "exampleSk": "V tejto situácii používam výraz podľa toho.",
+          "exampleUk": "У цій ситуації я використовую вираз «podľa toho».",
+          "exampleRu": "В этой ситуации я использую выражение «podľa toho».",
+          "exampleEn": "In this situation I use “podľa toho”.",
+          "level": "B1",
+          "topic": "Ak sa niečo zmení",
+          "tags": [
+            "b1_s05",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s05-l29-w03",
+          "sk": "v takom prípade",
+          "uk": "словацьке слово/вираз «v takom prípade»",
+          "ru": "словацкое слово/выражение «v takom prípade»",
+          "en": "Slovak word/expression “v takom prípade”",
+          "pronunciationUk": "v takom prіpade",
+          "exampleSk": "V tejto situácii používam výraz v takom prípade.",
+          "exampleUk": "У цій ситуації я використовую вираз «v takom prípade».",
+          "exampleRu": "В этой ситуации я использую выражение «v takom prípade».",
+          "exampleEn": "In this situation I use “v takom prípade”.",
+          "level": "B1",
+          "topic": "Ak sa niečo zmení",
+          "tags": [
+            "b1_s05",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s05-l29-w04",
+          "sk": "prispôsobiť",
+          "uk": "словацьке слово/вираз «prispôsobiť»",
+          "ru": "словацкое слово/выражение «prispôsobiť»",
+          "en": "Slovak word/expression “prispôsobiť”",
+          "pronunciationUk": "prispуоsobiть",
+          "exampleSk": "V tejto situácii používam výraz prispôsobiť.",
+          "exampleUk": "У цій ситуації я використовую вираз «prispôsobiť».",
+          "exampleRu": "В этой ситуации я использую выражение «prispôsobiť».",
+          "exampleEn": "In this situation I use “prispôsobiť”.",
+          "level": "B1",
+          "topic": "Ak sa niečo zmení",
+          "tags": [
+            "b1_s05",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s05-l29-w05",
+          "sk": "zmeniť plán",
+          "uk": "словацьке слово/вираз «zmeniť plán»",
+          "ru": "словацкое слово/выражение «zmeniť plán»",
+          "en": "Slovak word/expression “zmeniť plán”",
+          "pronunciationUk": "zmeniть plаn",
+          "exampleSk": "V tejto situácii používam výraz zmeniť plán.",
+          "exampleUk": "У цій ситуації я використовую вираз «zmeniť plán».",
+          "exampleRu": "В этой ситуации я использую выражение «zmeniť plán».",
+          "exampleEn": "In this situation I use “zmeniť plán”.",
+          "level": "B1",
+          "topic": "Ak sa niečo zmení",
+          "tags": [
+            "b1_s05",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s05-l29-w06",
+          "sk": "odložiť",
+          "uk": "словацьке слово/вираз «odložiť»",
+          "ru": "словацкое слово/выражение «odložiť»",
+          "en": "Slovak word/expression “odložiť”",
+          "pronunciationUk": "odloжiть",
+          "exampleSk": "V tejto situácii používam výraz odložiť.",
+          "exampleUk": "У цій ситуації я використовую вираз «odložiť».",
+          "exampleRu": "В этой ситуации я использую выражение «odložiť».",
+          "exampleEn": "In this situation I use “odložiť”.",
+          "level": "B1",
+          "topic": "Ak sa niečo zmení",
+          "tags": [
+            "b1_s05",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s05-l29-w07",
+          "sk": "presunúť",
+          "uk": "словацьке слово/вираз «presunúť»",
+          "ru": "словацкое слово/выражение «presunúť»",
+          "en": "Slovak word/expression “presunúť”",
+          "pronunciationUk": "presunуть",
+          "exampleSk": "V tejto situácii používam výraz presunúť.",
+          "exampleUk": "У цій ситуації я використовую вираз «presunúť».",
+          "exampleRu": "В этой ситуации я использую выражение «presunúť».",
+          "exampleEn": "In this situation I use “presunúť”.",
+          "level": "B1",
+          "topic": "Ak sa niečo zmení",
+          "tags": [
+            "b1_s05",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s05-l29-w08",
+          "sk": "potvrdiť",
+          "uk": "словацьке слово/вираз «potvrdiť»",
+          "ru": "словацкое слово/выражение «potvrdiť»",
+          "en": "Slovak word/expression “potvrdiť”",
+          "pronunciationUk": "potvrdiть",
+          "exampleSk": "V tejto situácii používam výraz potvrdiť.",
+          "exampleUk": "У цій ситуації я використовую вираз «potvrdiť».",
+          "exampleRu": "В этой ситуации я использую выражение «potvrdiť».",
+          "exampleEn": "In this situation I use “potvrdiť”.",
+          "level": "B1",
+          "topic": "Ak sa niečo zmení",
+          "tags": [
+            "b1_s05",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "b1-s05-l29-e01",
+          "lessonId": "b1-s05-l29",
+          "type": "single_choice",
+          "order": 1,
+          "question": "Що тренує словацька одиниця «ak sa zmení»?",
+          "questionLocalized": {
+            "uk": "Що тренує словацька одиниця «ak sa zmení»?",
+            "ru": "Что тренирует словацкая единица «ak sa zmení»?",
+            "en": "What does the Slovak item “ak sa zmení” train?"
+          },
+          "wordIds": [
+            "b1-s05-l29-w01"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "словацьке слово/вираз «ak sa zmení»",
+                "ru": "словацкое слово/выражение «ak sa zmení»",
+                "en": "Slovak word/expression “ak sa zmení”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "словацьке слово/вираз «podľa toho»",
+                "ru": "словацкое слово/выражение «podľa toho»",
+                "en": "Slovak word/expression “podľa toho”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "словацьке слово/вираз «v takom prípade»",
+                "ru": "словацкое слово/выражение «v takom prípade»",
+                "en": "Slovak word/expression “v takom prípade”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s05-l29-e02",
+          "lessonId": "b1-s05-l29",
+          "type": "matching",
+          "order": 2,
+          "question": "З'єднай словацькі одиниці з поясненнями.",
+          "questionLocalized": {
+            "uk": "З'єднай словацькі одиниці з поясненнями.",
+            "ru": "Соедини словацкие единицы с объяснениями.",
+            "en": "Match Slovak items with explanations."
+          },
+          "wordIds": [
+            "b1-s05-l29-w01",
+            "b1-s05-l29-w02",
+            "b1-s05-l29-w03",
+            "b1-s05-l29-w04"
+          ],
+          "pairs": [
+            {
+              "left": "ak sa zmení",
+              "right": "словацьке слово/вираз «ak sa zmení»",
+              "rightRu": "словацкое слово/выражение «ak sa zmení»",
+              "rightEn": "Slovak word/expression “ak sa zmení”"
+            },
+            {
+              "left": "podľa toho",
+              "right": "словацьке слово/вираз «podľa toho»",
+              "rightRu": "словацкое слово/выражение «podľa toho»",
+              "rightEn": "Slovak word/expression “podľa toho”"
+            },
+            {
+              "left": "v takom prípade",
+              "right": "словацьке слово/вираз «v takom prípade»",
+              "rightRu": "словацкое слово/выражение «v takom prípade»",
+              "rightEn": "Slovak word/expression “v takom prípade”"
+            },
+            {
+              "left": "prispôsobiť",
+              "right": "словацьке слово/вираз «prispôsobiť»",
+              "rightRu": "словацкое слово/выражение «prispôsobiť»",
+              "rightEn": "Slovak word/expression “prispôsobiť”"
+            }
+          ]
+        },
+        {
+          "id": "b1-s05-l29-e03",
+          "lessonId": "b1-s05-l29",
+          "type": "fill_blank",
+          "order": 3,
+          "question": "Впиши словацькою: словацьке слово/вираз «v takom prípade».",
+          "questionLocalized": {
+            "uk": "Впиши словацькою: словацьке слово/вираз «v takom prípade».",
+            "ru": "Впиши по-словацки: словацкое слово/выражение «v takom prípade».",
+            "en": "Write in Slovak: Slovak word/expression “v takom prípade”."
+          },
+          "wordIds": [
+            "b1-s05-l29-w03"
+          ],
+          "sentence": "______",
+          "acceptedAnswers": [
+            "v takom prípade"
+          ],
+          "hint": {
+            "uk": "Початок: v…",
+            "ru": "Начало: v…",
+            "en": "Start: v…"
+          }
+        },
+        {
+          "id": "b1-s05-l29-e04",
+          "lessonId": "b1-s05-l29",
+          "type": "sentence_builder",
+          "order": 4,
+          "question": "Склади природне словацьке речення.",
+          "questionLocalized": {
+            "uk": "Склади природне словацьке речення.",
+            "ru": "Собери естественное словацкое предложение.",
+            "en": "Build a natural Slovak sentence."
+          },
+          "wordIds": [
+            "b1-s05-l29-w04"
+          ],
+          "tokens": [
+            "Používam",
+            "prispôsobiť",
+            "v",
+            "reálnej",
+            "situácii."
+          ],
+          "correctSentence": "Používam prispôsobiť v reálnej situácii."
+        },
+        {
+          "id": "b1-s05-l29-e05",
+          "lessonId": "b1-s05-l29",
+          "type": "multiple_select",
+          "order": 5,
+          "question": "Обери одиниці з цього уроку.",
+          "questionLocalized": {
+            "uk": "Обери одиниці з цього уроку.",
+            "ru": "Выбери единицы из этого урока.",
+            "en": "Select items from this lesson."
+          },
+          "wordIds": [
+            "b1-s05-l29-w01",
+            "b1-s05-l29-w02"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "ak sa zmení",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "podľa toho",
+              "correct": true
+            },
+            {
+              "id": "c",
+              "sk": "Dnes prší.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s05-l29-e06",
+          "lessonId": "b1-s05-l29",
+          "type": "reading_comprehension",
+          "order": 6,
+          "question": "Прочитай короткий контекст і знайди точну інформацію.",
+          "questionLocalized": {
+            "uk": "Прочитай короткий контекст і знайди точну інформацію.",
+            "ru": "Прочитай короткий контекст и найди точную информацию.",
+            "en": "Read the short context and find exact information."
+          },
+          "wordIds": [
+            "b1-s05-l29-w05",
+            "b1-s05-l29-w06",
+            "b1-s05-l29-w07"
+          ],
+          "text": "Téma je Ak sa niečo zmení. V rozhovore používam výrazy zmeniť plán, odložiť a presunúť.",
+          "questions": [
+            {
+              "prompt": {
+                "uk": "Яка тема прямо названа в тексті?",
+                "ru": "Какая тема прямо названа в тексте?",
+                "en": "Which topic is directly named in the text?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "Ak sa niečo zmení",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "Počasie",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "Šport",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b1-s05-l29-e07",
+          "lessonId": "b1-s05-l29",
+          "type": "natural_phrase",
+          "order": 7,
+          "question": "Що звучить найприродніше в цій темі?",
+          "questionLocalized": {
+            "uk": "Що звучить найприродніше в цій темі?",
+            "ru": "Что звучит естественнее всего в этой теме?",
+            "en": "What sounds most natural in this topic?"
+          },
+          "wordIds": [
+            "b1-s05-l29-w06"
+          ],
+          "situation": {
+            "uk": "Тобі потрібно використати цільову одиницю в короткій репліці.",
+            "ru": "Нужно использовать целевую единицу в короткой реплике.",
+            "en": "You need to use the target item in a short reply."
+          },
+          "options": [
+            {
+              "id": "a",
+              "sk": "Používam odložiť v tejto téme.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Som autobus.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Včera zelený rýchlo.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s05-l29-e08",
+          "lessonId": "b1-s05-l29",
+          "type": "dropdown_blank",
+          "order": 8,
+          "question": "Обери точну словацьку одиницю: словацьке слово/вираз «presunúť».",
+          "questionLocalized": {
+            "uk": "Обери точну словацьку одиницю: словацьке слово/вираз «presunúť».",
+            "ru": "Выбери точную словацкую единицу: словацкое слово/выражение «presunúť».",
+            "en": "Choose the exact Slovak item: Slovak word/expression “presunúť”."
+          },
+          "wordIds": [
+            "b1-s05-l29-w07"
+          ],
+          "sentenceParts": [
+            {
+              "text": "Veta obsahuje "
+            },
+            {
+              "blankId": "b1",
+              "options": [
+                "presunúť",
+                "ak sa zmení",
+                "podľa toho"
+              ],
+              "correct": "presunúť"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "b1-s05-l29-e09",
+          "lessonId": "b1-s05-l29",
+          "type": "dialogue_choose_reply",
+          "order": 9,
+          "question": "Обери найкращу відповідь у діалозі.",
+          "questionLocalized": {
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
+          },
+          "wordIds": [
+            "b1-s05-l29-w08"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Vieš to vysvetliť cez potvrdiť?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Áno, použijem potvrdiť v príklade.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Nie, toto je úplne iná téma.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Nerozumiem otázke a nereagujem.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s05-l29-e10",
+          "lessonId": "b1-s05-l29",
+          "type": "meaning_in_context",
+          "order": 10,
+          "question": "Čo znamená výraz v kontexte: «podľa toho»?",
+          "questionLocalized": {
+            "uk": "Що означає вираз у контексті: «podľa toho»?",
+            "ru": "Что означает выражение в контексте: «podľa toho»?",
+            "en": "What does the item mean in context: “podľa toho”?"
+          },
+          "wordIds": [
+            "b1-s05-l29-w02"
+          ],
+          "context": {
+            "sk": "V tejto lekcii riešime podľa toho."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "словацьке слово/вираз «podľa toho»",
+                "ru": "словацкое слово/выражение «podľa toho»",
+                "en": "Slovak word/expression “podľa toho”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "словацьке слово/вираз «prispôsobiť»",
+                "ru": "словацкое слово/выражение «prispôsobiť»",
+                "en": "Slovak word/expression “prispôsobiť”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "словацьке слово/вираз «zmeniť plán»",
+                "ru": "словацкое слово/выражение «zmeniť plán»",
+                "en": "Slovak word/expression “zmeniť plán”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s05-l29-e11",
+          "lessonId": "b1-s05-l29",
+          "type": "reverse_translation",
+          "order": 11,
+          "question": "Обери словацький варіант для: словацьке слово/вираз «zmeniť plán».",
+          "questionLocalized": {
+            "uk": "Обери словацький варіант для: словацьке слово/вираз «zmeniť plán».",
+            "ru": "Выбери словацкий вариант для: словацкое слово/выражение «zmeniť plán».",
+            "en": "Choose the Slovak item for: Slovak word/expression “zmeniť plán”."
+          },
+          "wordIds": [
+            "b1-s05-l29-w05"
+          ],
+          "options": [
+            "zmeniť plán",
+            "v takom prípade",
+            "ak sa zmení"
+          ],
+          "correctAnswer": "zmeniť plán"
+        },
+        {
+          "id": "b1-s05-l29-e12",
+          "lessonId": "b1-s05-l29",
+          "type": "multiple_choice_translation",
+          "order": 12,
+          "question": "Що відповідає словацькому «potvrdiť»?",
+          "questionLocalized": {
+            "uk": "Що відповідає словацькому «potvrdiť»?",
+            "ru": "Что соответствует словацкому «potvrdiť»?",
+            "en": "What matches the Slovak “potvrdiť”?"
+          },
+          "wordIds": [
+            "b1-s05-l29-w08"
+          ],
+          "options": [
+            "словацьке слово/вираз «potvrdiť»",
+            "словацьке слово/вираз «podľa toho»",
+            "словацьке слово/вираз «v takom prípade»"
+          ],
+          "correctAnswer": "словацьке слово/вираз «potvrdiť»"
+        }
+      ],
+      "finalSituation": {
+        "id": "final-situation",
+        "type": "interactive_scenario",
+        "title": {
+          "uk": "Ak sa niečo zmení: життєва ситуація",
+          "ru": "Ak sa niečo zmení: жизненная ситуация",
+          "en": "Ak sa niečo zmení: real-life situation"
+        },
+        "description": {
+          "uk": "Обери репліку, яка природно вирішує ситуацію на рівні B1.",
+          "ru": "Выбери реплику, которая естественно решает ситуацию на уровне B1.",
+          "en": "Choose the reply that naturally solves the situation at B1 level."
+        },
+        "steps": [
+          {
+            "id": "f1",
+            "prompt": {
+              "uk": "Тебе просять коротко пояснити ситуацію. Що відповісти?",
+              "ru": "Тебя просят коротко объяснить ситуацию. Что ответить?",
+              "en": "You are asked to briefly explain the situation. What do you answer?"
+            },
+            "options": [
+              {
+                "sk": "Najprv vysvetlím tému Ak sa niečo zmení a uvediem príklad.",
+                "correct": true
+              },
+              {
+                "sk": "Neviem nič povedať.",
+                "correct": false
+              },
+              {
+                "sk": "To nesúvisí s témou.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "prompt": {
+              "uk": "Потрібно відреагувати спокійно й конкретно.",
+              "ru": "Нужно отреагировать спокойно и конкретно.",
+              "en": "You need to react calmly and concretely."
+            },
+            "options": [
+              {
+                "sk": "Rozumiem. Skúsim to povedať jasnejšie cez ak sa zmení.",
+                "correct": true
+              },
+              {
+                "sk": "To je modrý autobus.",
+                "correct": false
+              },
+              {
+                "sk": "Nechcem hovoriť vôbec.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f3",
+            "prompt": {
+              "uk": "Потрібно завершити розмову практичною домовленістю.",
+              "ru": "Нужно завершить разговор практической договоренностью.",
+              "en": "You need to finish with a practical agreement."
+            },
+            "options": [
+              {
+                "sk": "Dohodnime sa na ďalšom kroku a potvrdím to správou.",
+                "correct": true
+              },
+              {
+                "sk": "Zajtra bolo včera.",
+                "correct": false
+              },
+              {
+                "sk": "Nemám žiadny návrh.",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "passRequirement": "3/3",
+        "successMessage": {
+          "uk": "Hotovo: použil si tému v realistickej situácii.",
+          "ru": "Готово: ты использовал тему в реалистичной ситуации.",
+          "en": "Done: you used the topic in a realistic situation."
+        }
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": {
+          "uk": "Урок завершено",
+          "ru": "Урок завершён",
+          "en": "Lesson complete"
+        },
+        "subtitle": {
+          "uk": "Ти завершив ще один крок рівня B1.",
+          "ru": "Ты завершил ещё один шаг уровня B1.",
+          "en": "You completed another B1 step."
+        },
+        "xpReward": 140,
+        "newWordsCount": 8,
+        "exercisesCompleted": 12,
+        "nowYouKnow": [
+          "говорити на тему «Ak sa niečo zmení»",
+          "зв'язувати думки у коротку відповідь",
+          "реагувати в практичній ситуації"
+        ],
+        "mistakesMessage": {
+          "uk": "Повтори тільки ті вправи, де відповідь ще не автоматична.",
+          "ru": "Повтори только те упражнения, где ответ ещё не автоматический.",
+          "en": "Repeat only the exercises where the answer is not automatic yet."
+        },
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "skills": [
+          {
+            "id": "vocabulary",
+            "label": {
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
+            },
+            "weight": 0.3
+          },
+          {
+            "id": "communication",
+            "label": {
+              "uk": "комунікація",
+              "ru": "коммуникация",
+              "en": "communication"
+            },
+            "weight": 0.4
+          },
+          {
+            "id": "transfer",
+            "label": {
+              "uk": "перенесення",
+              "ru": "перенос",
+              "en": "transfer"
+            },
+            "weight": 0.3
+          }
+        ],
+        "nextLesson": {
+          "id": "b1-s05-l30"
+        }
+      }
+    }
+  ]
+}

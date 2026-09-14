@@ -16,7 +16,7 @@ Curriculum architecture is `curriculum/COURSE_ARCHITECTURE_V2.md`. The current S
 - Slovak examples stay Slovak; Ukrainian translations stay Ukrainian.
 
 ## Numbering and curriculum
-Canonical IDs are level-specific: `a1-sNN-lNN`, `a2-sNN-lNN`, … `c2-sNN-lNN`; `sectionId` is `<level>_sNN`; `level` matches the target CEFR level.
+Canonical IDs are level-specific: `a1-sNN-lNN`, `b1-sNN-lNNN` when a level exceeds 99 lessons, … `c2-sNN-lNN`; `sectionId` is `<level>_sNN`; `level` matches the target CEFR level.
 Lesson IDs, order and section membership come from the authoritative level plan. Never invent numbering or duplicate legacy files.
 Production may use batches of three coherent sections; this never changes the section's approved lesson count.
 

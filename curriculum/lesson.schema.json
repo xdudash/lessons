@@ -38,7 +38,7 @@
         "exercises", "finalSituation", "resultScreen"
       ],
       "properties": {
-        "id": {"type": "string", "pattern": "^(a1|a2|b1|b2|c1|c2)-s\\d{2}-l\\d{2}$"},
+        "id": {"type": "string", "pattern": "^(a1|a2|b1|b2|c1|c2)-s\\d{2}-l\\d{2,3}$"},
         "sectionId": {"type": "string", "pattern": "^(a1|a2|b1|b2|c1|c2)_s\\d{2}$"},
         "level": {"enum": ["A1", "A2", "B1", "B2", "C1", "C2"]},
         "title": {"$ref": "#/$defs/localized"},

@@ -1,0 +1,1056 @@
+{
+  "lessons": [
+    {
+      "id": "b1-s05-l26",
+      "sectionId": "b1_s05",
+      "level": "B1",
+      "title": {
+        "sk": "Som rozhodnutý",
+        "uk": "B1: Som rozhodnutý",
+        "ru": "B1: Som rozhodnutý",
+        "en": "B1: Som rozhodnutý"
+      },
+      "topic": {
+        "sk": "Som rozhodnutý",
+        "uk": "B1: Som rozhodnutý",
+        "ru": "B1: Som rozhodnutý",
+        "en": "B1: Som rozhodnutý"
+      },
+      "description": {
+        "sk": "Precvičíš si tému Som rozhodnutý v súvislej komunikácii na úrovni B1.",
+        "uk": "Тренуємо тему «Som rozhodnutý»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+        "ru": "выражаем твёрдое намерение и объясняем, почему приняли решение.",
+        "en": "Practice the B1 topic “Som rozhodnutý” inside connected communication. Section: Future, intentions and possibilities."
+      },
+      "order": 26,
+      "xpReward": 140,
+      "estimatedMinutes": 28,
+      "isPublished": false,
+      "intro": {
+        "sk": "Precvičíš si tému Som rozhodnutý v súvislej komunikácii na úrovni B1.",
+        "uk": "Тренуємо тему «Som rozhodnutý»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+        "ru": "выражаем твёрдое намерение и объясняем, почему приняли решение.",
+        "en": "Practice the B1 topic “Som rozhodnutý” inside connected communication. Section: Future, intentions and possibilities."
+      },
+      "completionMessage": {
+        "sk": "Výborne. Pokračuj v používaní témy v reálnych situáciách.",
+        "uk": "Добре. Тепер перенеси тему в реальну розмову.",
+        "ru": "Хорошо. Теперь перенеси тему в реальный разговор.",
+        "en": "Good. Now transfer the topic into a real conversation."
+      },
+      "updatedAt": "2026-09-14T00:00:00Z",
+      "localization": {
+        "uiLanguages": [
+          "uk",
+          "ru",
+          "en"
+        ],
+        "targetLanguage": "sk",
+        "fallbackUiLanguage": "uk"
+      },
+      "assets": {
+        "images": {},
+        "audio": {}
+      },
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": {
+          "sk": "Som rozhodnutý",
+          "uk": "B1: Som rozhodnutý",
+          "ru": "B1: Som rozhodnutý",
+          "en": "B1: Som rozhodnutý"
+        },
+        "shortDescription": {
+          "uk": "Тренуємо тему «Som rozhodnutý»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+          "ru": "выражаем твёрдое намерение и объясняем, почему приняли решение.",
+          "en": "Practice the B1 topic “Som rozhodnutý” inside connected communication. Section: Future, intentions and possibilities."
+        },
+        "outcomes": [
+          {
+            "uk": "пояснити тему «Som rozhodnutý» зв'язно",
+            "ru": "связно объяснить тему «Som rozhodnutý»",
+            "en": "explain the topic “Som rozhodnutý” coherently"
+          },
+          {
+            "uk": "використати нові слова в контексті",
+            "ru": "использовать новые слова в контексте",
+            "en": "use new words in context"
+          },
+          {
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
+          }
+        ],
+        "newWords": [
+          "b1-s05-l26-w01",
+          "b1-s05-l26-w02",
+          "b1-s05-l26-w03",
+          "b1-s05-l26-w04",
+          "b1-s05-l26-w05",
+          "b1-s05-l26-w06",
+          "b1-s05-l26-w07",
+          "b1-s05-l26-w08"
+        ],
+        "exercisesCount": 12,
+        "reward": "+140 XP",
+        "estimatedMinutes": 28,
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "id": "t1",
+          "screenType": "theory",
+          "order": 1,
+          "title": {
+            "uk": "Сенс уроку",
+            "ru": "Смысл урока",
+            "en": "Lesson focus"
+          },
+          "body": {
+            "uk": "Тренуємо тему «Som rozhodnutý»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+            "ru": "выражаем твёрдое намерение и объясняем, почему приняли решение.",
+            "en": "Practice the B1 topic “Som rozhodnutý” inside connected communication. Section: Future, intentions and possibilities."
+          },
+          "examples": [
+            {
+              "sk": "Téma je Som rozhodnutý.",
+              "translation": {
+                "uk": "Тема: «Som rozhodnutý».",
+                "ru": "Тема: «Som rozhodnutý».",
+                "en": "Topic: “Som rozhodnutý”."
+              }
+            },
+            {
+              "sk": "Používam výraz byť rozhodnutý v reálnej situácii.",
+              "translation": {
+                "uk": "Я використовую «byť rozhodnutý» у реальній ситуації.",
+                "ru": "Я использую «byť rozhodnutý» в реальной ситуации.",
+                "en": "I use “byť rozhodnutý” in a real situation."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "На B1 важливо не лише знати слово, а зв'язати його з причиною, прикладом і реакцією.",
+            "ru": "На B1 важно не только знать слово, а связать его с причиной, примером и реакцией.",
+            "en": "At B1, connect the item with a reason, example and reaction."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t2",
+          "screenType": "theory",
+          "order": 2,
+          "title": {
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer pattern"
+          },
+          "body": {
+            "uk": "Будуй відповідь за схемою: ситуація → причина → приклад → що роблю далі.",
+            "ru": "Строй ответ по схеме: ситуация → причина → пример → что делаю дальше.",
+            "en": "Build the answer as: situation → reason → example → next action."
+          },
+          "examples": [
+            {
+              "sk": "Najprv vysvetlím situáciu, potom použijem rozhodnutie.",
+              "translation": {
+                "uk": "Спочатку пояснюю ситуацію, потім використовую цільовий вираз.",
+                "ru": "Сначала объясняю ситуацию, потом использую целевое выражение.",
+                "en": "First I explain the situation, then I use the target item."
+              }
+            },
+            {
+              "sk": "Podľa mňa je dôležité hovoriť jasne o téme Som rozhodnutý.",
+              "translation": {
+                "uk": "На мою думку, важливо говорити про тему ясно.",
+                "ru": "По моему мнению, важно говорить о теме ясно.",
+                "en": "In my opinion, it is important to speak about the topic clearly."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "Одна думка = одне зрозуміле речення. Потім додай причину або приклад.",
+            "ru": "Одна мысль = одно понятное предложение. Потом добавь причину или пример.",
+            "en": "One idea equals one clear sentence. Then add a reason or example."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t3",
+          "screenType": "theory",
+          "order": 3,
+          "title": {
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
+          },
+          "body": {
+            "uk": "У фінальній ситуації потрібно вибрати репліку, яка реально підходить до контексту, а не просто повторює слово.",
+            "ru": "В финальной ситуации нужно выбрать реплику, которая реально подходит к контексту, а не просто повторяет слово.",
+            "en": "In the final situation, choose a reply that fits the context, not just a repeated word."
+          },
+          "examples": [
+            {
+              "sk": "V praxi by som to povedal pokojne a konkrétne.",
+              "translation": {
+                "uk": "На практиці я сказав би це спокійно й конкретно.",
+                "ru": "На практике я сказал бы это спокойно и конкретно.",
+                "en": "In practice I would say it calmly and concretely."
+              }
+            },
+            {
+              "sk": "Ak niečomu nerozumiem, spýtam sa doplňujúcu otázku.",
+              "translation": {
+                "uk": "Якщо чогось не розумію, ставлю уточнювальне питання.",
+                "ru": "Если чего-то не понимаю, задаю уточняющий вопрос.",
+                "en": "If I do not understand something, I ask a follow-up question."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "B1 = зв'язна відповідь, уточнення і практичний результат.",
+            "ru": "B1 = связный ответ, уточнение и практический результат.",
+            "en": "B1 means a connected answer, clarification and a practical result."
+          },
+          "button": "Далі"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": {
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
+        },
+        "description": {
+          "uk": "Усі одиниці взяті з затвердженого плану B1.",
+          "ru": "Все единицы взяты из утвержденного плана B1.",
+          "en": "All items come from the approved B1 plan."
+        },
+        "items": [
+          {
+            "wordId": "b1-s05-l26-w01",
+            "sk": "byť rozhodnutý",
+            "uk": "словацьке слово/вираз «byť rozhodnutý»",
+            "ru": "словацкое слово/выражение «byť rozhodnutý»",
+            "en": "Slovak word/expression “byť rozhodnutý”",
+            "pronunciationUk": "byть rozhodnutи",
+            "exampleSk": "V tejto situácii používam výraz byť rozhodnutý.",
+            "exampleUk": "У цій ситуації я використовую вираз «byť rozhodnutý».",
+            "exampleRu": "В этой ситуации я использую выражение «byť rozhodnutý».",
+            "exampleEn": "In this situation I use “byť rozhodnutý”."
+          },
+          {
+            "wordId": "b1-s05-l26-w02",
+            "sk": "rozhodnutie",
+            "uk": "словацьке слово/вираз «rozhodnutie»",
+            "ru": "словацкое слово/выражение «rozhodnutie»",
+            "en": "Slovak word/expression “rozhodnutie”",
+            "pronunciationUk": "rozhodnutie",
+            "exampleSk": "V tejto situácii používam výraz rozhodnutie.",
+            "exampleUk": "У цій ситуації я використовую вираз «rozhodnutie».",
+            "exampleRu": "В этой ситуации я использую выражение «rozhodnutie».",
+            "exampleEn": "In this situation I use “rozhodnutie”."
+          },
+          {
+            "wordId": "b1-s05-l26-w03",
+            "sk": "zámer",
+            "uk": "словацьке слово/вираз «zámer»",
+            "ru": "словацкое слово/выражение «zámer»",
+            "en": "Slovak word/expression “zámer”",
+            "pronunciationUk": "zаmer",
+            "exampleSk": "V tejto situácii používam výraz zámer.",
+            "exampleUk": "У цій ситуації я використовую вираз «zámer».",
+            "exampleRu": "В этой ситуации я использую выражение «zámer».",
+            "exampleEn": "In this situation I use “zámer”."
+          },
+          {
+            "wordId": "b1-s05-l26-w04",
+            "sk": "určite",
+            "uk": "словацьке слово/вираз «určite»",
+            "ru": "словацкое слово/выражение «určite»",
+            "en": "Slovak word/expression “určite”",
+            "pronunciationUk": "urчite",
+            "exampleSk": "V tejto situácii používam výraz určite.",
+            "exampleUk": "У цій ситуації я використовую вираз «určite».",
+            "exampleRu": "В этой ситуации я использую выражение «určite».",
+            "exampleEn": "In this situation I use “určite”."
+          },
+          {
+            "wordId": "b1-s05-l26-w05",
+            "sk": "jednoznačne",
+            "uk": "словацьке слово/вираз «jednoznačne»",
+            "ru": "словацкое слово/выражение «jednoznačne»",
+            "en": "Slovak word/expression “jednoznačne”",
+            "pronunciationUk": "jednoznaчne",
+            "exampleSk": "V tejto situácii používam výraz jednoznačne.",
+            "exampleUk": "У цій ситуації я використовую вираз «jednoznačne».",
+            "exampleRu": "В этой ситуации я использую выражение «jednoznačne».",
+            "exampleEn": "In this situation I use “jednoznačne”."
+          },
+          {
+            "wordId": "b1-s05-l26-w06",
+            "sk": "pokračovať",
+            "uk": "словацьке слово/вираз «pokračovať»",
+            "ru": "словацкое слово/выражение «pokračovať»",
+            "en": "Slovak word/expression “pokračovať”",
+            "pronunciationUk": "pokraчovaть",
+            "exampleSk": "V tejto situácii používam výraz pokračovať.",
+            "exampleUk": "У цій ситуації я використовую вираз «pokračovať».",
+            "exampleRu": "В этой ситуации я использую выражение «pokračovať».",
+            "exampleEn": "In this situation I use “pokračovať”."
+          },
+          {
+            "wordId": "b1-s05-l26-w07",
+            "sk": "prestať",
+            "uk": "словацьке слово/вираз «prestať»",
+            "ru": "словацкое слово/выражение «prestať»",
+            "en": "Slovak word/expression “prestať”",
+            "pronunciationUk": "prestaть",
+            "exampleSk": "V tejto situácii používam výraz prestať.",
+            "exampleUk": "У цій ситуації я використовую вираз «prestať».",
+            "exampleRu": "В этой ситуации я использую выражение «prestať».",
+            "exampleEn": "In this situation I use “prestať”."
+          },
+          {
+            "wordId": "b1-s05-l26-w08",
+            "sk": "začať",
+            "uk": "словацьке слово/вираз «začať»",
+            "ru": "словацкое слово/выражение «začať»",
+            "en": "Slovak word/expression “začať”",
+            "pronunciationUk": "zaчaть",
+            "exampleSk": "V tejto situácii používam výraz začať.",
+            "exampleUk": "У цій ситуації я використовую вираз «začať».",
+            "exampleRu": "В этой ситуации я использую выражение «začať».",
+            "exampleEn": "In this situation I use “začať”."
+          }
+        ],
+        "button": "До практики"
+      },
+      "words": [
+        {
+          "id": "b1-s05-l26-w01",
+          "sk": "byť rozhodnutý",
+          "uk": "словацьке слово/вираз «byť rozhodnutý»",
+          "ru": "словацкое слово/выражение «byť rozhodnutý»",
+          "en": "Slovak word/expression “byť rozhodnutý”",
+          "pronunciationUk": "byть rozhodnutи",
+          "exampleSk": "V tejto situácii používam výraz byť rozhodnutý.",
+          "exampleUk": "У цій ситуації я використовую вираз «byť rozhodnutý».",
+          "exampleRu": "В этой ситуации я использую выражение «byť rozhodnutý».",
+          "exampleEn": "In this situation I use “byť rozhodnutý”.",
+          "level": "B1",
+          "topic": "Som rozhodnutý",
+          "tags": [
+            "b1_s05",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s05-l26-w02",
+          "sk": "rozhodnutie",
+          "uk": "словацьке слово/вираз «rozhodnutie»",
+          "ru": "словацкое слово/выражение «rozhodnutie»",
+          "en": "Slovak word/expression “rozhodnutie”",
+          "pronunciationUk": "rozhodnutie",
+          "exampleSk": "V tejto situácii používam výraz rozhodnutie.",
+          "exampleUk": "У цій ситуації я використовую вираз «rozhodnutie».",
+          "exampleRu": "В этой ситуации я использую выражение «rozhodnutie».",
+          "exampleEn": "In this situation I use “rozhodnutie”.",
+          "level": "B1",
+          "topic": "Som rozhodnutý",
+          "tags": [
+            "b1_s05",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s05-l26-w03",
+          "sk": "zámer",
+          "uk": "словацьке слово/вираз «zámer»",
+          "ru": "словацкое слово/выражение «zámer»",
+          "en": "Slovak word/expression “zámer”",
+          "pronunciationUk": "zаmer",
+          "exampleSk": "V tejto situácii používam výraz zámer.",
+          "exampleUk": "У цій ситуації я використовую вираз «zámer».",
+          "exampleRu": "В этой ситуации я использую выражение «zámer».",
+          "exampleEn": "In this situation I use “zámer”.",
+          "level": "B1",
+          "topic": "Som rozhodnutý",
+          "tags": [
+            "b1_s05",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s05-l26-w04",
+          "sk": "určite",
+          "uk": "словацьке слово/вираз «určite»",
+          "ru": "словацкое слово/выражение «určite»",
+          "en": "Slovak word/expression “určite”",
+          "pronunciationUk": "urчite",
+          "exampleSk": "V tejto situácii používam výraz určite.",
+          "exampleUk": "У цій ситуації я використовую вираз «určite».",
+          "exampleRu": "В этой ситуации я использую выражение «určite».",
+          "exampleEn": "In this situation I use “určite”.",
+          "level": "B1",
+          "topic": "Som rozhodnutý",
+          "tags": [
+            "b1_s05",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s05-l26-w05",
+          "sk": "jednoznačne",
+          "uk": "словацьке слово/вираз «jednoznačne»",
+          "ru": "словацкое слово/выражение «jednoznačne»",
+          "en": "Slovak word/expression “jednoznačne”",
+          "pronunciationUk": "jednoznaчne",
+          "exampleSk": "V tejto situácii používam výraz jednoznačne.",
+          "exampleUk": "У цій ситуації я використовую вираз «jednoznačne».",
+          "exampleRu": "В этой ситуации я использую выражение «jednoznačne».",
+          "exampleEn": "In this situation I use “jednoznačne”.",
+          "level": "B1",
+          "topic": "Som rozhodnutý",
+          "tags": [
+            "b1_s05",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s05-l26-w06",
+          "sk": "pokračovať",
+          "uk": "словацьке слово/вираз «pokračovať»",
+          "ru": "словацкое слово/выражение «pokračovať»",
+          "en": "Slovak word/expression “pokračovať”",
+          "pronunciationUk": "pokraчovaть",
+          "exampleSk": "V tejto situácii používam výraz pokračovať.",
+          "exampleUk": "У цій ситуації я використовую вираз «pokračovať».",
+          "exampleRu": "В этой ситуации я использую выражение «pokračovať».",
+          "exampleEn": "In this situation I use “pokračovať”.",
+          "level": "B1",
+          "topic": "Som rozhodnutý",
+          "tags": [
+            "b1_s05",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s05-l26-w07",
+          "sk": "prestať",
+          "uk": "словацьке слово/вираз «prestať»",
+          "ru": "словацкое слово/выражение «prestať»",
+          "en": "Slovak word/expression “prestať”",
+          "pronunciationUk": "prestaть",
+          "exampleSk": "V tejto situácii používam výraz prestať.",
+          "exampleUk": "У цій ситуації я використовую вираз «prestať».",
+          "exampleRu": "В этой ситуации я использую выражение «prestať».",
+          "exampleEn": "In this situation I use “prestať”.",
+          "level": "B1",
+          "topic": "Som rozhodnutý",
+          "tags": [
+            "b1_s05",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s05-l26-w08",
+          "sk": "začať",
+          "uk": "словацьке слово/вираз «začať»",
+          "ru": "словацкое слово/выражение «začať»",
+          "en": "Slovak word/expression “začať”",
+          "pronunciationUk": "zaчaть",
+          "exampleSk": "V tejto situácii používam výraz začať.",
+          "exampleUk": "У цій ситуації я використовую вираз «začať».",
+          "exampleRu": "В этой ситуации я использую выражение «začať».",
+          "exampleEn": "In this situation I use “začať”.",
+          "level": "B1",
+          "topic": "Som rozhodnutý",
+          "tags": [
+            "b1_s05",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "b1-s05-l26-e01",
+          "lessonId": "b1-s05-l26",
+          "type": "single_choice",
+          "order": 1,
+          "question": "Що тренує словацька одиниця «byť rozhodnutý»?",
+          "questionLocalized": {
+            "uk": "Що тренує словацька одиниця «byť rozhodnutý»?",
+            "ru": "Что тренирует словацкая единица «byť rozhodnutý»?",
+            "en": "What does the Slovak item “byť rozhodnutý” train?"
+          },
+          "wordIds": [
+            "b1-s05-l26-w01"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "словацьке слово/вираз «byť rozhodnutý»",
+                "ru": "словацкое слово/выражение «byť rozhodnutý»",
+                "en": "Slovak word/expression “byť rozhodnutý”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "словацьке слово/вираз «rozhodnutie»",
+                "ru": "словацкое слово/выражение «rozhodnutie»",
+                "en": "Slovak word/expression “rozhodnutie”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "словацьке слово/вираз «zámer»",
+                "ru": "словацкое слово/выражение «zámer»",
+                "en": "Slovak word/expression “zámer”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s05-l26-e02",
+          "lessonId": "b1-s05-l26",
+          "type": "matching",
+          "order": 2,
+          "question": "З'єднай словацькі одиниці з поясненнями.",
+          "questionLocalized": {
+            "uk": "З'єднай словацькі одиниці з поясненнями.",
+            "ru": "Соедини словацкие единицы с объяснениями.",
+            "en": "Match Slovak items with explanations."
+          },
+          "wordIds": [
+            "b1-s05-l26-w01",
+            "b1-s05-l26-w02",
+            "b1-s05-l26-w03",
+            "b1-s05-l26-w04"
+          ],
+          "pairs": [
+            {
+              "left": "byť rozhodnutý",
+              "right": "словацьке слово/вираз «byť rozhodnutý»",
+              "rightRu": "словацкое слово/выражение «byť rozhodnutý»",
+              "rightEn": "Slovak word/expression “byť rozhodnutý”"
+            },
+            {
+              "left": "rozhodnutie",
+              "right": "словацьке слово/вираз «rozhodnutie»",
+              "rightRu": "словацкое слово/выражение «rozhodnutie»",
+              "rightEn": "Slovak word/expression “rozhodnutie”"
+            },
+            {
+              "left": "zámer",
+              "right": "словацьке слово/вираз «zámer»",
+              "rightRu": "словацкое слово/выражение «zámer»",
+              "rightEn": "Slovak word/expression “zámer”"
+            },
+            {
+              "left": "určite",
+              "right": "словацьке слово/вираз «určite»",
+              "rightRu": "словацкое слово/выражение «určite»",
+              "rightEn": "Slovak word/expression “určite”"
+            }
+          ]
+        },
+        {
+          "id": "b1-s05-l26-e03",
+          "lessonId": "b1-s05-l26",
+          "type": "fill_blank",
+          "order": 3,
+          "question": "Впиши словацькою: словацьке слово/вираз «zámer».",
+          "questionLocalized": {
+            "uk": "Впиши словацькою: словацьке слово/вираз «zámer».",
+            "ru": "Впиши по-словацки: словацкое слово/выражение «zámer».",
+            "en": "Write in Slovak: Slovak word/expression “zámer”."
+          },
+          "wordIds": [
+            "b1-s05-l26-w03"
+          ],
+          "sentence": "______",
+          "acceptedAnswers": [
+            "zámer"
+          ],
+          "hint": {
+            "uk": "Початок: z…",
+            "ru": "Начало: z…",
+            "en": "Start: z…"
+          }
+        },
+        {
+          "id": "b1-s05-l26-e04",
+          "lessonId": "b1-s05-l26",
+          "type": "sentence_builder",
+          "order": 4,
+          "question": "Склади природне словацьке речення.",
+          "questionLocalized": {
+            "uk": "Склади природне словацьке речення.",
+            "ru": "Собери естественное словацкое предложение.",
+            "en": "Build a natural Slovak sentence."
+          },
+          "wordIds": [
+            "b1-s05-l26-w04"
+          ],
+          "tokens": [
+            "Používam",
+            "určite",
+            "v",
+            "reálnej",
+            "situácii."
+          ],
+          "correctSentence": "Používam určite v reálnej situácii."
+        },
+        {
+          "id": "b1-s05-l26-e05",
+          "lessonId": "b1-s05-l26",
+          "type": "multiple_select",
+          "order": 5,
+          "question": "Обери одиниці з цього уроку.",
+          "questionLocalized": {
+            "uk": "Обери одиниці з цього уроку.",
+            "ru": "Выбери единицы из этого урока.",
+            "en": "Select items from this lesson."
+          },
+          "wordIds": [
+            "b1-s05-l26-w01",
+            "b1-s05-l26-w02"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "byť rozhodnutý",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "rozhodnutie",
+              "correct": true
+            },
+            {
+              "id": "c",
+              "sk": "Dnes prší.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s05-l26-e06",
+          "lessonId": "b1-s05-l26",
+          "type": "reading_comprehension",
+          "order": 6,
+          "question": "Прочитай короткий контекст і знайди точну інформацію.",
+          "questionLocalized": {
+            "uk": "Прочитай короткий контекст і знайди точну інформацію.",
+            "ru": "Прочитай короткий контекст и найди точную информацию.",
+            "en": "Read the short context and find exact information."
+          },
+          "wordIds": [
+            "b1-s05-l26-w05",
+            "b1-s05-l26-w06",
+            "b1-s05-l26-w07"
+          ],
+          "text": "Téma je Som rozhodnutý. V rozhovore používam výrazy jednoznačne, pokračovať a prestať.",
+          "questions": [
+            {
+              "prompt": {
+                "uk": "Яка тема прямо названа в тексті?",
+                "ru": "Какая тема прямо названа в тексте?",
+                "en": "Which topic is directly named in the text?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "Som rozhodnutý",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "Počasie",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "Šport",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b1-s05-l26-e07",
+          "lessonId": "b1-s05-l26",
+          "type": "natural_phrase",
+          "order": 7,
+          "question": "Що звучить найприродніше в цій темі?",
+          "questionLocalized": {
+            "uk": "Що звучить найприродніше в цій темі?",
+            "ru": "Что звучит естественнее всего в этой теме?",
+            "en": "What sounds most natural in this topic?"
+          },
+          "wordIds": [
+            "b1-s05-l26-w06"
+          ],
+          "situation": {
+            "uk": "Тобі потрібно використати цільову одиницю в короткій репліці.",
+            "ru": "Нужно использовать целевую единицу в короткой реплике.",
+            "en": "You need to use the target item in a short reply."
+          },
+          "options": [
+            {
+              "id": "a",
+              "sk": "Používam pokračovať v tejto téme.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Som autobus.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Včera zelený rýchlo.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s05-l26-e08",
+          "lessonId": "b1-s05-l26",
+          "type": "dropdown_blank",
+          "order": 8,
+          "question": "Обери точну словацьку одиницю: словацьке слово/вираз «prestať».",
+          "questionLocalized": {
+            "uk": "Обери точну словацьку одиницю: словацьке слово/вираз «prestať».",
+            "ru": "Выбери точную словацкую единицу: словацкое слово/выражение «prestať».",
+            "en": "Choose the exact Slovak item: Slovak word/expression “prestať”."
+          },
+          "wordIds": [
+            "b1-s05-l26-w07"
+          ],
+          "sentenceParts": [
+            {
+              "text": "Veta obsahuje "
+            },
+            {
+              "blankId": "b1",
+              "options": [
+                "prestať",
+                "byť rozhodnutý",
+                "rozhodnutie"
+              ],
+              "correct": "prestať"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "b1-s05-l26-e09",
+          "lessonId": "b1-s05-l26",
+          "type": "dialogue_choose_reply",
+          "order": 9,
+          "question": "Обери найкращу відповідь у діалозі.",
+          "questionLocalized": {
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
+          },
+          "wordIds": [
+            "b1-s05-l26-w08"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Vieš to vysvetliť cez začať?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Áno, použijem začať v príklade.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Nie, toto je úplne iná téma.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Nerozumiem otázke a nereagujem.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s05-l26-e10",
+          "lessonId": "b1-s05-l26",
+          "type": "meaning_in_context",
+          "order": 10,
+          "question": "Čo znamená výraz v kontexte: «rozhodnutie»?",
+          "questionLocalized": {
+            "uk": "Що означає вираз у контексті: «rozhodnutie»?",
+            "ru": "Что означает выражение в контексте: «rozhodnutie»?",
+            "en": "What does the item mean in context: “rozhodnutie”?"
+          },
+          "wordIds": [
+            "b1-s05-l26-w02"
+          ],
+          "context": {
+            "sk": "V tejto lekcii riešime rozhodnutie."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "словацьке слово/вираз «rozhodnutie»",
+                "ru": "словацкое слово/выражение «rozhodnutie»",
+                "en": "Slovak word/expression “rozhodnutie”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "словацьке слово/вираз «určite»",
+                "ru": "словацкое слово/выражение «určite»",
+                "en": "Slovak word/expression “určite”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "словацьке слово/вираз «jednoznačne»",
+                "ru": "словацкое слово/выражение «jednoznačne»",
+                "en": "Slovak word/expression “jednoznačne”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s05-l26-e11",
+          "lessonId": "b1-s05-l26",
+          "type": "reverse_translation",
+          "order": 11,
+          "question": "Обери словацький варіант для: словацьке слово/вираз «jednoznačne».",
+          "questionLocalized": {
+            "uk": "Обери словацький варіант для: словацьке слово/вираз «jednoznačne».",
+            "ru": "Выбери словацкий вариант для: словацкое слово/выражение «jednoznačne».",
+            "en": "Choose the Slovak item for: Slovak word/expression “jednoznačne”."
+          },
+          "wordIds": [
+            "b1-s05-l26-w05"
+          ],
+          "options": [
+            "jednoznačne",
+            "zámer",
+            "byť rozhodnutý"
+          ],
+          "correctAnswer": "jednoznačne"
+        },
+        {
+          "id": "b1-s05-l26-e12",
+          "lessonId": "b1-s05-l26",
+          "type": "multiple_choice_translation",
+          "order": 12,
+          "question": "Що відповідає словацькому «začať»?",
+          "questionLocalized": {
+            "uk": "Що відповідає словацькому «začať»?",
+            "ru": "Что соответствует словацкому «začať»?",
+            "en": "What matches the Slovak “začať”?"
+          },
+          "wordIds": [
+            "b1-s05-l26-w08"
+          ],
+          "options": [
+            "словацьке слово/вираз «začať»",
+            "словацьке слово/вираз «rozhodnutie»",
+            "словацьке слово/вираз «zámer»"
+          ],
+          "correctAnswer": "словацьке слово/вираз «začať»"
+        }
+      ],
+      "finalSituation": {
+        "id": "final-situation",
+        "type": "interactive_scenario",
+        "title": {
+          "uk": "Som rozhodnutý: життєва ситуація",
+          "ru": "Som rozhodnutý: жизненная ситуация",
+          "en": "Som rozhodnutý: real-life situation"
+        },
+        "description": {
+          "uk": "Обери репліку, яка природно вирішує ситуацію на рівні B1.",
+          "ru": "Выбери реплику, которая естественно решает ситуацию на уровне B1.",
+          "en": "Choose the reply that naturally solves the situation at B1 level."
+        },
+        "steps": [
+          {
+            "id": "f1",
+            "prompt": {
+              "uk": "Тебе просять коротко пояснити ситуацію. Що відповісти?",
+              "ru": "Тебя просят коротко объяснить ситуацию. Что ответить?",
+              "en": "You are asked to briefly explain the situation. What do you answer?"
+            },
+            "options": [
+              {
+                "sk": "Najprv vysvetlím tému Som rozhodnutý a uvediem príklad.",
+                "correct": true
+              },
+              {
+                "sk": "Neviem nič povedať.",
+                "correct": false
+              },
+              {
+                "sk": "To nesúvisí s témou.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "prompt": {
+              "uk": "Потрібно відреагувати спокійно й конкретно.",
+              "ru": "Нужно отреагировать спокойно и конкретно.",
+              "en": "You need to react calmly and concretely."
+            },
+            "options": [
+              {
+                "sk": "Rozumiem. Skúsim to povedať jasnejšie cez byť rozhodnutý.",
+                "correct": true
+              },
+              {
+                "sk": "To je modrý autobus.",
+                "correct": false
+              },
+              {
+                "sk": "Nechcem hovoriť vôbec.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f3",
+            "prompt": {
+              "uk": "Потрібно завершити розмову практичною домовленістю.",
+              "ru": "Нужно завершить разговор практической договоренностью.",
+              "en": "You need to finish with a practical agreement."
+            },
+            "options": [
+              {
+                "sk": "Dohodnime sa na ďalšom kroku a potvrdím to správou.",
+                "correct": true
+              },
+              {
+                "sk": "Zajtra bolo včera.",
+                "correct": false
+              },
+              {
+                "sk": "Nemám žiadny návrh.",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "passRequirement": "3/3",
+        "successMessage": {
+          "uk": "Hotovo: použil si tému v realistickej situácii.",
+          "ru": "Готово: ты использовал тему в реалистичной ситуации.",
+          "en": "Done: you used the topic in a realistic situation."
+        }
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": {
+          "uk": "Урок завершено",
+          "ru": "Урок завершён",
+          "en": "Lesson complete"
+        },
+        "subtitle": {
+          "uk": "Ти завершив ще один крок рівня B1.",
+          "ru": "Ты завершил ещё один шаг уровня B1.",
+          "en": "You completed another B1 step."
+        },
+        "xpReward": 140,
+        "newWordsCount": 8,
+        "exercisesCompleted": 12,
+        "nowYouKnow": [
+          "говорити на тему «Som rozhodnutý»",
+          "зв'язувати думки у коротку відповідь",
+          "реагувати в практичній ситуації"
+        ],
+        "mistakesMessage": {
+          "uk": "Повтори тільки ті вправи, де відповідь ще не автоматична.",
+          "ru": "Повтори только те упражнения, где ответ ещё не автоматический.",
+          "en": "Repeat only the exercises where the answer is not automatic yet."
+        },
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "skills": [
+          {
+            "id": "vocabulary",
+            "label": {
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
+            },
+            "weight": 0.3
+          },
+          {
+            "id": "communication",
+            "label": {
+              "uk": "комунікація",
+              "ru": "коммуникация",
+              "en": "communication"
+            },
+            "weight": 0.4
+          },
+          {
+            "id": "transfer",
+            "label": {
+              "uk": "перенесення",
+              "ru": "перенос",
+              "en": "transfer"
+            },
+            "weight": 0.3
+          }
+        ],
+        "nextLesson": {
+          "id": "b1-s05-l27"
+        }
+      }
+    }
+  ]
+}

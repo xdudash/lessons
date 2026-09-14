@@ -1,0 +1,1056 @@
+{
+  "lessons": [
+    {
+      "id": "b1-s01-l04",
+      "sectionId": "b1_s01",
+      "level": "B1",
+      "title": {
+        "sk": "Moja cesta sem",
+        "uk": "B1: Moja cesta sem",
+        "ru": "B1: Moja cesta sem",
+        "en": "B1: Moja cesta sem"
+      },
+      "topic": {
+        "sk": "Moja cesta sem",
+        "uk": "B1: Moja cesta sem",
+        "ru": "B1: Moja cesta sem",
+        "en": "B1: Moja cesta sem"
+      },
+      "description": {
+        "sk": "Precvičíš si tému Moja cesta sem v súvislej komunikácii na úrovni B1.",
+        "uk": "Тренуємо тему «Moja cesta sem»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+        "ru": "рассказываем о важных событиях в жизни и связываем их в короткую биографическую историю.",
+        "en": "Practice the B1 topic “Moja cesta sem” inside connected communication. Section: Identity, personality and personal background."
+      },
+      "order": 4,
+      "xpReward": 140,
+      "estimatedMinutes": 28,
+      "isPublished": false,
+      "intro": {
+        "sk": "Precvičíš si tému Moja cesta sem v súvislej komunikácii na úrovni B1.",
+        "uk": "Тренуємо тему «Moja cesta sem»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+        "ru": "рассказываем о важных событиях в жизни и связываем их в короткую биографическую историю.",
+        "en": "Practice the B1 topic “Moja cesta sem” inside connected communication. Section: Identity, personality and personal background."
+      },
+      "completionMessage": {
+        "sk": "Výborne. Pokračuj v používaní témy v reálnych situáciách.",
+        "uk": "Добре. Тепер перенеси тему в реальну розмову.",
+        "ru": "Хорошо. Теперь перенеси тему в реальный разговор.",
+        "en": "Good. Now transfer the topic into a real conversation."
+      },
+      "updatedAt": "2026-09-14T00:00:00Z",
+      "localization": {
+        "uiLanguages": [
+          "uk",
+          "ru",
+          "en"
+        ],
+        "targetLanguage": "sk",
+        "fallbackUiLanguage": "uk"
+      },
+      "assets": {
+        "images": {},
+        "audio": {}
+      },
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": {
+          "sk": "Moja cesta sem",
+          "uk": "B1: Moja cesta sem",
+          "ru": "B1: Moja cesta sem",
+          "en": "B1: Moja cesta sem"
+        },
+        "shortDescription": {
+          "uk": "Тренуємо тему «Moja cesta sem»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+          "ru": "рассказываем о важных событиях в жизни и связываем их в короткую биографическую историю.",
+          "en": "Practice the B1 topic “Moja cesta sem” inside connected communication. Section: Identity, personality and personal background."
+        },
+        "outcomes": [
+          {
+            "uk": "пояснити тему «Moja cesta sem» зв'язно",
+            "ru": "связно объяснить тему «Moja cesta sem»",
+            "en": "explain the topic “Moja cesta sem” coherently"
+          },
+          {
+            "uk": "використати нові слова в контексті",
+            "ru": "использовать новые слова в контексте",
+            "en": "use new words in context"
+          },
+          {
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
+          }
+        ],
+        "newWords": [
+          "b1-s01-l04-w01",
+          "b1-s01-l04-w02",
+          "b1-s01-l04-w03",
+          "b1-s01-l04-w04",
+          "b1-s01-l04-w05",
+          "b1-s01-l04-w06",
+          "b1-s01-l04-w07",
+          "b1-s01-l04-w08"
+        ],
+        "exercisesCount": 12,
+        "reward": "+140 XP",
+        "estimatedMinutes": 28,
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "id": "t1",
+          "screenType": "theory",
+          "order": 1,
+          "title": {
+            "uk": "Сенс уроку",
+            "ru": "Смысл урока",
+            "en": "Lesson focus"
+          },
+          "body": {
+            "uk": "Тренуємо тему «Moja cesta sem»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+            "ru": "рассказываем о важных событиях в жизни и связываем их в короткую биографическую историю.",
+            "en": "Practice the B1 topic “Moja cesta sem” inside connected communication. Section: Identity, personality and personal background."
+          },
+          "examples": [
+            {
+              "sk": "Téma je Moja cesta sem.",
+              "translation": {
+                "uk": "Тема: «Moja cesta sem».",
+                "ru": "Тема: «Moja cesta sem».",
+                "en": "Topic: “Moja cesta sem”."
+              }
+            },
+            {
+              "sk": "Používam výraz životná cesta v reálnej situácii.",
+              "translation": {
+                "uk": "Я використовую «životná cesta» у реальній ситуації.",
+                "ru": "Я использую «životná cesta» в реальной ситуации.",
+                "en": "I use “životná cesta” in a real situation."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "На B1 важливо не лише знати слово, а зв'язати його з причиною, прикладом і реакцією.",
+            "ru": "На B1 важно не только знать слово, а связать его с причиной, примером и реакцией.",
+            "en": "At B1, connect the item with a reason, example and reaction."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t2",
+          "screenType": "theory",
+          "order": 2,
+          "title": {
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer pattern"
+          },
+          "body": {
+            "uk": "Будуй відповідь за схемою: ситуація → причина → приклад → що роблю далі.",
+            "ru": "Строй ответ по схеме: ситуация → причина → пример → что делаю дальше.",
+            "en": "Build the answer as: situation → reason → example → next action."
+          },
+          "examples": [
+            {
+              "sk": "Najprv vysvetlím situáciu, potom použijem udalosť.",
+              "translation": {
+                "uk": "Спочатку пояснюю ситуацію, потім використовую цільовий вираз.",
+                "ru": "Сначала объясняю ситуацию, потом использую целевое выражение.",
+                "en": "First I explain the situation, then I use the target item."
+              }
+            },
+            {
+              "sk": "Podľa mňa je dôležité hovoriť jasne o téme Moja cesta sem.",
+              "translation": {
+                "uk": "На мою думку, важливо говорити про тему ясно.",
+                "ru": "По моему мнению, важно говорить о теме ясно.",
+                "en": "In my opinion, it is important to speak about the topic clearly."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "Одна думка = одне зрозуміле речення. Потім додай причину або приклад.",
+            "ru": "Одна мысль = одно понятное предложение. Потом добавь причину или пример.",
+            "en": "One idea equals one clear sentence. Then add a reason or example."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t3",
+          "screenType": "theory",
+          "order": 3,
+          "title": {
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
+          },
+          "body": {
+            "uk": "У фінальній ситуації потрібно вибрати репліку, яка реально підходить до контексту, а не просто повторює слово.",
+            "ru": "В финальной ситуации нужно выбрать реплику, которая реально подходит к контексту, а не просто повторяет слово.",
+            "en": "In the final situation, choose a reply that fits the context, not just a repeated word."
+          },
+          "examples": [
+            {
+              "sk": "V praxi by som to povedal pokojne a konkrétne.",
+              "translation": {
+                "uk": "На практиці я сказав би це спокійно й конкретно.",
+                "ru": "На практике я сказал бы это спокойно и конкретно.",
+                "en": "In practice I would say it calmly and concretely."
+              }
+            },
+            {
+              "sk": "Ak niečomu nerozumiem, spýtam sa doplňujúcu otázku.",
+              "translation": {
+                "uk": "Якщо чогось не розумію, ставлю уточнювальне питання.",
+                "ru": "Если чего-то не понимаю, задаю уточняющий вопрос.",
+                "en": "If I do not understand something, I ask a follow-up question."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "B1 = зв'язна відповідь, уточнення і практичний результат.",
+            "ru": "B1 = связный ответ, уточнение и практический результат.",
+            "en": "B1 means a connected answer, clarification and a practical result."
+          },
+          "button": "Далі"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": {
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
+        },
+        "description": {
+          "uk": "Усі одиниці взяті з затвердженого плану B1.",
+          "ru": "Все единицы взяты из утвержденного плана B1.",
+          "en": "All items come from the approved B1 plan."
+        },
+        "items": [
+          {
+            "wordId": "b1-s01-l04-w01",
+            "sk": "životná cesta",
+            "uk": "словацьке слово/вираз «životná cesta»",
+            "ru": "словацкое слово/выражение «životná cesta»",
+            "en": "Slovak word/expression “životná cesta”",
+            "pronunciationUk": "жivotnа cesta",
+            "exampleSk": "V tejto situácii používam výraz životná cesta.",
+            "exampleUk": "У цій ситуації я використовую вираз «životná cesta».",
+            "exampleRu": "В этой ситуации я использую выражение «životná cesta».",
+            "exampleEn": "In this situation I use “životná cesta”."
+          },
+          {
+            "wordId": "b1-s01-l04-w02",
+            "sk": "udalosť",
+            "uk": "словацьке слово/вираз «udalosť»",
+            "ru": "словацкое слово/выражение «udalosť»",
+            "en": "Slovak word/expression “udalosť”",
+            "pronunciationUk": "udalosть",
+            "exampleSk": "V tejto situácii používam výraz udalosť.",
+            "exampleUk": "У цій ситуації я використовую вираз «udalosť».",
+            "exampleRu": "В этой ситуации я использую выражение «udalosť».",
+            "exampleEn": "In this situation I use “udalosť”."
+          },
+          {
+            "wordId": "b1-s01-l04-w03",
+            "sk": "rozhodnutie",
+            "uk": "словацьке слово/вираз «rozhodnutie»",
+            "ru": "словацкое слово/выражение «rozhodnutie»",
+            "en": "Slovak word/expression “rozhodnutie”",
+            "pronunciationUk": "rozhodnutie",
+            "exampleSk": "V tejto situácii používam výraz rozhodnutie.",
+            "exampleUk": "У цій ситуації я використовую вираз «rozhodnutie».",
+            "exampleRu": "В этой ситуации я использую выражение «rozhodnutie».",
+            "exampleEn": "In this situation I use “rozhodnutie”."
+          },
+          {
+            "wordId": "b1-s01-l04-w04",
+            "sk": "skúsenosť",
+            "uk": "словацьке слово/вираз «skúsenosť»",
+            "ru": "словацкое слово/выражение «skúsenosť»",
+            "en": "Slovak word/expression “skúsenosť”",
+            "pronunciationUk": "skуsenosть",
+            "exampleSk": "V tejto situácii používam výraz skúsenosť.",
+            "exampleUk": "У цій ситуації я використовую вираз «skúsenosť».",
+            "exampleRu": "В этой ситуации я использую выражение «skúsenosť».",
+            "exampleEn": "In this situation I use “skúsenosť”."
+          },
+          {
+            "wordId": "b1-s01-l04-w05",
+            "sk": "obdobie",
+            "uk": "словацьке слово/вираз «obdobie»",
+            "ru": "словацкое слово/выражение «obdobie»",
+            "en": "Slovak word/expression “obdobie”",
+            "pronunciationUk": "obdobie",
+            "exampleSk": "V tejto situácii používam výraz obdobie.",
+            "exampleUk": "У цій ситуації я використовую вираз «obdobie».",
+            "exampleRu": "В этой ситуации я использую выражение «obdobie».",
+            "exampleEn": "In this situation I use “obdobie”."
+          },
+          {
+            "wordId": "b1-s01-l04-w06",
+            "sk": "príležitosť",
+            "uk": "словацьке слово/вираз «príležitosť»",
+            "ru": "словацкое слово/выражение «príležitosť»",
+            "en": "Slovak word/expression “príležitosť”",
+            "pronunciationUk": "prіleжitosть",
+            "exampleSk": "V tejto situácii používam výraz príležitosť.",
+            "exampleUk": "У цій ситуації я використовую вираз «príležitosť».",
+            "exampleRu": "В этой ситуации я использую выражение «príležitosť».",
+            "exampleEn": "In this situation I use “príležitosť”."
+          },
+          {
+            "wordId": "b1-s01-l04-w07",
+            "sk": "začiatok",
+            "uk": "словацьке слово/вираз «začiatok»",
+            "ru": "словацкое слово/выражение «začiatok»",
+            "en": "Slovak word/expression “začiatok”",
+            "pronunciationUk": "zaчiatok",
+            "exampleSk": "V tejto situácii používam výraz začiatok.",
+            "exampleUk": "У цій ситуації я використовую вираз «začiatok».",
+            "exampleRu": "В этой ситуации я использую выражение «začiatok».",
+            "exampleEn": "In this situation I use “začiatok”."
+          },
+          {
+            "wordId": "b1-s01-l04-w08",
+            "sk": "zlom",
+            "uk": "словацьке слово/вираз «zlom»",
+            "ru": "словацкое слово/выражение «zlom»",
+            "en": "Slovak word/expression “zlom”",
+            "pronunciationUk": "zlom",
+            "exampleSk": "V tejto situácii používam výraz zlom.",
+            "exampleUk": "У цій ситуації я використовую вираз «zlom».",
+            "exampleRu": "В этой ситуации я использую выражение «zlom».",
+            "exampleEn": "In this situation I use “zlom”."
+          }
+        ],
+        "button": "До практики"
+      },
+      "words": [
+        {
+          "id": "b1-s01-l04-w01",
+          "sk": "životná cesta",
+          "uk": "словацьке слово/вираз «životná cesta»",
+          "ru": "словацкое слово/выражение «životná cesta»",
+          "en": "Slovak word/expression “životná cesta”",
+          "pronunciationUk": "жivotnа cesta",
+          "exampleSk": "V tejto situácii používam výraz životná cesta.",
+          "exampleUk": "У цій ситуації я використовую вираз «životná cesta».",
+          "exampleRu": "В этой ситуации я использую выражение «životná cesta».",
+          "exampleEn": "In this situation I use “životná cesta”.",
+          "level": "B1",
+          "topic": "Moja cesta sem",
+          "tags": [
+            "b1_s01",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s01-l04-w02",
+          "sk": "udalosť",
+          "uk": "словацьке слово/вираз «udalosť»",
+          "ru": "словацкое слово/выражение «udalosť»",
+          "en": "Slovak word/expression “udalosť”",
+          "pronunciationUk": "udalosть",
+          "exampleSk": "V tejto situácii používam výraz udalosť.",
+          "exampleUk": "У цій ситуації я використовую вираз «udalosť».",
+          "exampleRu": "В этой ситуации я использую выражение «udalosť».",
+          "exampleEn": "In this situation I use “udalosť”.",
+          "level": "B1",
+          "topic": "Moja cesta sem",
+          "tags": [
+            "b1_s01",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s01-l04-w03",
+          "sk": "rozhodnutie",
+          "uk": "словацьке слово/вираз «rozhodnutie»",
+          "ru": "словацкое слово/выражение «rozhodnutie»",
+          "en": "Slovak word/expression “rozhodnutie”",
+          "pronunciationUk": "rozhodnutie",
+          "exampleSk": "V tejto situácii používam výraz rozhodnutie.",
+          "exampleUk": "У цій ситуації я використовую вираз «rozhodnutie».",
+          "exampleRu": "В этой ситуации я использую выражение «rozhodnutie».",
+          "exampleEn": "In this situation I use “rozhodnutie”.",
+          "level": "B1",
+          "topic": "Moja cesta sem",
+          "tags": [
+            "b1_s01",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s01-l04-w04",
+          "sk": "skúsenosť",
+          "uk": "словацьке слово/вираз «skúsenosť»",
+          "ru": "словацкое слово/выражение «skúsenosť»",
+          "en": "Slovak word/expression “skúsenosť”",
+          "pronunciationUk": "skуsenosть",
+          "exampleSk": "V tejto situácii používam výraz skúsenosť.",
+          "exampleUk": "У цій ситуації я використовую вираз «skúsenosť».",
+          "exampleRu": "В этой ситуации я использую выражение «skúsenosť».",
+          "exampleEn": "In this situation I use “skúsenosť”.",
+          "level": "B1",
+          "topic": "Moja cesta sem",
+          "tags": [
+            "b1_s01",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s01-l04-w05",
+          "sk": "obdobie",
+          "uk": "словацьке слово/вираз «obdobie»",
+          "ru": "словацкое слово/выражение «obdobie»",
+          "en": "Slovak word/expression “obdobie”",
+          "pronunciationUk": "obdobie",
+          "exampleSk": "V tejto situácii používam výraz obdobie.",
+          "exampleUk": "У цій ситуації я використовую вираз «obdobie».",
+          "exampleRu": "В этой ситуации я использую выражение «obdobie».",
+          "exampleEn": "In this situation I use “obdobie”.",
+          "level": "B1",
+          "topic": "Moja cesta sem",
+          "tags": [
+            "b1_s01",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s01-l04-w06",
+          "sk": "príležitosť",
+          "uk": "словацьке слово/вираз «príležitosť»",
+          "ru": "словацкое слово/выражение «príležitosť»",
+          "en": "Slovak word/expression “príležitosť”",
+          "pronunciationUk": "prіleжitosть",
+          "exampleSk": "V tejto situácii používam výraz príležitosť.",
+          "exampleUk": "У цій ситуації я використовую вираз «príležitosť».",
+          "exampleRu": "В этой ситуации я использую выражение «príležitosť».",
+          "exampleEn": "In this situation I use “príležitosť”.",
+          "level": "B1",
+          "topic": "Moja cesta sem",
+          "tags": [
+            "b1_s01",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s01-l04-w07",
+          "sk": "začiatok",
+          "uk": "словацьке слово/вираз «začiatok»",
+          "ru": "словацкое слово/выражение «začiatok»",
+          "en": "Slovak word/expression “začiatok”",
+          "pronunciationUk": "zaчiatok",
+          "exampleSk": "V tejto situácii používam výraz začiatok.",
+          "exampleUk": "У цій ситуації я використовую вираз «začiatok».",
+          "exampleRu": "В этой ситуации я использую выражение «začiatok».",
+          "exampleEn": "In this situation I use “začiatok”.",
+          "level": "B1",
+          "topic": "Moja cesta sem",
+          "tags": [
+            "b1_s01",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s01-l04-w08",
+          "sk": "zlom",
+          "uk": "словацьке слово/вираз «zlom»",
+          "ru": "словацкое слово/выражение «zlom»",
+          "en": "Slovak word/expression “zlom”",
+          "pronunciationUk": "zlom",
+          "exampleSk": "V tejto situácii používam výraz zlom.",
+          "exampleUk": "У цій ситуації я використовую вираз «zlom».",
+          "exampleRu": "В этой ситуации я использую выражение «zlom».",
+          "exampleEn": "In this situation I use “zlom”.",
+          "level": "B1",
+          "topic": "Moja cesta sem",
+          "tags": [
+            "b1_s01",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "b1-s01-l04-e01",
+          "lessonId": "b1-s01-l04",
+          "type": "single_choice",
+          "order": 1,
+          "question": "Що тренує словацька одиниця «životná cesta»?",
+          "questionLocalized": {
+            "uk": "Що тренує словацька одиниця «životná cesta»?",
+            "ru": "Что тренирует словацкая единица «životná cesta»?",
+            "en": "What does the Slovak item “životná cesta” train?"
+          },
+          "wordIds": [
+            "b1-s01-l04-w01"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "словацьке слово/вираз «životná cesta»",
+                "ru": "словацкое слово/выражение «životná cesta»",
+                "en": "Slovak word/expression “životná cesta”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "словацьке слово/вираз «udalosť»",
+                "ru": "словацкое слово/выражение «udalosť»",
+                "en": "Slovak word/expression “udalosť”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "словацьке слово/вираз «rozhodnutie»",
+                "ru": "словацкое слово/выражение «rozhodnutie»",
+                "en": "Slovak word/expression “rozhodnutie”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s01-l04-e02",
+          "lessonId": "b1-s01-l04",
+          "type": "matching",
+          "order": 2,
+          "question": "З'єднай словацькі одиниці з поясненнями.",
+          "questionLocalized": {
+            "uk": "З'єднай словацькі одиниці з поясненнями.",
+            "ru": "Соедини словацкие единицы с объяснениями.",
+            "en": "Match Slovak items with explanations."
+          },
+          "wordIds": [
+            "b1-s01-l04-w01",
+            "b1-s01-l04-w02",
+            "b1-s01-l04-w03",
+            "b1-s01-l04-w04"
+          ],
+          "pairs": [
+            {
+              "left": "životná cesta",
+              "right": "словацьке слово/вираз «životná cesta»",
+              "rightRu": "словацкое слово/выражение «životná cesta»",
+              "rightEn": "Slovak word/expression “životná cesta”"
+            },
+            {
+              "left": "udalosť",
+              "right": "словацьке слово/вираз «udalosť»",
+              "rightRu": "словацкое слово/выражение «udalosť»",
+              "rightEn": "Slovak word/expression “udalosť”"
+            },
+            {
+              "left": "rozhodnutie",
+              "right": "словацьке слово/вираз «rozhodnutie»",
+              "rightRu": "словацкое слово/выражение «rozhodnutie»",
+              "rightEn": "Slovak word/expression “rozhodnutie”"
+            },
+            {
+              "left": "skúsenosť",
+              "right": "словацьке слово/вираз «skúsenosť»",
+              "rightRu": "словацкое слово/выражение «skúsenosť»",
+              "rightEn": "Slovak word/expression “skúsenosť”"
+            }
+          ]
+        },
+        {
+          "id": "b1-s01-l04-e03",
+          "lessonId": "b1-s01-l04",
+          "type": "fill_blank",
+          "order": 3,
+          "question": "Впиши словацькою: словацьке слово/вираз «rozhodnutie».",
+          "questionLocalized": {
+            "uk": "Впиши словацькою: словацьке слово/вираз «rozhodnutie».",
+            "ru": "Впиши по-словацки: словацкое слово/выражение «rozhodnutie».",
+            "en": "Write in Slovak: Slovak word/expression “rozhodnutie”."
+          },
+          "wordIds": [
+            "b1-s01-l04-w03"
+          ],
+          "sentence": "______",
+          "acceptedAnswers": [
+            "rozhodnutie"
+          ],
+          "hint": {
+            "uk": "Початок: r…",
+            "ru": "Начало: r…",
+            "en": "Start: r…"
+          }
+        },
+        {
+          "id": "b1-s01-l04-e04",
+          "lessonId": "b1-s01-l04",
+          "type": "sentence_builder",
+          "order": 4,
+          "question": "Склади природне словацьке речення.",
+          "questionLocalized": {
+            "uk": "Склади природне словацьке речення.",
+            "ru": "Собери естественное словацкое предложение.",
+            "en": "Build a natural Slovak sentence."
+          },
+          "wordIds": [
+            "b1-s01-l04-w04"
+          ],
+          "tokens": [
+            "Používam",
+            "skúsenosť",
+            "v",
+            "reálnej",
+            "situácii."
+          ],
+          "correctSentence": "Používam skúsenosť v reálnej situácii."
+        },
+        {
+          "id": "b1-s01-l04-e05",
+          "lessonId": "b1-s01-l04",
+          "type": "multiple_select",
+          "order": 5,
+          "question": "Обери одиниці з цього уроку.",
+          "questionLocalized": {
+            "uk": "Обери одиниці з цього уроку.",
+            "ru": "Выбери единицы из этого урока.",
+            "en": "Select items from this lesson."
+          },
+          "wordIds": [
+            "b1-s01-l04-w01",
+            "b1-s01-l04-w02"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "životná cesta",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "udalosť",
+              "correct": true
+            },
+            {
+              "id": "c",
+              "sk": "Dnes prší.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s01-l04-e06",
+          "lessonId": "b1-s01-l04",
+          "type": "reading_comprehension",
+          "order": 6,
+          "question": "Прочитай короткий контекст і знайди точну інформацію.",
+          "questionLocalized": {
+            "uk": "Прочитай короткий контекст і знайди точну інформацію.",
+            "ru": "Прочитай короткий контекст и найди точную информацию.",
+            "en": "Read the short context and find exact information."
+          },
+          "wordIds": [
+            "b1-s01-l04-w05",
+            "b1-s01-l04-w06",
+            "b1-s01-l04-w07"
+          ],
+          "text": "Téma je Moja cesta sem. V rozhovore používam výrazy obdobie, príležitosť a začiatok.",
+          "questions": [
+            {
+              "prompt": {
+                "uk": "Яка тема прямо названа в тексті?",
+                "ru": "Какая тема прямо названа в тексте?",
+                "en": "Which topic is directly named in the text?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "Moja cesta sem",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "Počasie",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "Šport",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b1-s01-l04-e07",
+          "lessonId": "b1-s01-l04",
+          "type": "natural_phrase",
+          "order": 7,
+          "question": "Що звучить найприродніше в цій темі?",
+          "questionLocalized": {
+            "uk": "Що звучить найприродніше в цій темі?",
+            "ru": "Что звучит естественнее всего в этой теме?",
+            "en": "What sounds most natural in this topic?"
+          },
+          "wordIds": [
+            "b1-s01-l04-w06"
+          ],
+          "situation": {
+            "uk": "Тобі потрібно використати цільову одиницю в короткій репліці.",
+            "ru": "Нужно использовать целевую единицу в короткой реплике.",
+            "en": "You need to use the target item in a short reply."
+          },
+          "options": [
+            {
+              "id": "a",
+              "sk": "Používam príležitosť v tejto téme.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Som autobus.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Včera zelený rýchlo.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s01-l04-e08",
+          "lessonId": "b1-s01-l04",
+          "type": "dropdown_blank",
+          "order": 8,
+          "question": "Обери точну словацьку одиницю: словацьке слово/вираз «začiatok».",
+          "questionLocalized": {
+            "uk": "Обери точну словацьку одиницю: словацьке слово/вираз «začiatok».",
+            "ru": "Выбери точную словацкую единицу: словацкое слово/выражение «začiatok».",
+            "en": "Choose the exact Slovak item: Slovak word/expression “začiatok”."
+          },
+          "wordIds": [
+            "b1-s01-l04-w07"
+          ],
+          "sentenceParts": [
+            {
+              "text": "Veta obsahuje "
+            },
+            {
+              "blankId": "b1",
+              "options": [
+                "začiatok",
+                "životná cesta",
+                "udalosť"
+              ],
+              "correct": "začiatok"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "b1-s01-l04-e09",
+          "lessonId": "b1-s01-l04",
+          "type": "dialogue_choose_reply",
+          "order": 9,
+          "question": "Обери найкращу відповідь у діалозі.",
+          "questionLocalized": {
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
+          },
+          "wordIds": [
+            "b1-s01-l04-w08"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Vieš to vysvetliť cez zlom?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Áno, použijem zlom v príklade.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Nie, toto je úplne iná téma.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Nerozumiem otázke a nereagujem.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s01-l04-e10",
+          "lessonId": "b1-s01-l04",
+          "type": "meaning_in_context",
+          "order": 10,
+          "question": "Čo znamená výraz v kontexte: «udalosť»?",
+          "questionLocalized": {
+            "uk": "Що означає вираз у контексті: «udalosť»?",
+            "ru": "Что означает выражение в контексте: «udalosť»?",
+            "en": "What does the item mean in context: “udalosť”?"
+          },
+          "wordIds": [
+            "b1-s01-l04-w02"
+          ],
+          "context": {
+            "sk": "V tejto lekcii riešime udalosť."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "словацьке слово/вираз «udalosť»",
+                "ru": "словацкое слово/выражение «udalosť»",
+                "en": "Slovak word/expression “udalosť”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "словацьке слово/вираз «skúsenosť»",
+                "ru": "словацкое слово/выражение «skúsenosť»",
+                "en": "Slovak word/expression “skúsenosť”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "словацьке слово/вираз «obdobie»",
+                "ru": "словацкое слово/выражение «obdobie»",
+                "en": "Slovak word/expression “obdobie”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s01-l04-e11",
+          "lessonId": "b1-s01-l04",
+          "type": "reverse_translation",
+          "order": 11,
+          "question": "Обери словацький варіант для: словацьке слово/вираз «obdobie».",
+          "questionLocalized": {
+            "uk": "Обери словацький варіант для: словацьке слово/вираз «obdobie».",
+            "ru": "Выбери словацкий вариант для: словацкое слово/выражение «obdobie».",
+            "en": "Choose the Slovak item for: Slovak word/expression “obdobie”."
+          },
+          "wordIds": [
+            "b1-s01-l04-w05"
+          ],
+          "options": [
+            "obdobie",
+            "rozhodnutie",
+            "životná cesta"
+          ],
+          "correctAnswer": "obdobie"
+        },
+        {
+          "id": "b1-s01-l04-e12",
+          "lessonId": "b1-s01-l04",
+          "type": "multiple_choice_translation",
+          "order": 12,
+          "question": "Що відповідає словацькому «zlom»?",
+          "questionLocalized": {
+            "uk": "Що відповідає словацькому «zlom»?",
+            "ru": "Что соответствует словацкому «zlom»?",
+            "en": "What matches the Slovak “zlom”?"
+          },
+          "wordIds": [
+            "b1-s01-l04-w08"
+          ],
+          "options": [
+            "словацьке слово/вираз «zlom»",
+            "словацьке слово/вираз «udalosť»",
+            "словацьке слово/вираз «rozhodnutie»"
+          ],
+          "correctAnswer": "словацьке слово/вираз «zlom»"
+        }
+      ],
+      "finalSituation": {
+        "id": "final-situation",
+        "type": "interactive_scenario",
+        "title": {
+          "uk": "Moja cesta sem: життєва ситуація",
+          "ru": "Moja cesta sem: жизненная ситуация",
+          "en": "Moja cesta sem: real-life situation"
+        },
+        "description": {
+          "uk": "Обери репліку, яка природно вирішує ситуацію на рівні B1.",
+          "ru": "Выбери реплику, которая естественно решает ситуацию на уровне B1.",
+          "en": "Choose the reply that naturally solves the situation at B1 level."
+        },
+        "steps": [
+          {
+            "id": "f1",
+            "prompt": {
+              "uk": "Тебе просять коротко пояснити ситуацію. Що відповісти?",
+              "ru": "Тебя просят коротко объяснить ситуацию. Что ответить?",
+              "en": "You are asked to briefly explain the situation. What do you answer?"
+            },
+            "options": [
+              {
+                "sk": "Najprv vysvetlím tému Moja cesta sem a uvediem príklad.",
+                "correct": true
+              },
+              {
+                "sk": "Neviem nič povedať.",
+                "correct": false
+              },
+              {
+                "sk": "To nesúvisí s témou.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "prompt": {
+              "uk": "Потрібно відреагувати спокійно й конкретно.",
+              "ru": "Нужно отреагировать спокойно и конкретно.",
+              "en": "You need to react calmly and concretely."
+            },
+            "options": [
+              {
+                "sk": "Rozumiem. Skúsim to povedať jasnejšie cez životná cesta.",
+                "correct": true
+              },
+              {
+                "sk": "To je modrý autobus.",
+                "correct": false
+              },
+              {
+                "sk": "Nechcem hovoriť vôbec.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f3",
+            "prompt": {
+              "uk": "Потрібно завершити розмову практичною домовленістю.",
+              "ru": "Нужно завершить разговор практической договоренностью.",
+              "en": "You need to finish with a practical agreement."
+            },
+            "options": [
+              {
+                "sk": "Dohodnime sa na ďalšom kroku a potvrdím to správou.",
+                "correct": true
+              },
+              {
+                "sk": "Zajtra bolo včera.",
+                "correct": false
+              },
+              {
+                "sk": "Nemám žiadny návrh.",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "passRequirement": "3/3",
+        "successMessage": {
+          "uk": "Hotovo: použil si tému v realistickej situácii.",
+          "ru": "Готово: ты использовал тему в реалистичной ситуации.",
+          "en": "Done: you used the topic in a realistic situation."
+        }
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": {
+          "uk": "Урок завершено",
+          "ru": "Урок завершён",
+          "en": "Lesson complete"
+        },
+        "subtitle": {
+          "uk": "Ти завершив ще один крок рівня B1.",
+          "ru": "Ты завершил ещё один шаг уровня B1.",
+          "en": "You completed another B1 step."
+        },
+        "xpReward": 140,
+        "newWordsCount": 8,
+        "exercisesCompleted": 12,
+        "nowYouKnow": [
+          "говорити на тему «Moja cesta sem»",
+          "зв'язувати думки у коротку відповідь",
+          "реагувати в практичній ситуації"
+        ],
+        "mistakesMessage": {
+          "uk": "Повтори тільки ті вправи, де відповідь ще не автоматична.",
+          "ru": "Повтори только те упражнения, где ответ ещё не автоматический.",
+          "en": "Repeat only the exercises where the answer is not automatic yet."
+        },
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "skills": [
+          {
+            "id": "vocabulary",
+            "label": {
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
+            },
+            "weight": 0.3
+          },
+          {
+            "id": "communication",
+            "label": {
+              "uk": "комунікація",
+              "ru": "коммуникация",
+              "en": "communication"
+            },
+            "weight": 0.4
+          },
+          {
+            "id": "transfer",
+            "label": {
+              "uk": "перенесення",
+              "ru": "перенос",
+              "en": "transfer"
+            },
+            "weight": 0.3
+          }
+        ],
+        "nextLesson": {
+          "id": "b1-s01-l05"
+        }
+      }
+    }
+  ]
+}

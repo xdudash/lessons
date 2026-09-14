@@ -1,0 +1,1056 @@
+{
+  "lessons": [
+    {
+      "id": "b1-s03-l18",
+      "sectionId": "b1_s03",
+      "level": "B1",
+      "title": {
+        "sk": "Týždeň pod kontrolou",
+        "uk": "B1: Týždeň pod kontrolou",
+        "ru": "B1: Týždeň pod kontrolou",
+        "en": "B1: Týždeň pod kontrolou"
+      },
+      "topic": {
+        "sk": "Týždeň pod kontrolou",
+        "uk": "B1: Týždeň pod kontrolou",
+        "ru": "B1: Týždeň pod kontrolou",
+        "en": "B1: Týždeň pod kontrolou"
+      },
+      "description": {
+        "sk": "Precvičíš si tému Týždeň pod kontrolou v súvislej komunikácii na úrovni B1.",
+        "uk": "Тренуємо тему «Týždeň pod kontrolou»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+        "ru": "строим связный рассказ о неделе, изменениях плана и приоритетах.",
+        "en": "Practice the B1 topic “Týždeň pod kontrolou” inside connected communication. Section: Daily life, habits and time management."
+      },
+      "order": 18,
+      "xpReward": 140,
+      "estimatedMinutes": 28,
+      "isPublished": false,
+      "intro": {
+        "sk": "Precvičíš si tému Týždeň pod kontrolou v súvislej komunikácii na úrovni B1.",
+        "uk": "Тренуємо тему «Týždeň pod kontrolou»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+        "ru": "строим связный рассказ о неделе, изменениях плана и приоритетах.",
+        "en": "Practice the B1 topic “Týždeň pod kontrolou” inside connected communication. Section: Daily life, habits and time management."
+      },
+      "completionMessage": {
+        "sk": "Výborne. Pokračuj v používaní témy v reálnych situáciách.",
+        "uk": "Добре. Тепер перенеси тему в реальну розмову.",
+        "ru": "Хорошо. Теперь перенеси тему в реальный разговор.",
+        "en": "Good. Now transfer the topic into a real conversation."
+      },
+      "updatedAt": "2026-09-14T00:00:00Z",
+      "localization": {
+        "uiLanguages": [
+          "uk",
+          "ru",
+          "en"
+        ],
+        "targetLanguage": "sk",
+        "fallbackUiLanguage": "uk"
+      },
+      "assets": {
+        "images": {},
+        "audio": {}
+      },
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": {
+          "sk": "Týždeň pod kontrolou",
+          "uk": "B1: Týždeň pod kontrolou",
+          "ru": "B1: Týždeň pod kontrolou",
+          "en": "B1: Týždeň pod kontrolou"
+        },
+        "shortDescription": {
+          "uk": "Тренуємо тему «Týždeň pod kontrolou»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+          "ru": "строим связный рассказ о неделе, изменениях плана и приоритетах.",
+          "en": "Practice the B1 topic “Týždeň pod kontrolou” inside connected communication. Section: Daily life, habits and time management."
+        },
+        "outcomes": [
+          {
+            "uk": "пояснити тему «Týždeň pod kontrolou» зв'язно",
+            "ru": "связно объяснить тему «Týždeň pod kontrolou»",
+            "en": "explain the topic “Týždeň pod kontrolou” coherently"
+          },
+          {
+            "uk": "використати нові слова в контексті",
+            "ru": "использовать новые слова в контексте",
+            "en": "use new words in context"
+          },
+          {
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
+          }
+        ],
+        "newWords": [
+          "b1-s03-l18-w01",
+          "b1-s03-l18-w02",
+          "b1-s03-l18-w03",
+          "b1-s03-l18-w04",
+          "b1-s03-l18-w05",
+          "b1-s03-l18-w06",
+          "b1-s03-l18-w07",
+          "b1-s03-l18-w08"
+        ],
+        "exercisesCount": 12,
+        "reward": "+140 XP",
+        "estimatedMinutes": 28,
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "id": "t1",
+          "screenType": "theory",
+          "order": 1,
+          "title": {
+            "uk": "Сенс уроку",
+            "ru": "Смысл урока",
+            "en": "Lesson focus"
+          },
+          "body": {
+            "uk": "Тренуємо тему «Týždeň pod kontrolou»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+            "ru": "строим связный рассказ о неделе, изменениях плана и приоритетах.",
+            "en": "Practice the B1 topic “Týždeň pod kontrolou” inside connected communication. Section: Daily life, habits and time management."
+          },
+          "examples": [
+            {
+              "sk": "Téma je Týždeň pod kontrolou.",
+              "translation": {
+                "uk": "Тема: «Týždeň pod kontrolou».",
+                "ru": "Тема: «Týždeň pod kontrolou».",
+                "en": "Topic: “Týždeň pod kontrolou”."
+              }
+            },
+            {
+              "sk": "Používam výraz týždenný plán v reálnej situácii.",
+              "translation": {
+                "uk": "Я використовую «týždenný plán» у реальній ситуації.",
+                "ru": "Я использую «týždenný plán» в реальной ситуации.",
+                "en": "I use “týždenný plán” in a real situation."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "На B1 важливо не лише знати слово, а зв'язати його з причиною, прикладом і реакцією.",
+            "ru": "На B1 важно не только знать слово, а связать его с причиной, примером и реакцией.",
+            "en": "At B1, connect the item with a reason, example and reaction."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t2",
+          "screenType": "theory",
+          "order": 2,
+          "title": {
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer pattern"
+          },
+          "body": {
+            "uk": "Будуй відповідь за схемою: ситуація → причина → приклад → що роблю далі.",
+            "ru": "Строй ответ по схеме: ситуация → причина → пример → что делаю дальше.",
+            "en": "Build the answer as: situation → reason → example → next action."
+          },
+          "examples": [
+            {
+              "sk": "Najprv vysvetlím situáciu, potom použijem priebeh.",
+              "translation": {
+                "uk": "Спочатку пояснюю ситуацію, потім використовую цільовий вираз.",
+                "ru": "Сначала объясняю ситуацию, потом использую целевое выражение.",
+                "en": "First I explain the situation, then I use the target item."
+              }
+            },
+            {
+              "sk": "Podľa mňa je dôležité hovoriť jasne o téme Týždeň pod kontrolou.",
+              "translation": {
+                "uk": "На мою думку, важливо говорити про тему ясно.",
+                "ru": "По моему мнению, важно говорить о теме ясно.",
+                "en": "In my opinion, it is important to speak about the topic clearly."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "Одна думка = одне зрозуміле речення. Потім додай причину або приклад.",
+            "ru": "Одна мысль = одно понятное предложение. Потом добавь причину или пример.",
+            "en": "One idea equals one clear sentence. Then add a reason or example."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t3",
+          "screenType": "theory",
+          "order": 3,
+          "title": {
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
+          },
+          "body": {
+            "uk": "У фінальній ситуації потрібно вибрати репліку, яка реально підходить до контексту, а не просто повторює слово.",
+            "ru": "В финальной ситуации нужно выбрать реплику, которая реально подходит к контексту, а не просто повторяет слово.",
+            "en": "In the final situation, choose a reply that fits the context, not just a repeated word."
+          },
+          "examples": [
+            {
+              "sk": "V praxi by som to povedal pokojne a konkrétne.",
+              "translation": {
+                "uk": "На практиці я сказав би це спокійно й конкретно.",
+                "ru": "На практике я сказал бы это спокойно и конкретно.",
+                "en": "In practice I would say it calmly and concretely."
+              }
+            },
+            {
+              "sk": "Ak niečomu nerozumiem, spýtam sa doplňujúcu otázku.",
+              "translation": {
+                "uk": "Якщо чогось не розумію, ставлю уточнювальне питання.",
+                "ru": "Если чего-то не понимаю, задаю уточняющий вопрос.",
+                "en": "If I do not understand something, I ask a follow-up question."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "B1 = зв'язна відповідь, уточнення і практичний результат.",
+            "ru": "B1 = связный ответ, уточнение и практический результат.",
+            "en": "B1 means a connected answer, clarification and a practical result."
+          },
+          "button": "Далі"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": {
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
+        },
+        "description": {
+          "uk": "Усі одиниці взяті з затвердженого плану B1.",
+          "ru": "Все единицы взяты из утвержденного плана B1.",
+          "en": "All items come from the approved B1 plan."
+        },
+        "items": [
+          {
+            "wordId": "b1-s03-l18-w01",
+            "sk": "týždenný plán",
+            "uk": "словацьке слово/вираз «týždenný plán»",
+            "ru": "словацкое слово/выражение «týždenný plán»",
+            "en": "Slovak word/expression “týždenný plán”",
+            "pronunciationUk": "tижdennи plаn",
+            "exampleSk": "V tejto situácii používam výraz týždenný plán.",
+            "exampleUk": "У цій ситуації я використовую вираз «týždenný plán».",
+            "exampleRu": "В этой ситуации я использую выражение «týždenný plán».",
+            "exampleEn": "In this situation I use “týždenný plán”."
+          },
+          {
+            "wordId": "b1-s03-l18-w02",
+            "sk": "priebeh",
+            "uk": "словацьке слово/вираз «priebeh»",
+            "ru": "словацкое слово/выражение «priebeh»",
+            "en": "Slovak word/expression “priebeh”",
+            "pronunciationUk": "priebeh",
+            "exampleSk": "V tejto situácii používam výraz priebeh.",
+            "exampleUk": "У цій ситуації я використовую вираз «priebeh».",
+            "exampleRu": "В этой ситуации я использую выражение «priebeh».",
+            "exampleEn": "In this situation I use “priebeh”."
+          },
+          {
+            "wordId": "b1-s03-l18-w03",
+            "sk": "zmena",
+            "uk": "словацьке слово/вираз «zmena»",
+            "ru": "словацкое слово/выражение «zmena»",
+            "en": "Slovak word/expression “zmena”",
+            "pronunciationUk": "zmena",
+            "exampleSk": "V tejto situácii používam výraz zmena.",
+            "exampleUk": "У цій ситуації я використовую вираз «zmena».",
+            "exampleRu": "В этой ситуации я использую выражение «zmena».",
+            "exampleEn": "In this situation I use “zmena”."
+          },
+          {
+            "wordId": "b1-s03-l18-w04",
+            "sk": "presunúť",
+            "uk": "словацьке слово/вираз «presunúť»",
+            "ru": "словацкое слово/выражение «presunúť»",
+            "en": "Slovak word/expression “presunúť”",
+            "pronunciationUk": "presunуть",
+            "exampleSk": "V tejto situácii používam výraz presunúť.",
+            "exampleUk": "У цій ситуації я використовую вираз «presunúť».",
+            "exampleRu": "В этой ситуации я использую выражение «presunúť».",
+            "exampleEn": "In this situation I use “presunúť”."
+          },
+          {
+            "wordId": "b1-s03-l18-w05",
+            "sk": "neskôr",
+            "uk": "словацьке слово/вираз «neskôr»",
+            "ru": "словацкое слово/выражение «neskôr»",
+            "en": "Slovak word/expression “neskôr”",
+            "pronunciationUk": "neskуоr",
+            "exampleSk": "V tejto situácii používam výraz neskôr.",
+            "exampleUk": "У цій ситуації я використовую вираз «neskôr».",
+            "exampleRu": "В этой ситуации я использую выражение «neskôr».",
+            "exampleEn": "In this situation I use “neskôr”."
+          },
+          {
+            "wordId": "b1-s03-l18-w06",
+            "sk": "medzičasom",
+            "uk": "словацьке слово/вираз «medzičasom»",
+            "ru": "словацкое слово/выражение «medzičasom»",
+            "en": "Slovak word/expression “medzičasom”",
+            "pronunciationUk": "medziчasom",
+            "exampleSk": "V tejto situácii používam výraz medzičasom.",
+            "exampleUk": "У цій ситуації я використовую вираз «medzičasom».",
+            "exampleRu": "В этой ситуации я использую выражение «medzičasom».",
+            "exampleEn": "In this situation I use “medzičasom”."
+          },
+          {
+            "wordId": "b1-s03-l18-w07",
+            "sk": "nakoniec",
+            "uk": "словацьке слово/вираз «nakoniec»",
+            "ru": "словацкое слово/выражение «nakoniec»",
+            "en": "Slovak word/expression “nakoniec”",
+            "pronunciationUk": "nakoniec",
+            "exampleSk": "V tejto situácii používam výraz nakoniec.",
+            "exampleUk": "У цій ситуації я використовую вираз «nakoniec».",
+            "exampleRu": "В этой ситуации я использую выражение «nakoniec».",
+            "exampleEn": "In this situation I use “nakoniec”."
+          },
+          {
+            "wordId": "b1-s03-l18-w08",
+            "sk": "podľa potreby",
+            "uk": "словацьке слово/вираз «podľa potreby»",
+            "ru": "словацкое слово/выражение «podľa potreby»",
+            "en": "Slovak word/expression “podľa potreby”",
+            "pronunciationUk": "podльa potreby",
+            "exampleSk": "V tejto situácii používam výraz podľa potreby.",
+            "exampleUk": "У цій ситуації я використовую вираз «podľa potreby».",
+            "exampleRu": "В этой ситуации я использую выражение «podľa potreby».",
+            "exampleEn": "In this situation I use “podľa potreby”."
+          }
+        ],
+        "button": "До практики"
+      },
+      "words": [
+        {
+          "id": "b1-s03-l18-w01",
+          "sk": "týždenný plán",
+          "uk": "словацьке слово/вираз «týždenný plán»",
+          "ru": "словацкое слово/выражение «týždenný plán»",
+          "en": "Slovak word/expression “týždenný plán”",
+          "pronunciationUk": "tижdennи plаn",
+          "exampleSk": "V tejto situácii používam výraz týždenný plán.",
+          "exampleUk": "У цій ситуації я використовую вираз «týždenný plán».",
+          "exampleRu": "В этой ситуации я использую выражение «týždenný plán».",
+          "exampleEn": "In this situation I use “týždenný plán”.",
+          "level": "B1",
+          "topic": "Týždeň pod kontrolou",
+          "tags": [
+            "b1_s03",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s03-l18-w02",
+          "sk": "priebeh",
+          "uk": "словацьке слово/вираз «priebeh»",
+          "ru": "словацкое слово/выражение «priebeh»",
+          "en": "Slovak word/expression “priebeh”",
+          "pronunciationUk": "priebeh",
+          "exampleSk": "V tejto situácii používam výraz priebeh.",
+          "exampleUk": "У цій ситуації я використовую вираз «priebeh».",
+          "exampleRu": "В этой ситуации я использую выражение «priebeh».",
+          "exampleEn": "In this situation I use “priebeh”.",
+          "level": "B1",
+          "topic": "Týždeň pod kontrolou",
+          "tags": [
+            "b1_s03",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s03-l18-w03",
+          "sk": "zmena",
+          "uk": "словацьке слово/вираз «zmena»",
+          "ru": "словацкое слово/выражение «zmena»",
+          "en": "Slovak word/expression “zmena”",
+          "pronunciationUk": "zmena",
+          "exampleSk": "V tejto situácii používam výraz zmena.",
+          "exampleUk": "У цій ситуації я використовую вираз «zmena».",
+          "exampleRu": "В этой ситуации я использую выражение «zmena».",
+          "exampleEn": "In this situation I use “zmena”.",
+          "level": "B1",
+          "topic": "Týždeň pod kontrolou",
+          "tags": [
+            "b1_s03",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s03-l18-w04",
+          "sk": "presunúť",
+          "uk": "словацьке слово/вираз «presunúť»",
+          "ru": "словацкое слово/выражение «presunúť»",
+          "en": "Slovak word/expression “presunúť”",
+          "pronunciationUk": "presunуть",
+          "exampleSk": "V tejto situácii používam výraz presunúť.",
+          "exampleUk": "У цій ситуації я використовую вираз «presunúť».",
+          "exampleRu": "В этой ситуации я использую выражение «presunúť».",
+          "exampleEn": "In this situation I use “presunúť”.",
+          "level": "B1",
+          "topic": "Týždeň pod kontrolou",
+          "tags": [
+            "b1_s03",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s03-l18-w05",
+          "sk": "neskôr",
+          "uk": "словацьке слово/вираз «neskôr»",
+          "ru": "словацкое слово/выражение «neskôr»",
+          "en": "Slovak word/expression “neskôr”",
+          "pronunciationUk": "neskуоr",
+          "exampleSk": "V tejto situácii používam výraz neskôr.",
+          "exampleUk": "У цій ситуації я використовую вираз «neskôr».",
+          "exampleRu": "В этой ситуации я использую выражение «neskôr».",
+          "exampleEn": "In this situation I use “neskôr”.",
+          "level": "B1",
+          "topic": "Týždeň pod kontrolou",
+          "tags": [
+            "b1_s03",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s03-l18-w06",
+          "sk": "medzičasom",
+          "uk": "словацьке слово/вираз «medzičasom»",
+          "ru": "словацкое слово/выражение «medzičasom»",
+          "en": "Slovak word/expression “medzičasom”",
+          "pronunciationUk": "medziчasom",
+          "exampleSk": "V tejto situácii používam výraz medzičasom.",
+          "exampleUk": "У цій ситуації я використовую вираз «medzičasom».",
+          "exampleRu": "В этой ситуации я использую выражение «medzičasom».",
+          "exampleEn": "In this situation I use “medzičasom”.",
+          "level": "B1",
+          "topic": "Týždeň pod kontrolou",
+          "tags": [
+            "b1_s03",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s03-l18-w07",
+          "sk": "nakoniec",
+          "uk": "словацьке слово/вираз «nakoniec»",
+          "ru": "словацкое слово/выражение «nakoniec»",
+          "en": "Slovak word/expression “nakoniec”",
+          "pronunciationUk": "nakoniec",
+          "exampleSk": "V tejto situácii používam výraz nakoniec.",
+          "exampleUk": "У цій ситуації я використовую вираз «nakoniec».",
+          "exampleRu": "В этой ситуации я использую выражение «nakoniec».",
+          "exampleEn": "In this situation I use “nakoniec”.",
+          "level": "B1",
+          "topic": "Týždeň pod kontrolou",
+          "tags": [
+            "b1_s03",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s03-l18-w08",
+          "sk": "podľa potreby",
+          "uk": "словацьке слово/вираз «podľa potreby»",
+          "ru": "словацкое слово/выражение «podľa potreby»",
+          "en": "Slovak word/expression “podľa potreby”",
+          "pronunciationUk": "podльa potreby",
+          "exampleSk": "V tejto situácii používam výraz podľa potreby.",
+          "exampleUk": "У цій ситуації я використовую вираз «podľa potreby».",
+          "exampleRu": "В этой ситуации я использую выражение «podľa potreby».",
+          "exampleEn": "In this situation I use “podľa potreby”.",
+          "level": "B1",
+          "topic": "Týždeň pod kontrolou",
+          "tags": [
+            "b1_s03",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "b1-s03-l18-e01",
+          "lessonId": "b1-s03-l18",
+          "type": "single_choice",
+          "order": 1,
+          "question": "Що тренує словацька одиниця «týždenný plán»?",
+          "questionLocalized": {
+            "uk": "Що тренує словацька одиниця «týždenný plán»?",
+            "ru": "Что тренирует словацкая единица «týždenný plán»?",
+            "en": "What does the Slovak item “týždenný plán” train?"
+          },
+          "wordIds": [
+            "b1-s03-l18-w01"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "словацьке слово/вираз «týždenný plán»",
+                "ru": "словацкое слово/выражение «týždenný plán»",
+                "en": "Slovak word/expression “týždenný plán”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "словацьке слово/вираз «priebeh»",
+                "ru": "словацкое слово/выражение «priebeh»",
+                "en": "Slovak word/expression “priebeh”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "словацьке слово/вираз «zmena»",
+                "ru": "словацкое слово/выражение «zmena»",
+                "en": "Slovak word/expression “zmena”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s03-l18-e02",
+          "lessonId": "b1-s03-l18",
+          "type": "matching",
+          "order": 2,
+          "question": "З'єднай словацькі одиниці з поясненнями.",
+          "questionLocalized": {
+            "uk": "З'єднай словацькі одиниці з поясненнями.",
+            "ru": "Соедини словацкие единицы с объяснениями.",
+            "en": "Match Slovak items with explanations."
+          },
+          "wordIds": [
+            "b1-s03-l18-w01",
+            "b1-s03-l18-w02",
+            "b1-s03-l18-w03",
+            "b1-s03-l18-w04"
+          ],
+          "pairs": [
+            {
+              "left": "týždenný plán",
+              "right": "словацьке слово/вираз «týždenný plán»",
+              "rightRu": "словацкое слово/выражение «týždenný plán»",
+              "rightEn": "Slovak word/expression “týždenný plán”"
+            },
+            {
+              "left": "priebeh",
+              "right": "словацьке слово/вираз «priebeh»",
+              "rightRu": "словацкое слово/выражение «priebeh»",
+              "rightEn": "Slovak word/expression “priebeh”"
+            },
+            {
+              "left": "zmena",
+              "right": "словацьке слово/вираз «zmena»",
+              "rightRu": "словацкое слово/выражение «zmena»",
+              "rightEn": "Slovak word/expression “zmena”"
+            },
+            {
+              "left": "presunúť",
+              "right": "словацьке слово/вираз «presunúť»",
+              "rightRu": "словацкое слово/выражение «presunúť»",
+              "rightEn": "Slovak word/expression “presunúť”"
+            }
+          ]
+        },
+        {
+          "id": "b1-s03-l18-e03",
+          "lessonId": "b1-s03-l18",
+          "type": "fill_blank",
+          "order": 3,
+          "question": "Впиши словацькою: словацьке слово/вираз «zmena».",
+          "questionLocalized": {
+            "uk": "Впиши словацькою: словацьке слово/вираз «zmena».",
+            "ru": "Впиши по-словацки: словацкое слово/выражение «zmena».",
+            "en": "Write in Slovak: Slovak word/expression “zmena”."
+          },
+          "wordIds": [
+            "b1-s03-l18-w03"
+          ],
+          "sentence": "______",
+          "acceptedAnswers": [
+            "zmena"
+          ],
+          "hint": {
+            "uk": "Початок: z…",
+            "ru": "Начало: z…",
+            "en": "Start: z…"
+          }
+        },
+        {
+          "id": "b1-s03-l18-e04",
+          "lessonId": "b1-s03-l18",
+          "type": "sentence_builder",
+          "order": 4,
+          "question": "Склади природне словацьке речення.",
+          "questionLocalized": {
+            "uk": "Склади природне словацьке речення.",
+            "ru": "Собери естественное словацкое предложение.",
+            "en": "Build a natural Slovak sentence."
+          },
+          "wordIds": [
+            "b1-s03-l18-w04"
+          ],
+          "tokens": [
+            "Používam",
+            "presunúť",
+            "v",
+            "reálnej",
+            "situácii."
+          ],
+          "correctSentence": "Používam presunúť v reálnej situácii."
+        },
+        {
+          "id": "b1-s03-l18-e05",
+          "lessonId": "b1-s03-l18",
+          "type": "multiple_select",
+          "order": 5,
+          "question": "Обери одиниці з цього уроку.",
+          "questionLocalized": {
+            "uk": "Обери одиниці з цього уроку.",
+            "ru": "Выбери единицы из этого урока.",
+            "en": "Select items from this lesson."
+          },
+          "wordIds": [
+            "b1-s03-l18-w01",
+            "b1-s03-l18-w02"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "týždenný plán",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "priebeh",
+              "correct": true
+            },
+            {
+              "id": "c",
+              "sk": "Dnes prší.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s03-l18-e06",
+          "lessonId": "b1-s03-l18",
+          "type": "reading_comprehension",
+          "order": 6,
+          "question": "Прочитай короткий контекст і знайди точну інформацію.",
+          "questionLocalized": {
+            "uk": "Прочитай короткий контекст і знайди точну інформацію.",
+            "ru": "Прочитай короткий контекст и найди точную информацию.",
+            "en": "Read the short context and find exact information."
+          },
+          "wordIds": [
+            "b1-s03-l18-w05",
+            "b1-s03-l18-w06",
+            "b1-s03-l18-w07"
+          ],
+          "text": "Téma je Týždeň pod kontrolou. V rozhovore používam výrazy neskôr, medzičasom a nakoniec.",
+          "questions": [
+            {
+              "prompt": {
+                "uk": "Яка тема прямо названа в тексті?",
+                "ru": "Какая тема прямо названа в тексте?",
+                "en": "Which topic is directly named in the text?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "Týždeň pod kontrolou",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "Počasie",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "Šport",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b1-s03-l18-e07",
+          "lessonId": "b1-s03-l18",
+          "type": "natural_phrase",
+          "order": 7,
+          "question": "Що звучить найприродніше в цій темі?",
+          "questionLocalized": {
+            "uk": "Що звучить найприродніше в цій темі?",
+            "ru": "Что звучит естественнее всего в этой теме?",
+            "en": "What sounds most natural in this topic?"
+          },
+          "wordIds": [
+            "b1-s03-l18-w06"
+          ],
+          "situation": {
+            "uk": "Тобі потрібно використати цільову одиницю в короткій репліці.",
+            "ru": "Нужно использовать целевую единицу в короткой реплике.",
+            "en": "You need to use the target item in a short reply."
+          },
+          "options": [
+            {
+              "id": "a",
+              "sk": "Používam medzičasom v tejto téme.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Som autobus.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Včera zelený rýchlo.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s03-l18-e08",
+          "lessonId": "b1-s03-l18",
+          "type": "dropdown_blank",
+          "order": 8,
+          "question": "Обери точну словацьку одиницю: словацьке слово/вираз «nakoniec».",
+          "questionLocalized": {
+            "uk": "Обери точну словацьку одиницю: словацьке слово/вираз «nakoniec».",
+            "ru": "Выбери точную словацкую единицу: словацкое слово/выражение «nakoniec».",
+            "en": "Choose the exact Slovak item: Slovak word/expression “nakoniec”."
+          },
+          "wordIds": [
+            "b1-s03-l18-w07"
+          ],
+          "sentenceParts": [
+            {
+              "text": "Veta obsahuje "
+            },
+            {
+              "blankId": "b1",
+              "options": [
+                "nakoniec",
+                "týždenný plán",
+                "priebeh"
+              ],
+              "correct": "nakoniec"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "b1-s03-l18-e09",
+          "lessonId": "b1-s03-l18",
+          "type": "dialogue_choose_reply",
+          "order": 9,
+          "question": "Обери найкращу відповідь у діалозі.",
+          "questionLocalized": {
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
+          },
+          "wordIds": [
+            "b1-s03-l18-w08"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Vieš to vysvetliť cez podľa potreby?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Áno, použijem podľa potreby v príklade.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Nie, toto je úplne iná téma.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Nerozumiem otázke a nereagujem.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s03-l18-e10",
+          "lessonId": "b1-s03-l18",
+          "type": "meaning_in_context",
+          "order": 10,
+          "question": "Čo znamená výraz v kontexte: «priebeh»?",
+          "questionLocalized": {
+            "uk": "Що означає вираз у контексті: «priebeh»?",
+            "ru": "Что означает выражение в контексте: «priebeh»?",
+            "en": "What does the item mean in context: “priebeh”?"
+          },
+          "wordIds": [
+            "b1-s03-l18-w02"
+          ],
+          "context": {
+            "sk": "V tejto lekcii riešime priebeh."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "словацьке слово/вираз «priebeh»",
+                "ru": "словацкое слово/выражение «priebeh»",
+                "en": "Slovak word/expression “priebeh”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "словацьке слово/вираз «presunúť»",
+                "ru": "словацкое слово/выражение «presunúť»",
+                "en": "Slovak word/expression “presunúť”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "словацьке слово/вираз «neskôr»",
+                "ru": "словацкое слово/выражение «neskôr»",
+                "en": "Slovak word/expression “neskôr”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s03-l18-e11",
+          "lessonId": "b1-s03-l18",
+          "type": "reverse_translation",
+          "order": 11,
+          "question": "Обери словацький варіант для: словацьке слово/вираз «neskôr».",
+          "questionLocalized": {
+            "uk": "Обери словацький варіант для: словацьке слово/вираз «neskôr».",
+            "ru": "Выбери словацкий вариант для: словацкое слово/выражение «neskôr».",
+            "en": "Choose the Slovak item for: Slovak word/expression “neskôr”."
+          },
+          "wordIds": [
+            "b1-s03-l18-w05"
+          ],
+          "options": [
+            "neskôr",
+            "zmena",
+            "týždenný plán"
+          ],
+          "correctAnswer": "neskôr"
+        },
+        {
+          "id": "b1-s03-l18-e12",
+          "lessonId": "b1-s03-l18",
+          "type": "multiple_choice_translation",
+          "order": 12,
+          "question": "Що відповідає словацькому «podľa potreby»?",
+          "questionLocalized": {
+            "uk": "Що відповідає словацькому «podľa potreby»?",
+            "ru": "Что соответствует словацкому «podľa potreby»?",
+            "en": "What matches the Slovak “podľa potreby”?"
+          },
+          "wordIds": [
+            "b1-s03-l18-w08"
+          ],
+          "options": [
+            "словацьке слово/вираз «podľa potreby»",
+            "словацьке слово/вираз «priebeh»",
+            "словацьке слово/вираз «zmena»"
+          ],
+          "correctAnswer": "словацьке слово/вираз «podľa potreby»"
+        }
+      ],
+      "finalSituation": {
+        "id": "final-situation",
+        "type": "interactive_scenario",
+        "title": {
+          "uk": "Týždeň pod kontrolou: життєва ситуація",
+          "ru": "Týždeň pod kontrolou: жизненная ситуация",
+          "en": "Týždeň pod kontrolou: real-life situation"
+        },
+        "description": {
+          "uk": "Обери репліку, яка природно вирішує ситуацію на рівні B1.",
+          "ru": "Выбери реплику, которая естественно решает ситуацию на уровне B1.",
+          "en": "Choose the reply that naturally solves the situation at B1 level."
+        },
+        "steps": [
+          {
+            "id": "f1",
+            "prompt": {
+              "uk": "Тебе просять коротко пояснити ситуацію. Що відповісти?",
+              "ru": "Тебя просят коротко объяснить ситуацию. Что ответить?",
+              "en": "You are asked to briefly explain the situation. What do you answer?"
+            },
+            "options": [
+              {
+                "sk": "Najprv vysvetlím tému Týždeň pod kontrolou a uvediem príklad.",
+                "correct": true
+              },
+              {
+                "sk": "Neviem nič povedať.",
+                "correct": false
+              },
+              {
+                "sk": "To nesúvisí s témou.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "prompt": {
+              "uk": "Потрібно відреагувати спокійно й конкретно.",
+              "ru": "Нужно отреагировать спокойно и конкретно.",
+              "en": "You need to react calmly and concretely."
+            },
+            "options": [
+              {
+                "sk": "Rozumiem. Skúsim to povedať jasnejšie cez týždenný plán.",
+                "correct": true
+              },
+              {
+                "sk": "To je modrý autobus.",
+                "correct": false
+              },
+              {
+                "sk": "Nechcem hovoriť vôbec.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f3",
+            "prompt": {
+              "uk": "Потрібно завершити розмову практичною домовленістю.",
+              "ru": "Нужно завершить разговор практической договоренностью.",
+              "en": "You need to finish with a practical agreement."
+            },
+            "options": [
+              {
+                "sk": "Dohodnime sa na ďalšom kroku a potvrdím to správou.",
+                "correct": true
+              },
+              {
+                "sk": "Zajtra bolo včera.",
+                "correct": false
+              },
+              {
+                "sk": "Nemám žiadny návrh.",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "passRequirement": "3/3",
+        "successMessage": {
+          "uk": "Hotovo: použil si tému v realistickej situácii.",
+          "ru": "Готово: ты использовал тему в реалистичной ситуации.",
+          "en": "Done: you used the topic in a realistic situation."
+        }
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": {
+          "uk": "Урок завершено",
+          "ru": "Урок завершён",
+          "en": "Lesson complete"
+        },
+        "subtitle": {
+          "uk": "Ти завершив ще один крок рівня B1.",
+          "ru": "Ты завершил ещё один шаг уровня B1.",
+          "en": "You completed another B1 step."
+        },
+        "xpReward": 140,
+        "newWordsCount": 8,
+        "exercisesCompleted": 12,
+        "nowYouKnow": [
+          "говорити на тему «Týždeň pod kontrolou»",
+          "зв'язувати думки у коротку відповідь",
+          "реагувати в практичній ситуації"
+        ],
+        "mistakesMessage": {
+          "uk": "Повтори тільки ті вправи, де відповідь ще не автоматична.",
+          "ru": "Повтори только те упражнения, где ответ ещё не автоматический.",
+          "en": "Repeat only the exercises where the answer is not automatic yet."
+        },
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "skills": [
+          {
+            "id": "vocabulary",
+            "label": {
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
+            },
+            "weight": 0.3
+          },
+          {
+            "id": "communication",
+            "label": {
+              "uk": "комунікація",
+              "ru": "коммуникация",
+              "en": "communication"
+            },
+            "weight": 0.4
+          },
+          {
+            "id": "transfer",
+            "label": {
+              "uk": "перенесення",
+              "ru": "перенос",
+              "en": "transfer"
+            },
+            "weight": 0.3
+          }
+        ],
+        "nextLesson": {
+          "id": "b1-s04-l19"
+        }
+      }
+    }
+  ]
+}

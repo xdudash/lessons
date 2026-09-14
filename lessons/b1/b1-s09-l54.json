@@ -1,0 +1,1056 @@
+{
+  "lessons": [
+    {
+      "id": "b1-s09-l54",
+      "sectionId": "b1_s09",
+      "level": "B1",
+      "title": {
+        "sk": "Praktický deň v meste",
+        "uk": "B1: Praktický deň v meste",
+        "ru": "B1: Praktický deň v meste",
+        "en": "B1: Praktický deň v meste"
+      },
+      "topic": {
+        "sk": "Praktický deň v meste",
+        "uk": "B1: Praktický deň v meste",
+        "ru": "B1: Praktický deň v meste",
+        "en": "B1: Praktický deň v meste"
+      },
+      "description": {
+        "sk": "Precvičíš si tému Praktický deň v meste v súvislej komunikácii na úrovni B1.",
+        "uk": "Тренуємо тему «Praktický deň v meste»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+        "ru": "интегрируем несколько дел, сервисов, звонков и неожиданных изменений.",
+        "en": "Practice the B1 topic “Praktický deň v meste” inside connected communication. Section: City, services and solving practical problems."
+      },
+      "order": 54,
+      "xpReward": 140,
+      "estimatedMinutes": 28,
+      "isPublished": false,
+      "intro": {
+        "sk": "Precvičíš si tému Praktický deň v meste v súvislej komunikácii na úrovni B1.",
+        "uk": "Тренуємо тему «Praktický deň v meste»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+        "ru": "интегрируем несколько дел, сервисов, звонков и неожиданных изменений.",
+        "en": "Practice the B1 topic “Praktický deň v meste” inside connected communication. Section: City, services and solving practical problems."
+      },
+      "completionMessage": {
+        "sk": "Výborne. Pokračuj v používaní témy v reálnych situáciách.",
+        "uk": "Добре. Тепер перенеси тему в реальну розмову.",
+        "ru": "Хорошо. Теперь перенеси тему в реальный разговор.",
+        "en": "Good. Now transfer the topic into a real conversation."
+      },
+      "updatedAt": "2026-09-14T00:00:00Z",
+      "localization": {
+        "uiLanguages": [
+          "uk",
+          "ru",
+          "en"
+        ],
+        "targetLanguage": "sk",
+        "fallbackUiLanguage": "uk"
+      },
+      "assets": {
+        "images": {},
+        "audio": {}
+      },
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": {
+          "sk": "Praktický deň v meste",
+          "uk": "B1: Praktický deň v meste",
+          "ru": "B1: Praktický deň v meste",
+          "en": "B1: Praktický deň v meste"
+        },
+        "shortDescription": {
+          "uk": "Тренуємо тему «Praktický deň v meste»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+          "ru": "интегрируем несколько дел, сервисов, звонков и неожиданных изменений.",
+          "en": "Practice the B1 topic “Praktický deň v meste” inside connected communication. Section: City, services and solving practical problems."
+        },
+        "outcomes": [
+          {
+            "uk": "пояснити тему «Praktický deň v meste» зв'язно",
+            "ru": "связно объяснить тему «Praktický deň v meste»",
+            "en": "explain the topic “Praktický deň v meste” coherently"
+          },
+          {
+            "uk": "використати нові слова в контексті",
+            "ru": "использовать новые слова в контексте",
+            "en": "use new words in context"
+          },
+          {
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
+          }
+        ],
+        "newWords": [
+          "b1-s09-l54-w01",
+          "b1-s09-l54-w02",
+          "b1-s09-l54-w03",
+          "b1-s09-l54-w04",
+          "b1-s09-l54-w05",
+          "b1-s09-l54-w06",
+          "b1-s09-l54-w07",
+          "b1-s09-l54-w08"
+        ],
+        "exercisesCount": 12,
+        "reward": "+140 XP",
+        "estimatedMinutes": 28,
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "id": "t1",
+          "screenType": "theory",
+          "order": 1,
+          "title": {
+            "uk": "Сенс уроку",
+            "ru": "Смысл урока",
+            "en": "Lesson focus"
+          },
+          "body": {
+            "uk": "Тренуємо тему «Praktický deň v meste»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+            "ru": "интегрируем несколько дел, сервисов, звонков и неожиданных изменений.",
+            "en": "Practice the B1 topic “Praktický deň v meste” inside connected communication. Section: City, services and solving practical problems."
+          },
+          "examples": [
+            {
+              "sk": "Téma je Praktický deň v meste.",
+              "translation": {
+                "uk": "Тема: «Praktický deň v meste».",
+                "ru": "Тема: «Praktický deň v meste».",
+                "en": "Topic: “Praktický deň v meste”."
+              }
+            },
+            {
+              "sk": "Používam výraz vybaviť všetko v reálnej situácii.",
+              "translation": {
+                "uk": "Я використовую «vybaviť všetko» у реальній ситуації.",
+                "ru": "Я использую «vybaviť všetko» в реальной ситуации.",
+                "en": "I use “vybaviť všetko” in a real situation."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "На B1 важливо не лише знати слово, а зв'язати його з причиною, прикладом і реакцією.",
+            "ru": "На B1 важно не только знать слово, а связать его с причиной, примером и реакцией.",
+            "en": "At B1, connect the item with a reason, example and reaction."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t2",
+          "screenType": "theory",
+          "order": 2,
+          "title": {
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer pattern"
+          },
+          "body": {
+            "uk": "Будуй відповідь за схемою: ситуація → причина → приклад → що роблю далі.",
+            "ru": "Строй ответ по схеме: ситуация → причина → пример → что делаю дальше.",
+            "en": "Build the answer as: situation → reason → example → next action."
+          },
+          "examples": [
+            {
+              "sk": "Najprv vysvetlím situáciu, potom použijem zastaviť sa.",
+              "translation": {
+                "uk": "Спочатку пояснюю ситуацію, потім використовую цільовий вираз.",
+                "ru": "Сначала объясняю ситуацию, потом использую целевое выражение.",
+                "en": "First I explain the situation, then I use the target item."
+              }
+            },
+            {
+              "sk": "Podľa mňa je dôležité hovoriť jasne o téme Praktický deň v meste.",
+              "translation": {
+                "uk": "На мою думку, важливо говорити про тему ясно.",
+                "ru": "По моему мнению, важно говорить о теме ясно.",
+                "en": "In my opinion, it is important to speak about the topic clearly."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "Одна думка = одне зрозуміле речення. Потім додай причину або приклад.",
+            "ru": "Одна мысль = одно понятное предложение. Потом добавь причину или пример.",
+            "en": "One idea equals one clear sentence. Then add a reason or example."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t3",
+          "screenType": "theory",
+          "order": 3,
+          "title": {
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
+          },
+          "body": {
+            "uk": "У фінальній ситуації потрібно вибрати репліку, яка реально підходить до контексту, а не просто повторює слово.",
+            "ru": "В финальной ситуации нужно выбрать реплику, которая реально подходит к контексту, а не просто повторяет слово.",
+            "en": "In the final situation, choose a reply that fits the context, not just a repeated word."
+          },
+          "examples": [
+            {
+              "sk": "V praxi by som to povedal pokojne a konkrétne.",
+              "translation": {
+                "uk": "На практиці я сказав би це спокійно й конкретно.",
+                "ru": "На практике я сказал бы это спокойно и конкретно.",
+                "en": "In practice I would say it calmly and concretely."
+              }
+            },
+            {
+              "sk": "Ak niečomu nerozumiem, spýtam sa doplňujúcu otázku.",
+              "translation": {
+                "uk": "Якщо чогось не розумію, ставлю уточнювальне питання.",
+                "ru": "Если чего-то не понимаю, задаю уточняющий вопрос.",
+                "en": "If I do not understand something, I ask a follow-up question."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "B1 = зв'язна відповідь, уточнення і практичний результат.",
+            "ru": "B1 = связный ответ, уточнение и практический результат.",
+            "en": "B1 means a connected answer, clarification and a practical result."
+          },
+          "button": "Далі"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": {
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
+        },
+        "description": {
+          "uk": "Усі одиниці взяті з затвердженого плану B1.",
+          "ru": "Все единицы взяты из утвержденного плана B1.",
+          "en": "All items come from the approved B1 plan."
+        },
+        "items": [
+          {
+            "wordId": "b1-s09-l54-w01",
+            "sk": "vybaviť všetko",
+            "uk": "словацьке слово/вираз «vybaviť všetko»",
+            "ru": "словацкое слово/выражение «vybaviť všetko»",
+            "en": "Slovak word/expression “vybaviť všetko”",
+            "pronunciationUk": "vybaviть vшetko",
+            "exampleSk": "V tejto situácii používam výraz vybaviť všetko.",
+            "exampleUk": "У цій ситуації я використовую вираз «vybaviť všetko».",
+            "exampleRu": "В этой ситуации я использую выражение «vybaviť všetko».",
+            "exampleEn": "In this situation I use “vybaviť všetko”."
+          },
+          {
+            "wordId": "b1-s09-l54-w02",
+            "sk": "zastaviť sa",
+            "uk": "словацьке слово/вираз «zastaviť sa»",
+            "ru": "словацкое слово/выражение «zastaviť sa»",
+            "en": "Slovak word/expression “zastaviť sa”",
+            "pronunciationUk": "zastaviть sa",
+            "exampleSk": "V tejto situácii používam výraz zastaviť sa.",
+            "exampleUk": "У цій ситуації я використовую вираз «zastaviť sa».",
+            "exampleRu": "В этой ситуации я использую выражение «zastaviť sa».",
+            "exampleEn": "In this situation I use “zastaviť sa”."
+          },
+          {
+            "wordId": "b1-s09-l54-w03",
+            "sk": "vybavené",
+            "uk": "словацьке слово/вираз «vybavené»",
+            "ru": "словацкое слово/выражение «vybavené»",
+            "en": "Slovak word/expression “vybavené”",
+            "pronunciationUk": "vybavenе",
+            "exampleSk": "V tejto situácii používam výraz vybavené.",
+            "exampleUk": "У цій ситуації я використовую вираз «vybavené».",
+            "exampleRu": "В этой ситуации я использую выражение «vybavené».",
+            "exampleEn": "In this situation I use “vybavené”."
+          },
+          {
+            "wordId": "b1-s09-l54-w04",
+            "sk": "meškať",
+            "uk": "словацьке слово/вираз «meškať»",
+            "ru": "словацкое слово/выражение «meškať»",
+            "en": "Slovak word/expression “meškať”",
+            "pronunciationUk": "meшkaть",
+            "exampleSk": "V tejto situácii používam výraz meškať.",
+            "exampleUk": "У цій ситуації я використовую вираз «meškať».",
+            "exampleRu": "В этой ситуации я использую выражение «meškať».",
+            "exampleEn": "In this situation I use “meškať”."
+          },
+          {
+            "wordId": "b1-s09-l54-w05",
+            "sk": "presunúť",
+            "uk": "словацьке слово/вираз «presunúť»",
+            "ru": "словацкое слово/выражение «presunúť»",
+            "en": "Slovak word/expression “presunúť”",
+            "pronunciationUk": "presunуть",
+            "exampleSk": "V tejto situácii používam výraz presunúť.",
+            "exampleUk": "У цій ситуації я використовую вираз «presunúť».",
+            "exampleRu": "В этой ситуации я использую выражение «presunúť».",
+            "exampleEn": "In this situation I use “presunúť”."
+          },
+          {
+            "wordId": "b1-s09-l54-w06",
+            "sk": "počkať",
+            "uk": "словацьке слово/вираз «počkať»",
+            "ru": "словацкое слово/выражение «počkať»",
+            "en": "Slovak word/expression “počkať”",
+            "pronunciationUk": "poчkaть",
+            "exampleSk": "V tejto situácii používam výraz počkať.",
+            "exampleUk": "У цій ситуації я використовую вираз «počkať».",
+            "exampleRu": "В этой ситуации я использую выражение «počkať».",
+            "exampleEn": "In this situation I use “počkať”."
+          },
+          {
+            "wordId": "b1-s09-l54-w07",
+            "sk": "zariadiť",
+            "uk": "словацьке слово/вираз «zariadiť»",
+            "ru": "словацкое слово/выражение «zariadiť»",
+            "en": "Slovak word/expression “zariadiť”",
+            "pronunciationUk": "zariadiть",
+            "exampleSk": "V tejto situácii používam výraz zariadiť.",
+            "exampleUk": "У цій ситуації я використовую вираз «zariadiť».",
+            "exampleRu": "В этой ситуации я использую выражение «zariadiť».",
+            "exampleEn": "In this situation I use “zariadiť”."
+          },
+          {
+            "wordId": "b1-s09-l54-w08",
+            "sk": "stihnúť",
+            "uk": "словацьке слово/вираз «stihnúť»",
+            "ru": "словацкое слово/выражение «stihnúť»",
+            "en": "Slovak word/expression “stihnúť”",
+            "pronunciationUk": "stihnуть",
+            "exampleSk": "V tejto situácii používam výraz stihnúť.",
+            "exampleUk": "У цій ситуації я використовую вираз «stihnúť».",
+            "exampleRu": "В этой ситуации я использую выражение «stihnúť».",
+            "exampleEn": "In this situation I use “stihnúť”."
+          }
+        ],
+        "button": "До практики"
+      },
+      "words": [
+        {
+          "id": "b1-s09-l54-w01",
+          "sk": "vybaviť všetko",
+          "uk": "словацьке слово/вираз «vybaviť všetko»",
+          "ru": "словацкое слово/выражение «vybaviť všetko»",
+          "en": "Slovak word/expression “vybaviť všetko”",
+          "pronunciationUk": "vybaviть vшetko",
+          "exampleSk": "V tejto situácii používam výraz vybaviť všetko.",
+          "exampleUk": "У цій ситуації я використовую вираз «vybaviť všetko».",
+          "exampleRu": "В этой ситуации я использую выражение «vybaviť všetko».",
+          "exampleEn": "In this situation I use “vybaviť všetko”.",
+          "level": "B1",
+          "topic": "Praktický deň v meste",
+          "tags": [
+            "b1_s09",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s09-l54-w02",
+          "sk": "zastaviť sa",
+          "uk": "словацьке слово/вираз «zastaviť sa»",
+          "ru": "словацкое слово/выражение «zastaviť sa»",
+          "en": "Slovak word/expression “zastaviť sa”",
+          "pronunciationUk": "zastaviть sa",
+          "exampleSk": "V tejto situácii používam výraz zastaviť sa.",
+          "exampleUk": "У цій ситуації я використовую вираз «zastaviť sa».",
+          "exampleRu": "В этой ситуации я использую выражение «zastaviť sa».",
+          "exampleEn": "In this situation I use “zastaviť sa”.",
+          "level": "B1",
+          "topic": "Praktický deň v meste",
+          "tags": [
+            "b1_s09",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s09-l54-w03",
+          "sk": "vybavené",
+          "uk": "словацьке слово/вираз «vybavené»",
+          "ru": "словацкое слово/выражение «vybavené»",
+          "en": "Slovak word/expression “vybavené”",
+          "pronunciationUk": "vybavenе",
+          "exampleSk": "V tejto situácii používam výraz vybavené.",
+          "exampleUk": "У цій ситуації я використовую вираз «vybavené».",
+          "exampleRu": "В этой ситуации я использую выражение «vybavené».",
+          "exampleEn": "In this situation I use “vybavené”.",
+          "level": "B1",
+          "topic": "Praktický deň v meste",
+          "tags": [
+            "b1_s09",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s09-l54-w04",
+          "sk": "meškať",
+          "uk": "словацьке слово/вираз «meškať»",
+          "ru": "словацкое слово/выражение «meškať»",
+          "en": "Slovak word/expression “meškať”",
+          "pronunciationUk": "meшkaть",
+          "exampleSk": "V tejto situácii používam výraz meškať.",
+          "exampleUk": "У цій ситуації я використовую вираз «meškať».",
+          "exampleRu": "В этой ситуации я использую выражение «meškať».",
+          "exampleEn": "In this situation I use “meškať”.",
+          "level": "B1",
+          "topic": "Praktický deň v meste",
+          "tags": [
+            "b1_s09",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s09-l54-w05",
+          "sk": "presunúť",
+          "uk": "словацьке слово/вираз «presunúť»",
+          "ru": "словацкое слово/выражение «presunúť»",
+          "en": "Slovak word/expression “presunúť”",
+          "pronunciationUk": "presunуть",
+          "exampleSk": "V tejto situácii používam výraz presunúť.",
+          "exampleUk": "У цій ситуації я використовую вираз «presunúť».",
+          "exampleRu": "В этой ситуации я использую выражение «presunúť».",
+          "exampleEn": "In this situation I use “presunúť”.",
+          "level": "B1",
+          "topic": "Praktický deň v meste",
+          "tags": [
+            "b1_s09",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s09-l54-w06",
+          "sk": "počkať",
+          "uk": "словацьке слово/вираз «počkať»",
+          "ru": "словацкое слово/выражение «počkať»",
+          "en": "Slovak word/expression “počkať”",
+          "pronunciationUk": "poчkaть",
+          "exampleSk": "V tejto situácii používam výraz počkať.",
+          "exampleUk": "У цій ситуації я використовую вираз «počkať».",
+          "exampleRu": "В этой ситуации я использую выражение «počkať».",
+          "exampleEn": "In this situation I use “počkať”.",
+          "level": "B1",
+          "topic": "Praktický deň v meste",
+          "tags": [
+            "b1_s09",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s09-l54-w07",
+          "sk": "zariadiť",
+          "uk": "словацьке слово/вираз «zariadiť»",
+          "ru": "словацкое слово/выражение «zariadiť»",
+          "en": "Slovak word/expression “zariadiť”",
+          "pronunciationUk": "zariadiть",
+          "exampleSk": "V tejto situácii používam výraz zariadiť.",
+          "exampleUk": "У цій ситуації я використовую вираз «zariadiť».",
+          "exampleRu": "В этой ситуации я использую выражение «zariadiť».",
+          "exampleEn": "In this situation I use “zariadiť”.",
+          "level": "B1",
+          "topic": "Praktický deň v meste",
+          "tags": [
+            "b1_s09",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s09-l54-w08",
+          "sk": "stihnúť",
+          "uk": "словацьке слово/вираз «stihnúť»",
+          "ru": "словацкое слово/выражение «stihnúť»",
+          "en": "Slovak word/expression “stihnúť”",
+          "pronunciationUk": "stihnуть",
+          "exampleSk": "V tejto situácii používam výraz stihnúť.",
+          "exampleUk": "У цій ситуації я використовую вираз «stihnúť».",
+          "exampleRu": "В этой ситуации я использую выражение «stihnúť».",
+          "exampleEn": "In this situation I use “stihnúť”.",
+          "level": "B1",
+          "topic": "Praktický deň v meste",
+          "tags": [
+            "b1_s09",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "b1-s09-l54-e01",
+          "lessonId": "b1-s09-l54",
+          "type": "single_choice",
+          "order": 1,
+          "question": "Що тренує словацька одиниця «vybaviť všetko»?",
+          "questionLocalized": {
+            "uk": "Що тренує словацька одиниця «vybaviť všetko»?",
+            "ru": "Что тренирует словацкая единица «vybaviť všetko»?",
+            "en": "What does the Slovak item “vybaviť všetko” train?"
+          },
+          "wordIds": [
+            "b1-s09-l54-w01"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "словацьке слово/вираз «vybaviť všetko»",
+                "ru": "словацкое слово/выражение «vybaviť všetko»",
+                "en": "Slovak word/expression “vybaviť všetko”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "словацьке слово/вираз «zastaviť sa»",
+                "ru": "словацкое слово/выражение «zastaviť sa»",
+                "en": "Slovak word/expression “zastaviť sa”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "словацьке слово/вираз «vybavené»",
+                "ru": "словацкое слово/выражение «vybavené»",
+                "en": "Slovak word/expression “vybavené”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s09-l54-e02",
+          "lessonId": "b1-s09-l54",
+          "type": "matching",
+          "order": 2,
+          "question": "З'єднай словацькі одиниці з поясненнями.",
+          "questionLocalized": {
+            "uk": "З'єднай словацькі одиниці з поясненнями.",
+            "ru": "Соедини словацкие единицы с объяснениями.",
+            "en": "Match Slovak items with explanations."
+          },
+          "wordIds": [
+            "b1-s09-l54-w01",
+            "b1-s09-l54-w02",
+            "b1-s09-l54-w03",
+            "b1-s09-l54-w04"
+          ],
+          "pairs": [
+            {
+              "left": "vybaviť všetko",
+              "right": "словацьке слово/вираз «vybaviť všetko»",
+              "rightRu": "словацкое слово/выражение «vybaviť všetko»",
+              "rightEn": "Slovak word/expression “vybaviť všetko”"
+            },
+            {
+              "left": "zastaviť sa",
+              "right": "словацьке слово/вираз «zastaviť sa»",
+              "rightRu": "словацкое слово/выражение «zastaviť sa»",
+              "rightEn": "Slovak word/expression “zastaviť sa”"
+            },
+            {
+              "left": "vybavené",
+              "right": "словацьке слово/вираз «vybavené»",
+              "rightRu": "словацкое слово/выражение «vybavené»",
+              "rightEn": "Slovak word/expression “vybavené”"
+            },
+            {
+              "left": "meškať",
+              "right": "словацьке слово/вираз «meškať»",
+              "rightRu": "словацкое слово/выражение «meškať»",
+              "rightEn": "Slovak word/expression “meškať”"
+            }
+          ]
+        },
+        {
+          "id": "b1-s09-l54-e03",
+          "lessonId": "b1-s09-l54",
+          "type": "fill_blank",
+          "order": 3,
+          "question": "Впиши словацькою: словацьке слово/вираз «vybavené».",
+          "questionLocalized": {
+            "uk": "Впиши словацькою: словацьке слово/вираз «vybavené».",
+            "ru": "Впиши по-словацки: словацкое слово/выражение «vybavené».",
+            "en": "Write in Slovak: Slovak word/expression “vybavené”."
+          },
+          "wordIds": [
+            "b1-s09-l54-w03"
+          ],
+          "sentence": "______",
+          "acceptedAnswers": [
+            "vybavené"
+          ],
+          "hint": {
+            "uk": "Початок: v…",
+            "ru": "Начало: v…",
+            "en": "Start: v…"
+          }
+        },
+        {
+          "id": "b1-s09-l54-e04",
+          "lessonId": "b1-s09-l54",
+          "type": "sentence_builder",
+          "order": 4,
+          "question": "Склади природне словацьке речення.",
+          "questionLocalized": {
+            "uk": "Склади природне словацьке речення.",
+            "ru": "Собери естественное словацкое предложение.",
+            "en": "Build a natural Slovak sentence."
+          },
+          "wordIds": [
+            "b1-s09-l54-w04"
+          ],
+          "tokens": [
+            "Používam",
+            "meškať",
+            "v",
+            "reálnej",
+            "situácii."
+          ],
+          "correctSentence": "Používam meškať v reálnej situácii."
+        },
+        {
+          "id": "b1-s09-l54-e05",
+          "lessonId": "b1-s09-l54",
+          "type": "multiple_select",
+          "order": 5,
+          "question": "Обери одиниці з цього уроку.",
+          "questionLocalized": {
+            "uk": "Обери одиниці з цього уроку.",
+            "ru": "Выбери единицы из этого урока.",
+            "en": "Select items from this lesson."
+          },
+          "wordIds": [
+            "b1-s09-l54-w01",
+            "b1-s09-l54-w02"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "vybaviť všetko",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "zastaviť sa",
+              "correct": true
+            },
+            {
+              "id": "c",
+              "sk": "Dnes prší.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s09-l54-e06",
+          "lessonId": "b1-s09-l54",
+          "type": "reading_comprehension",
+          "order": 6,
+          "question": "Прочитай короткий контекст і знайди точну інформацію.",
+          "questionLocalized": {
+            "uk": "Прочитай короткий контекст і знайди точну інформацію.",
+            "ru": "Прочитай короткий контекст и найди точную информацию.",
+            "en": "Read the short context and find exact information."
+          },
+          "wordIds": [
+            "b1-s09-l54-w05",
+            "b1-s09-l54-w06",
+            "b1-s09-l54-w07"
+          ],
+          "text": "Téma je Praktický deň v meste. V rozhovore používam výrazy presunúť, počkať a zariadiť.",
+          "questions": [
+            {
+              "prompt": {
+                "uk": "Яка тема прямо названа в тексті?",
+                "ru": "Какая тема прямо названа в тексте?",
+                "en": "Which topic is directly named in the text?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "Praktický deň v meste",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "Počasie",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "Šport",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b1-s09-l54-e07",
+          "lessonId": "b1-s09-l54",
+          "type": "natural_phrase",
+          "order": 7,
+          "question": "Що звучить найприродніше в цій темі?",
+          "questionLocalized": {
+            "uk": "Що звучить найприродніше в цій темі?",
+            "ru": "Что звучит естественнее всего в этой теме?",
+            "en": "What sounds most natural in this topic?"
+          },
+          "wordIds": [
+            "b1-s09-l54-w06"
+          ],
+          "situation": {
+            "uk": "Тобі потрібно використати цільову одиницю в короткій репліці.",
+            "ru": "Нужно использовать целевую единицу в короткой реплике.",
+            "en": "You need to use the target item in a short reply."
+          },
+          "options": [
+            {
+              "id": "a",
+              "sk": "Používam počkať v tejto téme.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Som autobus.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Včera zelený rýchlo.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s09-l54-e08",
+          "lessonId": "b1-s09-l54",
+          "type": "dropdown_blank",
+          "order": 8,
+          "question": "Обери точну словацьку одиницю: словацьке слово/вираз «zariadiť».",
+          "questionLocalized": {
+            "uk": "Обери точну словацьку одиницю: словацьке слово/вираз «zariadiť».",
+            "ru": "Выбери точную словацкую единицу: словацкое слово/выражение «zariadiť».",
+            "en": "Choose the exact Slovak item: Slovak word/expression “zariadiť”."
+          },
+          "wordIds": [
+            "b1-s09-l54-w07"
+          ],
+          "sentenceParts": [
+            {
+              "text": "Veta obsahuje "
+            },
+            {
+              "blankId": "b1",
+              "options": [
+                "zariadiť",
+                "vybaviť všetko",
+                "zastaviť sa"
+              ],
+              "correct": "zariadiť"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "b1-s09-l54-e09",
+          "lessonId": "b1-s09-l54",
+          "type": "dialogue_choose_reply",
+          "order": 9,
+          "question": "Обери найкращу відповідь у діалозі.",
+          "questionLocalized": {
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
+          },
+          "wordIds": [
+            "b1-s09-l54-w08"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Vieš to vysvetliť cez stihnúť?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Áno, použijem stihnúť v príklade.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Nie, toto je úplne iná téma.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Nerozumiem otázke a nereagujem.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s09-l54-e10",
+          "lessonId": "b1-s09-l54",
+          "type": "meaning_in_context",
+          "order": 10,
+          "question": "Čo znamená výraz v kontexte: «zastaviť sa»?",
+          "questionLocalized": {
+            "uk": "Що означає вираз у контексті: «zastaviť sa»?",
+            "ru": "Что означает выражение в контексте: «zastaviť sa»?",
+            "en": "What does the item mean in context: “zastaviť sa”?"
+          },
+          "wordIds": [
+            "b1-s09-l54-w02"
+          ],
+          "context": {
+            "sk": "V tejto lekcii riešime zastaviť sa."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "словацьке слово/вираз «zastaviť sa»",
+                "ru": "словацкое слово/выражение «zastaviť sa»",
+                "en": "Slovak word/expression “zastaviť sa”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "словацьке слово/вираз «meškať»",
+                "ru": "словацкое слово/выражение «meškať»",
+                "en": "Slovak word/expression “meškať”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "словацьке слово/вираз «presunúť»",
+                "ru": "словацкое слово/выражение «presunúť»",
+                "en": "Slovak word/expression “presunúť”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s09-l54-e11",
+          "lessonId": "b1-s09-l54",
+          "type": "reverse_translation",
+          "order": 11,
+          "question": "Обери словацький варіант для: словацьке слово/вираз «presunúť».",
+          "questionLocalized": {
+            "uk": "Обери словацький варіант для: словацьке слово/вираз «presunúť».",
+            "ru": "Выбери словацкий вариант для: словацкое слово/выражение «presunúť».",
+            "en": "Choose the Slovak item for: Slovak word/expression “presunúť”."
+          },
+          "wordIds": [
+            "b1-s09-l54-w05"
+          ],
+          "options": [
+            "presunúť",
+            "vybavené",
+            "vybaviť všetko"
+          ],
+          "correctAnswer": "presunúť"
+        },
+        {
+          "id": "b1-s09-l54-e12",
+          "lessonId": "b1-s09-l54",
+          "type": "multiple_choice_translation",
+          "order": 12,
+          "question": "Що відповідає словацькому «stihnúť»?",
+          "questionLocalized": {
+            "uk": "Що відповідає словацькому «stihnúť»?",
+            "ru": "Что соответствует словацкому «stihnúť»?",
+            "en": "What matches the Slovak “stihnúť”?"
+          },
+          "wordIds": [
+            "b1-s09-l54-w08"
+          ],
+          "options": [
+            "словацьке слово/вираз «stihnúť»",
+            "словацьке слово/вираз «zastaviť sa»",
+            "словацьке слово/вираз «vybavené»"
+          ],
+          "correctAnswer": "словацьке слово/вираз «stihnúť»"
+        }
+      ],
+      "finalSituation": {
+        "id": "final-situation",
+        "type": "interactive_scenario",
+        "title": {
+          "uk": "Praktický deň v meste: життєва ситуація",
+          "ru": "Praktický deň v meste: жизненная ситуация",
+          "en": "Praktický deň v meste: real-life situation"
+        },
+        "description": {
+          "uk": "Обери репліку, яка природно вирішує ситуацію на рівні B1.",
+          "ru": "Выбери реплику, которая естественно решает ситуацию на уровне B1.",
+          "en": "Choose the reply that naturally solves the situation at B1 level."
+        },
+        "steps": [
+          {
+            "id": "f1",
+            "prompt": {
+              "uk": "Тебе просять коротко пояснити ситуацію. Що відповісти?",
+              "ru": "Тебя просят коротко объяснить ситуацию. Что ответить?",
+              "en": "You are asked to briefly explain the situation. What do you answer?"
+            },
+            "options": [
+              {
+                "sk": "Najprv vysvetlím tému Praktický deň v meste a uvediem príklad.",
+                "correct": true
+              },
+              {
+                "sk": "Neviem nič povedať.",
+                "correct": false
+              },
+              {
+                "sk": "To nesúvisí s témou.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "prompt": {
+              "uk": "Потрібно відреагувати спокійно й конкретно.",
+              "ru": "Нужно отреагировать спокойно и конкретно.",
+              "en": "You need to react calmly and concretely."
+            },
+            "options": [
+              {
+                "sk": "Rozumiem. Skúsim to povedať jasnejšie cez vybaviť všetko.",
+                "correct": true
+              },
+              {
+                "sk": "To je modrý autobus.",
+                "correct": false
+              },
+              {
+                "sk": "Nechcem hovoriť vôbec.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f3",
+            "prompt": {
+              "uk": "Потрібно завершити розмову практичною домовленістю.",
+              "ru": "Нужно завершить разговор практической договоренностью.",
+              "en": "You need to finish with a practical agreement."
+            },
+            "options": [
+              {
+                "sk": "Dohodnime sa na ďalšom kroku a potvrdím to správou.",
+                "correct": true
+              },
+              {
+                "sk": "Zajtra bolo včera.",
+                "correct": false
+              },
+              {
+                "sk": "Nemám žiadny návrh.",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "passRequirement": "3/3",
+        "successMessage": {
+          "uk": "Hotovo: použil si tému v realistickej situácii.",
+          "ru": "Готово: ты использовал тему в реалистичной ситуации.",
+          "en": "Done: you used the topic in a realistic situation."
+        }
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": {
+          "uk": "Урок завершено",
+          "ru": "Урок завершён",
+          "en": "Lesson complete"
+        },
+        "subtitle": {
+          "uk": "Ти завершив ще один крок рівня B1.",
+          "ru": "Ты завершил ещё один шаг уровня B1.",
+          "en": "You completed another B1 step."
+        },
+        "xpReward": 140,
+        "newWordsCount": 8,
+        "exercisesCompleted": 12,
+        "nowYouKnow": [
+          "говорити на тему «Praktický deň v meste»",
+          "зв'язувати думки у коротку відповідь",
+          "реагувати в практичній ситуації"
+        ],
+        "mistakesMessage": {
+          "uk": "Повтори тільки ті вправи, де відповідь ще не автоматична.",
+          "ru": "Повтори только те упражнения, где ответ ещё не автоматический.",
+          "en": "Repeat only the exercises where the answer is not automatic yet."
+        },
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "skills": [
+          {
+            "id": "vocabulary",
+            "label": {
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
+            },
+            "weight": 0.3
+          },
+          {
+            "id": "communication",
+            "label": {
+              "uk": "комунікація",
+              "ru": "коммуникация",
+              "en": "communication"
+            },
+            "weight": 0.4
+          },
+          {
+            "id": "transfer",
+            "label": {
+              "uk": "перенесення",
+              "ru": "перенос",
+              "en": "transfer"
+            },
+            "weight": 0.3
+          }
+        ],
+        "nextLesson": {
+          "id": "b1-s10-l55"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,1056 @@
+{
+  "lessons": [
+    {
+      "id": "b1-s04-l20",
+      "sectionId": "b1_s04",
+      "level": "B1",
+      "title": {
+        "sk": "Keď som bol mladší",
+        "uk": "B1: Keď som bol mladší",
+        "ru": "B1: Keď som bol mladší",
+        "en": "B1: Keď som bol mladší"
+      },
+      "topic": {
+        "sk": "Keď som bol mladší",
+        "uk": "B1: Keď som bol mladší",
+        "ru": "B1: Keď som bol mladší",
+        "en": "B1: Keď som bol mladší"
+      },
+      "description": {
+        "sk": "Precvičíš si tému Keď som bol mladší v súvislej komunikácii na úrovni B1.",
+        "uk": "Тренуємо тему «Keď som bol mladší»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+        "ru": "говорим о детстве и прошлых привычках, сравниваем с настоящим.",
+        "en": "Practice the B1 topic “Keď som bol mladší” inside connected communication. Section: Past experiences and stories."
+      },
+      "order": 20,
+      "xpReward": 140,
+      "estimatedMinutes": 28,
+      "isPublished": false,
+      "intro": {
+        "sk": "Precvičíš si tému Keď som bol mladší v súvislej komunikácii na úrovni B1.",
+        "uk": "Тренуємо тему «Keď som bol mladší»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+        "ru": "говорим о детстве и прошлых привычках, сравниваем с настоящим.",
+        "en": "Practice the B1 topic “Keď som bol mladší” inside connected communication. Section: Past experiences and stories."
+      },
+      "completionMessage": {
+        "sk": "Výborne. Pokračuj v používaní témy v reálnych situáciách.",
+        "uk": "Добре. Тепер перенеси тему в реальну розмову.",
+        "ru": "Хорошо. Теперь перенеси тему в реальный разговор.",
+        "en": "Good. Now transfer the topic into a real conversation."
+      },
+      "updatedAt": "2026-09-14T00:00:00Z",
+      "localization": {
+        "uiLanguages": [
+          "uk",
+          "ru",
+          "en"
+        ],
+        "targetLanguage": "sk",
+        "fallbackUiLanguage": "uk"
+      },
+      "assets": {
+        "images": {},
+        "audio": {}
+      },
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": {
+          "sk": "Keď som bol mladší",
+          "uk": "B1: Keď som bol mladší",
+          "ru": "B1: Keď som bol mladší",
+          "en": "B1: Keď som bol mladší"
+        },
+        "shortDescription": {
+          "uk": "Тренуємо тему «Keď som bol mladší»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+          "ru": "говорим о детстве и прошлых привычках, сравниваем с настоящим.",
+          "en": "Practice the B1 topic “Keď som bol mladší” inside connected communication. Section: Past experiences and stories."
+        },
+        "outcomes": [
+          {
+            "uk": "пояснити тему «Keď som bol mladší» зв'язно",
+            "ru": "связно объяснить тему «Keď som bol mladší»",
+            "en": "explain the topic “Keď som bol mladší” coherently"
+          },
+          {
+            "uk": "використати нові слова в контексті",
+            "ru": "использовать новые слова в контексте",
+            "en": "use new words in context"
+          },
+          {
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
+          }
+        ],
+        "newWords": [
+          "b1-s04-l20-w01",
+          "b1-s04-l20-w02",
+          "b1-s04-l20-w03",
+          "b1-s04-l20-w04",
+          "b1-s04-l20-w05",
+          "b1-s04-l20-w06",
+          "b1-s04-l20-w07",
+          "b1-s04-l20-w08"
+        ],
+        "exercisesCount": 12,
+        "reward": "+140 XP",
+        "estimatedMinutes": 28,
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "id": "t1",
+          "screenType": "theory",
+          "order": 1,
+          "title": {
+            "uk": "Сенс уроку",
+            "ru": "Смысл урока",
+            "en": "Lesson focus"
+          },
+          "body": {
+            "uk": "Тренуємо тему «Keď som bol mladší»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+            "ru": "говорим о детстве и прошлых привычках, сравниваем с настоящим.",
+            "en": "Practice the B1 topic “Keď som bol mladší” inside connected communication. Section: Past experiences and stories."
+          },
+          "examples": [
+            {
+              "sk": "Téma je Keď som bol mladší.",
+              "translation": {
+                "uk": "Тема: «Keď som bol mladší».",
+                "ru": "Тема: «Keď som bol mladší».",
+                "en": "Topic: “Keď som bol mladší”."
+              }
+            },
+            {
+              "sk": "Používam výraz detstvo v reálnej situácii.",
+              "translation": {
+                "uk": "Я використовую «detstvo» у реальній ситуації.",
+                "ru": "Я использую «detstvo» в реальной ситуации.",
+                "en": "I use “detstvo” in a real situation."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "На B1 важливо не лише знати слово, а зв'язати його з причиною, прикладом і реакцією.",
+            "ru": "На B1 важно не только знать слово, а связать его с причиной, примером и реакцией.",
+            "en": "At B1, connect the item with a reason, example and reaction."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t2",
+          "screenType": "theory",
+          "order": 2,
+          "title": {
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer pattern"
+          },
+          "body": {
+            "uk": "Будуй відповідь за схемою: ситуація → причина → приклад → що роблю далі.",
+            "ru": "Строй ответ по схеме: ситуация → причина → пример → что делаю дальше.",
+            "en": "Build the answer as: situation → reason → example → next action."
+          },
+          "examples": [
+            {
+              "sk": "Najprv vysvetlím situáciu, potom použijem keď som bol malý.",
+              "translation": {
+                "uk": "Спочатку пояснюю ситуацію, потім використовую цільовий вираз.",
+                "ru": "Сначала объясняю ситуацию, потом использую целевое выражение.",
+                "en": "First I explain the situation, then I use the target item."
+              }
+            },
+            {
+              "sk": "Podľa mňa je dôležité hovoriť jasne o téme Keď som bol mladší.",
+              "translation": {
+                "uk": "На мою думку, важливо говорити про тему ясно.",
+                "ru": "По моему мнению, важно говорить о теме ясно.",
+                "en": "In my opinion, it is important to speak about the topic clearly."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "Одна думка = одне зрозуміле речення. Потім додай причину або приклад.",
+            "ru": "Одна мысль = одно понятное предложение. Потом добавь причину или пример.",
+            "en": "One idea equals one clear sentence. Then add a reason or example."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t3",
+          "screenType": "theory",
+          "order": 3,
+          "title": {
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
+          },
+          "body": {
+            "uk": "У фінальній ситуації потрібно вибрати репліку, яка реально підходить до контексту, а не просто повторює слово.",
+            "ru": "В финальной ситуации нужно выбрать реплику, которая реально подходит к контексту, а не просто повторяет слово.",
+            "en": "In the final situation, choose a reply that fits the context, not just a repeated word."
+          },
+          "examples": [
+            {
+              "sk": "V praxi by som to povedal pokojne a konkrétne.",
+              "translation": {
+                "uk": "На практиці я сказав би це спокійно й конкретно.",
+                "ru": "На практике я сказал бы это спокойно и конкретно.",
+                "en": "In practice I would say it calmly and concretely."
+              }
+            },
+            {
+              "sk": "Ak niečomu nerozumiem, spýtam sa doplňujúcu otázku.",
+              "translation": {
+                "uk": "Якщо чогось не розумію, ставлю уточнювальне питання.",
+                "ru": "Если чего-то не понимаю, задаю уточняющий вопрос.",
+                "en": "If I do not understand something, I ask a follow-up question."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "B1 = зв'язна відповідь, уточнення і практичний результат.",
+            "ru": "B1 = связный ответ, уточнение и практический результат.",
+            "en": "B1 means a connected answer, clarification and a practical result."
+          },
+          "button": "Далі"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": {
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
+        },
+        "description": {
+          "uk": "Усі одиниці взяті з затвердженого плану B1.",
+          "ru": "Все единицы взяты из утвержденного плана B1.",
+          "en": "All items come from the approved B1 plan."
+        },
+        "items": [
+          {
+            "wordId": "b1-s04-l20-w01",
+            "sk": "detstvo",
+            "uk": "словацьке слово/вираз «detstvo»",
+            "ru": "словацкое слово/выражение «detstvo»",
+            "en": "Slovak word/expression “detstvo”",
+            "pronunciationUk": "detstvo",
+            "exampleSk": "V tejto situácii používam výraz detstvo.",
+            "exampleUk": "У цій ситуації я використовую вираз «detstvo».",
+            "exampleRu": "В этой ситуации я использую выражение «detstvo».",
+            "exampleEn": "In this situation I use “detstvo”."
+          },
+          {
+            "wordId": "b1-s04-l20-w02",
+            "sk": "keď som bol malý",
+            "uk": "словацьке слово/вираз «keď som bol malý»",
+            "ru": "словацкое слово/выражение «keď som bol malý»",
+            "en": "Slovak word/expression “keď som bol malý”",
+            "pronunciationUk": "keдь som bol malи",
+            "exampleSk": "V tejto situácii používam výraz keď som bol malý.",
+            "exampleUk": "У цій ситуації я використовую вираз «keď som bol malý».",
+            "exampleRu": "В этой ситуации я использую выражение «keď som bol malý».",
+            "exampleEn": "In this situation I use “keď som bol malý”."
+          },
+          {
+            "wordId": "b1-s04-l20-w03",
+            "sk": "bývať",
+            "uk": "словацьке слово/вираз «bývať»",
+            "ru": "словацкое слово/выражение «bývať»",
+            "en": "Slovak word/expression “bývať”",
+            "pronunciationUk": "bиvaть",
+            "exampleSk": "V tejto situácii používam výraz bývať.",
+            "exampleUk": "У цій ситуації я використовую вираз «bývať».",
+            "exampleRu": "В этой ситуации я использую выражение «bývať».",
+            "exampleEn": "In this situation I use “bývať”."
+          },
+          {
+            "wordId": "b1-s04-l20-w04",
+            "sk": "hrávať sa",
+            "uk": "словацьке слово/вираз «hrávať sa»",
+            "ru": "словацкое слово/выражение «hrávať sa»",
+            "en": "Slovak word/expression “hrávať sa”",
+            "pronunciationUk": "hrаvaть sa",
+            "exampleSk": "V tejto situácii používam výraz hrávať sa.",
+            "exampleUk": "У цій ситуації я використовую вираз «hrávať sa».",
+            "exampleRu": "В этой ситуации я использую выражение «hrávať sa».",
+            "exampleEn": "In this situation I use “hrávať sa”."
+          },
+          {
+            "wordId": "b1-s04-l20-w05",
+            "sk": "zvykol som",
+            "uk": "словацьке слово/вираз «zvykol som»",
+            "ru": "словацкое слово/выражение «zvykol som»",
+            "en": "Slovak word/expression “zvykol som”",
+            "pronunciationUk": "zvykol som",
+            "exampleSk": "V tejto situácii používam výraz zvykol som.",
+            "exampleUk": "У цій ситуації я використовую вираз «zvykol som».",
+            "exampleRu": "В этой ситуации я использую выражение «zvykol som».",
+            "exampleEn": "In this situation I use “zvykol som”."
+          },
+          {
+            "wordId": "b1-s04-l20-w06",
+            "sk": "často",
+            "uk": "словацьке слово/вираз «často»",
+            "ru": "словацкое слово/выражение «často»",
+            "en": "Slovak word/expression “často”",
+            "pronunciationUk": "чasto",
+            "exampleSk": "V tejto situácii používam výraz často.",
+            "exampleUk": "У цій ситуації я використовую вираз «často».",
+            "exampleRu": "В этой ситуации я использую выражение «často».",
+            "exampleEn": "In this situation I use “často”."
+          },
+          {
+            "wordId": "b1-s04-l20-w07",
+            "sk": "zvyčajne",
+            "uk": "словацьке слово/вираз «zvyčajne»",
+            "ru": "словацкое слово/выражение «zvyčajne»",
+            "en": "Slovak word/expression “zvyčajne”",
+            "pronunciationUk": "zvyчajne",
+            "exampleSk": "V tejto situácii používam výraz zvyčajne.",
+            "exampleUk": "У цій ситуації я використовую вираз «zvyčajne».",
+            "exampleRu": "В этой ситуации я использую выражение «zvyčajne».",
+            "exampleEn": "In this situation I use “zvyčajne”."
+          },
+          {
+            "wordId": "b1-s04-l20-w08",
+            "sk": "kedysi",
+            "uk": "словацьке слово/вираз «kedysi»",
+            "ru": "словацкое слово/выражение «kedysi»",
+            "en": "Slovak word/expression “kedysi”",
+            "pronunciationUk": "kedysi",
+            "exampleSk": "V tejto situácii používam výraz kedysi.",
+            "exampleUk": "У цій ситуації я використовую вираз «kedysi».",
+            "exampleRu": "В этой ситуации я использую выражение «kedysi».",
+            "exampleEn": "In this situation I use “kedysi”."
+          }
+        ],
+        "button": "До практики"
+      },
+      "words": [
+        {
+          "id": "b1-s04-l20-w01",
+          "sk": "detstvo",
+          "uk": "словацьке слово/вираз «detstvo»",
+          "ru": "словацкое слово/выражение «detstvo»",
+          "en": "Slovak word/expression “detstvo”",
+          "pronunciationUk": "detstvo",
+          "exampleSk": "V tejto situácii používam výraz detstvo.",
+          "exampleUk": "У цій ситуації я використовую вираз «detstvo».",
+          "exampleRu": "В этой ситуации я использую выражение «detstvo».",
+          "exampleEn": "In this situation I use “detstvo”.",
+          "level": "B1",
+          "topic": "Keď som bol mladší",
+          "tags": [
+            "b1_s04",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s04-l20-w02",
+          "sk": "keď som bol malý",
+          "uk": "словацьке слово/вираз «keď som bol malý»",
+          "ru": "словацкое слово/выражение «keď som bol malý»",
+          "en": "Slovak word/expression “keď som bol malý”",
+          "pronunciationUk": "keдь som bol malи",
+          "exampleSk": "V tejto situácii používam výraz keď som bol malý.",
+          "exampleUk": "У цій ситуації я використовую вираз «keď som bol malý».",
+          "exampleRu": "В этой ситуации я использую выражение «keď som bol malý».",
+          "exampleEn": "In this situation I use “keď som bol malý”.",
+          "level": "B1",
+          "topic": "Keď som bol mladší",
+          "tags": [
+            "b1_s04",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s04-l20-w03",
+          "sk": "bývať",
+          "uk": "словацьке слово/вираз «bývať»",
+          "ru": "словацкое слово/выражение «bývať»",
+          "en": "Slovak word/expression “bývať”",
+          "pronunciationUk": "bиvaть",
+          "exampleSk": "V tejto situácii používam výraz bývať.",
+          "exampleUk": "У цій ситуації я використовую вираз «bývať».",
+          "exampleRu": "В этой ситуации я использую выражение «bývať».",
+          "exampleEn": "In this situation I use “bývať”.",
+          "level": "B1",
+          "topic": "Keď som bol mladší",
+          "tags": [
+            "b1_s04",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s04-l20-w04",
+          "sk": "hrávať sa",
+          "uk": "словацьке слово/вираз «hrávať sa»",
+          "ru": "словацкое слово/выражение «hrávať sa»",
+          "en": "Slovak word/expression “hrávať sa”",
+          "pronunciationUk": "hrаvaть sa",
+          "exampleSk": "V tejto situácii používam výraz hrávať sa.",
+          "exampleUk": "У цій ситуації я використовую вираз «hrávať sa».",
+          "exampleRu": "В этой ситуации я использую выражение «hrávať sa».",
+          "exampleEn": "In this situation I use “hrávať sa”.",
+          "level": "B1",
+          "topic": "Keď som bol mladší",
+          "tags": [
+            "b1_s04",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s04-l20-w05",
+          "sk": "zvykol som",
+          "uk": "словацьке слово/вираз «zvykol som»",
+          "ru": "словацкое слово/выражение «zvykol som»",
+          "en": "Slovak word/expression “zvykol som”",
+          "pronunciationUk": "zvykol som",
+          "exampleSk": "V tejto situácii používam výraz zvykol som.",
+          "exampleUk": "У цій ситуації я використовую вираз «zvykol som».",
+          "exampleRu": "В этой ситуации я использую выражение «zvykol som».",
+          "exampleEn": "In this situation I use “zvykol som”.",
+          "level": "B1",
+          "topic": "Keď som bol mladší",
+          "tags": [
+            "b1_s04",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s04-l20-w06",
+          "sk": "často",
+          "uk": "словацьке слово/вираз «často»",
+          "ru": "словацкое слово/выражение «často»",
+          "en": "Slovak word/expression “často”",
+          "pronunciationUk": "чasto",
+          "exampleSk": "V tejto situácii používam výraz často.",
+          "exampleUk": "У цій ситуації я використовую вираз «často».",
+          "exampleRu": "В этой ситуации я использую выражение «často».",
+          "exampleEn": "In this situation I use “často”.",
+          "level": "B1",
+          "topic": "Keď som bol mladší",
+          "tags": [
+            "b1_s04",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s04-l20-w07",
+          "sk": "zvyčajne",
+          "uk": "словацьке слово/вираз «zvyčajne»",
+          "ru": "словацкое слово/выражение «zvyčajne»",
+          "en": "Slovak word/expression “zvyčajne”",
+          "pronunciationUk": "zvyчajne",
+          "exampleSk": "V tejto situácii používam výraz zvyčajne.",
+          "exampleUk": "У цій ситуації я використовую вираз «zvyčajne».",
+          "exampleRu": "В этой ситуации я использую выражение «zvyčajne».",
+          "exampleEn": "In this situation I use “zvyčajne”.",
+          "level": "B1",
+          "topic": "Keď som bol mladší",
+          "tags": [
+            "b1_s04",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s04-l20-w08",
+          "sk": "kedysi",
+          "uk": "словацьке слово/вираз «kedysi»",
+          "ru": "словацкое слово/выражение «kedysi»",
+          "en": "Slovak word/expression “kedysi”",
+          "pronunciationUk": "kedysi",
+          "exampleSk": "V tejto situácii používam výraz kedysi.",
+          "exampleUk": "У цій ситуації я використовую вираз «kedysi».",
+          "exampleRu": "В этой ситуации я использую выражение «kedysi».",
+          "exampleEn": "In this situation I use “kedysi”.",
+          "level": "B1",
+          "topic": "Keď som bol mladší",
+          "tags": [
+            "b1_s04",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "b1-s04-l20-e01",
+          "lessonId": "b1-s04-l20",
+          "type": "single_choice",
+          "order": 1,
+          "question": "Що тренує словацька одиниця «detstvo»?",
+          "questionLocalized": {
+            "uk": "Що тренує словацька одиниця «detstvo»?",
+            "ru": "Что тренирует словацкая единица «detstvo»?",
+            "en": "What does the Slovak item “detstvo” train?"
+          },
+          "wordIds": [
+            "b1-s04-l20-w01"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "словацьке слово/вираз «detstvo»",
+                "ru": "словацкое слово/выражение «detstvo»",
+                "en": "Slovak word/expression “detstvo”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "словацьке слово/вираз «keď som bol malý»",
+                "ru": "словацкое слово/выражение «keď som bol malý»",
+                "en": "Slovak word/expression “keď som bol malý”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "словацьке слово/вираз «bývať»",
+                "ru": "словацкое слово/выражение «bývať»",
+                "en": "Slovak word/expression “bývať”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s04-l20-e02",
+          "lessonId": "b1-s04-l20",
+          "type": "matching",
+          "order": 2,
+          "question": "З'єднай словацькі одиниці з поясненнями.",
+          "questionLocalized": {
+            "uk": "З'єднай словацькі одиниці з поясненнями.",
+            "ru": "Соедини словацкие единицы с объяснениями.",
+            "en": "Match Slovak items with explanations."
+          },
+          "wordIds": [
+            "b1-s04-l20-w01",
+            "b1-s04-l20-w02",
+            "b1-s04-l20-w03",
+            "b1-s04-l20-w04"
+          ],
+          "pairs": [
+            {
+              "left": "detstvo",
+              "right": "словацьке слово/вираз «detstvo»",
+              "rightRu": "словацкое слово/выражение «detstvo»",
+              "rightEn": "Slovak word/expression “detstvo”"
+            },
+            {
+              "left": "keď som bol malý",
+              "right": "словацьке слово/вираз «keď som bol malý»",
+              "rightRu": "словацкое слово/выражение «keď som bol malý»",
+              "rightEn": "Slovak word/expression “keď som bol malý”"
+            },
+            {
+              "left": "bývať",
+              "right": "словацьке слово/вираз «bývať»",
+              "rightRu": "словацкое слово/выражение «bývať»",
+              "rightEn": "Slovak word/expression “bývať”"
+            },
+            {
+              "left": "hrávať sa",
+              "right": "словацьке слово/вираз «hrávať sa»",
+              "rightRu": "словацкое слово/выражение «hrávať sa»",
+              "rightEn": "Slovak word/expression “hrávať sa”"
+            }
+          ]
+        },
+        {
+          "id": "b1-s04-l20-e03",
+          "lessonId": "b1-s04-l20",
+          "type": "fill_blank",
+          "order": 3,
+          "question": "Впиши словацькою: словацьке слово/вираз «bývať».",
+          "questionLocalized": {
+            "uk": "Впиши словацькою: словацьке слово/вираз «bývať».",
+            "ru": "Впиши по-словацки: словацкое слово/выражение «bývať».",
+            "en": "Write in Slovak: Slovak word/expression “bývať”."
+          },
+          "wordIds": [
+            "b1-s04-l20-w03"
+          ],
+          "sentence": "______",
+          "acceptedAnswers": [
+            "bývať"
+          ],
+          "hint": {
+            "uk": "Початок: b…",
+            "ru": "Начало: b…",
+            "en": "Start: b…"
+          }
+        },
+        {
+          "id": "b1-s04-l20-e04",
+          "lessonId": "b1-s04-l20",
+          "type": "sentence_builder",
+          "order": 4,
+          "question": "Склади природне словацьке речення.",
+          "questionLocalized": {
+            "uk": "Склади природне словацьке речення.",
+            "ru": "Собери естественное словацкое предложение.",
+            "en": "Build a natural Slovak sentence."
+          },
+          "wordIds": [
+            "b1-s04-l20-w04"
+          ],
+          "tokens": [
+            "Používam",
+            "hrávať sa",
+            "v",
+            "reálnej",
+            "situácii."
+          ],
+          "correctSentence": "Používam hrávať sa v reálnej situácii."
+        },
+        {
+          "id": "b1-s04-l20-e05",
+          "lessonId": "b1-s04-l20",
+          "type": "multiple_select",
+          "order": 5,
+          "question": "Обери одиниці з цього уроку.",
+          "questionLocalized": {
+            "uk": "Обери одиниці з цього уроку.",
+            "ru": "Выбери единицы из этого урока.",
+            "en": "Select items from this lesson."
+          },
+          "wordIds": [
+            "b1-s04-l20-w01",
+            "b1-s04-l20-w02"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "detstvo",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "keď som bol malý",
+              "correct": true
+            },
+            {
+              "id": "c",
+              "sk": "Dnes prší.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s04-l20-e06",
+          "lessonId": "b1-s04-l20",
+          "type": "reading_comprehension",
+          "order": 6,
+          "question": "Прочитай короткий контекст і знайди точну інформацію.",
+          "questionLocalized": {
+            "uk": "Прочитай короткий контекст і знайди точну інформацію.",
+            "ru": "Прочитай короткий контекст и найди точную информацию.",
+            "en": "Read the short context and find exact information."
+          },
+          "wordIds": [
+            "b1-s04-l20-w05",
+            "b1-s04-l20-w06",
+            "b1-s04-l20-w07"
+          ],
+          "text": "Téma je Keď som bol mladší. V rozhovore používam výrazy zvykol som, často a zvyčajne.",
+          "questions": [
+            {
+              "prompt": {
+                "uk": "Яка тема прямо названа в тексті?",
+                "ru": "Какая тема прямо названа в тексте?",
+                "en": "Which topic is directly named in the text?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "Keď som bol mladší",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "Počasie",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "Šport",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b1-s04-l20-e07",
+          "lessonId": "b1-s04-l20",
+          "type": "natural_phrase",
+          "order": 7,
+          "question": "Що звучить найприродніше в цій темі?",
+          "questionLocalized": {
+            "uk": "Що звучить найприродніше в цій темі?",
+            "ru": "Что звучит естественнее всего в этой теме?",
+            "en": "What sounds most natural in this topic?"
+          },
+          "wordIds": [
+            "b1-s04-l20-w06"
+          ],
+          "situation": {
+            "uk": "Тобі потрібно використати цільову одиницю в короткій репліці.",
+            "ru": "Нужно использовать целевую единицу в короткой реплике.",
+            "en": "You need to use the target item in a short reply."
+          },
+          "options": [
+            {
+              "id": "a",
+              "sk": "Používam často v tejto téme.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Som autobus.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Včera zelený rýchlo.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s04-l20-e08",
+          "lessonId": "b1-s04-l20",
+          "type": "dropdown_blank",
+          "order": 8,
+          "question": "Обери точну словацьку одиницю: словацьке слово/вираз «zvyčajne».",
+          "questionLocalized": {
+            "uk": "Обери точну словацьку одиницю: словацьке слово/вираз «zvyčajne».",
+            "ru": "Выбери точную словацкую единицу: словацкое слово/выражение «zvyčajne».",
+            "en": "Choose the exact Slovak item: Slovak word/expression “zvyčajne”."
+          },
+          "wordIds": [
+            "b1-s04-l20-w07"
+          ],
+          "sentenceParts": [
+            {
+              "text": "Veta obsahuje "
+            },
+            {
+              "blankId": "b1",
+              "options": [
+                "zvyčajne",
+                "detstvo",
+                "keď som bol malý"
+              ],
+              "correct": "zvyčajne"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "b1-s04-l20-e09",
+          "lessonId": "b1-s04-l20",
+          "type": "dialogue_choose_reply",
+          "order": 9,
+          "question": "Обери найкращу відповідь у діалозі.",
+          "questionLocalized": {
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
+          },
+          "wordIds": [
+            "b1-s04-l20-w08"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Vieš to vysvetliť cez kedysi?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Áno, použijem kedysi v príklade.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Nie, toto je úplne iná téma.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Nerozumiem otázke a nereagujem.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s04-l20-e10",
+          "lessonId": "b1-s04-l20",
+          "type": "meaning_in_context",
+          "order": 10,
+          "question": "Čo znamená výraz v kontexte: «keď som bol malý»?",
+          "questionLocalized": {
+            "uk": "Що означає вираз у контексті: «keď som bol malý»?",
+            "ru": "Что означает выражение в контексте: «keď som bol malý»?",
+            "en": "What does the item mean in context: “keď som bol malý”?"
+          },
+          "wordIds": [
+            "b1-s04-l20-w02"
+          ],
+          "context": {
+            "sk": "V tejto lekcii riešime keď som bol malý."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "словацьке слово/вираз «keď som bol malý»",
+                "ru": "словацкое слово/выражение «keď som bol malý»",
+                "en": "Slovak word/expression “keď som bol malý”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "словацьке слово/вираз «hrávať sa»",
+                "ru": "словацкое слово/выражение «hrávať sa»",
+                "en": "Slovak word/expression “hrávať sa”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "словацьке слово/вираз «zvykol som»",
+                "ru": "словацкое слово/выражение «zvykol som»",
+                "en": "Slovak word/expression “zvykol som”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s04-l20-e11",
+          "lessonId": "b1-s04-l20",
+          "type": "reverse_translation",
+          "order": 11,
+          "question": "Обери словацький варіант для: словацьке слово/вираз «zvykol som».",
+          "questionLocalized": {
+            "uk": "Обери словацький варіант для: словацьке слово/вираз «zvykol som».",
+            "ru": "Выбери словацкий вариант для: словацкое слово/выражение «zvykol som».",
+            "en": "Choose the Slovak item for: Slovak word/expression “zvykol som”."
+          },
+          "wordIds": [
+            "b1-s04-l20-w05"
+          ],
+          "options": [
+            "zvykol som",
+            "bývať",
+            "detstvo"
+          ],
+          "correctAnswer": "zvykol som"
+        },
+        {
+          "id": "b1-s04-l20-e12",
+          "lessonId": "b1-s04-l20",
+          "type": "multiple_choice_translation",
+          "order": 12,
+          "question": "Що відповідає словацькому «kedysi»?",
+          "questionLocalized": {
+            "uk": "Що відповідає словацькому «kedysi»?",
+            "ru": "Что соответствует словацкому «kedysi»?",
+            "en": "What matches the Slovak “kedysi”?"
+          },
+          "wordIds": [
+            "b1-s04-l20-w08"
+          ],
+          "options": [
+            "словацьке слово/вираз «kedysi»",
+            "словацьке слово/вираз «keď som bol malý»",
+            "словацьке слово/вираз «bývať»"
+          ],
+          "correctAnswer": "словацьке слово/вираз «kedysi»"
+        }
+      ],
+      "finalSituation": {
+        "id": "final-situation",
+        "type": "interactive_scenario",
+        "title": {
+          "uk": "Keď som bol mladší: життєва ситуація",
+          "ru": "Keď som bol mladší: жизненная ситуация",
+          "en": "Keď som bol mladší: real-life situation"
+        },
+        "description": {
+          "uk": "Обери репліку, яка природно вирішує ситуацію на рівні B1.",
+          "ru": "Выбери реплику, которая естественно решает ситуацию на уровне B1.",
+          "en": "Choose the reply that naturally solves the situation at B1 level."
+        },
+        "steps": [
+          {
+            "id": "f1",
+            "prompt": {
+              "uk": "Тебе просять коротко пояснити ситуацію. Що відповісти?",
+              "ru": "Тебя просят коротко объяснить ситуацию. Что ответить?",
+              "en": "You are asked to briefly explain the situation. What do you answer?"
+            },
+            "options": [
+              {
+                "sk": "Najprv vysvetlím tému Keď som bol mladší a uvediem príklad.",
+                "correct": true
+              },
+              {
+                "sk": "Neviem nič povedať.",
+                "correct": false
+              },
+              {
+                "sk": "To nesúvisí s témou.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "prompt": {
+              "uk": "Потрібно відреагувати спокійно й конкретно.",
+              "ru": "Нужно отреагировать спокойно и конкретно.",
+              "en": "You need to react calmly and concretely."
+            },
+            "options": [
+              {
+                "sk": "Rozumiem. Skúsim to povedať jasnejšie cez detstvo.",
+                "correct": true
+              },
+              {
+                "sk": "To je modrý autobus.",
+                "correct": false
+              },
+              {
+                "sk": "Nechcem hovoriť vôbec.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f3",
+            "prompt": {
+              "uk": "Потрібно завершити розмову практичною домовленістю.",
+              "ru": "Нужно завершить разговор практической договоренностью.",
+              "en": "You need to finish with a practical agreement."
+            },
+            "options": [
+              {
+                "sk": "Dohodnime sa na ďalšom kroku a potvrdím to správou.",
+                "correct": true
+              },
+              {
+                "sk": "Zajtra bolo včera.",
+                "correct": false
+              },
+              {
+                "sk": "Nemám žiadny návrh.",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "passRequirement": "3/3",
+        "successMessage": {
+          "uk": "Hotovo: použil si tému v realistickej situácii.",
+          "ru": "Готово: ты использовал тему в реалистичной ситуации.",
+          "en": "Done: you used the topic in a realistic situation."
+        }
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": {
+          "uk": "Урок завершено",
+          "ru": "Урок завершён",
+          "en": "Lesson complete"
+        },
+        "subtitle": {
+          "uk": "Ти завершив ще один крок рівня B1.",
+          "ru": "Ты завершил ещё один шаг уровня B1.",
+          "en": "You completed another B1 step."
+        },
+        "xpReward": 140,
+        "newWordsCount": 8,
+        "exercisesCompleted": 12,
+        "nowYouKnow": [
+          "говорити на тему «Keď som bol mladší»",
+          "зв'язувати думки у коротку відповідь",
+          "реагувати в практичній ситуації"
+        ],
+        "mistakesMessage": {
+          "uk": "Повтори тільки ті вправи, де відповідь ще не автоматична.",
+          "ru": "Повтори только те упражнения, где ответ ещё не автоматический.",
+          "en": "Repeat only the exercises where the answer is not automatic yet."
+        },
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "skills": [
+          {
+            "id": "vocabulary",
+            "label": {
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
+            },
+            "weight": 0.3
+          },
+          {
+            "id": "communication",
+            "label": {
+              "uk": "комунікація",
+              "ru": "коммуникация",
+              "en": "communication"
+            },
+            "weight": 0.4
+          },
+          {
+            "id": "transfer",
+            "label": {
+              "uk": "перенесення",
+              "ru": "перенос",
+              "en": "transfer"
+            },
+            "weight": 0.3
+          }
+        ],
+        "nextLesson": {
+          "id": "b1-s04-l21"
+        }
+      }
+    }
+  ]
+}

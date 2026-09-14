@@ -25,7 +25,7 @@ Never upload a bare lesson object. Never put multiple lessons into one lesson fi
 
 Required core fields:
 
-- `id` — `a1-sNN-lNN`, `a2-sNN-lNN`, `b1-sNN-lNN`, etc.
+- `id` — `a1-sNN-lNN`, `a2-sNN-lNN`, `b1-sNN-lNN` / `b1-sNN-lNNN` when a level exceeds 99 lessons, etc.
 - `sectionId` — matching level/section, e.g. `a1-s03`.
 - `level` — `A1`, `A2`, `B1`, `B2`, `C1` or `C2`.
 - `title` — localized object with `sk` plus learner UI locales used by the project.

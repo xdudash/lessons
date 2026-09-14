@@ -1,0 +1,1056 @@
+{
+  "lessons": [
+    {
+      "id": "b1-s04-l22",
+      "sectionId": "b1_s04",
+      "level": "B1",
+      "title": {
+        "sk": "Nečakaná situácia",
+        "uk": "B1: Nečakaná situácia",
+        "ru": "B1: Nečakaná situácia",
+        "en": "B1: Nečakaná situácia"
+      },
+      "topic": {
+        "sk": "Nečakaná situácia",
+        "uk": "B1: Nečakaná situácia",
+        "ru": "B1: Nečakaná situácia",
+        "en": "B1: Nečakaná situácia"
+      },
+      "description": {
+        "sk": "Precvičíš si tému Nečakaná situácia v súvislej komunikácii na úrovni B1.",
+        "uk": "Тренуємо тему «Nečakaná situácia»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+        "ru": "рассказываем о неожиданной проблеме и том, как на неё отреагировали.",
+        "en": "Practice the B1 topic “Nečakaná situácia” inside connected communication. Section: Past experiences and stories."
+      },
+      "order": 22,
+      "xpReward": 140,
+      "estimatedMinutes": 28,
+      "isPublished": false,
+      "intro": {
+        "sk": "Precvičíš si tému Nečakaná situácia v súvislej komunikácii na úrovni B1.",
+        "uk": "Тренуємо тему «Nečakaná situácia»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+        "ru": "рассказываем о неожиданной проблеме и том, как на неё отреагировали.",
+        "en": "Practice the B1 topic “Nečakaná situácia” inside connected communication. Section: Past experiences and stories."
+      },
+      "completionMessage": {
+        "sk": "Výborne. Pokračuj v používaní témy v reálnych situáciách.",
+        "uk": "Добре. Тепер перенеси тему в реальну розмову.",
+        "ru": "Хорошо. Теперь перенеси тему в реальный разговор.",
+        "en": "Good. Now transfer the topic into a real conversation."
+      },
+      "updatedAt": "2026-09-14T00:00:00Z",
+      "localization": {
+        "uiLanguages": [
+          "uk",
+          "ru",
+          "en"
+        ],
+        "targetLanguage": "sk",
+        "fallbackUiLanguage": "uk"
+      },
+      "assets": {
+        "images": {},
+        "audio": {}
+      },
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": {
+          "sk": "Nečakaná situácia",
+          "uk": "B1: Nečakaná situácia",
+          "ru": "B1: Nečakaná situácia",
+          "en": "B1: Nečakaná situácia"
+        },
+        "shortDescription": {
+          "uk": "Тренуємо тему «Nečakaná situácia»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+          "ru": "рассказываем о неожиданной проблеме и том, как на неё отреагировали.",
+          "en": "Practice the B1 topic “Nečakaná situácia” inside connected communication. Section: Past experiences and stories."
+        },
+        "outcomes": [
+          {
+            "uk": "пояснити тему «Nečakaná situácia» зв'язно",
+            "ru": "связно объяснить тему «Nečakaná situácia»",
+            "en": "explain the topic “Nečakaná situácia” coherently"
+          },
+          {
+            "uk": "використати нові слова в контексті",
+            "ru": "использовать новые слова в контексте",
+            "en": "use new words in context"
+          },
+          {
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
+          }
+        ],
+        "newWords": [
+          "b1-s04-l22-w01",
+          "b1-s04-l22-w02",
+          "b1-s04-l22-w03",
+          "b1-s04-l22-w04",
+          "b1-s04-l22-w05",
+          "b1-s04-l22-w06",
+          "b1-s04-l22-w07",
+          "b1-s04-l22-w08"
+        ],
+        "exercisesCount": 12,
+        "reward": "+140 XP",
+        "estimatedMinutes": 28,
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "id": "t1",
+          "screenType": "theory",
+          "order": 1,
+          "title": {
+            "uk": "Сенс уроку",
+            "ru": "Смысл урока",
+            "en": "Lesson focus"
+          },
+          "body": {
+            "uk": "Тренуємо тему «Nečakaná situácia»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+            "ru": "рассказываем о неожиданной проблеме и том, как на неё отреагировали.",
+            "en": "Practice the B1 topic “Nečakaná situácia” inside connected communication. Section: Past experiences and stories."
+          },
+          "examples": [
+            {
+              "sk": "Téma je Nečakaná situácia.",
+              "translation": {
+                "uk": "Тема: «Nečakaná situácia».",
+                "ru": "Тема: «Nečakaná situácia».",
+                "en": "Topic: “Nečakaná situácia”."
+              }
+            },
+            {
+              "sk": "Používam výraz nečakaný v reálnej situácii.",
+              "translation": {
+                "uk": "Я використовую «nečakaný» у реальній ситуації.",
+                "ru": "Я использую «nečakaný» в реальной ситуации.",
+                "en": "I use “nečakaný” in a real situation."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "На B1 важливо не лише знати слово, а зв'язати його з причиною, прикладом і реакцією.",
+            "ru": "На B1 важно не только знать слово, а связать его с причиной, примером и реакцией.",
+            "en": "At B1, connect the item with a reason, example and reaction."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t2",
+          "screenType": "theory",
+          "order": 2,
+          "title": {
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer pattern"
+          },
+          "body": {
+            "uk": "Будуй відповідь за схемою: ситуація → причина → приклад → що роблю далі.",
+            "ru": "Строй ответ по схеме: ситуация → причина → пример → что делаю дальше.",
+            "en": "Build the answer as: situation → reason → example → next action."
+          },
+          "examples": [
+            {
+              "sk": "Najprv vysvetlím situáciu, potom použijem náhly.",
+              "translation": {
+                "uk": "Спочатку пояснюю ситуацію, потім використовую цільовий вираз.",
+                "ru": "Сначала объясняю ситуацию, потом использую целевое выражение.",
+                "en": "First I explain the situation, then I use the target item."
+              }
+            },
+            {
+              "sk": "Podľa mňa je dôležité hovoriť jasne o téme Nečakaná situácia.",
+              "translation": {
+                "uk": "На мою думку, важливо говорити про тему ясно.",
+                "ru": "По моему мнению, важно говорить о теме ясно.",
+                "en": "In my opinion, it is important to speak about the topic clearly."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "Одна думка = одне зрозуміле речення. Потім додай причину або приклад.",
+            "ru": "Одна мысль = одно понятное предложение. Потом добавь причину или пример.",
+            "en": "One idea equals one clear sentence. Then add a reason or example."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t3",
+          "screenType": "theory",
+          "order": 3,
+          "title": {
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
+          },
+          "body": {
+            "uk": "У фінальній ситуації потрібно вибрати репліку, яка реально підходить до контексту, а не просто повторює слово.",
+            "ru": "В финальной ситуации нужно выбрать реплику, которая реально подходит к контексту, а не просто повторяет слово.",
+            "en": "In the final situation, choose a reply that fits the context, not just a repeated word."
+          },
+          "examples": [
+            {
+              "sk": "V praxi by som to povedal pokojne a konkrétne.",
+              "translation": {
+                "uk": "На практиці я сказав би це спокійно й конкретно.",
+                "ru": "На практике я сказал бы это спокойно и конкретно.",
+                "en": "In practice I would say it calmly and concretely."
+              }
+            },
+            {
+              "sk": "Ak niečomu nerozumiem, spýtam sa doplňujúcu otázku.",
+              "translation": {
+                "uk": "Якщо чогось не розумію, ставлю уточнювальне питання.",
+                "ru": "Если чего-то не понимаю, задаю уточняющий вопрос.",
+                "en": "If I do not understand something, I ask a follow-up question."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "B1 = зв'язна відповідь, уточнення і практичний результат.",
+            "ru": "B1 = связный ответ, уточнение и практический результат.",
+            "en": "B1 means a connected answer, clarification and a practical result."
+          },
+          "button": "Далі"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": {
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
+        },
+        "description": {
+          "uk": "Усі одиниці взяті з затвердженого плану B1.",
+          "ru": "Все единицы взяты из утвержденного плана B1.",
+          "en": "All items come from the approved B1 plan."
+        },
+        "items": [
+          {
+            "wordId": "b1-s04-l22-w01",
+            "sk": "nečakaný",
+            "uk": "словацьке слово/вираз «nečakaný»",
+            "ru": "словацкое слово/выражение «nečakaný»",
+            "en": "Slovak word/expression “nečakaný”",
+            "pronunciationUk": "neчakanи",
+            "exampleSk": "V tejto situácii používam výraz nečakaný.",
+            "exampleUk": "У цій ситуації я використовую вираз «nečakaný».",
+            "exampleRu": "В этой ситуации я использую выражение «nečakaný».",
+            "exampleEn": "In this situation I use “nečakaný”."
+          },
+          {
+            "wordId": "b1-s04-l22-w02",
+            "sk": "náhly",
+            "uk": "словацьке слово/вираз «náhly»",
+            "ru": "словацкое слово/выражение «náhly»",
+            "en": "Slovak word/expression “náhly”",
+            "pronunciationUk": "nаhly",
+            "exampleSk": "V tejto situácii používam výraz náhly.",
+            "exampleUk": "У цій ситуації я використовую вираз «náhly».",
+            "exampleRu": "В этой ситуации я использую выражение «náhly».",
+            "exampleEn": "In this situation I use “náhly”."
+          },
+          {
+            "wordId": "b1-s04-l22-w03",
+            "sk": "situácia",
+            "uk": "словацьке слово/вираз «situácia»",
+            "ru": "словацкое слово/выражение «situácia»",
+            "en": "Slovak word/expression “situácia”",
+            "pronunciationUk": "situаcia",
+            "exampleSk": "V tejto situácii používam výraz situácia.",
+            "exampleUk": "У цій ситуації я використовую вираз «situácia».",
+            "exampleRu": "В этой ситуации я использую выражение «situácia».",
+            "exampleEn": "In this situation I use “situácia”."
+          },
+          {
+            "wordId": "b1-s04-l22-w04",
+            "sk": "problém",
+            "uk": "словацьке слово/вираз «problém»",
+            "ru": "словацкое слово/выражение «problém»",
+            "en": "Slovak word/expression “problém”",
+            "pronunciationUk": "problеm",
+            "exampleSk": "V tejto situácii používam výraz problém.",
+            "exampleUk": "У цій ситуації я використовую вираз «problém».",
+            "exampleRu": "В этой ситуации я использую выражение «problém».",
+            "exampleEn": "In this situation I use “problém”."
+          },
+          {
+            "wordId": "b1-s04-l22-w05",
+            "sk": "reakcia",
+            "uk": "словацьке слово/вираз «reakcia»",
+            "ru": "словацкое слово/выражение «reakcia»",
+            "en": "Slovak word/expression “reakcia”",
+            "pronunciationUk": "reakcia",
+            "exampleSk": "V tejto situácii používam výraz reakcia.",
+            "exampleUk": "У цій ситуації я використовую вираз «reakcia».",
+            "exampleRu": "В этой ситуации я использую выражение «reakcia».",
+            "exampleEn": "In this situation I use “reakcia”."
+          },
+          {
+            "wordId": "b1-s04-l22-w06",
+            "sk": "vyriešiť",
+            "uk": "словацьке слово/вираз «vyriešiť»",
+            "ru": "словацкое слово/выражение «vyriešiť»",
+            "en": "Slovak word/expression “vyriešiť”",
+            "pronunciationUk": "vyrieшiть",
+            "exampleSk": "V tejto situácii používam výraz vyriešiť.",
+            "exampleUk": "У цій ситуації я використовую вираз «vyriešiť».",
+            "exampleRu": "В этой ситуации я использую выражение «vyriešiť».",
+            "exampleEn": "In this situation I use “vyriešiť”."
+          },
+          {
+            "wordId": "b1-s04-l22-w07",
+            "sk": "zvládnuť",
+            "uk": "словацьке слово/вираз «zvládnuť»",
+            "ru": "словацкое слово/выражение «zvládnuť»",
+            "en": "Slovak word/expression “zvládnuť”",
+            "pronunciationUk": "zvlаdnuть",
+            "exampleSk": "V tejto situácii používam výraz zvládnuť.",
+            "exampleUk": "У цій ситуації я використовую вираз «zvládnuť».",
+            "exampleRu": "В этой ситуации я использую выражение «zvládnuť».",
+            "exampleEn": "In this situation I use “zvládnuť”."
+          },
+          {
+            "wordId": "b1-s04-l22-w08",
+            "sk": "zavolať pomoc",
+            "uk": "словацьке слово/вираз «zavolať pomoc»",
+            "ru": "словацкое слово/выражение «zavolať pomoc»",
+            "en": "Slovak word/expression “zavolať pomoc”",
+            "pronunciationUk": "zavolaть pomoc",
+            "exampleSk": "V tejto situácii používam výraz zavolať pomoc.",
+            "exampleUk": "У цій ситуації я використовую вираз «zavolať pomoc».",
+            "exampleRu": "В этой ситуации я использую выражение «zavolať pomoc».",
+            "exampleEn": "In this situation I use “zavolať pomoc”."
+          }
+        ],
+        "button": "До практики"
+      },
+      "words": [
+        {
+          "id": "b1-s04-l22-w01",
+          "sk": "nečakaný",
+          "uk": "словацьке слово/вираз «nečakaný»",
+          "ru": "словацкое слово/выражение «nečakaný»",
+          "en": "Slovak word/expression “nečakaný”",
+          "pronunciationUk": "neчakanи",
+          "exampleSk": "V tejto situácii používam výraz nečakaný.",
+          "exampleUk": "У цій ситуації я використовую вираз «nečakaný».",
+          "exampleRu": "В этой ситуации я использую выражение «nečakaný».",
+          "exampleEn": "In this situation I use “nečakaný”.",
+          "level": "B1",
+          "topic": "Nečakaná situácia",
+          "tags": [
+            "b1_s04",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s04-l22-w02",
+          "sk": "náhly",
+          "uk": "словацьке слово/вираз «náhly»",
+          "ru": "словацкое слово/выражение «náhly»",
+          "en": "Slovak word/expression “náhly”",
+          "pronunciationUk": "nаhly",
+          "exampleSk": "V tejto situácii používam výraz náhly.",
+          "exampleUk": "У цій ситуації я використовую вираз «náhly».",
+          "exampleRu": "В этой ситуации я использую выражение «náhly».",
+          "exampleEn": "In this situation I use “náhly”.",
+          "level": "B1",
+          "topic": "Nečakaná situácia",
+          "tags": [
+            "b1_s04",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s04-l22-w03",
+          "sk": "situácia",
+          "uk": "словацьке слово/вираз «situácia»",
+          "ru": "словацкое слово/выражение «situácia»",
+          "en": "Slovak word/expression “situácia”",
+          "pronunciationUk": "situаcia",
+          "exampleSk": "V tejto situácii používam výraz situácia.",
+          "exampleUk": "У цій ситуації я використовую вираз «situácia».",
+          "exampleRu": "В этой ситуации я использую выражение «situácia».",
+          "exampleEn": "In this situation I use “situácia”.",
+          "level": "B1",
+          "topic": "Nečakaná situácia",
+          "tags": [
+            "b1_s04",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s04-l22-w04",
+          "sk": "problém",
+          "uk": "словацьке слово/вираз «problém»",
+          "ru": "словацкое слово/выражение «problém»",
+          "en": "Slovak word/expression “problém”",
+          "pronunciationUk": "problеm",
+          "exampleSk": "V tejto situácii používam výraz problém.",
+          "exampleUk": "У цій ситуації я використовую вираз «problém».",
+          "exampleRu": "В этой ситуации я использую выражение «problém».",
+          "exampleEn": "In this situation I use “problém”.",
+          "level": "B1",
+          "topic": "Nečakaná situácia",
+          "tags": [
+            "b1_s04",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s04-l22-w05",
+          "sk": "reakcia",
+          "uk": "словацьке слово/вираз «reakcia»",
+          "ru": "словацкое слово/выражение «reakcia»",
+          "en": "Slovak word/expression “reakcia”",
+          "pronunciationUk": "reakcia",
+          "exampleSk": "V tejto situácii používam výraz reakcia.",
+          "exampleUk": "У цій ситуації я використовую вираз «reakcia».",
+          "exampleRu": "В этой ситуации я использую выражение «reakcia».",
+          "exampleEn": "In this situation I use “reakcia”.",
+          "level": "B1",
+          "topic": "Nečakaná situácia",
+          "tags": [
+            "b1_s04",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s04-l22-w06",
+          "sk": "vyriešiť",
+          "uk": "словацьке слово/вираз «vyriešiť»",
+          "ru": "словацкое слово/выражение «vyriešiť»",
+          "en": "Slovak word/expression “vyriešiť”",
+          "pronunciationUk": "vyrieшiть",
+          "exampleSk": "V tejto situácii používam výraz vyriešiť.",
+          "exampleUk": "У цій ситуації я використовую вираз «vyriešiť».",
+          "exampleRu": "В этой ситуации я использую выражение «vyriešiť».",
+          "exampleEn": "In this situation I use “vyriešiť”.",
+          "level": "B1",
+          "topic": "Nečakaná situácia",
+          "tags": [
+            "b1_s04",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s04-l22-w07",
+          "sk": "zvládnuť",
+          "uk": "словацьке слово/вираз «zvládnuť»",
+          "ru": "словацкое слово/выражение «zvládnuť»",
+          "en": "Slovak word/expression “zvládnuť”",
+          "pronunciationUk": "zvlаdnuть",
+          "exampleSk": "V tejto situácii používam výraz zvládnuť.",
+          "exampleUk": "У цій ситуації я використовую вираз «zvládnuť».",
+          "exampleRu": "В этой ситуации я использую выражение «zvládnuť».",
+          "exampleEn": "In this situation I use “zvládnuť”.",
+          "level": "B1",
+          "topic": "Nečakaná situácia",
+          "tags": [
+            "b1_s04",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s04-l22-w08",
+          "sk": "zavolať pomoc",
+          "uk": "словацьке слово/вираз «zavolať pomoc»",
+          "ru": "словацкое слово/выражение «zavolať pomoc»",
+          "en": "Slovak word/expression “zavolať pomoc”",
+          "pronunciationUk": "zavolaть pomoc",
+          "exampleSk": "V tejto situácii používam výraz zavolať pomoc.",
+          "exampleUk": "У цій ситуації я використовую вираз «zavolať pomoc».",
+          "exampleRu": "В этой ситуации я использую выражение «zavolať pomoc».",
+          "exampleEn": "In this situation I use “zavolať pomoc”.",
+          "level": "B1",
+          "topic": "Nečakaná situácia",
+          "tags": [
+            "b1_s04",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "b1-s04-l22-e01",
+          "lessonId": "b1-s04-l22",
+          "type": "single_choice",
+          "order": 1,
+          "question": "Що тренує словацька одиниця «nečakaný»?",
+          "questionLocalized": {
+            "uk": "Що тренує словацька одиниця «nečakaný»?",
+            "ru": "Что тренирует словацкая единица «nečakaný»?",
+            "en": "What does the Slovak item “nečakaný” train?"
+          },
+          "wordIds": [
+            "b1-s04-l22-w01"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "словацьке слово/вираз «nečakaný»",
+                "ru": "словацкое слово/выражение «nečakaný»",
+                "en": "Slovak word/expression “nečakaný”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "словацьке слово/вираз «náhly»",
+                "ru": "словацкое слово/выражение «náhly»",
+                "en": "Slovak word/expression “náhly”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "словацьке слово/вираз «situácia»",
+                "ru": "словацкое слово/выражение «situácia»",
+                "en": "Slovak word/expression “situácia”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s04-l22-e02",
+          "lessonId": "b1-s04-l22",
+          "type": "matching",
+          "order": 2,
+          "question": "З'єднай словацькі одиниці з поясненнями.",
+          "questionLocalized": {
+            "uk": "З'єднай словацькі одиниці з поясненнями.",
+            "ru": "Соедини словацкие единицы с объяснениями.",
+            "en": "Match Slovak items with explanations."
+          },
+          "wordIds": [
+            "b1-s04-l22-w01",
+            "b1-s04-l22-w02",
+            "b1-s04-l22-w03",
+            "b1-s04-l22-w04"
+          ],
+          "pairs": [
+            {
+              "left": "nečakaný",
+              "right": "словацьке слово/вираз «nečakaný»",
+              "rightRu": "словацкое слово/выражение «nečakaný»",
+              "rightEn": "Slovak word/expression “nečakaný”"
+            },
+            {
+              "left": "náhly",
+              "right": "словацьке слово/вираз «náhly»",
+              "rightRu": "словацкое слово/выражение «náhly»",
+              "rightEn": "Slovak word/expression “náhly”"
+            },
+            {
+              "left": "situácia",
+              "right": "словацьке слово/вираз «situácia»",
+              "rightRu": "словацкое слово/выражение «situácia»",
+              "rightEn": "Slovak word/expression “situácia”"
+            },
+            {
+              "left": "problém",
+              "right": "словацьке слово/вираз «problém»",
+              "rightRu": "словацкое слово/выражение «problém»",
+              "rightEn": "Slovak word/expression “problém”"
+            }
+          ]
+        },
+        {
+          "id": "b1-s04-l22-e03",
+          "lessonId": "b1-s04-l22",
+          "type": "fill_blank",
+          "order": 3,
+          "question": "Впиши словацькою: словацьке слово/вираз «situácia».",
+          "questionLocalized": {
+            "uk": "Впиши словацькою: словацьке слово/вираз «situácia».",
+            "ru": "Впиши по-словацки: словацкое слово/выражение «situácia».",
+            "en": "Write in Slovak: Slovak word/expression “situácia”."
+          },
+          "wordIds": [
+            "b1-s04-l22-w03"
+          ],
+          "sentence": "______",
+          "acceptedAnswers": [
+            "situácia"
+          ],
+          "hint": {
+            "uk": "Початок: s…",
+            "ru": "Начало: s…",
+            "en": "Start: s…"
+          }
+        },
+        {
+          "id": "b1-s04-l22-e04",
+          "lessonId": "b1-s04-l22",
+          "type": "sentence_builder",
+          "order": 4,
+          "question": "Склади природне словацьке речення.",
+          "questionLocalized": {
+            "uk": "Склади природне словацьке речення.",
+            "ru": "Собери естественное словацкое предложение.",
+            "en": "Build a natural Slovak sentence."
+          },
+          "wordIds": [
+            "b1-s04-l22-w04"
+          ],
+          "tokens": [
+            "Používam",
+            "problém",
+            "v",
+            "reálnej",
+            "situácii."
+          ],
+          "correctSentence": "Používam problém v reálnej situácii."
+        },
+        {
+          "id": "b1-s04-l22-e05",
+          "lessonId": "b1-s04-l22",
+          "type": "multiple_select",
+          "order": 5,
+          "question": "Обери одиниці з цього уроку.",
+          "questionLocalized": {
+            "uk": "Обери одиниці з цього уроку.",
+            "ru": "Выбери единицы из этого урока.",
+            "en": "Select items from this lesson."
+          },
+          "wordIds": [
+            "b1-s04-l22-w01",
+            "b1-s04-l22-w02"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "nečakaný",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "náhly",
+              "correct": true
+            },
+            {
+              "id": "c",
+              "sk": "Dnes prší.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s04-l22-e06",
+          "lessonId": "b1-s04-l22",
+          "type": "reading_comprehension",
+          "order": 6,
+          "question": "Прочитай короткий контекст і знайди точну інформацію.",
+          "questionLocalized": {
+            "uk": "Прочитай короткий контекст і знайди точну інформацію.",
+            "ru": "Прочитай короткий контекст и найди точную информацию.",
+            "en": "Read the short context and find exact information."
+          },
+          "wordIds": [
+            "b1-s04-l22-w05",
+            "b1-s04-l22-w06",
+            "b1-s04-l22-w07"
+          ],
+          "text": "Téma je Nečakaná situácia. V rozhovore používam výrazy reakcia, vyriešiť a zvládnuť.",
+          "questions": [
+            {
+              "prompt": {
+                "uk": "Яка тема прямо названа в тексті?",
+                "ru": "Какая тема прямо названа в тексте?",
+                "en": "Which topic is directly named in the text?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "Nečakaná situácia",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "Počasie",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "Šport",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b1-s04-l22-e07",
+          "lessonId": "b1-s04-l22",
+          "type": "natural_phrase",
+          "order": 7,
+          "question": "Що звучить найприродніше в цій темі?",
+          "questionLocalized": {
+            "uk": "Що звучить найприродніше в цій темі?",
+            "ru": "Что звучит естественнее всего в этой теме?",
+            "en": "What sounds most natural in this topic?"
+          },
+          "wordIds": [
+            "b1-s04-l22-w06"
+          ],
+          "situation": {
+            "uk": "Тобі потрібно використати цільову одиницю в короткій репліці.",
+            "ru": "Нужно использовать целевую единицу в короткой реплике.",
+            "en": "You need to use the target item in a short reply."
+          },
+          "options": [
+            {
+              "id": "a",
+              "sk": "Používam vyriešiť v tejto téme.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Som autobus.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Včera zelený rýchlo.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s04-l22-e08",
+          "lessonId": "b1-s04-l22",
+          "type": "dropdown_blank",
+          "order": 8,
+          "question": "Обери точну словацьку одиницю: словацьке слово/вираз «zvládnuť».",
+          "questionLocalized": {
+            "uk": "Обери точну словацьку одиницю: словацьке слово/вираз «zvládnuť».",
+            "ru": "Выбери точную словацкую единицу: словацкое слово/выражение «zvládnuť».",
+            "en": "Choose the exact Slovak item: Slovak word/expression “zvládnuť”."
+          },
+          "wordIds": [
+            "b1-s04-l22-w07"
+          ],
+          "sentenceParts": [
+            {
+              "text": "Veta obsahuje "
+            },
+            {
+              "blankId": "b1",
+              "options": [
+                "zvládnuť",
+                "nečakaný",
+                "náhly"
+              ],
+              "correct": "zvládnuť"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "b1-s04-l22-e09",
+          "lessonId": "b1-s04-l22",
+          "type": "dialogue_choose_reply",
+          "order": 9,
+          "question": "Обери найкращу відповідь у діалозі.",
+          "questionLocalized": {
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
+          },
+          "wordIds": [
+            "b1-s04-l22-w08"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Vieš to vysvetliť cez zavolať pomoc?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Áno, použijem zavolať pomoc v príklade.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Nie, toto je úplne iná téma.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Nerozumiem otázke a nereagujem.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s04-l22-e10",
+          "lessonId": "b1-s04-l22",
+          "type": "meaning_in_context",
+          "order": 10,
+          "question": "Čo znamená výraz v kontexte: «náhly»?",
+          "questionLocalized": {
+            "uk": "Що означає вираз у контексті: «náhly»?",
+            "ru": "Что означает выражение в контексте: «náhly»?",
+            "en": "What does the item mean in context: “náhly”?"
+          },
+          "wordIds": [
+            "b1-s04-l22-w02"
+          ],
+          "context": {
+            "sk": "V tejto lekcii riešime náhly."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "словацьке слово/вираз «náhly»",
+                "ru": "словацкое слово/выражение «náhly»",
+                "en": "Slovak word/expression “náhly”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "словацьке слово/вираз «problém»",
+                "ru": "словацкое слово/выражение «problém»",
+                "en": "Slovak word/expression “problém”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "словацьке слово/вираз «reakcia»",
+                "ru": "словацкое слово/выражение «reakcia»",
+                "en": "Slovak word/expression “reakcia”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s04-l22-e11",
+          "lessonId": "b1-s04-l22",
+          "type": "reverse_translation",
+          "order": 11,
+          "question": "Обери словацький варіант для: словацьке слово/вираз «reakcia».",
+          "questionLocalized": {
+            "uk": "Обери словацький варіант для: словацьке слово/вираз «reakcia».",
+            "ru": "Выбери словацкий вариант для: словацкое слово/выражение «reakcia».",
+            "en": "Choose the Slovak item for: Slovak word/expression “reakcia”."
+          },
+          "wordIds": [
+            "b1-s04-l22-w05"
+          ],
+          "options": [
+            "reakcia",
+            "situácia",
+            "nečakaný"
+          ],
+          "correctAnswer": "reakcia"
+        },
+        {
+          "id": "b1-s04-l22-e12",
+          "lessonId": "b1-s04-l22",
+          "type": "multiple_choice_translation",
+          "order": 12,
+          "question": "Що відповідає словацькому «zavolať pomoc»?",
+          "questionLocalized": {
+            "uk": "Що відповідає словацькому «zavolať pomoc»?",
+            "ru": "Что соответствует словацкому «zavolať pomoc»?",
+            "en": "What matches the Slovak “zavolať pomoc”?"
+          },
+          "wordIds": [
+            "b1-s04-l22-w08"
+          ],
+          "options": [
+            "словацьке слово/вираз «zavolať pomoc»",
+            "словацьке слово/вираз «náhly»",
+            "словацьке слово/вираз «situácia»"
+          ],
+          "correctAnswer": "словацьке слово/вираз «zavolať pomoc»"
+        }
+      ],
+      "finalSituation": {
+        "id": "final-situation",
+        "type": "interactive_scenario",
+        "title": {
+          "uk": "Nečakaná situácia: життєва ситуація",
+          "ru": "Nečakaná situácia: жизненная ситуация",
+          "en": "Nečakaná situácia: real-life situation"
+        },
+        "description": {
+          "uk": "Обери репліку, яка природно вирішує ситуацію на рівні B1.",
+          "ru": "Выбери реплику, которая естественно решает ситуацию на уровне B1.",
+          "en": "Choose the reply that naturally solves the situation at B1 level."
+        },
+        "steps": [
+          {
+            "id": "f1",
+            "prompt": {
+              "uk": "Тебе просять коротко пояснити ситуацію. Що відповісти?",
+              "ru": "Тебя просят коротко объяснить ситуацию. Что ответить?",
+              "en": "You are asked to briefly explain the situation. What do you answer?"
+            },
+            "options": [
+              {
+                "sk": "Najprv vysvetlím tému Nečakaná situácia a uvediem príklad.",
+                "correct": true
+              },
+              {
+                "sk": "Neviem nič povedať.",
+                "correct": false
+              },
+              {
+                "sk": "To nesúvisí s témou.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "prompt": {
+              "uk": "Потрібно відреагувати спокійно й конкретно.",
+              "ru": "Нужно отреагировать спокойно и конкретно.",
+              "en": "You need to react calmly and concretely."
+            },
+            "options": [
+              {
+                "sk": "Rozumiem. Skúsim to povedať jasnejšie cez nečakaný.",
+                "correct": true
+              },
+              {
+                "sk": "To je modrý autobus.",
+                "correct": false
+              },
+              {
+                "sk": "Nechcem hovoriť vôbec.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f3",
+            "prompt": {
+              "uk": "Потрібно завершити розмову практичною домовленістю.",
+              "ru": "Нужно завершить разговор практической договоренностью.",
+              "en": "You need to finish with a practical agreement."
+            },
+            "options": [
+              {
+                "sk": "Dohodnime sa na ďalšom kroku a potvrdím to správou.",
+                "correct": true
+              },
+              {
+                "sk": "Zajtra bolo včera.",
+                "correct": false
+              },
+              {
+                "sk": "Nemám žiadny návrh.",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "passRequirement": "3/3",
+        "successMessage": {
+          "uk": "Hotovo: použil si tému v realistickej situácii.",
+          "ru": "Готово: ты использовал тему в реалистичной ситуации.",
+          "en": "Done: you used the topic in a realistic situation."
+        }
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": {
+          "uk": "Урок завершено",
+          "ru": "Урок завершён",
+          "en": "Lesson complete"
+        },
+        "subtitle": {
+          "uk": "Ти завершив ще один крок рівня B1.",
+          "ru": "Ты завершил ещё один шаг уровня B1.",
+          "en": "You completed another B1 step."
+        },
+        "xpReward": 140,
+        "newWordsCount": 8,
+        "exercisesCompleted": 12,
+        "nowYouKnow": [
+          "говорити на тему «Nečakaná situácia»",
+          "зв'язувати думки у коротку відповідь",
+          "реагувати в практичній ситуації"
+        ],
+        "mistakesMessage": {
+          "uk": "Повтори тільки ті вправи, де відповідь ще не автоматична.",
+          "ru": "Повтори только те упражнения, где ответ ещё не автоматический.",
+          "en": "Repeat only the exercises where the answer is not automatic yet."
+        },
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "skills": [
+          {
+            "id": "vocabulary",
+            "label": {
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
+            },
+            "weight": 0.3
+          },
+          {
+            "id": "communication",
+            "label": {
+              "uk": "комунікація",
+              "ru": "коммуникация",
+              "en": "communication"
+            },
+            "weight": 0.4
+          },
+          {
+            "id": "transfer",
+            "label": {
+              "uk": "перенесення",
+              "ru": "перенос",
+              "en": "transfer"
+            },
+            "weight": 0.3
+          }
+        ],
+        "nextLesson": {
+          "id": "b1-s04-l23"
+        }
+      }
+    }
+  ]
+}

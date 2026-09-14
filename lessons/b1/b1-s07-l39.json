@@ -1,0 +1,1056 @@
+{
+  "lessons": [
+    {
+      "id": "b1-s07-l39",
+      "sectionId": "b1_s07",
+      "level": "B1",
+      "title": {
+        "sk": "Ako sa zlepšiť?",
+        "uk": "B1: Ako sa zlepšiť?",
+        "ru": "B1: Ako sa zlepšiť?",
+        "en": "B1: Ako sa zlepšiť?"
+      },
+      "topic": {
+        "sk": "Ako sa zlepšiť?",
+        "uk": "B1: Ako sa zlepšiť?",
+        "ru": "B1: Ako sa zlepšiť?",
+        "en": "B1: Ako sa zlepšiť?"
+      },
+      "description": {
+        "sk": "Precvičíš si tému Ako sa zlepšiť? v súvislej komunikácii na úrovni B1.",
+        "uk": "Тренуємо тему «Ako sa zlepšiť?»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+        "ru": "обсуждаем конкретные способы улучшения навыка и формулируем план.",
+        "en": "Practice the B1 topic “Ako sa zlepšiť?” inside connected communication. Section: Learning, skills and progress."
+      },
+      "order": 39,
+      "xpReward": 140,
+      "estimatedMinutes": 28,
+      "isPublished": false,
+      "intro": {
+        "sk": "Precvičíš si tému Ako sa zlepšiť? v súvislej komunikácii na úrovni B1.",
+        "uk": "Тренуємо тему «Ako sa zlepšiť?»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+        "ru": "обсуждаем конкретные способы улучшения навыка и формулируем план.",
+        "en": "Practice the B1 topic “Ako sa zlepšiť?” inside connected communication. Section: Learning, skills and progress."
+      },
+      "completionMessage": {
+        "sk": "Výborne. Pokračuj v používaní témy v reálnych situáciách.",
+        "uk": "Добре. Тепер перенеси тему в реальну розмову.",
+        "ru": "Хорошо. Теперь перенеси тему в реальный разговор.",
+        "en": "Good. Now transfer the topic into a real conversation."
+      },
+      "updatedAt": "2026-09-14T00:00:00Z",
+      "localization": {
+        "uiLanguages": [
+          "uk",
+          "ru",
+          "en"
+        ],
+        "targetLanguage": "sk",
+        "fallbackUiLanguage": "uk"
+      },
+      "assets": {
+        "images": {},
+        "audio": {}
+      },
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": {
+          "sk": "Ako sa zlepšiť?",
+          "uk": "B1: Ako sa zlepšiť?",
+          "ru": "B1: Ako sa zlepšiť?",
+          "en": "B1: Ako sa zlepšiť?"
+        },
+        "shortDescription": {
+          "uk": "Тренуємо тему «Ako sa zlepšiť?»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+          "ru": "обсуждаем конкретные способы улучшения навыка и формулируем план.",
+          "en": "Practice the B1 topic “Ako sa zlepšiť?” inside connected communication. Section: Learning, skills and progress."
+        },
+        "outcomes": [
+          {
+            "uk": "пояснити тему «Ako sa zlepšiť?» зв'язно",
+            "ru": "связно объяснить тему «Ako sa zlepšiť?»",
+            "en": "explain the topic “Ako sa zlepšiť?” coherently"
+          },
+          {
+            "uk": "використати нові слова в контексті",
+            "ru": "использовать новые слова в контексте",
+            "en": "use new words in context"
+          },
+          {
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
+          }
+        ],
+        "newWords": [
+          "b1-s07-l39-w01",
+          "b1-s07-l39-w02",
+          "b1-s07-l39-w03",
+          "b1-s07-l39-w04",
+          "b1-s07-l39-w05",
+          "b1-s07-l39-w06",
+          "b1-s07-l39-w07",
+          "b1-s07-l39-w08"
+        ],
+        "exercisesCount": 12,
+        "reward": "+140 XP",
+        "estimatedMinutes": 28,
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "id": "t1",
+          "screenType": "theory",
+          "order": 1,
+          "title": {
+            "uk": "Сенс уроку",
+            "ru": "Смысл урока",
+            "en": "Lesson focus"
+          },
+          "body": {
+            "uk": "Тренуємо тему «Ako sa zlepšiť?»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+            "ru": "обсуждаем конкретные способы улучшения навыка и формулируем план.",
+            "en": "Practice the B1 topic “Ako sa zlepšiť?” inside connected communication. Section: Learning, skills and progress."
+          },
+          "examples": [
+            {
+              "sk": "Téma je Ako sa zlepšiť?.",
+              "translation": {
+                "uk": "Тема: «Ako sa zlepšiť?».",
+                "ru": "Тема: «Ako sa zlepšiť?».",
+                "en": "Topic: “Ako sa zlepšiť?”."
+              }
+            },
+            {
+              "sk": "Používam výraz zlepšiť sa v reálnej situácii.",
+              "translation": {
+                "uk": "Я використовую «zlepšiť sa» у реальній ситуації.",
+                "ru": "Я использую «zlepšiť sa» в реальной ситуации.",
+                "en": "I use “zlepšiť sa” in a real situation."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "На B1 важливо не лише знати слово, а зв'язати його з причиною, прикладом і реакцією.",
+            "ru": "На B1 важно не только знать слово, а связать его с причиной, примером и реакцией.",
+            "en": "At B1, connect the item with a reason, example and reaction."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t2",
+          "screenType": "theory",
+          "order": 2,
+          "title": {
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer pattern"
+          },
+          "body": {
+            "uk": "Будуй відповідь за схемою: ситуація → причина → приклад → що роблю далі.",
+            "ru": "Строй ответ по схеме: ситуация → причина → пример → что делаю дальше.",
+            "en": "Build the answer as: situation → reason → example → next action."
+          },
+          "examples": [
+            {
+              "sk": "Najprv vysvetlím situáciu, potom použijem plán učenia.",
+              "translation": {
+                "uk": "Спочатку пояснюю ситуацію, потім використовую цільовий вираз.",
+                "ru": "Сначала объясняю ситуацию, потом использую целевое выражение.",
+                "en": "First I explain the situation, then I use the target item."
+              }
+            },
+            {
+              "sk": "Podľa mňa je dôležité hovoriť jasne o téme Ako sa zlepšiť?.",
+              "translation": {
+                "uk": "На мою думку, важливо говорити про тему ясно.",
+                "ru": "По моему мнению, важно говорить о теме ясно.",
+                "en": "In my opinion, it is important to speak about the topic clearly."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "Одна думка = одне зрозуміле речення. Потім додай причину або приклад.",
+            "ru": "Одна мысль = одно понятное предложение. Потом добавь причину или пример.",
+            "en": "One idea equals one clear sentence. Then add a reason or example."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t3",
+          "screenType": "theory",
+          "order": 3,
+          "title": {
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
+          },
+          "body": {
+            "uk": "У фінальній ситуації потрібно вибрати репліку, яка реально підходить до контексту, а не просто повторює слово.",
+            "ru": "В финальной ситуации нужно выбрать реплику, которая реально подходит к контексту, а не просто повторяет слово.",
+            "en": "In the final situation, choose a reply that fits the context, not just a repeated word."
+          },
+          "examples": [
+            {
+              "sk": "V praxi by som to povedal pokojne a konkrétne.",
+              "translation": {
+                "uk": "На практиці я сказав би це спокійно й конкретно.",
+                "ru": "На практике я сказал бы это спокойно и конкретно.",
+                "en": "In practice I would say it calmly and concretely."
+              }
+            },
+            {
+              "sk": "Ak niečomu nerozumiem, spýtam sa doplňujúcu otázku.",
+              "translation": {
+                "uk": "Якщо чогось не розумію, ставлю уточнювальне питання.",
+                "ru": "Если чего-то не понимаю, задаю уточняющий вопрос.",
+                "en": "If I do not understand something, I ask a follow-up question."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "B1 = зв'язна відповідь, уточнення і практичний результат.",
+            "ru": "B1 = связный ответ, уточнение и практический результат.",
+            "en": "B1 means a connected answer, clarification and a practical result."
+          },
+          "button": "Далі"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": {
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
+        },
+        "description": {
+          "uk": "Усі одиниці взяті з затвердженого плану B1.",
+          "ru": "Все единицы взяты из утвержденного плана B1.",
+          "en": "All items come from the approved B1 plan."
+        },
+        "items": [
+          {
+            "wordId": "b1-s07-l39-w01",
+            "sk": "zlepšiť sa",
+            "uk": "словацьке слово/вираз «zlepšiť sa»",
+            "ru": "словацкое слово/выражение «zlepšiť sa»",
+            "en": "Slovak word/expression “zlepšiť sa”",
+            "pronunciationUk": "zlepшiть sa",
+            "exampleSk": "V tejto situácii používam výraz zlepšiť sa.",
+            "exampleUk": "У цій ситуації я використовую вираз «zlepšiť sa».",
+            "exampleRu": "В этой ситуации я использую выражение «zlepšiť sa».",
+            "exampleEn": "In this situation I use “zlepšiť sa”."
+          },
+          {
+            "wordId": "b1-s07-l39-w02",
+            "sk": "plán učenia",
+            "uk": "словацьке слово/вираз «plán učenia»",
+            "ru": "словацкое слово/выражение «plán učenia»",
+            "en": "Slovak word/expression “plán učenia”",
+            "pronunciationUk": "plаn uчenia",
+            "exampleSk": "V tejto situácii používam výraz plán učenia.",
+            "exampleUk": "У цій ситуації я використовую вираз «plán učenia».",
+            "exampleRu": "В этой ситуации я использую выражение «plán učenia».",
+            "exampleEn": "In this situation I use “plán učenia”."
+          },
+          {
+            "wordId": "b1-s07-l39-w03",
+            "sk": "pravidelne",
+            "uk": "словацьке слово/вираз «pravidelne»",
+            "ru": "словацкое слово/выражение «pravidelne»",
+            "en": "Slovak word/expression “pravidelne”",
+            "pronunciationUk": "pravidelne",
+            "exampleSk": "V tejto situácii používam výraz pravidelne.",
+            "exampleUk": "У цій ситуації я використовую вираз «pravidelne».",
+            "exampleRu": "В этой ситуации я использую выражение «pravidelne».",
+            "exampleEn": "In this situation I use “pravidelne”."
+          },
+          {
+            "wordId": "b1-s07-l39-w04",
+            "sk": "sústrediť sa na",
+            "uk": "словацьке слово/вираз «sústrediť sa na»",
+            "ru": "словацкое слово/выражение «sústrediť sa na»",
+            "en": "Slovak word/expression “sústrediť sa na”",
+            "pronunciationUk": "sуstrediть sa na",
+            "exampleSk": "V tejto situácii používam výraz sústrediť sa na.",
+            "exampleUk": "У цій ситуації я використовую вираз «sústrediť sa na».",
+            "exampleRu": "В этой ситуации я использую выражение «sústrediť sa na».",
+            "exampleEn": "In this situation I use “sústrediť sa na”."
+          },
+          {
+            "wordId": "b1-s07-l39-w05",
+            "sk": "precvičiť",
+            "uk": "словацьке слово/вираз «precvičiť»",
+            "ru": "словацкое слово/выражение «precvičiť»",
+            "en": "Slovak word/expression “precvičiť”",
+            "pronunciationUk": "precviчiть",
+            "exampleSk": "V tejto situácii používam výraz precvičiť.",
+            "exampleUk": "У цій ситуації я використовую вираз «precvičiť».",
+            "exampleRu": "В этой ситуации я использую выражение «precvičiť».",
+            "exampleEn": "In this situation I use “precvičiť”."
+          },
+          {
+            "wordId": "b1-s07-l39-w06",
+            "sk": "venovať čas",
+            "uk": "словацьке слово/вираз «venovať čas»",
+            "ru": "словацкое слово/выражение «venovať čas»",
+            "en": "Slovak word/expression “venovať čas”",
+            "pronunciationUk": "venovaть чas",
+            "exampleSk": "V tejto situácii používam výraz venovať čas.",
+            "exampleUk": "У цій ситуації я використовую вираз «venovať čas».",
+            "exampleRu": "В этой ситуации я использую выражение «venovať čas».",
+            "exampleEn": "In this situation I use “venovať čas”."
+          },
+          {
+            "wordId": "b1-s07-l39-w07",
+            "sk": "skúsiť",
+            "uk": "словацьке слово/вираз «skúsiť»",
+            "ru": "словацкое слово/выражение «skúsiť»",
+            "en": "Slovak word/expression “skúsiť”",
+            "pronunciationUk": "skуsiть",
+            "exampleSk": "V tejto situácii používam výraz skúsiť.",
+            "exampleUk": "У цій ситуації я використовую вираз «skúsiť».",
+            "exampleRu": "В этой ситуации я использую выражение «skúsiť».",
+            "exampleEn": "In this situation I use “skúsiť”."
+          },
+          {
+            "wordId": "b1-s07-l39-w08",
+            "sk": "pokračovať",
+            "uk": "словацьке слово/вираз «pokračovať»",
+            "ru": "словацкое слово/выражение «pokračovať»",
+            "en": "Slovak word/expression “pokračovať”",
+            "pronunciationUk": "pokraчovaть",
+            "exampleSk": "V tejto situácii používam výraz pokračovať.",
+            "exampleUk": "У цій ситуації я використовую вираз «pokračovať».",
+            "exampleRu": "В этой ситуации я использую выражение «pokračovať».",
+            "exampleEn": "In this situation I use “pokračovať”."
+          }
+        ],
+        "button": "До практики"
+      },
+      "words": [
+        {
+          "id": "b1-s07-l39-w01",
+          "sk": "zlepšiť sa",
+          "uk": "словацьке слово/вираз «zlepšiť sa»",
+          "ru": "словацкое слово/выражение «zlepšiť sa»",
+          "en": "Slovak word/expression “zlepšiť sa”",
+          "pronunciationUk": "zlepшiть sa",
+          "exampleSk": "V tejto situácii používam výraz zlepšiť sa.",
+          "exampleUk": "У цій ситуації я використовую вираз «zlepšiť sa».",
+          "exampleRu": "В этой ситуации я использую выражение «zlepšiť sa».",
+          "exampleEn": "In this situation I use “zlepšiť sa”.",
+          "level": "B1",
+          "topic": "Ako sa zlepšiť?",
+          "tags": [
+            "b1_s07",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s07-l39-w02",
+          "sk": "plán učenia",
+          "uk": "словацьке слово/вираз «plán učenia»",
+          "ru": "словацкое слово/выражение «plán učenia»",
+          "en": "Slovak word/expression “plán učenia”",
+          "pronunciationUk": "plаn uчenia",
+          "exampleSk": "V tejto situácii používam výraz plán učenia.",
+          "exampleUk": "У цій ситуації я використовую вираз «plán učenia».",
+          "exampleRu": "В этой ситуации я использую выражение «plán učenia».",
+          "exampleEn": "In this situation I use “plán učenia”.",
+          "level": "B1",
+          "topic": "Ako sa zlepšiť?",
+          "tags": [
+            "b1_s07",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s07-l39-w03",
+          "sk": "pravidelne",
+          "uk": "словацьке слово/вираз «pravidelne»",
+          "ru": "словацкое слово/выражение «pravidelne»",
+          "en": "Slovak word/expression “pravidelne”",
+          "pronunciationUk": "pravidelne",
+          "exampleSk": "V tejto situácii používam výraz pravidelne.",
+          "exampleUk": "У цій ситуації я використовую вираз «pravidelne».",
+          "exampleRu": "В этой ситуации я использую выражение «pravidelne».",
+          "exampleEn": "In this situation I use “pravidelne”.",
+          "level": "B1",
+          "topic": "Ako sa zlepšiť?",
+          "tags": [
+            "b1_s07",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s07-l39-w04",
+          "sk": "sústrediť sa na",
+          "uk": "словацьке слово/вираз «sústrediť sa na»",
+          "ru": "словацкое слово/выражение «sústrediť sa na»",
+          "en": "Slovak word/expression “sústrediť sa na”",
+          "pronunciationUk": "sуstrediть sa na",
+          "exampleSk": "V tejto situácii používam výraz sústrediť sa na.",
+          "exampleUk": "У цій ситуації я використовую вираз «sústrediť sa na».",
+          "exampleRu": "В этой ситуации я использую выражение «sústrediť sa na».",
+          "exampleEn": "In this situation I use “sústrediť sa na”.",
+          "level": "B1",
+          "topic": "Ako sa zlepšiť?",
+          "tags": [
+            "b1_s07",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s07-l39-w05",
+          "sk": "precvičiť",
+          "uk": "словацьке слово/вираз «precvičiť»",
+          "ru": "словацкое слово/выражение «precvičiť»",
+          "en": "Slovak word/expression “precvičiť”",
+          "pronunciationUk": "precviчiть",
+          "exampleSk": "V tejto situácii používam výraz precvičiť.",
+          "exampleUk": "У цій ситуації я використовую вираз «precvičiť».",
+          "exampleRu": "В этой ситуации я использую выражение «precvičiť».",
+          "exampleEn": "In this situation I use “precvičiť”.",
+          "level": "B1",
+          "topic": "Ako sa zlepšiť?",
+          "tags": [
+            "b1_s07",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s07-l39-w06",
+          "sk": "venovať čas",
+          "uk": "словацьке слово/вираз «venovať čas»",
+          "ru": "словацкое слово/выражение «venovať čas»",
+          "en": "Slovak word/expression “venovať čas”",
+          "pronunciationUk": "venovaть чas",
+          "exampleSk": "V tejto situácii používam výraz venovať čas.",
+          "exampleUk": "У цій ситуації я використовую вираз «venovať čas».",
+          "exampleRu": "В этой ситуации я использую выражение «venovať čas».",
+          "exampleEn": "In this situation I use “venovať čas”.",
+          "level": "B1",
+          "topic": "Ako sa zlepšiť?",
+          "tags": [
+            "b1_s07",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s07-l39-w07",
+          "sk": "skúsiť",
+          "uk": "словацьке слово/вираз «skúsiť»",
+          "ru": "словацкое слово/выражение «skúsiť»",
+          "en": "Slovak word/expression “skúsiť”",
+          "pronunciationUk": "skуsiть",
+          "exampleSk": "V tejto situácii používam výraz skúsiť.",
+          "exampleUk": "У цій ситуації я використовую вираз «skúsiť».",
+          "exampleRu": "В этой ситуации я использую выражение «skúsiť».",
+          "exampleEn": "In this situation I use “skúsiť”.",
+          "level": "B1",
+          "topic": "Ako sa zlepšiť?",
+          "tags": [
+            "b1_s07",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s07-l39-w08",
+          "sk": "pokračovať",
+          "uk": "словацьке слово/вираз «pokračovať»",
+          "ru": "словацкое слово/выражение «pokračovať»",
+          "en": "Slovak word/expression “pokračovať”",
+          "pronunciationUk": "pokraчovaть",
+          "exampleSk": "V tejto situácii používam výraz pokračovať.",
+          "exampleUk": "У цій ситуації я використовую вираз «pokračovať».",
+          "exampleRu": "В этой ситуации я использую выражение «pokračovať».",
+          "exampleEn": "In this situation I use “pokračovať”.",
+          "level": "B1",
+          "topic": "Ako sa zlepšiť?",
+          "tags": [
+            "b1_s07",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "b1-s07-l39-e01",
+          "lessonId": "b1-s07-l39",
+          "type": "single_choice",
+          "order": 1,
+          "question": "Що тренує словацька одиниця «zlepšiť sa»?",
+          "questionLocalized": {
+            "uk": "Що тренує словацька одиниця «zlepšiť sa»?",
+            "ru": "Что тренирует словацкая единица «zlepšiť sa»?",
+            "en": "What does the Slovak item “zlepšiť sa” train?"
+          },
+          "wordIds": [
+            "b1-s07-l39-w01"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "словацьке слово/вираз «zlepšiť sa»",
+                "ru": "словацкое слово/выражение «zlepšiť sa»",
+                "en": "Slovak word/expression “zlepšiť sa”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "словацьке слово/вираз «plán učenia»",
+                "ru": "словацкое слово/выражение «plán učenia»",
+                "en": "Slovak word/expression “plán učenia”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "словацьке слово/вираз «pravidelne»",
+                "ru": "словацкое слово/выражение «pravidelne»",
+                "en": "Slovak word/expression “pravidelne”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s07-l39-e02",
+          "lessonId": "b1-s07-l39",
+          "type": "matching",
+          "order": 2,
+          "question": "З'єднай словацькі одиниці з поясненнями.",
+          "questionLocalized": {
+            "uk": "З'єднай словацькі одиниці з поясненнями.",
+            "ru": "Соедини словацкие единицы с объяснениями.",
+            "en": "Match Slovak items with explanations."
+          },
+          "wordIds": [
+            "b1-s07-l39-w01",
+            "b1-s07-l39-w02",
+            "b1-s07-l39-w03",
+            "b1-s07-l39-w04"
+          ],
+          "pairs": [
+            {
+              "left": "zlepšiť sa",
+              "right": "словацьке слово/вираз «zlepšiť sa»",
+              "rightRu": "словацкое слово/выражение «zlepšiť sa»",
+              "rightEn": "Slovak word/expression “zlepšiť sa”"
+            },
+            {
+              "left": "plán učenia",
+              "right": "словацьке слово/вираз «plán učenia»",
+              "rightRu": "словацкое слово/выражение «plán učenia»",
+              "rightEn": "Slovak word/expression “plán učenia”"
+            },
+            {
+              "left": "pravidelne",
+              "right": "словацьке слово/вираз «pravidelne»",
+              "rightRu": "словацкое слово/выражение «pravidelne»",
+              "rightEn": "Slovak word/expression “pravidelne”"
+            },
+            {
+              "left": "sústrediť sa na",
+              "right": "словацьке слово/вираз «sústrediť sa na»",
+              "rightRu": "словацкое слово/выражение «sústrediť sa na»",
+              "rightEn": "Slovak word/expression “sústrediť sa na”"
+            }
+          ]
+        },
+        {
+          "id": "b1-s07-l39-e03",
+          "lessonId": "b1-s07-l39",
+          "type": "fill_blank",
+          "order": 3,
+          "question": "Впиши словацькою: словацьке слово/вираз «pravidelne».",
+          "questionLocalized": {
+            "uk": "Впиши словацькою: словацьке слово/вираз «pravidelne».",
+            "ru": "Впиши по-словацки: словацкое слово/выражение «pravidelne».",
+            "en": "Write in Slovak: Slovak word/expression “pravidelne”."
+          },
+          "wordIds": [
+            "b1-s07-l39-w03"
+          ],
+          "sentence": "______",
+          "acceptedAnswers": [
+            "pravidelne"
+          ],
+          "hint": {
+            "uk": "Початок: p…",
+            "ru": "Начало: p…",
+            "en": "Start: p…"
+          }
+        },
+        {
+          "id": "b1-s07-l39-e04",
+          "lessonId": "b1-s07-l39",
+          "type": "sentence_builder",
+          "order": 4,
+          "question": "Склади природне словацьке речення.",
+          "questionLocalized": {
+            "uk": "Склади природне словацьке речення.",
+            "ru": "Собери естественное словацкое предложение.",
+            "en": "Build a natural Slovak sentence."
+          },
+          "wordIds": [
+            "b1-s07-l39-w04"
+          ],
+          "tokens": [
+            "Používam",
+            "sústrediť sa na",
+            "v",
+            "reálnej",
+            "situácii."
+          ],
+          "correctSentence": "Používam sústrediť sa na v reálnej situácii."
+        },
+        {
+          "id": "b1-s07-l39-e05",
+          "lessonId": "b1-s07-l39",
+          "type": "multiple_select",
+          "order": 5,
+          "question": "Обери одиниці з цього уроку.",
+          "questionLocalized": {
+            "uk": "Обери одиниці з цього уроку.",
+            "ru": "Выбери единицы из этого урока.",
+            "en": "Select items from this lesson."
+          },
+          "wordIds": [
+            "b1-s07-l39-w01",
+            "b1-s07-l39-w02"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "zlepšiť sa",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "plán učenia",
+              "correct": true
+            },
+            {
+              "id": "c",
+              "sk": "Dnes prší.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s07-l39-e06",
+          "lessonId": "b1-s07-l39",
+          "type": "reading_comprehension",
+          "order": 6,
+          "question": "Прочитай короткий контекст і знайди точну інформацію.",
+          "questionLocalized": {
+            "uk": "Прочитай короткий контекст і знайди точну інформацію.",
+            "ru": "Прочитай короткий контекст и найди точную информацию.",
+            "en": "Read the short context and find exact information."
+          },
+          "wordIds": [
+            "b1-s07-l39-w05",
+            "b1-s07-l39-w06",
+            "b1-s07-l39-w07"
+          ],
+          "text": "Téma je Ako sa zlepšiť?. V rozhovore používam výrazy precvičiť, venovať čas a skúsiť.",
+          "questions": [
+            {
+              "prompt": {
+                "uk": "Яка тема прямо названа в тексті?",
+                "ru": "Какая тема прямо названа в тексте?",
+                "en": "Which topic is directly named in the text?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "Ako sa zlepšiť?",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "Počasie",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "Šport",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b1-s07-l39-e07",
+          "lessonId": "b1-s07-l39",
+          "type": "natural_phrase",
+          "order": 7,
+          "question": "Що звучить найприродніше в цій темі?",
+          "questionLocalized": {
+            "uk": "Що звучить найприродніше в цій темі?",
+            "ru": "Что звучит естественнее всего в этой теме?",
+            "en": "What sounds most natural in this topic?"
+          },
+          "wordIds": [
+            "b1-s07-l39-w06"
+          ],
+          "situation": {
+            "uk": "Тобі потрібно використати цільову одиницю в короткій репліці.",
+            "ru": "Нужно использовать целевую единицу в короткой реплике.",
+            "en": "You need to use the target item in a short reply."
+          },
+          "options": [
+            {
+              "id": "a",
+              "sk": "Používam venovať čas v tejto téme.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Som autobus.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Včera zelený rýchlo.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s07-l39-e08",
+          "lessonId": "b1-s07-l39",
+          "type": "dropdown_blank",
+          "order": 8,
+          "question": "Обери точну словацьку одиницю: словацьке слово/вираз «skúsiť».",
+          "questionLocalized": {
+            "uk": "Обери точну словацьку одиницю: словацьке слово/вираз «skúsiť».",
+            "ru": "Выбери точную словацкую единицу: словацкое слово/выражение «skúsiť».",
+            "en": "Choose the exact Slovak item: Slovak word/expression “skúsiť”."
+          },
+          "wordIds": [
+            "b1-s07-l39-w07"
+          ],
+          "sentenceParts": [
+            {
+              "text": "Veta obsahuje "
+            },
+            {
+              "blankId": "b1",
+              "options": [
+                "skúsiť",
+                "zlepšiť sa",
+                "plán učenia"
+              ],
+              "correct": "skúsiť"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "b1-s07-l39-e09",
+          "lessonId": "b1-s07-l39",
+          "type": "dialogue_choose_reply",
+          "order": 9,
+          "question": "Обери найкращу відповідь у діалозі.",
+          "questionLocalized": {
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
+          },
+          "wordIds": [
+            "b1-s07-l39-w08"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Vieš to vysvetliť cez pokračovať?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Áno, použijem pokračovať v príklade.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Nie, toto je úplne iná téma.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Nerozumiem otázke a nereagujem.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s07-l39-e10",
+          "lessonId": "b1-s07-l39",
+          "type": "meaning_in_context",
+          "order": 10,
+          "question": "Čo znamená výraz v kontexte: «plán učenia»?",
+          "questionLocalized": {
+            "uk": "Що означає вираз у контексті: «plán učenia»?",
+            "ru": "Что означает выражение в контексте: «plán učenia»?",
+            "en": "What does the item mean in context: “plán učenia”?"
+          },
+          "wordIds": [
+            "b1-s07-l39-w02"
+          ],
+          "context": {
+            "sk": "V tejto lekcii riešime plán učenia."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "словацьке слово/вираз «plán učenia»",
+                "ru": "словацкое слово/выражение «plán učenia»",
+                "en": "Slovak word/expression “plán učenia”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "словацьке слово/вираз «sústrediť sa na»",
+                "ru": "словацкое слово/выражение «sústrediť sa na»",
+                "en": "Slovak word/expression “sústrediť sa na”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "словацьке слово/вираз «precvičiť»",
+                "ru": "словацкое слово/выражение «precvičiť»",
+                "en": "Slovak word/expression “precvičiť”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s07-l39-e11",
+          "lessonId": "b1-s07-l39",
+          "type": "reverse_translation",
+          "order": 11,
+          "question": "Обери словацький варіант для: словацьке слово/вираз «precvičiť».",
+          "questionLocalized": {
+            "uk": "Обери словацький варіант для: словацьке слово/вираз «precvičiť».",
+            "ru": "Выбери словацкий вариант для: словацкое слово/выражение «precvičiť».",
+            "en": "Choose the Slovak item for: Slovak word/expression “precvičiť”."
+          },
+          "wordIds": [
+            "b1-s07-l39-w05"
+          ],
+          "options": [
+            "precvičiť",
+            "pravidelne",
+            "zlepšiť sa"
+          ],
+          "correctAnswer": "precvičiť"
+        },
+        {
+          "id": "b1-s07-l39-e12",
+          "lessonId": "b1-s07-l39",
+          "type": "multiple_choice_translation",
+          "order": 12,
+          "question": "Що відповідає словацькому «pokračovať»?",
+          "questionLocalized": {
+            "uk": "Що відповідає словацькому «pokračovať»?",
+            "ru": "Что соответствует словацкому «pokračovať»?",
+            "en": "What matches the Slovak “pokračovať”?"
+          },
+          "wordIds": [
+            "b1-s07-l39-w08"
+          ],
+          "options": [
+            "словацьке слово/вираз «pokračovať»",
+            "словацьке слово/вираз «plán učenia»",
+            "словацьке слово/вираз «pravidelne»"
+          ],
+          "correctAnswer": "словацьке слово/вираз «pokračovať»"
+        }
+      ],
+      "finalSituation": {
+        "id": "final-situation",
+        "type": "interactive_scenario",
+        "title": {
+          "uk": "Ako sa zlepšiť?: життєва ситуація",
+          "ru": "Ako sa zlepšiť?: жизненная ситуация",
+          "en": "Ako sa zlepšiť?: real-life situation"
+        },
+        "description": {
+          "uk": "Обери репліку, яка природно вирішує ситуацію на рівні B1.",
+          "ru": "Выбери реплику, которая естественно решает ситуацию на уровне B1.",
+          "en": "Choose the reply that naturally solves the situation at B1 level."
+        },
+        "steps": [
+          {
+            "id": "f1",
+            "prompt": {
+              "uk": "Тебе просять коротко пояснити ситуацію. Що відповісти?",
+              "ru": "Тебя просят коротко объяснить ситуацию. Что ответить?",
+              "en": "You are asked to briefly explain the situation. What do you answer?"
+            },
+            "options": [
+              {
+                "sk": "Najprv vysvetlím tému Ako sa zlepšiť? a uvediem príklad.",
+                "correct": true
+              },
+              {
+                "sk": "Neviem nič povedať.",
+                "correct": false
+              },
+              {
+                "sk": "To nesúvisí s témou.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "prompt": {
+              "uk": "Потрібно відреагувати спокійно й конкретно.",
+              "ru": "Нужно отреагировать спокойно и конкретно.",
+              "en": "You need to react calmly and concretely."
+            },
+            "options": [
+              {
+                "sk": "Rozumiem. Skúsim to povedať jasnejšie cez zlepšiť sa.",
+                "correct": true
+              },
+              {
+                "sk": "To je modrý autobus.",
+                "correct": false
+              },
+              {
+                "sk": "Nechcem hovoriť vôbec.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f3",
+            "prompt": {
+              "uk": "Потрібно завершити розмову практичною домовленістю.",
+              "ru": "Нужно завершить разговор практической договоренностью.",
+              "en": "You need to finish with a practical agreement."
+            },
+            "options": [
+              {
+                "sk": "Dohodnime sa na ďalšom kroku a potvrdím to správou.",
+                "correct": true
+              },
+              {
+                "sk": "Zajtra bolo včera.",
+                "correct": false
+              },
+              {
+                "sk": "Nemám žiadny návrh.",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "passRequirement": "3/3",
+        "successMessage": {
+          "uk": "Hotovo: použil si tému v realistickej situácii.",
+          "ru": "Готово: ты использовал тему в реалистичной ситуации.",
+          "en": "Done: you used the topic in a realistic situation."
+        }
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": {
+          "uk": "Урок завершено",
+          "ru": "Урок завершён",
+          "en": "Lesson complete"
+        },
+        "subtitle": {
+          "uk": "Ти завершив ще один крок рівня B1.",
+          "ru": "Ты завершил ещё один шаг уровня B1.",
+          "en": "You completed another B1 step."
+        },
+        "xpReward": 140,
+        "newWordsCount": 8,
+        "exercisesCompleted": 12,
+        "nowYouKnow": [
+          "говорити на тему «Ako sa zlepšiť?»",
+          "зв'язувати думки у коротку відповідь",
+          "реагувати в практичній ситуації"
+        ],
+        "mistakesMessage": {
+          "uk": "Повтори тільки ті вправи, де відповідь ще не автоматична.",
+          "ru": "Повтори только те упражнения, где ответ ещё не автоматический.",
+          "en": "Repeat only the exercises where the answer is not automatic yet."
+        },
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "skills": [
+          {
+            "id": "vocabulary",
+            "label": {
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
+            },
+            "weight": 0.3
+          },
+          {
+            "id": "communication",
+            "label": {
+              "uk": "комунікація",
+              "ru": "коммуникация",
+              "en": "communication"
+            },
+            "weight": 0.4
+          },
+          {
+            "id": "transfer",
+            "label": {
+              "uk": "перенесення",
+              "ru": "перенос",
+              "en": "transfer"
+            },
+            "weight": 0.3
+          }
+        ],
+        "nextLesson": {
+          "id": "b1-s07-l40"
+        }
+      }
+    }
+  ]
+}

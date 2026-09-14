@@ -1,0 +1,1056 @@
+{
+  "lessons": [
+    {
+      "id": "b1-s10-l55",
+      "sectionId": "b1_s10",
+      "level": "B1",
+      "title": {
+        "sk": "Ako sa stravujem?",
+        "uk": "B1: Ako sa stravujem?",
+        "ru": "B1: Ako sa stravujem?",
+        "en": "B1: Ako sa stravujem?"
+      },
+      "topic": {
+        "sk": "Ako sa stravujem?",
+        "uk": "B1: Ako sa stravujem?",
+        "ru": "B1: Ako sa stravujem?",
+        "en": "B1: Ako sa stravujem?"
+      },
+      "description": {
+        "sk": "Precvičíš si tému Ako sa stravujem? v súvislej komunikácii na úrovni B1.",
+        "uk": "Тренуємо тему «Ako sa stravujem?»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+        "ru": "описываем привычки питания и повседневный выбор еды.",
+        "en": "Practice the B1 topic “Ako sa stravujem?” inside connected communication. Section: Food, health and lifestyle choices."
+      },
+      "order": 55,
+      "xpReward": 140,
+      "estimatedMinutes": 28,
+      "isPublished": false,
+      "intro": {
+        "sk": "Precvičíš si tému Ako sa stravujem? v súvislej komunikácii na úrovni B1.",
+        "uk": "Тренуємо тему «Ako sa stravujem?»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+        "ru": "описываем привычки питания и повседневный выбор еды.",
+        "en": "Practice the B1 topic “Ako sa stravujem?” inside connected communication. Section: Food, health and lifestyle choices."
+      },
+      "completionMessage": {
+        "sk": "Výborne. Pokračuj v používaní témy v reálnych situáciách.",
+        "uk": "Добре. Тепер перенеси тему в реальну розмову.",
+        "ru": "Хорошо. Теперь перенеси тему в реальный разговор.",
+        "en": "Good. Now transfer the topic into a real conversation."
+      },
+      "updatedAt": "2026-09-14T00:00:00Z",
+      "localization": {
+        "uiLanguages": [
+          "uk",
+          "ru",
+          "en"
+        ],
+        "targetLanguage": "sk",
+        "fallbackUiLanguage": "uk"
+      },
+      "assets": {
+        "images": {},
+        "audio": {}
+      },
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": {
+          "sk": "Ako sa stravujem?",
+          "uk": "B1: Ako sa stravujem?",
+          "ru": "B1: Ako sa stravujem?",
+          "en": "B1: Ako sa stravujem?"
+        },
+        "shortDescription": {
+          "uk": "Тренуємо тему «Ako sa stravujem?»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+          "ru": "описываем привычки питания и повседневный выбор еды.",
+          "en": "Practice the B1 topic “Ako sa stravujem?” inside connected communication. Section: Food, health and lifestyle choices."
+        },
+        "outcomes": [
+          {
+            "uk": "пояснити тему «Ako sa stravujem?» зв'язно",
+            "ru": "связно объяснить тему «Ako sa stravujem?»",
+            "en": "explain the topic “Ako sa stravujem?” coherently"
+          },
+          {
+            "uk": "використати нові слова в контексті",
+            "ru": "использовать новые слова в контексте",
+            "en": "use new words in context"
+          },
+          {
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
+          }
+        ],
+        "newWords": [
+          "b1-s10-l55-w01",
+          "b1-s10-l55-w02",
+          "b1-s10-l55-w03",
+          "b1-s10-l55-w04",
+          "b1-s10-l55-w05",
+          "b1-s10-l55-w06",
+          "b1-s10-l55-w07",
+          "b1-s10-l55-w08"
+        ],
+        "exercisesCount": 12,
+        "reward": "+140 XP",
+        "estimatedMinutes": 28,
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "id": "t1",
+          "screenType": "theory",
+          "order": 1,
+          "title": {
+            "uk": "Сенс уроку",
+            "ru": "Смысл урока",
+            "en": "Lesson focus"
+          },
+          "body": {
+            "uk": "Тренуємо тему «Ako sa stravujem?»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+            "ru": "описываем привычки питания и повседневный выбор еды.",
+            "en": "Practice the B1 topic “Ako sa stravujem?” inside connected communication. Section: Food, health and lifestyle choices."
+          },
+          "examples": [
+            {
+              "sk": "Téma je Ako sa stravujem?.",
+              "translation": {
+                "uk": "Тема: «Ako sa stravujem?».",
+                "ru": "Тема: «Ako sa stravujem?».",
+                "en": "Topic: “Ako sa stravujem?”."
+              }
+            },
+            {
+              "sk": "Používam výraz stravovať sa v reálnej situácii.",
+              "translation": {
+                "uk": "Я використовую «stravovať sa» у реальній ситуації.",
+                "ru": "Я использую «stravovať sa» в реальной ситуации.",
+                "en": "I use “stravovať sa” in a real situation."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "На B1 важливо не лише знати слово, а зв'язати його з причиною, прикладом і реакцією.",
+            "ru": "На B1 важно не только знать слово, а связать его с причиной, примером и реакцией.",
+            "en": "At B1, connect the item with a reason, example and reaction."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t2",
+          "screenType": "theory",
+          "order": 2,
+          "title": {
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer pattern"
+          },
+          "body": {
+            "uk": "Будуй відповідь за схемою: ситуація → причина → приклад → що роблю далі.",
+            "ru": "Строй ответ по схеме: ситуация → причина → пример → что делаю дальше.",
+            "en": "Build the answer as: situation → reason → example → next action."
+          },
+          "examples": [
+            {
+              "sk": "Najprv vysvetlím situáciu, potom použijem jedálniček.",
+              "translation": {
+                "uk": "Спочатку пояснюю ситуацію, потім використовую цільовий вираз.",
+                "ru": "Сначала объясняю ситуацию, потом использую целевое выражение.",
+                "en": "First I explain the situation, then I use the target item."
+              }
+            },
+            {
+              "sk": "Podľa mňa je dôležité hovoriť jasne o téme Ako sa stravujem?.",
+              "translation": {
+                "uk": "На мою думку, важливо говорити про тему ясно.",
+                "ru": "По моему мнению, важно говорить о теме ясно.",
+                "en": "In my opinion, it is important to speak about the topic clearly."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "Одна думка = одне зрозуміле речення. Потім додай причину або приклад.",
+            "ru": "Одна мысль = одно понятное предложение. Потом добавь причину или пример.",
+            "en": "One idea equals one clear sentence. Then add a reason or example."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t3",
+          "screenType": "theory",
+          "order": 3,
+          "title": {
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
+          },
+          "body": {
+            "uk": "У фінальній ситуації потрібно вибрати репліку, яка реально підходить до контексту, а не просто повторює слово.",
+            "ru": "В финальной ситуации нужно выбрать реплику, которая реально подходит к контексту, а не просто повторяет слово.",
+            "en": "In the final situation, choose a reply that fits the context, not just a repeated word."
+          },
+          "examples": [
+            {
+              "sk": "V praxi by som to povedal pokojne a konkrétne.",
+              "translation": {
+                "uk": "На практиці я сказав би це спокійно й конкретно.",
+                "ru": "На практике я сказал бы это спокойно и конкретно.",
+                "en": "In practice I would say it calmly and concretely."
+              }
+            },
+            {
+              "sk": "Ak niečomu nerozumiem, spýtam sa doplňujúcu otázku.",
+              "translation": {
+                "uk": "Якщо чогось не розумію, ставлю уточнювальне питання.",
+                "ru": "Если чего-то не понимаю, задаю уточняющий вопрос.",
+                "en": "If I do not understand something, I ask a follow-up question."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "B1 = зв'язна відповідь, уточнення і практичний результат.",
+            "ru": "B1 = связный ответ, уточнение и практический результат.",
+            "en": "B1 means a connected answer, clarification and a practical result."
+          },
+          "button": "Далі"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": {
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
+        },
+        "description": {
+          "uk": "Усі одиниці взяті з затвердженого плану B1.",
+          "ru": "Все единицы взяты из утвержденного плана B1.",
+          "en": "All items come from the approved B1 plan."
+        },
+        "items": [
+          {
+            "wordId": "b1-s10-l55-w01",
+            "sk": "stravovať sa",
+            "uk": "словацьке слово/вираз «stravovať sa»",
+            "ru": "словацкое слово/выражение «stravovať sa»",
+            "en": "Slovak word/expression “stravovať sa”",
+            "pronunciationUk": "stravovaть sa",
+            "exampleSk": "V tejto situácii používam výraz stravovať sa.",
+            "exampleUk": "У цій ситуації я використовую вираз «stravovať sa».",
+            "exampleRu": "В этой ситуации я использую выражение «stravovať sa».",
+            "exampleEn": "In this situation I use “stravovať sa”."
+          },
+          {
+            "wordId": "b1-s10-l55-w02",
+            "sk": "jedálniček",
+            "uk": "словацьке слово/вираз «jedálniček»",
+            "ru": "словацкое слово/выражение «jedálniček»",
+            "en": "Slovak word/expression “jedálniček”",
+            "pronunciationUk": "jedаlniчek",
+            "exampleSk": "V tejto situácii používam výraz jedálniček.",
+            "exampleUk": "У цій ситуації я використовую вираз «jedálniček».",
+            "exampleRu": "В этой ситуации я использую выражение «jedálniček».",
+            "exampleEn": "In this situation I use “jedálniček”."
+          },
+          {
+            "wordId": "b1-s10-l55-w03",
+            "sk": "zdravé stravovanie",
+            "uk": "словацьке слово/вираз «zdravé stravovanie»",
+            "ru": "словацкое слово/выражение «zdravé stravovanie»",
+            "en": "Slovak word/expression “zdravé stravovanie”",
+            "pronunciationUk": "zdravе stravovanie",
+            "exampleSk": "V tejto situácii používam výraz zdravé stravovanie.",
+            "exampleUk": "У цій ситуації я використовую вираз «zdravé stravovanie».",
+            "exampleRu": "В этой ситуации я использую выражение «zdravé stravovanie».",
+            "exampleEn": "In this situation I use “zdravé stravovanie”."
+          },
+          {
+            "wordId": "b1-s10-l55-w04",
+            "sk": "porcia",
+            "uk": "словацьке слово/вираз «porcia»",
+            "ru": "словацкое слово/выражение «porcia»",
+            "en": "Slovak word/expression “porcia”",
+            "pronunciationUk": "porcia",
+            "exampleSk": "V tejto situácii používam výraz porcia.",
+            "exampleUk": "У цій ситуації я використовую вираз «porcia».",
+            "exampleRu": "В этой ситуации я использую выражение «porcia».",
+            "exampleEn": "In this situation I use “porcia”."
+          },
+          {
+            "wordId": "b1-s10-l55-w05",
+            "sk": "pravidelne",
+            "uk": "словацьке слово/вираз «pravidelne»",
+            "ru": "словацкое слово/выражение «pravidelne»",
+            "en": "Slovak word/expression “pravidelne”",
+            "pronunciationUk": "pravidelne",
+            "exampleSk": "V tejto situácii používam výraz pravidelne.",
+            "exampleUk": "У цій ситуації я використовую вираз «pravidelne».",
+            "exampleRu": "В этой ситуации я использую выражение «pravidelne».",
+            "exampleEn": "In this situation I use “pravidelne”."
+          },
+          {
+            "wordId": "b1-s10-l55-w06",
+            "sk": "vyvážený",
+            "uk": "словацьке слово/вираз «vyvážený»",
+            "ru": "словацкое слово/выражение «vyvážený»",
+            "en": "Slovak word/expression “vyvážený”",
+            "pronunciationUk": "vyvажenи",
+            "exampleSk": "V tejto situácii používam výraz vyvážený.",
+            "exampleUk": "У цій ситуації я використовую вираз «vyvážený».",
+            "exampleRu": "В этой ситуации я использую выражение «vyvážený».",
+            "exampleEn": "In this situation I use “vyvážený”."
+          },
+          {
+            "wordId": "b1-s10-l55-w07",
+            "sk": "čerstvý",
+            "uk": "словацьке слово/вираз «čerstvý»",
+            "ru": "словацкое слово/выражение «čerstvý»",
+            "en": "Slovak word/expression “čerstvý”",
+            "pronunciationUk": "чerstvи",
+            "exampleSk": "V tejto situácii používam výraz čerstvý.",
+            "exampleUk": "У цій ситуації я використовую вираз «čerstvý».",
+            "exampleRu": "В этой ситуации я использую выражение «čerstvý».",
+            "exampleEn": "In this situation I use “čerstvý”."
+          },
+          {
+            "wordId": "b1-s10-l55-w08",
+            "sk": "sladkosti",
+            "uk": "словацьке слово/вираз «sladkosti»",
+            "ru": "словацкое слово/выражение «sladkosti»",
+            "en": "Slovak word/expression “sladkosti”",
+            "pronunciationUk": "sladkosti",
+            "exampleSk": "V tejto situácii používam výraz sladkosti.",
+            "exampleUk": "У цій ситуації я використовую вираз «sladkosti».",
+            "exampleRu": "В этой ситуации я использую выражение «sladkosti».",
+            "exampleEn": "In this situation I use “sladkosti”."
+          }
+        ],
+        "button": "До практики"
+      },
+      "words": [
+        {
+          "id": "b1-s10-l55-w01",
+          "sk": "stravovať sa",
+          "uk": "словацьке слово/вираз «stravovať sa»",
+          "ru": "словацкое слово/выражение «stravovať sa»",
+          "en": "Slovak word/expression “stravovať sa”",
+          "pronunciationUk": "stravovaть sa",
+          "exampleSk": "V tejto situácii používam výraz stravovať sa.",
+          "exampleUk": "У цій ситуації я використовую вираз «stravovať sa».",
+          "exampleRu": "В этой ситуации я использую выражение «stravovať sa».",
+          "exampleEn": "In this situation I use “stravovať sa”.",
+          "level": "B1",
+          "topic": "Ako sa stravujem?",
+          "tags": [
+            "b1_s10",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s10-l55-w02",
+          "sk": "jedálniček",
+          "uk": "словацьке слово/вираз «jedálniček»",
+          "ru": "словацкое слово/выражение «jedálniček»",
+          "en": "Slovak word/expression “jedálniček”",
+          "pronunciationUk": "jedаlniчek",
+          "exampleSk": "V tejto situácii používam výraz jedálniček.",
+          "exampleUk": "У цій ситуації я використовую вираз «jedálniček».",
+          "exampleRu": "В этой ситуации я использую выражение «jedálniček».",
+          "exampleEn": "In this situation I use “jedálniček”.",
+          "level": "B1",
+          "topic": "Ako sa stravujem?",
+          "tags": [
+            "b1_s10",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s10-l55-w03",
+          "sk": "zdravé stravovanie",
+          "uk": "словацьке слово/вираз «zdravé stravovanie»",
+          "ru": "словацкое слово/выражение «zdravé stravovanie»",
+          "en": "Slovak word/expression “zdravé stravovanie”",
+          "pronunciationUk": "zdravе stravovanie",
+          "exampleSk": "V tejto situácii používam výraz zdravé stravovanie.",
+          "exampleUk": "У цій ситуації я використовую вираз «zdravé stravovanie».",
+          "exampleRu": "В этой ситуации я использую выражение «zdravé stravovanie».",
+          "exampleEn": "In this situation I use “zdravé stravovanie”.",
+          "level": "B1",
+          "topic": "Ako sa stravujem?",
+          "tags": [
+            "b1_s10",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s10-l55-w04",
+          "sk": "porcia",
+          "uk": "словацьке слово/вираз «porcia»",
+          "ru": "словацкое слово/выражение «porcia»",
+          "en": "Slovak word/expression “porcia”",
+          "pronunciationUk": "porcia",
+          "exampleSk": "V tejto situácii používam výraz porcia.",
+          "exampleUk": "У цій ситуації я використовую вираз «porcia».",
+          "exampleRu": "В этой ситуации я использую выражение «porcia».",
+          "exampleEn": "In this situation I use “porcia”.",
+          "level": "B1",
+          "topic": "Ako sa stravujem?",
+          "tags": [
+            "b1_s10",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s10-l55-w05",
+          "sk": "pravidelne",
+          "uk": "словацьке слово/вираз «pravidelne»",
+          "ru": "словацкое слово/выражение «pravidelne»",
+          "en": "Slovak word/expression “pravidelne”",
+          "pronunciationUk": "pravidelne",
+          "exampleSk": "V tejto situácii používam výraz pravidelne.",
+          "exampleUk": "У цій ситуації я використовую вираз «pravidelne».",
+          "exampleRu": "В этой ситуации я использую выражение «pravidelne».",
+          "exampleEn": "In this situation I use “pravidelne”.",
+          "level": "B1",
+          "topic": "Ako sa stravujem?",
+          "tags": [
+            "b1_s10",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s10-l55-w06",
+          "sk": "vyvážený",
+          "uk": "словацьке слово/вираз «vyvážený»",
+          "ru": "словацкое слово/выражение «vyvážený»",
+          "en": "Slovak word/expression “vyvážený”",
+          "pronunciationUk": "vyvажenи",
+          "exampleSk": "V tejto situácii používam výraz vyvážený.",
+          "exampleUk": "У цій ситуації я використовую вираз «vyvážený».",
+          "exampleRu": "В этой ситуации я использую выражение «vyvážený».",
+          "exampleEn": "In this situation I use “vyvážený”.",
+          "level": "B1",
+          "topic": "Ako sa stravujem?",
+          "tags": [
+            "b1_s10",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s10-l55-w07",
+          "sk": "čerstvý",
+          "uk": "словацьке слово/вираз «čerstvý»",
+          "ru": "словацкое слово/выражение «čerstvý»",
+          "en": "Slovak word/expression “čerstvý”",
+          "pronunciationUk": "чerstvи",
+          "exampleSk": "V tejto situácii používam výraz čerstvý.",
+          "exampleUk": "У цій ситуації я використовую вираз «čerstvý».",
+          "exampleRu": "В этой ситуации я использую выражение «čerstvý».",
+          "exampleEn": "In this situation I use “čerstvý”.",
+          "level": "B1",
+          "topic": "Ako sa stravujem?",
+          "tags": [
+            "b1_s10",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s10-l55-w08",
+          "sk": "sladkosti",
+          "uk": "словацьке слово/вираз «sladkosti»",
+          "ru": "словацкое слово/выражение «sladkosti»",
+          "en": "Slovak word/expression “sladkosti”",
+          "pronunciationUk": "sladkosti",
+          "exampleSk": "V tejto situácii používam výraz sladkosti.",
+          "exampleUk": "У цій ситуації я використовую вираз «sladkosti».",
+          "exampleRu": "В этой ситуации я использую выражение «sladkosti».",
+          "exampleEn": "In this situation I use “sladkosti”.",
+          "level": "B1",
+          "topic": "Ako sa stravujem?",
+          "tags": [
+            "b1_s10",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "b1-s10-l55-e01",
+          "lessonId": "b1-s10-l55",
+          "type": "single_choice",
+          "order": 1,
+          "question": "Що тренує словацька одиниця «stravovať sa»?",
+          "questionLocalized": {
+            "uk": "Що тренує словацька одиниця «stravovať sa»?",
+            "ru": "Что тренирует словацкая единица «stravovať sa»?",
+            "en": "What does the Slovak item “stravovať sa” train?"
+          },
+          "wordIds": [
+            "b1-s10-l55-w01"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "словацьке слово/вираз «stravovať sa»",
+                "ru": "словацкое слово/выражение «stravovať sa»",
+                "en": "Slovak word/expression “stravovať sa”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "словацьке слово/вираз «jedálniček»",
+                "ru": "словацкое слово/выражение «jedálniček»",
+                "en": "Slovak word/expression “jedálniček”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "словацьке слово/вираз «zdravé stravovanie»",
+                "ru": "словацкое слово/выражение «zdravé stravovanie»",
+                "en": "Slovak word/expression “zdravé stravovanie”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s10-l55-e02",
+          "lessonId": "b1-s10-l55",
+          "type": "matching",
+          "order": 2,
+          "question": "З'єднай словацькі одиниці з поясненнями.",
+          "questionLocalized": {
+            "uk": "З'єднай словацькі одиниці з поясненнями.",
+            "ru": "Соедини словацкие единицы с объяснениями.",
+            "en": "Match Slovak items with explanations."
+          },
+          "wordIds": [
+            "b1-s10-l55-w01",
+            "b1-s10-l55-w02",
+            "b1-s10-l55-w03",
+            "b1-s10-l55-w04"
+          ],
+          "pairs": [
+            {
+              "left": "stravovať sa",
+              "right": "словацьке слово/вираз «stravovať sa»",
+              "rightRu": "словацкое слово/выражение «stravovať sa»",
+              "rightEn": "Slovak word/expression “stravovať sa”"
+            },
+            {
+              "left": "jedálniček",
+              "right": "словацьке слово/вираз «jedálniček»",
+              "rightRu": "словацкое слово/выражение «jedálniček»",
+              "rightEn": "Slovak word/expression “jedálniček”"
+            },
+            {
+              "left": "zdravé stravovanie",
+              "right": "словацьке слово/вираз «zdravé stravovanie»",
+              "rightRu": "словацкое слово/выражение «zdravé stravovanie»",
+              "rightEn": "Slovak word/expression “zdravé stravovanie”"
+            },
+            {
+              "left": "porcia",
+              "right": "словацьке слово/вираз «porcia»",
+              "rightRu": "словацкое слово/выражение «porcia»",
+              "rightEn": "Slovak word/expression “porcia”"
+            }
+          ]
+        },
+        {
+          "id": "b1-s10-l55-e03",
+          "lessonId": "b1-s10-l55",
+          "type": "fill_blank",
+          "order": 3,
+          "question": "Впиши словацькою: словацьке слово/вираз «zdravé stravovanie».",
+          "questionLocalized": {
+            "uk": "Впиши словацькою: словацьке слово/вираз «zdravé stravovanie».",
+            "ru": "Впиши по-словацки: словацкое слово/выражение «zdravé stravovanie».",
+            "en": "Write in Slovak: Slovak word/expression “zdravé stravovanie”."
+          },
+          "wordIds": [
+            "b1-s10-l55-w03"
+          ],
+          "sentence": "______",
+          "acceptedAnswers": [
+            "zdravé stravovanie"
+          ],
+          "hint": {
+            "uk": "Початок: z…",
+            "ru": "Начало: z…",
+            "en": "Start: z…"
+          }
+        },
+        {
+          "id": "b1-s10-l55-e04",
+          "lessonId": "b1-s10-l55",
+          "type": "sentence_builder",
+          "order": 4,
+          "question": "Склади природне словацьке речення.",
+          "questionLocalized": {
+            "uk": "Склади природне словацьке речення.",
+            "ru": "Собери естественное словацкое предложение.",
+            "en": "Build a natural Slovak sentence."
+          },
+          "wordIds": [
+            "b1-s10-l55-w04"
+          ],
+          "tokens": [
+            "Používam",
+            "porcia",
+            "v",
+            "reálnej",
+            "situácii."
+          ],
+          "correctSentence": "Používam porcia v reálnej situácii."
+        },
+        {
+          "id": "b1-s10-l55-e05",
+          "lessonId": "b1-s10-l55",
+          "type": "multiple_select",
+          "order": 5,
+          "question": "Обери одиниці з цього уроку.",
+          "questionLocalized": {
+            "uk": "Обери одиниці з цього уроку.",
+            "ru": "Выбери единицы из этого урока.",
+            "en": "Select items from this lesson."
+          },
+          "wordIds": [
+            "b1-s10-l55-w01",
+            "b1-s10-l55-w02"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "stravovať sa",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "jedálniček",
+              "correct": true
+            },
+            {
+              "id": "c",
+              "sk": "Dnes prší.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s10-l55-e06",
+          "lessonId": "b1-s10-l55",
+          "type": "reading_comprehension",
+          "order": 6,
+          "question": "Прочитай короткий контекст і знайди точну інформацію.",
+          "questionLocalized": {
+            "uk": "Прочитай короткий контекст і знайди точну інформацію.",
+            "ru": "Прочитай короткий контекст и найди точную информацию.",
+            "en": "Read the short context and find exact information."
+          },
+          "wordIds": [
+            "b1-s10-l55-w05",
+            "b1-s10-l55-w06",
+            "b1-s10-l55-w07"
+          ],
+          "text": "Téma je Ako sa stravujem?. V rozhovore používam výrazy pravidelne, vyvážený a čerstvý.",
+          "questions": [
+            {
+              "prompt": {
+                "uk": "Яка тема прямо названа в тексті?",
+                "ru": "Какая тема прямо названа в тексте?",
+                "en": "Which topic is directly named in the text?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "Ako sa stravujem?",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "Počasie",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "Šport",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b1-s10-l55-e07",
+          "lessonId": "b1-s10-l55",
+          "type": "natural_phrase",
+          "order": 7,
+          "question": "Що звучить найприродніше в цій темі?",
+          "questionLocalized": {
+            "uk": "Що звучить найприродніше в цій темі?",
+            "ru": "Что звучит естественнее всего в этой теме?",
+            "en": "What sounds most natural in this topic?"
+          },
+          "wordIds": [
+            "b1-s10-l55-w06"
+          ],
+          "situation": {
+            "uk": "Тобі потрібно використати цільову одиницю в короткій репліці.",
+            "ru": "Нужно использовать целевую единицу в короткой реплике.",
+            "en": "You need to use the target item in a short reply."
+          },
+          "options": [
+            {
+              "id": "a",
+              "sk": "Používam vyvážený v tejto téme.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Som autobus.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Včera zelený rýchlo.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s10-l55-e08",
+          "lessonId": "b1-s10-l55",
+          "type": "dropdown_blank",
+          "order": 8,
+          "question": "Обери точну словацьку одиницю: словацьке слово/вираз «čerstvý».",
+          "questionLocalized": {
+            "uk": "Обери точну словацьку одиницю: словацьке слово/вираз «čerstvý».",
+            "ru": "Выбери точную словацкую единицу: словацкое слово/выражение «čerstvý».",
+            "en": "Choose the exact Slovak item: Slovak word/expression “čerstvý”."
+          },
+          "wordIds": [
+            "b1-s10-l55-w07"
+          ],
+          "sentenceParts": [
+            {
+              "text": "Veta obsahuje "
+            },
+            {
+              "blankId": "b1",
+              "options": [
+                "čerstvý",
+                "stravovať sa",
+                "jedálniček"
+              ],
+              "correct": "čerstvý"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "b1-s10-l55-e09",
+          "lessonId": "b1-s10-l55",
+          "type": "dialogue_choose_reply",
+          "order": 9,
+          "question": "Обери найкращу відповідь у діалозі.",
+          "questionLocalized": {
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
+          },
+          "wordIds": [
+            "b1-s10-l55-w08"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Vieš to vysvetliť cez sladkosti?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Áno, použijem sladkosti v príklade.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Nie, toto je úplne iná téma.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Nerozumiem otázke a nereagujem.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s10-l55-e10",
+          "lessonId": "b1-s10-l55",
+          "type": "meaning_in_context",
+          "order": 10,
+          "question": "Čo znamená výraz v kontexte: «jedálniček»?",
+          "questionLocalized": {
+            "uk": "Що означає вираз у контексті: «jedálniček»?",
+            "ru": "Что означает выражение в контексте: «jedálniček»?",
+            "en": "What does the item mean in context: “jedálniček”?"
+          },
+          "wordIds": [
+            "b1-s10-l55-w02"
+          ],
+          "context": {
+            "sk": "V tejto lekcii riešime jedálniček."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "словацьке слово/вираз «jedálniček»",
+                "ru": "словацкое слово/выражение «jedálniček»",
+                "en": "Slovak word/expression “jedálniček”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "словацьке слово/вираз «porcia»",
+                "ru": "словацкое слово/выражение «porcia»",
+                "en": "Slovak word/expression “porcia”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "словацьке слово/вираз «pravidelne»",
+                "ru": "словацкое слово/выражение «pravidelne»",
+                "en": "Slovak word/expression “pravidelne”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s10-l55-e11",
+          "lessonId": "b1-s10-l55",
+          "type": "reverse_translation",
+          "order": 11,
+          "question": "Обери словацький варіант для: словацьке слово/вираз «pravidelne».",
+          "questionLocalized": {
+            "uk": "Обери словацький варіант для: словацьке слово/вираз «pravidelne».",
+            "ru": "Выбери словацкий вариант для: словацкое слово/выражение «pravidelne».",
+            "en": "Choose the Slovak item for: Slovak word/expression “pravidelne”."
+          },
+          "wordIds": [
+            "b1-s10-l55-w05"
+          ],
+          "options": [
+            "pravidelne",
+            "zdravé stravovanie",
+            "stravovať sa"
+          ],
+          "correctAnswer": "pravidelne"
+        },
+        {
+          "id": "b1-s10-l55-e12",
+          "lessonId": "b1-s10-l55",
+          "type": "multiple_choice_translation",
+          "order": 12,
+          "question": "Що відповідає словацькому «sladkosti»?",
+          "questionLocalized": {
+            "uk": "Що відповідає словацькому «sladkosti»?",
+            "ru": "Что соответствует словацкому «sladkosti»?",
+            "en": "What matches the Slovak “sladkosti”?"
+          },
+          "wordIds": [
+            "b1-s10-l55-w08"
+          ],
+          "options": [
+            "словацьке слово/вираз «sladkosti»",
+            "словацьке слово/вираз «jedálniček»",
+            "словацьке слово/вираз «zdravé stravovanie»"
+          ],
+          "correctAnswer": "словацьке слово/вираз «sladkosti»"
+        }
+      ],
+      "finalSituation": {
+        "id": "final-situation",
+        "type": "interactive_scenario",
+        "title": {
+          "uk": "Ako sa stravujem?: життєва ситуація",
+          "ru": "Ako sa stravujem?: жизненная ситуация",
+          "en": "Ako sa stravujem?: real-life situation"
+        },
+        "description": {
+          "uk": "Обери репліку, яка природно вирішує ситуацію на рівні B1.",
+          "ru": "Выбери реплику, которая естественно решает ситуацию на уровне B1.",
+          "en": "Choose the reply that naturally solves the situation at B1 level."
+        },
+        "steps": [
+          {
+            "id": "f1",
+            "prompt": {
+              "uk": "Тебе просять коротко пояснити ситуацію. Що відповісти?",
+              "ru": "Тебя просят коротко объяснить ситуацию. Что ответить?",
+              "en": "You are asked to briefly explain the situation. What do you answer?"
+            },
+            "options": [
+              {
+                "sk": "Najprv vysvetlím tému Ako sa stravujem? a uvediem príklad.",
+                "correct": true
+              },
+              {
+                "sk": "Neviem nič povedať.",
+                "correct": false
+              },
+              {
+                "sk": "To nesúvisí s témou.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "prompt": {
+              "uk": "Потрібно відреагувати спокійно й конкретно.",
+              "ru": "Нужно отреагировать спокойно и конкретно.",
+              "en": "You need to react calmly and concretely."
+            },
+            "options": [
+              {
+                "sk": "Rozumiem. Skúsim to povedať jasnejšie cez stravovať sa.",
+                "correct": true
+              },
+              {
+                "sk": "To je modrý autobus.",
+                "correct": false
+              },
+              {
+                "sk": "Nechcem hovoriť vôbec.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f3",
+            "prompt": {
+              "uk": "Потрібно завершити розмову практичною домовленістю.",
+              "ru": "Нужно завершить разговор практической договоренностью.",
+              "en": "You need to finish with a practical agreement."
+            },
+            "options": [
+              {
+                "sk": "Dohodnime sa na ďalšom kroku a potvrdím to správou.",
+                "correct": true
+              },
+              {
+                "sk": "Zajtra bolo včera.",
+                "correct": false
+              },
+              {
+                "sk": "Nemám žiadny návrh.",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "passRequirement": "3/3",
+        "successMessage": {
+          "uk": "Hotovo: použil si tému v realistickej situácii.",
+          "ru": "Готово: ты использовал тему в реалистичной ситуации.",
+          "en": "Done: you used the topic in a realistic situation."
+        }
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": {
+          "uk": "Урок завершено",
+          "ru": "Урок завершён",
+          "en": "Lesson complete"
+        },
+        "subtitle": {
+          "uk": "Ти завершив ще один крок рівня B1.",
+          "ru": "Ты завершил ещё один шаг уровня B1.",
+          "en": "You completed another B1 step."
+        },
+        "xpReward": 140,
+        "newWordsCount": 8,
+        "exercisesCompleted": 12,
+        "nowYouKnow": [
+          "говорити на тему «Ako sa stravujem?»",
+          "зв'язувати думки у коротку відповідь",
+          "реагувати в практичній ситуації"
+        ],
+        "mistakesMessage": {
+          "uk": "Повтори тільки ті вправи, де відповідь ще не автоматична.",
+          "ru": "Повтори только те упражнения, где ответ ещё не автоматический.",
+          "en": "Repeat only the exercises where the answer is not automatic yet."
+        },
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "skills": [
+          {
+            "id": "vocabulary",
+            "label": {
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
+            },
+            "weight": 0.3
+          },
+          {
+            "id": "communication",
+            "label": {
+              "uk": "комунікація",
+              "ru": "коммуникация",
+              "en": "communication"
+            },
+            "weight": 0.4
+          },
+          {
+            "id": "transfer",
+            "label": {
+              "uk": "перенесення",
+              "ru": "перенос",
+              "en": "transfer"
+            },
+            "weight": 0.3
+          }
+        ],
+        "nextLesson": {
+          "id": "b1-s10-l56"
+        }
+      }
+    }
+  ]
+}

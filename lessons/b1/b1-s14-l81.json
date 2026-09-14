@@ -1,0 +1,1056 @@
+{
+  "lessons": [
+    {
+      "id": "b1-s14-l81",
+      "sectionId": "b1_s14",
+      "level": "B1",
+      "title": {
+        "sk": "Keď sa musím opraviť",
+        "uk": "B1: Keď sa musím opraviť",
+        "ru": "B1: Keď sa musím opraviť",
+        "en": "B1: Keď sa musím opraviť"
+      },
+      "topic": {
+        "sk": "Keď sa musím opraviť",
+        "uk": "B1: Keď sa musím opraviť",
+        "ru": "B1: Keď sa musím opraviť",
+        "en": "B1: Keď sa musím opraviť"
+      },
+      "description": {
+        "sk": "Precvičíš si tému Keď sa musím opraviť v súvislej komunikácii na úrovni B1.",
+        "uk": "Тренуємо тему «Keď sa musím opraviť»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+        "ru": "учимся самостоятельно исправляться, уточнять и переформулировать.",
+        "en": "Practice the B1 topic “Keď sa musím opraviť” inside connected communication. Section: Communication strategies and connected speech."
+      },
+      "order": 81,
+      "xpReward": 140,
+      "estimatedMinutes": 28,
+      "isPublished": false,
+      "intro": {
+        "sk": "Precvičíš si tému Keď sa musím opraviť v súvislej komunikácii na úrovni B1.",
+        "uk": "Тренуємо тему «Keď sa musím opraviť»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+        "ru": "учимся самостоятельно исправляться, уточнять и переформулировать.",
+        "en": "Practice the B1 topic “Keď sa musím opraviť” inside connected communication. Section: Communication strategies and connected speech."
+      },
+      "completionMessage": {
+        "sk": "Výborne. Pokračuj v používaní témy v reálnych situáciách.",
+        "uk": "Добре. Тепер перенеси тему в реальну розмову.",
+        "ru": "Хорошо. Теперь перенеси тему в реальный разговор.",
+        "en": "Good. Now transfer the topic into a real conversation."
+      },
+      "updatedAt": "2026-09-14T00:00:00Z",
+      "localization": {
+        "uiLanguages": [
+          "uk",
+          "ru",
+          "en"
+        ],
+        "targetLanguage": "sk",
+        "fallbackUiLanguage": "uk"
+      },
+      "assets": {
+        "images": {},
+        "audio": {}
+      },
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": {
+          "sk": "Keď sa musím opraviť",
+          "uk": "B1: Keď sa musím opraviť",
+          "ru": "B1: Keď sa musím opraviť",
+          "en": "B1: Keď sa musím opraviť"
+        },
+        "shortDescription": {
+          "uk": "Тренуємо тему «Keď sa musím opraviť»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+          "ru": "учимся самостоятельно исправляться, уточнять и переформулировать.",
+          "en": "Practice the B1 topic “Keď sa musím opraviť” inside connected communication. Section: Communication strategies and connected speech."
+        },
+        "outcomes": [
+          {
+            "uk": "пояснити тему «Keď sa musím opraviť» зв'язно",
+            "ru": "связно объяснить тему «Keď sa musím opraviť»",
+            "en": "explain the topic “Keď sa musím opraviť” coherently"
+          },
+          {
+            "uk": "використати нові слова в контексті",
+            "ru": "использовать новые слова в контексте",
+            "en": "use new words in context"
+          },
+          {
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
+          }
+        ],
+        "newWords": [
+          "b1-s14-l81-w01",
+          "b1-s14-l81-w02",
+          "b1-s14-l81-w03",
+          "b1-s14-l81-w04",
+          "b1-s14-l81-w05",
+          "b1-s14-l81-w06",
+          "b1-s14-l81-w07",
+          "b1-s14-l81-w08"
+        ],
+        "exercisesCount": 12,
+        "reward": "+140 XP",
+        "estimatedMinutes": 28,
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "id": "t1",
+          "screenType": "theory",
+          "order": 1,
+          "title": {
+            "uk": "Сенс уроку",
+            "ru": "Смысл урока",
+            "en": "Lesson focus"
+          },
+          "body": {
+            "uk": "Тренуємо тему «Keď sa musím opraviť»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+            "ru": "учимся самостоятельно исправляться, уточнять и переформулировать.",
+            "en": "Practice the B1 topic “Keď sa musím opraviť” inside connected communication. Section: Communication strategies and connected speech."
+          },
+          "examples": [
+            {
+              "sk": "Téma je Keď sa musím opraviť.",
+              "translation": {
+                "uk": "Тема: «Keď sa musím opraviť».",
+                "ru": "Тема: «Keď sa musím opraviť».",
+                "en": "Topic: “Keď sa musím opraviť”."
+              }
+            },
+            {
+              "sk": "Používam výraz teda v reálnej situácii.",
+              "translation": {
+                "uk": "Я використовую «teda» у реальній ситуації.",
+                "ru": "Я использую «teda» в реальной ситуации.",
+                "en": "I use “teda” in a real situation."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "На B1 важливо не лише знати слово, а зв'язати його з причиною, прикладом і реакцією.",
+            "ru": "На B1 важно не только знать слово, а связать его с причиной, примером и реакцией.",
+            "en": "At B1, connect the item with a reason, example and reaction."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t2",
+          "screenType": "theory",
+          "order": 2,
+          "title": {
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer pattern"
+          },
+          "body": {
+            "uk": "Будуй відповідь за схемою: ситуація → причина → приклад → що роблю далі.",
+            "ru": "Строй ответ по схеме: ситуация → причина → пример → что делаю дальше.",
+            "en": "Build the answer as: situation → reason → example → next action."
+          },
+          "examples": [
+            {
+              "sk": "Najprv vysvetlím situáciu, potom použijem myslím tým.",
+              "translation": {
+                "uk": "Спочатку пояснюю ситуацію, потім використовую цільовий вираз.",
+                "ru": "Сначала объясняю ситуацию, потом использую целевое выражение.",
+                "en": "First I explain the situation, then I use the target item."
+              }
+            },
+            {
+              "sk": "Podľa mňa je dôležité hovoriť jasne o téme Keď sa musím opraviť.",
+              "translation": {
+                "uk": "На мою думку, важливо говорити про тему ясно.",
+                "ru": "По моему мнению, важно говорить о теме ясно.",
+                "en": "In my opinion, it is important to speak about the topic clearly."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "Одна думка = одне зрозуміле речення. Потім додай причину або приклад.",
+            "ru": "Одна мысль = одно понятное предложение. Потом добавь причину или пример.",
+            "en": "One idea equals one clear sentence. Then add a reason or example."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t3",
+          "screenType": "theory",
+          "order": 3,
+          "title": {
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
+          },
+          "body": {
+            "uk": "У фінальній ситуації потрібно вибрати репліку, яка реально підходить до контексту, а не просто повторює слово.",
+            "ru": "В финальной ситуации нужно выбрать реплику, которая реально подходит к контексту, а не просто повторяет слово.",
+            "en": "In the final situation, choose a reply that fits the context, not just a repeated word."
+          },
+          "examples": [
+            {
+              "sk": "V praxi by som to povedal pokojne a konkrétne.",
+              "translation": {
+                "uk": "На практиці я сказав би це спокійно й конкретно.",
+                "ru": "На практике я сказал бы это спокойно и конкретно.",
+                "en": "In practice I would say it calmly and concretely."
+              }
+            },
+            {
+              "sk": "Ak niečomu nerozumiem, spýtam sa doplňujúcu otázku.",
+              "translation": {
+                "uk": "Якщо чогось не розумію, ставлю уточнювальне питання.",
+                "ru": "Если чего-то не понимаю, задаю уточняющий вопрос.",
+                "en": "If I do not understand something, I ask a follow-up question."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "B1 = зв'язна відповідь, уточнення і практичний результат.",
+            "ru": "B1 = связный ответ, уточнение и практический результат.",
+            "en": "B1 means a connected answer, clarification and a practical result."
+          },
+          "button": "Далі"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": {
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
+        },
+        "description": {
+          "uk": "Усі одиниці взяті з затвердженого плану B1.",
+          "ru": "Все единицы взяты из утвержденного плана B1.",
+          "en": "All items come from the approved B1 plan."
+        },
+        "items": [
+          {
+            "wordId": "b1-s14-l81-w01",
+            "sk": "teda",
+            "uk": "словацьке слово/вираз «teda»",
+            "ru": "словацкое слово/выражение «teda»",
+            "en": "Slovak word/expression “teda”",
+            "pronunciationUk": "teda",
+            "exampleSk": "V tejto situácii používam výraz teda.",
+            "exampleUk": "У цій ситуації я використовую вираз «teda».",
+            "exampleRu": "В этой ситуации я использую выражение «teda».",
+            "exampleEn": "In this situation I use “teda”."
+          },
+          {
+            "wordId": "b1-s14-l81-w02",
+            "sk": "myslím tým",
+            "uk": "словацьке слово/вираз «myslím tým»",
+            "ru": "словацкое слово/выражение «myslím tým»",
+            "en": "Slovak word/expression “myslím tým”",
+            "pronunciationUk": "myslіm tиm",
+            "exampleSk": "V tejto situácii používam výraz myslím tým.",
+            "exampleUk": "У цій ситуації я використовую вираз «myslím tým».",
+            "exampleRu": "В этой ситуации я использую выражение «myslím tým».",
+            "exampleEn": "In this situation I use “myslím tým”."
+          },
+          {
+            "wordId": "b1-s14-l81-w03",
+            "sk": "presnejšie",
+            "uk": "словацьке слово/вираз «presnejšie»",
+            "ru": "словацкое слово/выражение «presnejšie»",
+            "en": "Slovak word/expression “presnejšie”",
+            "pronunciationUk": "presnejшie",
+            "exampleSk": "V tejto situácii používam výraz presnejšie.",
+            "exampleUk": "У цій ситуації я використовую вираз «presnejšie».",
+            "exampleRu": "В этой ситуации я использую выражение «presnejšie».",
+            "exampleEn": "In this situation I use “presnejšie”."
+          },
+          {
+            "wordId": "b1-s14-l81-w04",
+            "sk": "vlastne som chcel povedať",
+            "uk": "словацьке слово/вираз «vlastne som chcel povedať»",
+            "ru": "словацкое слово/выражение «vlastne som chcel povedať»",
+            "en": "Slovak word/expression “vlastne som chcel povedať”",
+            "pronunciationUk": "vlastne som chcel povedaть",
+            "exampleSk": "V tejto situácii používam výraz vlastne som chcel povedať.",
+            "exampleUk": "У цій ситуації я використовую вираз «vlastne som chcel povedať».",
+            "exampleRu": "В этой ситуации я использую выражение «vlastne som chcel povedať».",
+            "exampleEn": "In this situation I use “vlastne som chcel povedať”."
+          },
+          {
+            "wordId": "b1-s14-l81-w05",
+            "sk": "nie tak",
+            "uk": "словацьке слово/вираз «nie tak»",
+            "ru": "словацкое слово/выражение «nie tak»",
+            "en": "Slovak word/expression “nie tak”",
+            "pronunciationUk": "nie tak",
+            "exampleSk": "V tejto situácii používam výraz nie tak.",
+            "exampleUk": "У цій ситуації я використовую вираз «nie tak».",
+            "exampleRu": "В этой ситуации я использую выражение «nie tak».",
+            "exampleEn": "In this situation I use “nie tak”."
+          },
+          {
+            "wordId": "b1-s14-l81-w06",
+            "sk": "skôr",
+            "uk": "словацьке слово/вираз «skôr»",
+            "ru": "словацкое слово/выражение «skôr»",
+            "en": "Slovak word/expression “skôr”",
+            "pronunciationUk": "skуоr",
+            "exampleSk": "V tejto situácii používam výraz skôr.",
+            "exampleUk": "У цій ситуації я використовую вираз «skôr».",
+            "exampleRu": "В этой ситуации я использую выражение «skôr».",
+            "exampleEn": "In this situation I use “skôr”."
+          },
+          {
+            "wordId": "b1-s14-l81-w07",
+            "sk": "inak povedané",
+            "uk": "словацьке слово/вираз «inak povedané»",
+            "ru": "словацкое слово/выражение «inak povedané»",
+            "en": "Slovak word/expression “inak povedané”",
+            "pronunciationUk": "inak povedanе",
+            "exampleSk": "V tejto situácii používam výraz inak povedané.",
+            "exampleUk": "У цій ситуації я використовую вираз «inak povedané».",
+            "exampleRu": "В этой ситуации я использую выражение «inak povedané».",
+            "exampleEn": "In this situation I use “inak povedané”."
+          },
+          {
+            "wordId": "b1-s14-l81-w08",
+            "sk": "opraviť sa",
+            "uk": "словацьке слово/вираз «opraviť sa»",
+            "ru": "словацкое слово/выражение «opraviť sa»",
+            "en": "Slovak word/expression “opraviť sa”",
+            "pronunciationUk": "opraviть sa",
+            "exampleSk": "V tejto situácii používam výraz opraviť sa.",
+            "exampleUk": "У цій ситуації я використовую вираз «opraviť sa».",
+            "exampleRu": "В этой ситуации я использую выражение «opraviť sa».",
+            "exampleEn": "In this situation I use “opraviť sa”."
+          }
+        ],
+        "button": "До практики"
+      },
+      "words": [
+        {
+          "id": "b1-s14-l81-w01",
+          "sk": "teda",
+          "uk": "словацьке слово/вираз «teda»",
+          "ru": "словацкое слово/выражение «teda»",
+          "en": "Slovak word/expression “teda”",
+          "pronunciationUk": "teda",
+          "exampleSk": "V tejto situácii používam výraz teda.",
+          "exampleUk": "У цій ситуації я використовую вираз «teda».",
+          "exampleRu": "В этой ситуации я использую выражение «teda».",
+          "exampleEn": "In this situation I use “teda”.",
+          "level": "B1",
+          "topic": "Keď sa musím opraviť",
+          "tags": [
+            "b1_s14",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s14-l81-w02",
+          "sk": "myslím tým",
+          "uk": "словацьке слово/вираз «myslím tým»",
+          "ru": "словацкое слово/выражение «myslím tým»",
+          "en": "Slovak word/expression “myslím tým”",
+          "pronunciationUk": "myslіm tиm",
+          "exampleSk": "V tejto situácii používam výraz myslím tým.",
+          "exampleUk": "У цій ситуації я використовую вираз «myslím tým».",
+          "exampleRu": "В этой ситуации я использую выражение «myslím tým».",
+          "exampleEn": "In this situation I use “myslím tým”.",
+          "level": "B1",
+          "topic": "Keď sa musím opraviť",
+          "tags": [
+            "b1_s14",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s14-l81-w03",
+          "sk": "presnejšie",
+          "uk": "словацьке слово/вираз «presnejšie»",
+          "ru": "словацкое слово/выражение «presnejšie»",
+          "en": "Slovak word/expression “presnejšie”",
+          "pronunciationUk": "presnejшie",
+          "exampleSk": "V tejto situácii používam výraz presnejšie.",
+          "exampleUk": "У цій ситуації я використовую вираз «presnejšie».",
+          "exampleRu": "В этой ситуации я использую выражение «presnejšie».",
+          "exampleEn": "In this situation I use “presnejšie”.",
+          "level": "B1",
+          "topic": "Keď sa musím opraviť",
+          "tags": [
+            "b1_s14",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s14-l81-w04",
+          "sk": "vlastne som chcel povedať",
+          "uk": "словацьке слово/вираз «vlastne som chcel povedať»",
+          "ru": "словацкое слово/выражение «vlastne som chcel povedať»",
+          "en": "Slovak word/expression “vlastne som chcel povedať”",
+          "pronunciationUk": "vlastne som chcel povedaть",
+          "exampleSk": "V tejto situácii používam výraz vlastne som chcel povedať.",
+          "exampleUk": "У цій ситуації я використовую вираз «vlastne som chcel povedať».",
+          "exampleRu": "В этой ситуации я использую выражение «vlastne som chcel povedať».",
+          "exampleEn": "In this situation I use “vlastne som chcel povedať”.",
+          "level": "B1",
+          "topic": "Keď sa musím opraviť",
+          "tags": [
+            "b1_s14",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s14-l81-w05",
+          "sk": "nie tak",
+          "uk": "словацьке слово/вираз «nie tak»",
+          "ru": "словацкое слово/выражение «nie tak»",
+          "en": "Slovak word/expression “nie tak”",
+          "pronunciationUk": "nie tak",
+          "exampleSk": "V tejto situácii používam výraz nie tak.",
+          "exampleUk": "У цій ситуації я використовую вираз «nie tak».",
+          "exampleRu": "В этой ситуации я использую выражение «nie tak».",
+          "exampleEn": "In this situation I use “nie tak”.",
+          "level": "B1",
+          "topic": "Keď sa musím opraviť",
+          "tags": [
+            "b1_s14",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s14-l81-w06",
+          "sk": "skôr",
+          "uk": "словацьке слово/вираз «skôr»",
+          "ru": "словацкое слово/выражение «skôr»",
+          "en": "Slovak word/expression “skôr”",
+          "pronunciationUk": "skуоr",
+          "exampleSk": "V tejto situácii používam výraz skôr.",
+          "exampleUk": "У цій ситуації я використовую вираз «skôr».",
+          "exampleRu": "В этой ситуации я использую выражение «skôr».",
+          "exampleEn": "In this situation I use “skôr”.",
+          "level": "B1",
+          "topic": "Keď sa musím opraviť",
+          "tags": [
+            "b1_s14",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s14-l81-w07",
+          "sk": "inak povedané",
+          "uk": "словацьке слово/вираз «inak povedané»",
+          "ru": "словацкое слово/выражение «inak povedané»",
+          "en": "Slovak word/expression “inak povedané”",
+          "pronunciationUk": "inak povedanе",
+          "exampleSk": "V tejto situácii používam výraz inak povedané.",
+          "exampleUk": "У цій ситуації я використовую вираз «inak povedané».",
+          "exampleRu": "В этой ситуации я использую выражение «inak povedané».",
+          "exampleEn": "In this situation I use “inak povedané”.",
+          "level": "B1",
+          "topic": "Keď sa musím opraviť",
+          "tags": [
+            "b1_s14",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s14-l81-w08",
+          "sk": "opraviť sa",
+          "uk": "словацьке слово/вираз «opraviť sa»",
+          "ru": "словацкое слово/выражение «opraviť sa»",
+          "en": "Slovak word/expression “opraviť sa”",
+          "pronunciationUk": "opraviть sa",
+          "exampleSk": "V tejto situácii používam výraz opraviť sa.",
+          "exampleUk": "У цій ситуації я використовую вираз «opraviť sa».",
+          "exampleRu": "В этой ситуации я использую выражение «opraviť sa».",
+          "exampleEn": "In this situation I use “opraviť sa”.",
+          "level": "B1",
+          "topic": "Keď sa musím opraviť",
+          "tags": [
+            "b1_s14",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "b1-s14-l81-e01",
+          "lessonId": "b1-s14-l81",
+          "type": "single_choice",
+          "order": 1,
+          "question": "Що тренує словацька одиниця «teda»?",
+          "questionLocalized": {
+            "uk": "Що тренує словацька одиниця «teda»?",
+            "ru": "Что тренирует словацкая единица «teda»?",
+            "en": "What does the Slovak item “teda” train?"
+          },
+          "wordIds": [
+            "b1-s14-l81-w01"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "словацьке слово/вираз «teda»",
+                "ru": "словацкое слово/выражение «teda»",
+                "en": "Slovak word/expression “teda”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "словацьке слово/вираз «myslím tým»",
+                "ru": "словацкое слово/выражение «myslím tým»",
+                "en": "Slovak word/expression “myslím tým”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "словацьке слово/вираз «presnejšie»",
+                "ru": "словацкое слово/выражение «presnejšie»",
+                "en": "Slovak word/expression “presnejšie”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s14-l81-e02",
+          "lessonId": "b1-s14-l81",
+          "type": "matching",
+          "order": 2,
+          "question": "З'єднай словацькі одиниці з поясненнями.",
+          "questionLocalized": {
+            "uk": "З'єднай словацькі одиниці з поясненнями.",
+            "ru": "Соедини словацкие единицы с объяснениями.",
+            "en": "Match Slovak items with explanations."
+          },
+          "wordIds": [
+            "b1-s14-l81-w01",
+            "b1-s14-l81-w02",
+            "b1-s14-l81-w03",
+            "b1-s14-l81-w04"
+          ],
+          "pairs": [
+            {
+              "left": "teda",
+              "right": "словацьке слово/вираз «teda»",
+              "rightRu": "словацкое слово/выражение «teda»",
+              "rightEn": "Slovak word/expression “teda”"
+            },
+            {
+              "left": "myslím tým",
+              "right": "словацьке слово/вираз «myslím tým»",
+              "rightRu": "словацкое слово/выражение «myslím tým»",
+              "rightEn": "Slovak word/expression “myslím tým”"
+            },
+            {
+              "left": "presnejšie",
+              "right": "словацьке слово/вираз «presnejšie»",
+              "rightRu": "словацкое слово/выражение «presnejšie»",
+              "rightEn": "Slovak word/expression “presnejšie”"
+            },
+            {
+              "left": "vlastne som chcel povedať",
+              "right": "словацьке слово/вираз «vlastne som chcel povedať»",
+              "rightRu": "словацкое слово/выражение «vlastne som chcel povedať»",
+              "rightEn": "Slovak word/expression “vlastne som chcel povedať”"
+            }
+          ]
+        },
+        {
+          "id": "b1-s14-l81-e03",
+          "lessonId": "b1-s14-l81",
+          "type": "fill_blank",
+          "order": 3,
+          "question": "Впиши словацькою: словацьке слово/вираз «presnejšie».",
+          "questionLocalized": {
+            "uk": "Впиши словацькою: словацьке слово/вираз «presnejšie».",
+            "ru": "Впиши по-словацки: словацкое слово/выражение «presnejšie».",
+            "en": "Write in Slovak: Slovak word/expression “presnejšie”."
+          },
+          "wordIds": [
+            "b1-s14-l81-w03"
+          ],
+          "sentence": "______",
+          "acceptedAnswers": [
+            "presnejšie"
+          ],
+          "hint": {
+            "uk": "Початок: p…",
+            "ru": "Начало: p…",
+            "en": "Start: p…"
+          }
+        },
+        {
+          "id": "b1-s14-l81-e04",
+          "lessonId": "b1-s14-l81",
+          "type": "sentence_builder",
+          "order": 4,
+          "question": "Склади природне словацьке речення.",
+          "questionLocalized": {
+            "uk": "Склади природне словацьке речення.",
+            "ru": "Собери естественное словацкое предложение.",
+            "en": "Build a natural Slovak sentence."
+          },
+          "wordIds": [
+            "b1-s14-l81-w04"
+          ],
+          "tokens": [
+            "Používam",
+            "vlastne som chcel povedať",
+            "v",
+            "reálnej",
+            "situácii."
+          ],
+          "correctSentence": "Používam vlastne som chcel povedať v reálnej situácii."
+        },
+        {
+          "id": "b1-s14-l81-e05",
+          "lessonId": "b1-s14-l81",
+          "type": "multiple_select",
+          "order": 5,
+          "question": "Обери одиниці з цього уроку.",
+          "questionLocalized": {
+            "uk": "Обери одиниці з цього уроку.",
+            "ru": "Выбери единицы из этого урока.",
+            "en": "Select items from this lesson."
+          },
+          "wordIds": [
+            "b1-s14-l81-w01",
+            "b1-s14-l81-w02"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "teda",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "myslím tým",
+              "correct": true
+            },
+            {
+              "id": "c",
+              "sk": "Dnes prší.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s14-l81-e06",
+          "lessonId": "b1-s14-l81",
+          "type": "reading_comprehension",
+          "order": 6,
+          "question": "Прочитай короткий контекст і знайди точну інформацію.",
+          "questionLocalized": {
+            "uk": "Прочитай короткий контекст і знайди точну інформацію.",
+            "ru": "Прочитай короткий контекст и найди точную информацию.",
+            "en": "Read the short context and find exact information."
+          },
+          "wordIds": [
+            "b1-s14-l81-w05",
+            "b1-s14-l81-w06",
+            "b1-s14-l81-w07"
+          ],
+          "text": "Téma je Keď sa musím opraviť. V rozhovore používam výrazy nie tak, skôr a inak povedané.",
+          "questions": [
+            {
+              "prompt": {
+                "uk": "Яка тема прямо названа в тексті?",
+                "ru": "Какая тема прямо названа в тексте?",
+                "en": "Which topic is directly named in the text?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "Keď sa musím opraviť",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "Počasie",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "Šport",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b1-s14-l81-e07",
+          "lessonId": "b1-s14-l81",
+          "type": "natural_phrase",
+          "order": 7,
+          "question": "Що звучить найприродніше в цій темі?",
+          "questionLocalized": {
+            "uk": "Що звучить найприродніше в цій темі?",
+            "ru": "Что звучит естественнее всего в этой теме?",
+            "en": "What sounds most natural in this topic?"
+          },
+          "wordIds": [
+            "b1-s14-l81-w06"
+          ],
+          "situation": {
+            "uk": "Тобі потрібно використати цільову одиницю в короткій репліці.",
+            "ru": "Нужно использовать целевую единицу в короткой реплике.",
+            "en": "You need to use the target item in a short reply."
+          },
+          "options": [
+            {
+              "id": "a",
+              "sk": "Používam skôr v tejto téme.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Som autobus.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Včera zelený rýchlo.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s14-l81-e08",
+          "lessonId": "b1-s14-l81",
+          "type": "dropdown_blank",
+          "order": 8,
+          "question": "Обери точну словацьку одиницю: словацьке слово/вираз «inak povedané».",
+          "questionLocalized": {
+            "uk": "Обери точну словацьку одиницю: словацьке слово/вираз «inak povedané».",
+            "ru": "Выбери точную словацкую единицу: словацкое слово/выражение «inak povedané».",
+            "en": "Choose the exact Slovak item: Slovak word/expression “inak povedané”."
+          },
+          "wordIds": [
+            "b1-s14-l81-w07"
+          ],
+          "sentenceParts": [
+            {
+              "text": "Veta obsahuje "
+            },
+            {
+              "blankId": "b1",
+              "options": [
+                "inak povedané",
+                "teda",
+                "myslím tým"
+              ],
+              "correct": "inak povedané"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "b1-s14-l81-e09",
+          "lessonId": "b1-s14-l81",
+          "type": "dialogue_choose_reply",
+          "order": 9,
+          "question": "Обери найкращу відповідь у діалозі.",
+          "questionLocalized": {
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
+          },
+          "wordIds": [
+            "b1-s14-l81-w08"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Vieš to vysvetliť cez opraviť sa?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Áno, použijem opraviť sa v príklade.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Nie, toto je úplne iná téma.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Nerozumiem otázke a nereagujem.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s14-l81-e10",
+          "lessonId": "b1-s14-l81",
+          "type": "meaning_in_context",
+          "order": 10,
+          "question": "Čo znamená výraz v kontexte: «myslím tým»?",
+          "questionLocalized": {
+            "uk": "Що означає вираз у контексті: «myslím tým»?",
+            "ru": "Что означает выражение в контексте: «myslím tým»?",
+            "en": "What does the item mean in context: “myslím tým”?"
+          },
+          "wordIds": [
+            "b1-s14-l81-w02"
+          ],
+          "context": {
+            "sk": "V tejto lekcii riešime myslím tým."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "словацьке слово/вираз «myslím tým»",
+                "ru": "словацкое слово/выражение «myslím tým»",
+                "en": "Slovak word/expression “myslím tým”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "словацьке слово/вираз «vlastne som chcel povedať»",
+                "ru": "словацкое слово/выражение «vlastne som chcel povedať»",
+                "en": "Slovak word/expression “vlastne som chcel povedať”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "словацьке слово/вираз «nie tak»",
+                "ru": "словацкое слово/выражение «nie tak»",
+                "en": "Slovak word/expression “nie tak”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s14-l81-e11",
+          "lessonId": "b1-s14-l81",
+          "type": "reverse_translation",
+          "order": 11,
+          "question": "Обери словацький варіант для: словацьке слово/вираз «nie tak».",
+          "questionLocalized": {
+            "uk": "Обери словацький варіант для: словацьке слово/вираз «nie tak».",
+            "ru": "Выбери словацкий вариант для: словацкое слово/выражение «nie tak».",
+            "en": "Choose the Slovak item for: Slovak word/expression “nie tak”."
+          },
+          "wordIds": [
+            "b1-s14-l81-w05"
+          ],
+          "options": [
+            "nie tak",
+            "presnejšie",
+            "teda"
+          ],
+          "correctAnswer": "nie tak"
+        },
+        {
+          "id": "b1-s14-l81-e12",
+          "lessonId": "b1-s14-l81",
+          "type": "multiple_choice_translation",
+          "order": 12,
+          "question": "Що відповідає словацькому «opraviť sa»?",
+          "questionLocalized": {
+            "uk": "Що відповідає словацькому «opraviť sa»?",
+            "ru": "Что соответствует словацкому «opraviť sa»?",
+            "en": "What matches the Slovak “opraviť sa”?"
+          },
+          "wordIds": [
+            "b1-s14-l81-w08"
+          ],
+          "options": [
+            "словацьке слово/вираз «opraviť sa»",
+            "словацьке слово/вираз «myslím tým»",
+            "словацьке слово/вираз «presnejšie»"
+          ],
+          "correctAnswer": "словацьке слово/вираз «opraviť sa»"
+        }
+      ],
+      "finalSituation": {
+        "id": "final-situation",
+        "type": "interactive_scenario",
+        "title": {
+          "uk": "Keď sa musím opraviť: життєва ситуація",
+          "ru": "Keď sa musím opraviť: жизненная ситуация",
+          "en": "Keď sa musím opraviť: real-life situation"
+        },
+        "description": {
+          "uk": "Обери репліку, яка природно вирішує ситуацію на рівні B1.",
+          "ru": "Выбери реплику, которая естественно решает ситуацию на уровне B1.",
+          "en": "Choose the reply that naturally solves the situation at B1 level."
+        },
+        "steps": [
+          {
+            "id": "f1",
+            "prompt": {
+              "uk": "Тебе просять коротко пояснити ситуацію. Що відповісти?",
+              "ru": "Тебя просят коротко объяснить ситуацию. Что ответить?",
+              "en": "You are asked to briefly explain the situation. What do you answer?"
+            },
+            "options": [
+              {
+                "sk": "Najprv vysvetlím tému Keď sa musím opraviť a uvediem príklad.",
+                "correct": true
+              },
+              {
+                "sk": "Neviem nič povedať.",
+                "correct": false
+              },
+              {
+                "sk": "To nesúvisí s témou.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "prompt": {
+              "uk": "Потрібно відреагувати спокійно й конкретно.",
+              "ru": "Нужно отреагировать спокойно и конкретно.",
+              "en": "You need to react calmly and concretely."
+            },
+            "options": [
+              {
+                "sk": "Rozumiem. Skúsim to povedať jasnejšie cez teda.",
+                "correct": true
+              },
+              {
+                "sk": "To je modrý autobus.",
+                "correct": false
+              },
+              {
+                "sk": "Nechcem hovoriť vôbec.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f3",
+            "prompt": {
+              "uk": "Потрібно завершити розмову практичною домовленістю.",
+              "ru": "Нужно завершить разговор практической договоренностью.",
+              "en": "You need to finish with a practical agreement."
+            },
+            "options": [
+              {
+                "sk": "Dohodnime sa na ďalšom kroku a potvrdím to správou.",
+                "correct": true
+              },
+              {
+                "sk": "Zajtra bolo včera.",
+                "correct": false
+              },
+              {
+                "sk": "Nemám žiadny návrh.",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "passRequirement": "3/3",
+        "successMessage": {
+          "uk": "Hotovo: použil si tému v realistickej situácii.",
+          "ru": "Готово: ты использовал тему в реалистичной ситуации.",
+          "en": "Done: you used the topic in a realistic situation."
+        }
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": {
+          "uk": "Урок завершено",
+          "ru": "Урок завершён",
+          "en": "Lesson complete"
+        },
+        "subtitle": {
+          "uk": "Ти завершив ще один крок рівня B1.",
+          "ru": "Ты завершил ещё один шаг уровня B1.",
+          "en": "You completed another B1 step."
+        },
+        "xpReward": 140,
+        "newWordsCount": 8,
+        "exercisesCompleted": 12,
+        "nowYouKnow": [
+          "говорити на тему «Keď sa musím opraviť»",
+          "зв'язувати думки у коротку відповідь",
+          "реагувати в практичній ситуації"
+        ],
+        "mistakesMessage": {
+          "uk": "Повтори тільки ті вправи, де відповідь ще не автоматична.",
+          "ru": "Повтори только те упражнения, где ответ ещё не автоматический.",
+          "en": "Repeat only the exercises where the answer is not automatic yet."
+        },
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "skills": [
+          {
+            "id": "vocabulary",
+            "label": {
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
+            },
+            "weight": 0.3
+          },
+          {
+            "id": "communication",
+            "label": {
+              "uk": "комунікація",
+              "ru": "коммуникация",
+              "en": "communication"
+            },
+            "weight": 0.4
+          },
+          {
+            "id": "transfer",
+            "label": {
+              "uk": "перенесення",
+              "ru": "перенос",
+              "en": "transfer"
+            },
+            "weight": 0.3
+          }
+        ],
+        "nextLesson": {
+          "id": "b1-s14-l82"
+        }
+      }
+    }
+  ]
+}

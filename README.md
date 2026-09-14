@@ -30,8 +30,9 @@ The detailed authoring/production contract is `AGENTS.md`; the current SlovakGo 
 - `curriculum/` — architecture and curriculum contracts.
 - `knowledge/` — target, prerequisite and vocabulary guidance.
 - `lessons/a1/` — completed active A1 lesson JSON.
-- `lessons/a2/` — active A2 lesson JSON as production progresses.
-- `progress/A1_PROGRESS.md`, `progress/A2_PROGRESS.md` — durable level progress.
+- `lessons/a2/` — completed active A2 lesson JSON.
+- `lessons/b1/` — completed active B1 lesson JSON.
+- `progress/A1_PROGRESS.md`, `progress/A2_PROGRESS.md`, `progress/B1_PROGRESS.md` — durable level progress.
 
 ## Hygiene rule
 Obsolete lesson files, temporary generators, one-shot workflows, stale audits and duplicate instruction documents are removed rather than kept as competing sources of truth.

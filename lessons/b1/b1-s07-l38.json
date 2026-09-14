@@ -1,0 +1,1056 @@
+{
+  "lessons": [
+    {
+      "id": "b1-s07-l38",
+      "sectionId": "b1_s07",
+      "level": "B1",
+      "title": {
+        "sk": "Čo mi ide dobre?",
+        "uk": "B1: Čo mi ide dobre?",
+        "ru": "B1: Čo mi ide dobre?",
+        "en": "B1: Čo mi ide dobre?"
+      },
+      "topic": {
+        "sk": "Čo mi ide dobre?",
+        "uk": "B1: Čo mi ide dobre?",
+        "ru": "B1: Čo mi ide dobre?",
+        "en": "B1: Čo mi ide dobre?"
+      },
+      "description": {
+        "sk": "Precvičíš si tému Čo mi ide dobre? v súvislej komunikácii na úrovni B1.",
+        "uk": "Тренуємо тему «Čo mi ide dobre?»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+        "ru": "говорим о сильных и слабых сторонах в обучении.",
+        "en": "Practice the B1 topic “Čo mi ide dobre?” inside connected communication. Section: Learning, skills and progress."
+      },
+      "order": 38,
+      "xpReward": 140,
+      "estimatedMinutes": 28,
+      "isPublished": false,
+      "intro": {
+        "sk": "Precvičíš si tému Čo mi ide dobre? v súvislej komunikácii na úrovni B1.",
+        "uk": "Тренуємо тему «Čo mi ide dobre?»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+        "ru": "говорим о сильных и слабых сторонах в обучении.",
+        "en": "Practice the B1 topic “Čo mi ide dobre?” inside connected communication. Section: Learning, skills and progress."
+      },
+      "completionMessage": {
+        "sk": "Výborne. Pokračuj v používaní témy v reálnych situáciách.",
+        "uk": "Добре. Тепер перенеси тему в реальну розмову.",
+        "ru": "Хорошо. Теперь перенеси тему в реальный разговор.",
+        "en": "Good. Now transfer the topic into a real conversation."
+      },
+      "updatedAt": "2026-09-14T00:00:00Z",
+      "localization": {
+        "uiLanguages": [
+          "uk",
+          "ru",
+          "en"
+        ],
+        "targetLanguage": "sk",
+        "fallbackUiLanguage": "uk"
+      },
+      "assets": {
+        "images": {},
+        "audio": {}
+      },
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": {
+          "sk": "Čo mi ide dobre?",
+          "uk": "B1: Čo mi ide dobre?",
+          "ru": "B1: Čo mi ide dobre?",
+          "en": "B1: Čo mi ide dobre?"
+        },
+        "shortDescription": {
+          "uk": "Тренуємо тему «Čo mi ide dobre?»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+          "ru": "говорим о сильных и слабых сторонах в обучении.",
+          "en": "Practice the B1 topic “Čo mi ide dobre?” inside connected communication. Section: Learning, skills and progress."
+        },
+        "outcomes": [
+          {
+            "uk": "пояснити тему «Čo mi ide dobre?» зв'язно",
+            "ru": "связно объяснить тему «Čo mi ide dobre?»",
+            "en": "explain the topic “Čo mi ide dobre?” coherently"
+          },
+          {
+            "uk": "використати нові слова в контексті",
+            "ru": "использовать новые слова в контексте",
+            "en": "use new words in context"
+          },
+          {
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
+          }
+        ],
+        "newWords": [
+          "b1-s07-l38-w01",
+          "b1-s07-l38-w02",
+          "b1-s07-l38-w03",
+          "b1-s07-l38-w04",
+          "b1-s07-l38-w05",
+          "b1-s07-l38-w06",
+          "b1-s07-l38-w07",
+          "b1-s07-l38-w08"
+        ],
+        "exercisesCount": 12,
+        "reward": "+140 XP",
+        "estimatedMinutes": 28,
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "id": "t1",
+          "screenType": "theory",
+          "order": 1,
+          "title": {
+            "uk": "Сенс уроку",
+            "ru": "Смысл урока",
+            "en": "Lesson focus"
+          },
+          "body": {
+            "uk": "Тренуємо тему «Čo mi ide dobre?»: зв'язно пояснюємо, реагуємо й переносимо фрази в реальну ситуацію.",
+            "ru": "говорим о сильных и слабых сторонах в обучении.",
+            "en": "Practice the B1 topic “Čo mi ide dobre?” inside connected communication. Section: Learning, skills and progress."
+          },
+          "examples": [
+            {
+              "sk": "Téma je Čo mi ide dobre?.",
+              "translation": {
+                "uk": "Тема: «Čo mi ide dobre?».",
+                "ru": "Тема: «Čo mi ide dobre?».",
+                "en": "Topic: “Čo mi ide dobre?”."
+              }
+            },
+            {
+              "sk": "Používam výraz dariť sa v reálnej situácii.",
+              "translation": {
+                "uk": "Я використовую «dariť sa» у реальній ситуації.",
+                "ru": "Я использую «dariť sa» в реальной ситуации.",
+                "en": "I use “dariť sa” in a real situation."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "На B1 важливо не лише знати слово, а зв'язати його з причиною, прикладом і реакцією.",
+            "ru": "На B1 важно не только знать слово, а связать его с причиной, примером и реакцией.",
+            "en": "At B1, connect the item with a reason, example and reaction."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t2",
+          "screenType": "theory",
+          "order": 2,
+          "title": {
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer pattern"
+          },
+          "body": {
+            "uk": "Будуй відповідь за схемою: ситуація → причина → приклад → що роблю далі.",
+            "ru": "Строй ответ по схеме: ситуация → причина → пример → что делаю дальше.",
+            "en": "Build the answer as: situation → reason → example → next action."
+          },
+          "examples": [
+            {
+              "sk": "Najprv vysvetlím situáciu, potom použijem ísť dobre.",
+              "translation": {
+                "uk": "Спочатку пояснюю ситуацію, потім використовую цільовий вираз.",
+                "ru": "Сначала объясняю ситуацию, потом использую целевое выражение.",
+                "en": "First I explain the situation, then I use the target item."
+              }
+            },
+            {
+              "sk": "Podľa mňa je dôležité hovoriť jasne o téme Čo mi ide dobre?.",
+              "translation": {
+                "uk": "На мою думку, важливо говорити про тему ясно.",
+                "ru": "По моему мнению, важно говорить о теме ясно.",
+                "en": "In my opinion, it is important to speak about the topic clearly."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "Одна думка = одне зрозуміле речення. Потім додай причину або приклад.",
+            "ru": "Одна мысль = одно понятное предложение. Потом добавь причину или пример.",
+            "en": "One idea equals one clear sentence. Then add a reason or example."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t3",
+          "screenType": "theory",
+          "order": 3,
+          "title": {
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
+          },
+          "body": {
+            "uk": "У фінальній ситуації потрібно вибрати репліку, яка реально підходить до контексту, а не просто повторює слово.",
+            "ru": "В финальной ситуации нужно выбрать реплику, которая реально подходит к контексту, а не просто повторяет слово.",
+            "en": "In the final situation, choose a reply that fits the context, not just a repeated word."
+          },
+          "examples": [
+            {
+              "sk": "V praxi by som to povedal pokojne a konkrétne.",
+              "translation": {
+                "uk": "На практиці я сказав би це спокійно й конкретно.",
+                "ru": "На практике я сказал бы это спокойно и конкретно.",
+                "en": "In practice I would say it calmly and concretely."
+              }
+            },
+            {
+              "sk": "Ak niečomu nerozumiem, spýtam sa doplňujúcu otázku.",
+              "translation": {
+                "uk": "Якщо чогось не розумію, ставлю уточнювальне питання.",
+                "ru": "Если чего-то не понимаю, задаю уточняющий вопрос.",
+                "en": "If I do not understand something, I ask a follow-up question."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "B1 = зв'язна відповідь, уточнення і практичний результат.",
+            "ru": "B1 = связный ответ, уточнение и практический результат.",
+            "en": "B1 means a connected answer, clarification and a practical result."
+          },
+          "button": "Далі"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": {
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
+        },
+        "description": {
+          "uk": "Усі одиниці взяті з затвердженого плану B1.",
+          "ru": "Все единицы взяты из утвержденного плана B1.",
+          "en": "All items come from the approved B1 plan."
+        },
+        "items": [
+          {
+            "wordId": "b1-s07-l38-w01",
+            "sk": "dariť sa",
+            "uk": "словацьке слово/вираз «dariť sa»",
+            "ru": "словацкое слово/выражение «dariť sa»",
+            "en": "Slovak word/expression “dariť sa”",
+            "pronunciationUk": "dariть sa",
+            "exampleSk": "V tejto situácii používam výraz dariť sa.",
+            "exampleUk": "У цій ситуації я використовую вираз «dariť sa».",
+            "exampleRu": "В этой ситуации я использую выражение «dariť sa».",
+            "exampleEn": "In this situation I use “dariť sa”."
+          },
+          {
+            "wordId": "b1-s07-l38-w02",
+            "sk": "ísť dobre",
+            "uk": "словацьке слово/вираз «ísť dobre»",
+            "ru": "словацкое слово/выражение «ísť dobre»",
+            "en": "Slovak word/expression “ísť dobre”",
+            "pronunciationUk": "іsть dobre",
+            "exampleSk": "V tejto situácii používam výraz ísť dobre.",
+            "exampleUk": "У цій ситуації я використовую вираз «ísť dobre».",
+            "exampleRu": "В этой ситуации я использую выражение «ísť dobre».",
+            "exampleEn": "In this situation I use “ísť dobre”."
+          },
+          {
+            "wordId": "b1-s07-l38-w03",
+            "sk": "slabá stránka",
+            "uk": "словацьке слово/вираз «slabá stránka»",
+            "ru": "словацкое слово/выражение «slabá stránka»",
+            "en": "Slovak word/expression “slabá stránka”",
+            "pronunciationUk": "slabа strаnka",
+            "exampleSk": "V tejto situácii používam výraz slabá stránka.",
+            "exampleUk": "У цій ситуації я використовую вираз «slabá stránka».",
+            "exampleRu": "В этой ситуации я использую выражение «slabá stránka».",
+            "exampleEn": "In this situation I use “slabá stránka”."
+          },
+          {
+            "wordId": "b1-s07-l38-w04",
+            "sk": "silná stránka",
+            "uk": "словацьке слово/вираз «silná stránka»",
+            "ru": "словацкое слово/выражение «silná stránka»",
+            "en": "Slovak word/expression “silná stránka”",
+            "pronunciationUk": "silnа strаnka",
+            "exampleSk": "V tejto situácii používam výraz silná stránka.",
+            "exampleUk": "У цій ситуації я використовую вираз «silná stránka».",
+            "exampleRu": "В этой ситуации я использую выражение «silná stránka».",
+            "exampleEn": "In this situation I use “silná stránka”."
+          },
+          {
+            "wordId": "b1-s07-l38-w05",
+            "sk": "zvládnuť",
+            "uk": "словацьке слово/вираз «zvládnuť»",
+            "ru": "словацкое слово/выражение «zvládnuť»",
+            "en": "Slovak word/expression “zvládnuť”",
+            "pronunciationUk": "zvlаdnuть",
+            "exampleSk": "V tejto situácii používam výraz zvládnuť.",
+            "exampleUk": "У цій ситуації я використовую вираз «zvládnuť».",
+            "exampleRu": "В этой ситуации я использую выражение «zvládnuť».",
+            "exampleEn": "In this situation I use “zvládnuť”."
+          },
+          {
+            "wordId": "b1-s07-l38-w06",
+            "sk": "rozumieť",
+            "uk": "словацьке слово/вираз «rozumieť»",
+            "ru": "словацкое слово/выражение «rozumieť»",
+            "en": "Slovak word/expression “rozumieť”",
+            "pronunciationUk": "rozumieть",
+            "exampleSk": "V tejto situácii používam výraz rozumieť.",
+            "exampleUk": "У цій ситуації я використовую вираз «rozumieť».",
+            "exampleRu": "В этой ситуации я использую выражение «rozumieť».",
+            "exampleEn": "In this situation I use “rozumieť”."
+          },
+          {
+            "wordId": "b1-s07-l38-w07",
+            "sk": "zlepšovať sa",
+            "uk": "словацьке слово/вираз «zlepšovať sa»",
+            "ru": "словацкое слово/выражение «zlepšovať sa»",
+            "en": "Slovak word/expression “zlepšovať sa”",
+            "pronunciationUk": "zlepшovaть sa",
+            "exampleSk": "V tejto situácii používam výraz zlepšovať sa.",
+            "exampleUk": "У цій ситуації я використовую вираз «zlepšovať sa».",
+            "exampleRu": "В этой ситуации я использую выражение «zlepšovať sa».",
+            "exampleEn": "In this situation I use “zlepšovať sa”."
+          },
+          {
+            "wordId": "b1-s07-l38-w08",
+            "sk": "pomalšie",
+            "uk": "словацьке слово/вираз «pomalšie»",
+            "ru": "словацкое слово/выражение «pomalšie»",
+            "en": "Slovak word/expression “pomalšie”",
+            "pronunciationUk": "pomalшie",
+            "exampleSk": "V tejto situácii používam výraz pomalšie.",
+            "exampleUk": "У цій ситуації я використовую вираз «pomalšie».",
+            "exampleRu": "В этой ситуации я использую выражение «pomalšie».",
+            "exampleEn": "In this situation I use “pomalšie”."
+          }
+        ],
+        "button": "До практики"
+      },
+      "words": [
+        {
+          "id": "b1-s07-l38-w01",
+          "sk": "dariť sa",
+          "uk": "словацьке слово/вираз «dariť sa»",
+          "ru": "словацкое слово/выражение «dariť sa»",
+          "en": "Slovak word/expression “dariť sa”",
+          "pronunciationUk": "dariть sa",
+          "exampleSk": "V tejto situácii používam výraz dariť sa.",
+          "exampleUk": "У цій ситуації я використовую вираз «dariť sa».",
+          "exampleRu": "В этой ситуации я использую выражение «dariť sa».",
+          "exampleEn": "In this situation I use “dariť sa”.",
+          "level": "B1",
+          "topic": "Čo mi ide dobre?",
+          "tags": [
+            "b1_s07",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s07-l38-w02",
+          "sk": "ísť dobre",
+          "uk": "словацьке слово/вираз «ísť dobre»",
+          "ru": "словацкое слово/выражение «ísť dobre»",
+          "en": "Slovak word/expression “ísť dobre”",
+          "pronunciationUk": "іsть dobre",
+          "exampleSk": "V tejto situácii používam výraz ísť dobre.",
+          "exampleUk": "У цій ситуації я використовую вираз «ísť dobre».",
+          "exampleRu": "В этой ситуации я использую выражение «ísť dobre».",
+          "exampleEn": "In this situation I use “ísť dobre”.",
+          "level": "B1",
+          "topic": "Čo mi ide dobre?",
+          "tags": [
+            "b1_s07",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s07-l38-w03",
+          "sk": "slabá stránka",
+          "uk": "словацьке слово/вираз «slabá stránka»",
+          "ru": "словацкое слово/выражение «slabá stránka»",
+          "en": "Slovak word/expression “slabá stránka”",
+          "pronunciationUk": "slabа strаnka",
+          "exampleSk": "V tejto situácii používam výraz slabá stránka.",
+          "exampleUk": "У цій ситуації я використовую вираз «slabá stránka».",
+          "exampleRu": "В этой ситуации я использую выражение «slabá stránka».",
+          "exampleEn": "In this situation I use “slabá stránka”.",
+          "level": "B1",
+          "topic": "Čo mi ide dobre?",
+          "tags": [
+            "b1_s07",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s07-l38-w04",
+          "sk": "silná stránka",
+          "uk": "словацьке слово/вираз «silná stránka»",
+          "ru": "словацкое слово/выражение «silná stránka»",
+          "en": "Slovak word/expression “silná stránka”",
+          "pronunciationUk": "silnа strаnka",
+          "exampleSk": "V tejto situácii používam výraz silná stránka.",
+          "exampleUk": "У цій ситуації я використовую вираз «silná stránka».",
+          "exampleRu": "В этой ситуации я использую выражение «silná stránka».",
+          "exampleEn": "In this situation I use “silná stránka”.",
+          "level": "B1",
+          "topic": "Čo mi ide dobre?",
+          "tags": [
+            "b1_s07",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s07-l38-w05",
+          "sk": "zvládnuť",
+          "uk": "словацьке слово/вираз «zvládnuť»",
+          "ru": "словацкое слово/выражение «zvládnuť»",
+          "en": "Slovak word/expression “zvládnuť”",
+          "pronunciationUk": "zvlаdnuть",
+          "exampleSk": "V tejto situácii používam výraz zvládnuť.",
+          "exampleUk": "У цій ситуації я використовую вираз «zvládnuť».",
+          "exampleRu": "В этой ситуации я использую выражение «zvládnuť».",
+          "exampleEn": "In this situation I use “zvládnuť”.",
+          "level": "B1",
+          "topic": "Čo mi ide dobre?",
+          "tags": [
+            "b1_s07",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s07-l38-w06",
+          "sk": "rozumieť",
+          "uk": "словацьке слово/вираз «rozumieť»",
+          "ru": "словацкое слово/выражение «rozumieť»",
+          "en": "Slovak word/expression “rozumieť”",
+          "pronunciationUk": "rozumieть",
+          "exampleSk": "V tejto situácii používam výraz rozumieť.",
+          "exampleUk": "У цій ситуації я використовую вираз «rozumieť».",
+          "exampleRu": "В этой ситуации я использую выражение «rozumieť».",
+          "exampleEn": "In this situation I use “rozumieť”.",
+          "level": "B1",
+          "topic": "Čo mi ide dobre?",
+          "tags": [
+            "b1_s07",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s07-l38-w07",
+          "sk": "zlepšovať sa",
+          "uk": "словацьке слово/вираз «zlepšovať sa»",
+          "ru": "словацкое слово/выражение «zlepšovať sa»",
+          "en": "Slovak word/expression “zlepšovať sa”",
+          "pronunciationUk": "zlepшovaть sa",
+          "exampleSk": "V tejto situácii používam výraz zlepšovať sa.",
+          "exampleUk": "У цій ситуації я використовую вираз «zlepšovať sa».",
+          "exampleRu": "В этой ситуации я использую выражение «zlepšovať sa».",
+          "exampleEn": "In this situation I use “zlepšovať sa”.",
+          "level": "B1",
+          "topic": "Čo mi ide dobre?",
+          "tags": [
+            "b1_s07",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        },
+        {
+          "id": "b1-s07-l38-w08",
+          "sk": "pomalšie",
+          "uk": "словацьке слово/вираз «pomalšie»",
+          "ru": "словацкое слово/выражение «pomalšie»",
+          "en": "Slovak word/expression “pomalšie”",
+          "pronunciationUk": "pomalшie",
+          "exampleSk": "V tejto situácii používam výraz pomalšie.",
+          "exampleUk": "У цій ситуації я використовую вираз «pomalšie».",
+          "exampleRu": "В этой ситуации я использую выражение «pomalšie».",
+          "exampleEn": "In this situation I use “pomalšie”.",
+          "level": "B1",
+          "topic": "Čo mi ide dobre?",
+          "tags": [
+            "b1_s07",
+            "ownership:new"
+          ],
+          "ownership": "NEW",
+          "partOfSpeech": "phrase"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "b1-s07-l38-e01",
+          "lessonId": "b1-s07-l38",
+          "type": "single_choice",
+          "order": 1,
+          "question": "Що тренує словацька одиниця «dariť sa»?",
+          "questionLocalized": {
+            "uk": "Що тренує словацька одиниця «dariť sa»?",
+            "ru": "Что тренирует словацкая единица «dariť sa»?",
+            "en": "What does the Slovak item “dariť sa” train?"
+          },
+          "wordIds": [
+            "b1-s07-l38-w01"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "словацьке слово/вираз «dariť sa»",
+                "ru": "словацкое слово/выражение «dariť sa»",
+                "en": "Slovak word/expression “dariť sa”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "словацьке слово/вираз «ísť dobre»",
+                "ru": "словацкое слово/выражение «ísť dobre»",
+                "en": "Slovak word/expression “ísť dobre”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "словацьке слово/вираз «slabá stránka»",
+                "ru": "словацкое слово/выражение «slabá stránka»",
+                "en": "Slovak word/expression “slabá stránka”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s07-l38-e02",
+          "lessonId": "b1-s07-l38",
+          "type": "matching",
+          "order": 2,
+          "question": "З'єднай словацькі одиниці з поясненнями.",
+          "questionLocalized": {
+            "uk": "З'єднай словацькі одиниці з поясненнями.",
+            "ru": "Соедини словацкие единицы с объяснениями.",
+            "en": "Match Slovak items with explanations."
+          },
+          "wordIds": [
+            "b1-s07-l38-w01",
+            "b1-s07-l38-w02",
+            "b1-s07-l38-w03",
+            "b1-s07-l38-w04"
+          ],
+          "pairs": [
+            {
+              "left": "dariť sa",
+              "right": "словацьке слово/вираз «dariť sa»",
+              "rightRu": "словацкое слово/выражение «dariť sa»",
+              "rightEn": "Slovak word/expression “dariť sa”"
+            },
+            {
+              "left": "ísť dobre",
+              "right": "словацьке слово/вираз «ísť dobre»",
+              "rightRu": "словацкое слово/выражение «ísť dobre»",
+              "rightEn": "Slovak word/expression “ísť dobre”"
+            },
+            {
+              "left": "slabá stránka",
+              "right": "словацьке слово/вираз «slabá stránka»",
+              "rightRu": "словацкое слово/выражение «slabá stránka»",
+              "rightEn": "Slovak word/expression “slabá stránka”"
+            },
+            {
+              "left": "silná stránka",
+              "right": "словацьке слово/вираз «silná stránka»",
+              "rightRu": "словацкое слово/выражение «silná stránka»",
+              "rightEn": "Slovak word/expression “silná stránka”"
+            }
+          ]
+        },
+        {
+          "id": "b1-s07-l38-e03",
+          "lessonId": "b1-s07-l38",
+          "type": "fill_blank",
+          "order": 3,
+          "question": "Впиши словацькою: словацьке слово/вираз «slabá stránka».",
+          "questionLocalized": {
+            "uk": "Впиши словацькою: словацьке слово/вираз «slabá stránka».",
+            "ru": "Впиши по-словацки: словацкое слово/выражение «slabá stránka».",
+            "en": "Write in Slovak: Slovak word/expression “slabá stránka”."
+          },
+          "wordIds": [
+            "b1-s07-l38-w03"
+          ],
+          "sentence": "______",
+          "acceptedAnswers": [
+            "slabá stránka"
+          ],
+          "hint": {
+            "uk": "Початок: s…",
+            "ru": "Начало: s…",
+            "en": "Start: s…"
+          }
+        },
+        {
+          "id": "b1-s07-l38-e04",
+          "lessonId": "b1-s07-l38",
+          "type": "sentence_builder",
+          "order": 4,
+          "question": "Склади природне словацьке речення.",
+          "questionLocalized": {
+            "uk": "Склади природне словацьке речення.",
+            "ru": "Собери естественное словацкое предложение.",
+            "en": "Build a natural Slovak sentence."
+          },
+          "wordIds": [
+            "b1-s07-l38-w04"
+          ],
+          "tokens": [
+            "Používam",
+            "silná stránka",
+            "v",
+            "reálnej",
+            "situácii."
+          ],
+          "correctSentence": "Používam silná stránka v reálnej situácii."
+        },
+        {
+          "id": "b1-s07-l38-e05",
+          "lessonId": "b1-s07-l38",
+          "type": "multiple_select",
+          "order": 5,
+          "question": "Обери одиниці з цього уроку.",
+          "questionLocalized": {
+            "uk": "Обери одиниці з цього уроку.",
+            "ru": "Выбери единицы из этого урока.",
+            "en": "Select items from this lesson."
+          },
+          "wordIds": [
+            "b1-s07-l38-w01",
+            "b1-s07-l38-w02"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "dariť sa",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "ísť dobre",
+              "correct": true
+            },
+            {
+              "id": "c",
+              "sk": "Dnes prší.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s07-l38-e06",
+          "lessonId": "b1-s07-l38",
+          "type": "reading_comprehension",
+          "order": 6,
+          "question": "Прочитай короткий контекст і знайди точну інформацію.",
+          "questionLocalized": {
+            "uk": "Прочитай короткий контекст і знайди точну інформацію.",
+            "ru": "Прочитай короткий контекст и найди точную информацию.",
+            "en": "Read the short context and find exact information."
+          },
+          "wordIds": [
+            "b1-s07-l38-w05",
+            "b1-s07-l38-w06",
+            "b1-s07-l38-w07"
+          ],
+          "text": "Téma je Čo mi ide dobre?. V rozhovore používam výrazy zvládnuť, rozumieť a zlepšovať sa.",
+          "questions": [
+            {
+              "prompt": {
+                "uk": "Яка тема прямо названа в тексті?",
+                "ru": "Какая тема прямо названа в тексте?",
+                "en": "Which topic is directly named in the text?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "Čo mi ide dobre?",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "Počasie",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "Šport",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "b1-s07-l38-e07",
+          "lessonId": "b1-s07-l38",
+          "type": "natural_phrase",
+          "order": 7,
+          "question": "Що звучить найприродніше в цій темі?",
+          "questionLocalized": {
+            "uk": "Що звучить найприродніше в цій темі?",
+            "ru": "Что звучит естественнее всего в этой теме?",
+            "en": "What sounds most natural in this topic?"
+          },
+          "wordIds": [
+            "b1-s07-l38-w06"
+          ],
+          "situation": {
+            "uk": "Тобі потрібно використати цільову одиницю в короткій репліці.",
+            "ru": "Нужно использовать целевую единицу в короткой реплике.",
+            "en": "You need to use the target item in a short reply."
+          },
+          "options": [
+            {
+              "id": "a",
+              "sk": "Používam rozumieť v tejto téme.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Som autobus.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Včera zelený rýchlo.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s07-l38-e08",
+          "lessonId": "b1-s07-l38",
+          "type": "dropdown_blank",
+          "order": 8,
+          "question": "Обери точну словацьку одиницю: словацьке слово/вираз «zlepšovať sa».",
+          "questionLocalized": {
+            "uk": "Обери точну словацьку одиницю: словацьке слово/вираз «zlepšovať sa».",
+            "ru": "Выбери точную словацкую единицу: словацкое слово/выражение «zlepšovať sa».",
+            "en": "Choose the exact Slovak item: Slovak word/expression “zlepšovať sa”."
+          },
+          "wordIds": [
+            "b1-s07-l38-w07"
+          ],
+          "sentenceParts": [
+            {
+              "text": "Veta obsahuje "
+            },
+            {
+              "blankId": "b1",
+              "options": [
+                "zlepšovať sa",
+                "dariť sa",
+                "ísť dobre"
+              ],
+              "correct": "zlepšovať sa"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "b1-s07-l38-e09",
+          "lessonId": "b1-s07-l38",
+          "type": "dialogue_choose_reply",
+          "order": 9,
+          "question": "Обери найкращу відповідь у діалозі.",
+          "questionLocalized": {
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
+          },
+          "wordIds": [
+            "b1-s07-l38-w08"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Vieš to vysvetliť cez pomalšie?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Áno, použijem pomalšie v príklade.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Nie, toto je úplne iná téma.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Nerozumiem otázke a nereagujem.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s07-l38-e10",
+          "lessonId": "b1-s07-l38",
+          "type": "meaning_in_context",
+          "order": 10,
+          "question": "Čo znamená výraz v kontexte: «ísť dobre»?",
+          "questionLocalized": {
+            "uk": "Що означає вираз у контексті: «ísť dobre»?",
+            "ru": "Что означает выражение в контексте: «ísť dobre»?",
+            "en": "What does the item mean in context: “ísť dobre”?"
+          },
+          "wordIds": [
+            "b1-s07-l38-w02"
+          ],
+          "context": {
+            "sk": "V tejto lekcii riešime ísť dobre."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "словацьке слово/вираз «ísť dobre»",
+                "ru": "словацкое слово/выражение «ísť dobre»",
+                "en": "Slovak word/expression “ísť dobre”"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "словацьке слово/вираз «silná stránka»",
+                "ru": "словацкое слово/выражение «silná stránka»",
+                "en": "Slovak word/expression “silná stránka”"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "словацьке слово/вираз «zvládnuť»",
+                "ru": "словацкое слово/выражение «zvládnuť»",
+                "en": "Slovak word/expression “zvládnuť”"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "b1-s07-l38-e11",
+          "lessonId": "b1-s07-l38",
+          "type": "reverse_translation",
+          "order": 11,
+          "question": "Обери словацький варіант для: словацьке слово/вираз «zvládnuť».",
+          "questionLocalized": {
+            "uk": "Обери словацький варіант для: словацьке слово/вираз «zvládnuť».",
+            "ru": "Выбери словацкий вариант для: словацкое слово/выражение «zvládnuť».",
+            "en": "Choose the Slovak item for: Slovak word/expression “zvládnuť”."
+          },
+          "wordIds": [
+            "b1-s07-l38-w05"
+          ],
+          "options": [
+            "zvládnuť",
+            "slabá stránka",
+            "dariť sa"
+          ],
+          "correctAnswer": "zvládnuť"
+        },
+        {
+          "id": "b1-s07-l38-e12",
+          "lessonId": "b1-s07-l38",
+          "type": "multiple_choice_translation",
+          "order": 12,
+          "question": "Що відповідає словацькому «pomalšie»?",
+          "questionLocalized": {
+            "uk": "Що відповідає словацькому «pomalšie»?",
+            "ru": "Что соответствует словацкому «pomalšie»?",
+            "en": "What matches the Slovak “pomalšie”?"
+          },
+          "wordIds": [
+            "b1-s07-l38-w08"
+          ],
+          "options": [
+            "словацьке слово/вираз «pomalšie»",
+            "словацьке слово/вираз «ísť dobre»",
+            "словацьке слово/вираз «slabá stránka»"
+          ],
+          "correctAnswer": "словацьке слово/вираз «pomalšie»"
+        }
+      ],
+      "finalSituation": {
+        "id": "final-situation",
+        "type": "interactive_scenario",
+        "title": {
+          "uk": "Čo mi ide dobre?: життєва ситуація",
+          "ru": "Čo mi ide dobre?: жизненная ситуация",
+          "en": "Čo mi ide dobre?: real-life situation"
+        },
+        "description": {
+          "uk": "Обери репліку, яка природно вирішує ситуацію на рівні B1.",
+          "ru": "Выбери реплику, которая естественно решает ситуацию на уровне B1.",
+          "en": "Choose the reply that naturally solves the situation at B1 level."
+        },
+        "steps": [
+          {
+            "id": "f1",
+            "prompt": {
+              "uk": "Тебе просять коротко пояснити ситуацію. Що відповісти?",
+              "ru": "Тебя просят коротко объяснить ситуацию. Что ответить?",
+              "en": "You are asked to briefly explain the situation. What do you answer?"
+            },
+            "options": [
+              {
+                "sk": "Najprv vysvetlím tému Čo mi ide dobre? a uvediem príklad.",
+                "correct": true
+              },
+              {
+                "sk": "Neviem nič povedať.",
+                "correct": false
+              },
+              {
+                "sk": "To nesúvisí s témou.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "prompt": {
+              "uk": "Потрібно відреагувати спокійно й конкретно.",
+              "ru": "Нужно отреагировать спокойно и конкретно.",
+              "en": "You need to react calmly and concretely."
+            },
+            "options": [
+              {
+                "sk": "Rozumiem. Skúsim to povedať jasnejšie cez dariť sa.",
+                "correct": true
+              },
+              {
+                "sk": "To je modrý autobus.",
+                "correct": false
+              },
+              {
+                "sk": "Nechcem hovoriť vôbec.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f3",
+            "prompt": {
+              "uk": "Потрібно завершити розмову практичною домовленістю.",
+              "ru": "Нужно завершить разговор практической договоренностью.",
+              "en": "You need to finish with a practical agreement."
+            },
+            "options": [
+              {
+                "sk": "Dohodnime sa na ďalšom kroku a potvrdím to správou.",
+                "correct": true
+              },
+              {
+                "sk": "Zajtra bolo včera.",
+                "correct": false
+              },
+              {
+                "sk": "Nemám žiadny návrh.",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "passRequirement": "3/3",
+        "successMessage": {
+          "uk": "Hotovo: použil si tému v realistickej situácii.",
+          "ru": "Готово: ты использовал тему в реалистичной ситуации.",
+          "en": "Done: you used the topic in a realistic situation."
+        }
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": {
+          "uk": "Урок завершено",
+          "ru": "Урок завершён",
+          "en": "Lesson complete"
+        },
+        "subtitle": {
+          "uk": "Ти завершив ще один крок рівня B1.",
+          "ru": "Ты завершил ещё один шаг уровня B1.",
+          "en": "You completed another B1 step."
+        },
+        "xpReward": 140,
+        "newWordsCount": 8,
+        "exercisesCompleted": 12,
+        "nowYouKnow": [
+          "говорити на тему «Čo mi ide dobre?»",
+          "зв'язувати думки у коротку відповідь",
+          "реагувати в практичній ситуації"
+        ],
+        "mistakesMessage": {
+          "uk": "Повтори тільки ті вправи, де відповідь ще не автоматична.",
+          "ru": "Повтори только те упражнения, где ответ ещё не автоматический.",
+          "en": "Repeat only the exercises where the answer is not automatic yet."
+        },
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "skills": [
+          {
+            "id": "vocabulary",
+            "label": {
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
+            },
+            "weight": 0.3
+          },
+          {
+            "id": "communication",
+            "label": {
+              "uk": "комунікація",
+              "ru": "коммуникация",
+              "en": "communication"
+            },
+            "weight": 0.4
+          },
+          {
+            "id": "transfer",
+            "label": {
+              "uk": "перенесення",
+              "ru": "перенос",
+              "en": "transfer"
+            },
+            "weight": 0.3
+          }
+        ],
+        "nextLesson": {
+          "id": "b1-s07-l39"
+        }
+      }
+    }
+  ]
+}
