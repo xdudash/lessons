@@ -11,26 +11,26 @@
         "en": "Ako to myslíš?"
       },
       "topic": {
-        "sk": "уточнення сенсу й наміру співрозмовника",
+        "sk": "Ako to myslíš?",
         "uk": "уточнення сенсу й наміру співрозмовника",
-        "ru": "уточнення сенсу й наміру співрозмовника",
-        "en": "уточнення сенсу й наміру співрозмовника"
+        "ru": "уточнение смысла и намерения собеседника",
+        "en": "clarifying meaning and speaker intention"
       },
       "description": {
-        "sk": "Precvičíš si B2 komunikáciu: уточнення сенсу й наміру співрозмовника.",
-        "uk": "Тренуємо B2-комунікацію: навчитися не губитися, коли фраза звучить двозначно: уточнити, чи людина говорить буквально, натякає або просто формулює нечітко.",
-        "ru": "Тренируем B2-коммуникацию: навчитися не губитися, коли фраза звучить двозначно: уточнити, чи людина говорить буквально, натякає або просто формулює нечітко.",
-        "en": "Practice B2 communication: уточнення сенсу й наміру співрозмовника."
+        "sk": "Precvičíš si komunikáciu na úrovni B2: Ako to myslíš?.",
+        "uk": "Тренуємо B2-комунікацію: навчитися уточнювати двозначну фразу без конфлікту.",
+        "ru": "Тренируем B2-коммуникацию: научиться уточнять двусмысленную фразу без конфликта.",
+        "en": "Practice B2 communication: learn to clarify an ambiguous phrase without conflict."
       },
       "order": 1,
       "xpReward": 180,
       "estimatedMinutes": 32,
       "isPublished": false,
       "intro": {
-        "sk": "Precvičíš si B2 komunikáciu: уточнення сенсу й наміру співрозмовника.",
-        "uk": "Тренуємо B2-комунікацію: навчитися не губитися, коли фраза звучить двозначно: уточнити, чи людина говорить буквально, натякає або просто формулює нечітко.",
-        "ru": "Тренируем B2-коммуникацию: навчитися не губитися, коли фраза звучить двозначно: уточнити, чи людина говорить буквально, натякає або просто формулює нечітко.",
-        "en": "Practice B2 communication: уточнення сенсу й наміру співрозмовника."
+        "sk": "Precvičíš si komunikáciu na úrovni B2: Ako to myslíš?.",
+        "uk": "Тренуємо B2-комунікацію: навчитися уточнювати двозначну фразу без конфлікту.",
+        "ru": "Тренируем B2-коммуникацию: научиться уточнять двусмысленную фразу без конфликта.",
+        "en": "Practice B2 communication: learn to clarify an ambiguous phrase without conflict."
       },
       "completionMessage": {
         "sk": "Výborne. Dokážeš reagovať presnejšie a pokojnejšie.",
@@ -61,9 +61,9 @@
           "en": "Ako to myslíš?"
         },
         "shortDescription": {
-          "uk": "Тренуємо B2-комунікацію: навчитися не губитися, коли фраза звучить двозначно: уточнити, чи людина говорить буквально, натякає або просто формулює нечітко.",
-          "ru": "Тренируем B2-коммуникацию: навчитися не губитися, коли фраза звучить двозначно: уточнити, чи людина говорить буквально, натякає або просто формулює нечітко.",
-          "en": "Practice B2 communication: уточнення сенсу й наміру співрозмовника."
+          "uk": "Тренуємо B2-комунікацію: навчитися уточнювати двозначну фразу без конфлікту.",
+          "ru": "Тренируем B2-коммуникацию: научиться уточнять двусмысленную фразу без конфликта.",
+          "en": "Practice B2 communication: learn to clarify an ambiguous phrase without conflict."
         },
         "outcomes": [
           {
@@ -108,9 +108,9 @@
             "en": "Why this matters at B2"
           },
           "body": {
-            "uk": "навчитися не губитися, коли фраза звучить двозначно: уточнити, чи людина говорить буквально, натякає або просто формулює нечітко.",
-            "ru": "навчитися не губитися, коли фраза звучить двозначно: уточнити, чи людина говорить буквально, натякає або просто формулює нечітко.",
-            "en": "You learn to handle nuance: уточнення сенсу й наміру співрозмовника."
+            "uk": "навчитися уточнювати двозначну фразу без конфлікту.",
+            "ru": "научиться уточнять двусмысленную фразу без конфликта.",
+            "en": "learn to clarify an ambiguous phrase without conflict."
           },
           "examples": [
             {
@@ -238,8 +238,8 @@
             "pronunciationUk": "myslieть tиm",
             "exampleSk": "Čo tým presne myslíš?",
             "exampleUk": "Що саме ти цим маєш на увазі?",
-            "exampleRu": "Що саме ти цим маєш на увазі?",
-            "exampleEn": "to mean by that"
+            "exampleRu": "Пример: иметь этим в виду.",
+            "exampleEn": "Example phrase for: to mean by that."
           },
           {
             "wordId": "b2-s01-l001-w02",
@@ -250,8 +250,8 @@
             "pronunciationUk": "chаpaть",
             "exampleSk": "Chápem to správne?",
             "exampleUk": "Я правильно це розумію?",
-            "exampleRu": "Я правильно це розумію?",
-            "exampleEn": "to understand"
+            "exampleRu": "Пример: понимать.",
+            "exampleEn": "Example phrase for: to understand."
           },
           {
             "wordId": "b2-s01-l001-w03",
@@ -262,8 +262,8 @@
             "pronunciationUk": "chаpanie",
             "exampleSk": "Moje chápanie situácie je trochu iné.",
             "exampleUk": "Моє розуміння ситуації трохи інше.",
-            "exampleRu": "Моє розуміння ситуації трохи інше.",
-            "exampleEn": "understanding"
+            "exampleRu": "Пример: понимание.",
+            "exampleEn": "Example phrase for: understanding."
           },
           {
             "wordId": "b2-s01-l001-w04",
@@ -274,8 +274,8 @@
             "pronunciationUk": "narажka",
             "exampleSk": "Bola to narážka na včerajší problém?",
             "exampleUk": "Це був натяк на вчорашню проблему?",
-            "exampleRu": "Це був натяк на вчорашню проблему?",
-            "exampleEn": "hint, pointed remark"
+            "exampleRu": "Пример: намёк, колкий намёк.",
+            "exampleEn": "Example phrase for: hint, pointed remark."
           },
           {
             "wordId": "b2-s01-l001-w05",
@@ -286,8 +286,8 @@
             "pronunciationUk": "naznaчiть",
             "exampleSk": "Chcel si naznačiť, že máme zmeniť plán?",
             "exampleUk": "Ти хотів натякнути, що нам треба змінити план?",
-            "exampleRu": "Ти хотів натякнути, що нам треба змінити план?",
-            "exampleEn": "to imply"
+            "exampleRu": "Пример: намекнуть.",
+            "exampleEn": "Example phrase for: to imply."
           },
           {
             "wordId": "b2-s01-l001-w06",
@@ -298,8 +298,8 @@
             "pronunciationUk": "doslova",
             "exampleSk": "Myslíš to doslova alebo obrazne?",
             "exampleUk": "Ти маєш це на увазі буквально чи образно?",
-            "exampleRu": "Ти маєш це на увазі буквально чи образно?",
-            "exampleEn": "literally"
+            "exampleRu": "Пример: буквально.",
+            "exampleEn": "Example phrase for: literally."
           },
           {
             "wordId": "b2-s01-l001-w07",
@@ -310,8 +310,8 @@
             "pronunciationUk": "v prenesenom zmysle",
             "exampleSk": "Povedala to v prenesenom zmysle.",
             "exampleUk": "Вона сказала це в переносному значенні.",
-            "exampleRu": "Вона сказала це в переносному значенні.",
-            "exampleEn": "figuratively"
+            "exampleRu": "Пример: в переносном смысле.",
+            "exampleEn": "Example phrase for: figuratively."
           },
           {
             "wordId": "b2-s01-l001-w08",
@@ -322,8 +322,8 @@
             "pronunciationUk": "pointa",
             "exampleSk": "Pointa je, že potrebujeme viac času.",
             "exampleUk": "Суть у тому, що нам потрібно більше часу.",
-            "exampleRu": "Суть у тому, що нам потрібно більше часу.",
-            "exampleEn": "main point"
+            "exampleRu": "Пример: суть, главная мысль.",
+            "exampleEn": "Example phrase for: main point."
           }
         ],
         "button": "До практики"
@@ -338,8 +338,8 @@
           "pronunciationUk": "myslieть tиm",
           "exampleSk": "Čo tým presne myslíš?",
           "exampleUk": "Що саме ти цим маєш на увазі?",
-          "exampleRu": "Що саме ти цим маєш на увазі?",
-          "exampleEn": "to mean by that",
+          "exampleRu": "Пример: иметь этим в виду.",
+          "exampleEn": "Example phrase for: to mean by that.",
           "level": "B2",
           "topic": "Ako to myslíš?",
           "tags": [
@@ -359,8 +359,8 @@
           "pronunciationUk": "chаpaть",
           "exampleSk": "Chápem to správne?",
           "exampleUk": "Я правильно це розумію?",
-          "exampleRu": "Я правильно це розумію?",
-          "exampleEn": "to understand",
+          "exampleRu": "Пример: понимать.",
+          "exampleEn": "Example phrase for: to understand.",
           "level": "B2",
           "topic": "Ako to myslíš?",
           "tags": [
@@ -380,8 +380,8 @@
           "pronunciationUk": "chаpanie",
           "exampleSk": "Moje chápanie situácie je trochu iné.",
           "exampleUk": "Моє розуміння ситуації трохи інше.",
-          "exampleRu": "Моє розуміння ситуації трохи інше.",
-          "exampleEn": "understanding",
+          "exampleRu": "Пример: понимание.",
+          "exampleEn": "Example phrase for: understanding.",
           "level": "B2",
           "topic": "Ako to myslíš?",
           "tags": [
@@ -401,8 +401,8 @@
           "pronunciationUk": "narажka",
           "exampleSk": "Bola to narážka na včerajší problém?",
           "exampleUk": "Це був натяк на вчорашню проблему?",
-          "exampleRu": "Це був натяк на вчорашню проблему?",
-          "exampleEn": "hint, pointed remark",
+          "exampleRu": "Пример: намёк, колкий намёк.",
+          "exampleEn": "Example phrase for: hint, pointed remark.",
           "level": "B2",
           "topic": "Ako to myslíš?",
           "tags": [
@@ -422,8 +422,8 @@
           "pronunciationUk": "naznaчiть",
           "exampleSk": "Chcel si naznačiť, že máme zmeniť plán?",
           "exampleUk": "Ти хотів натякнути, що нам треба змінити план?",
-          "exampleRu": "Ти хотів натякнути, що нам треба змінити план?",
-          "exampleEn": "to imply",
+          "exampleRu": "Пример: намекнуть.",
+          "exampleEn": "Example phrase for: to imply.",
           "level": "B2",
           "topic": "Ako to myslíš?",
           "tags": [
@@ -443,8 +443,8 @@
           "pronunciationUk": "doslova",
           "exampleSk": "Myslíš to doslova alebo obrazne?",
           "exampleUk": "Ти маєш це на увазі буквально чи образно?",
-          "exampleRu": "Ти маєш це на увазі буквально чи образно?",
-          "exampleEn": "literally",
+          "exampleRu": "Пример: буквально.",
+          "exampleEn": "Example phrase for: literally.",
           "level": "B2",
           "topic": "Ako to myslíš?",
           "tags": [
@@ -464,8 +464,8 @@
           "pronunciationUk": "v prenesenom zmysle",
           "exampleSk": "Povedala to v prenesenom zmysle.",
           "exampleUk": "Вона сказала це в переносному значенні.",
-          "exampleRu": "Вона сказала це в переносному значенні.",
-          "exampleEn": "figuratively",
+          "exampleRu": "Пример: в переносном смысле.",
+          "exampleEn": "Example phrase for: figuratively.",
           "level": "B2",
           "topic": "Ako to myslíš?",
           "tags": [
@@ -485,8 +485,8 @@
           "pronunciationUk": "pointa",
           "exampleSk": "Pointa je, že potrebujeme viac času.",
           "exampleUk": "Суть у тому, що нам потрібно більше часу.",
-          "exampleRu": "Суть у тому, що нам потрібно більше часу.",
-          "exampleEn": "main point",
+          "exampleRu": "Пример: суть, главная мысль.",
+          "exampleEn": "Example phrase for: main point.",
           "level": "B2",
           "topic": "Ako to myslíš?",
           "tags": [
@@ -602,7 +602,7 @@
             "b2-s01-l001-w02"
           ],
           "context": {
-            "sk": "Nechcem reagovať automaticky. Najprv potrebujem chápať situáciu."
+            "sk": "Nechcem reagovať automaticky. Najprv potrebujem lepšie pochopiť situáciu."
           },
           "options": [
             {
@@ -763,7 +763,7 @@
             "b2-s01-l001-w07",
             "b2-s01-l001-w08"
           ],
-          "text": "Správa znie neutrálne, ale v prenesenom zmysle naznačuje, že druhá strana čaká vysvetlenie. Pointa nie je útok, ale potreba vyjasniť situáciu.",
+          "text": "Správa znie neutrálne, ale jej tón naznačuje, že druhá strana čaká vysvetlenie. Pointa nie je útok, ale potreba vyjasniť situáciu.",
           "questions": [
             {
               "prompt": {
@@ -920,8 +920,8 @@
         },
         "description": {
           "uk": "Колега написав коротке повідомлення, яке можна зрозуміти двома способами. Потрібно зберегти тон і уточнити зміст.",
-          "ru": "Колега написав коротке повідомлення, яке можна зрозуміти двома способами. Потрібно зберегти тон і уточнити зміст.",
-          "en": "Choose replies that clarify meaning, keep the tone calm and move the conversation forward."
+          "ru": "Сообщение можно понять двумя способами. Нужно спокойно уточнить смысл.",
+          "en": "A message can be understood in two ways. Clarify the meaning calmly."
         },
         "steps": [
           {
