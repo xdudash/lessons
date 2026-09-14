@@ -1,0 +1,1191 @@
+{
+  "lessons": [
+    {
+      "id": "c2-s03-l012",
+      "sectionId": "c2_s03",
+      "level": "C2",
+      "title": {
+        "sk": "Príčina, dôvod a dôsledok",
+        "uk": "Príčina, dôvod a dôsledok",
+        "ru": "Príčina, dôvod a dôsledok",
+        "en": "Príčina, dôvod a dôsledok"
+      },
+      "topic": {
+        "sk": "Príčina, dôvod a dôsledok",
+        "uk": "Príčina, dôvod a dôsledok",
+        "ru": "Príčina, dôvod a dôsledok",
+        "en": "Príčina, dôvod a dôsledok"
+      },
+      "description": {
+        "sk": "Precvičíš si tému Príčina, dôvod a dôsledok v komplexnej komunikácii na úrovni C2.",
+        "uk": "Тренуємо тему «Príčina, dôvod a dôsledok»: аргументовано, точно й у реальному контексті.",
+        "ru": "точно выражаем причинно-следственные отношения в речи и письме.",
+        "en": "Practice the C2 topic “Príčina, dôvod a dôsledok” in complex communication. Section: Complex grammar in real use."
+      },
+      "order": 12,
+      "xpReward": 260,
+      "estimatedMinutes": 45,
+      "isPublished": false,
+      "intro": {
+        "sk": "Precvičíš si tému Príčina, dôvod a dôsledok v komplexnej komunikácii na úrovni C2.",
+        "uk": "Тренуємо тему «Príčina, dôvod a dôsledok»: аргументовано, точно й у реальному контексті.",
+        "ru": "точно выражаем причинно-следственные отношения в речи и письме.",
+        "en": "Practice the C2 topic “Príčina, dôvod a dôsledok” in complex communication. Section: Complex grammar in real use."
+      },
+      "completionMessage": {
+        "sk": "Výborne. Tému vieš použiť v náročnejšej komunikácii.",
+        "uk": "Добре. Тепер можеш використати тему в складнішій розмові.",
+        "ru": "Хорошо. Теперь можешь использовать тему в более сложном разговоре.",
+        "en": "Good. You can now use the topic in more complex communication."
+      },
+      "updatedAt": "2026-09-14T03:30:00Z",
+      "localization": {
+        "uiLanguages": [
+          "uk",
+          "ru",
+          "en"
+        ],
+        "targetLanguage": "sk",
+        "fallbackUiLanguage": "uk"
+      },
+      "assets": {
+        "images": {},
+        "audio": {}
+      },
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": {
+          "sk": "Príčina, dôvod a dôsledok",
+          "uk": "Príčina, dôvod a dôsledok",
+          "ru": "Príčina, dôvod a dôsledok",
+          "en": "Príčina, dôvod a dôsledok"
+        },
+        "shortDescription": {
+          "uk": "Тренуємо тему «Príčina, dôvod a dôsledok»: аргументовано, точно й у реальному контексті.",
+          "ru": "точно выражаем причинно-следственные отношения в речи и письме.",
+          "en": "Practice the C2 topic “Príčina, dôvod a dôsledok” in complex communication. Section: Complex grammar in real use."
+        },
+        "outcomes": [
+          {
+            "uk": "пояснити думку точніше й довше",
+            "ru": "объяснить мысль точнее и длиннее",
+            "en": "explain an idea more precisely and at greater length"
+          },
+          {
+            "uk": "використати нові C2-фрази в контексті",
+            "ru": "использовать новые C2-фразы в контексте",
+            "en": "use new C2 phrases in context"
+          },
+          {
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
+          }
+        ],
+        "newWords": [
+          "c2-s03-l012-w01",
+          "c2-s03-l012-w02",
+          "c2-s03-l012-w03",
+          "c2-s03-l012-w04",
+          "c2-s03-l012-w05",
+          "c2-s03-l012-w06",
+          "c2-s03-l012-w07",
+          "c2-s03-l012-w08"
+        ],
+        "exercisesCount": 16,
+        "reward": "+260 XP",
+        "estimatedMinutes": 45,
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "id": "t1",
+          "screenType": "theory",
+          "order": 1,
+          "title": {
+            "uk": "Фокус уроку",
+            "ru": "Фокус урока",
+            "en": "Lesson focus"
+          },
+          "body": {
+            "uk": "Тренуємо тему «Príčina, dôvod a dôsledok»: аргументовано, точно й у реальному контексті.",
+            "ru": "точно выражаем причинно-следственные отношения в речи и письме.",
+            "en": "Practice the C2 topic “Príčina, dôvod a dôsledok” in complex communication. Section: Complex grammar in real use."
+          },
+          "examples": [
+            {
+              "sk": "V téme Príčina, dôvod a dôsledok použijem výraz: dôvod.",
+              "translation": {
+                "uk": "У темі «Príčina, dôvod a dôsledok» використовую: причина.",
+                "ru": "В теме «Príčina, dôvod a dôsledok» использую: причина.",
+                "en": "In “Príčina, dôvod a dôsledok”, I use: reason."
+              }
+            },
+            {
+              "sk": "V téme Príčina, dôvod a dôsledok použijem výraz: príčina.",
+              "translation": {
+                "uk": "У темі «Príčina, dôvod a dôsledok» використовую: C2-поняття: príčina.",
+                "ru": "В теме «Príčina, dôvod a dôsledok» использую: C2-понятие: príčina.",
+                "en": "In “Príčina, dôvod a dôsledok”, I use: C2 concept: príčina."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "На C2 важливо не просто відповісти, а показати причину, умову, наслідок або нюанс.",
+            "ru": "На C2 важно не просто ответить, а показать причину, условие, последствие или нюанс.",
+            "en": "At C2, show a reason, condition, consequence or nuance."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t2",
+          "screenType": "theory",
+          "order": 2,
+          "title": {
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer model"
+          },
+          "body": {
+            "uk": "Будуй відповідь за схемою: контекст -> позиція -> аргумент -> приклад -> наступний крок.",
+            "ru": "Строй ответ по схеме: контекст -> позиция -> аргумент -> пример -> следующий шаг.",
+            "en": "Build the answer as: context -> position -> argument -> example -> next step."
+          },
+          "examples": [
+            {
+              "sk": "Z môjho pohľadu je dôležité najprv vysvetliť kontext.",
+              "translation": {
+                "uk": "З моєї точки зору важливо спочатку пояснити контекст.",
+                "ru": "С моей точки зрения важно сначала объяснить контекст.",
+                "en": "From my point of view, it is important to explain the context first."
+              }
+            },
+            {
+              "sk": "Na druhej strane treba zohľadniť aj praktické dôsledky.",
+              "translation": {
+                "uk": "З іншого боку, треба врахувати також практичні наслідки.",
+                "ru": "С другой стороны, нужно учесть и практические последствия.",
+                "en": "On the other hand, practical consequences must also be considered."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "Одна сильна відповідь має структуру, а не лише правильні слова.",
+            "ru": "Один сильный ответ имеет структуру, а не только правильные слова.",
+            "en": "A strong answer has structure, not only correct words."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t3",
+          "screenType": "theory",
+          "order": 3,
+          "title": {
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
+          },
+          "body": {
+            "uk": "У фіналі потрібно вибрати репліку, яка реально рухає ситуацію вперед.",
+            "ru": "В финале нужно выбрать реплику, которая реально двигает ситуацию дальше.",
+            "en": "In the final task, choose the reply that moves the situation forward."
+          },
+          "examples": [
+            {
+              "sk": "Navrhujem, aby sme si najprv ujasnili priority.",
+              "translation": {
+                "uk": "Пропоную спочатку прояснити пріоритети.",
+                "ru": "Предлагаю сначала прояснить приоритеты.",
+                "en": "I suggest clarifying priorities first."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "C2 = самостійна, зв'язна й доречна комунікація.",
+            "ru": "C2 = самостоятельная, связная и уместная коммуникация.",
+            "en": "C2 means independent, connected and appropriate communication."
+          },
+          "button": "До слів"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": {
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
+        },
+        "description": {
+          "uk": "Ці одиниці взяті з затвердженого C2-плану.",
+          "ru": "Эти единицы взяты из утвержденного C2-плана.",
+          "en": "These items come from the approved C2 plan."
+        },
+        "items": [
+          {
+            "wordId": "c2-s03-l012-w01",
+            "sk": "dôvod",
+            "uk": "причина",
+            "ru": "причина",
+            "en": "reason",
+            "pronunciationUk": "duovod",
+            "exampleSk": "V téme Príčina, dôvod a dôsledok použijem výraz: dôvod.",
+            "exampleUk": "У темі «Príčina, dôvod a dôsledok» використовую: причина.",
+            "exampleRu": "В теме «Príčina, dôvod a dôsledok» использую: причина.",
+            "exampleEn": "In “Príčina, dôvod a dôsledok”, I use: reason."
+          },
+          {
+            "wordId": "c2-s03-l012-w02",
+            "sk": "príčina",
+            "uk": "C2-поняття: príčina",
+            "ru": "C2-понятие: príčina",
+            "en": "C2 concept: príčina",
+            "pronunciationUk": "prichina",
+            "exampleSk": "V téme Príčina, dôvod a dôsledok použijem výraz: príčina.",
+            "exampleUk": "У темі «Príčina, dôvod a dôsledok» використовую: C2-поняття: príčina.",
+            "exampleRu": "В теме «Príčina, dôvod a dôsledok» использую: C2-понятие: príčina.",
+            "exampleEn": "In “Príčina, dôvod a dôsledok”, I use: C2 concept: príčina."
+          },
+          {
+            "wordId": "c2-s03-l012-w03",
+            "sk": "dôsledok",
+            "uk": "C2-поняття: dôsledok",
+            "ru": "C2-понятие: dôsledok",
+            "en": "C2 concept: dôsledok",
+            "pronunciationUk": "duosledok",
+            "exampleSk": "V téme Príčina, dôvod a dôsledok použijem výraz: dôsledok.",
+            "exampleUk": "У темі «Príčina, dôvod a dôsledok» використовую: C2-поняття: dôsledok.",
+            "exampleRu": "В теме «Príčina, dôvod a dôsledok» использую: C2-понятие: dôsledok.",
+            "exampleEn": "In “Príčina, dôvod a dôsledok”, I use: C2 concept: dôsledok."
+          },
+          {
+            "wordId": "c2-s03-l012-w04",
+            "sk": "následok",
+            "uk": "C2-поняття: následok",
+            "ru": "C2-понятие: následok",
+            "en": "C2 concept: následok",
+            "pronunciationUk": "nasledok",
+            "exampleSk": "V téme Príčina, dôvod a dôsledok použijem výraz: následok.",
+            "exampleUk": "У темі «Príčina, dôvod a dôsledok» використовую: C2-поняття: následok.",
+            "exampleRu": "В теме «Príčina, dôvod a dôsledok» использую: C2-понятие: následok.",
+            "exampleEn": "In “Príčina, dôvod a dôsledok”, I use: C2 concept: následok."
+          },
+          {
+            "wordId": "c2-s03-l012-w05",
+            "sk": "viesť k",
+            "uk": "C2-поняття: viesť k",
+            "ru": "C2-понятие: viesť k",
+            "en": "C2 concept: viesť k",
+            "pronunciationUk": "viest' k",
+            "exampleSk": "V téme Príčina, dôvod a dôsledok použijem výraz: viesť k.",
+            "exampleUk": "У темі «Príčina, dôvod a dôsledok» використовую: C2-поняття: viesť k.",
+            "exampleRu": "В теме «Príčina, dôvod a dôsledok» использую: C2-понятие: viesť k.",
+            "exampleEn": "In “Príčina, dôvod a dôsledok”, I use: C2 concept: viesť k."
+          },
+          {
+            "wordId": "c2-s03-l012-w06",
+            "sk": "vyplývať z",
+            "uk": "C2-поняття: vyplývať z",
+            "ru": "C2-понятие: vyplývať z",
+            "en": "C2 concept: vyplývať z",
+            "pronunciationUk": "vyplyvat' z",
+            "exampleSk": "V téme Príčina, dôvod a dôsledok použijem výraz: vyplývať z.",
+            "exampleUk": "У темі «Príčina, dôvod a dôsledok» використовую: C2-поняття: vyplývať z.",
+            "exampleRu": "В теме «Príčina, dôvod a dôsledok» использую: C2-понятие: vyplývať z.",
+            "exampleEn": "In “Príčina, dôvod a dôsledok”, I use: C2 concept: vyplývať z."
+          },
+          {
+            "wordId": "c2-s03-l012-w07",
+            "sk": "pretože",
+            "uk": "тому що",
+            "ru": "потому что",
+            "en": "'Cause",
+            "pronunciationUk": "pretozhe",
+            "exampleSk": "V téme Príčina, dôvod a dôsledok použijem výraz: pretože.",
+            "exampleUk": "У темі «Príčina, dôvod a dôsledok» використовую: тому що.",
+            "exampleRu": "В теме «Príčina, dôvod a dôsledok» использую: потому что.",
+            "exampleEn": "In “Príčina, dôvod a dôsledok”, I use: 'Cause."
+          },
+          {
+            "wordId": "c2-s03-l012-w08",
+            "sk": "v dôsledku",
+            "uk": "C2-поняття: v dôsledku",
+            "ru": "C2-понятие: v dôsledku",
+            "en": "C2 concept: v dôsledku",
+            "pronunciationUk": "v duosledku",
+            "exampleSk": "V téme Príčina, dôvod a dôsledok použijem výraz: v dôsledku.",
+            "exampleUk": "У темі «Príčina, dôvod a dôsledok» використовую: C2-поняття: v dôsledku.",
+            "exampleRu": "В теме «Príčina, dôvod a dôsledok» использую: C2-понятие: v dôsledku.",
+            "exampleEn": "In “Príčina, dôvod a dôsledok”, I use: C2 concept: v dôsledku."
+          }
+        ],
+        "button": "До практики"
+      },
+      "words": [
+        {
+          "id": "c2-s03-l012-w01",
+          "sk": "dôvod",
+          "uk": "причина",
+          "ru": "причина",
+          "en": "reason",
+          "pronunciationUk": "duovod",
+          "exampleSk": "V téme Príčina, dôvod a dôsledok použijem výraz: dôvod.",
+          "exampleUk": "У темі «Príčina, dôvod a dôsledok» використовую: причина.",
+          "exampleRu": "В теме «Príčina, dôvod a dôsledok» использую: причина.",
+          "exampleEn": "In “Príčina, dôvod a dôsledok”, I use: reason.",
+          "level": "C2",
+          "topic": "Príčina, dôvod a dôsledok",
+          "tags": [
+            "c2_s03",
+            "c2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c2-s03-l012-w02",
+          "sk": "príčina",
+          "uk": "C2-поняття: príčina",
+          "ru": "C2-понятие: príčina",
+          "en": "C2 concept: príčina",
+          "pronunciationUk": "prichina",
+          "exampleSk": "V téme Príčina, dôvod a dôsledok použijem výraz: príčina.",
+          "exampleUk": "У темі «Príčina, dôvod a dôsledok» використовую: C2-поняття: príčina.",
+          "exampleRu": "В теме «Príčina, dôvod a dôsledok» использую: C2-понятие: príčina.",
+          "exampleEn": "In “Príčina, dôvod a dôsledok”, I use: C2 concept: príčina.",
+          "level": "C2",
+          "topic": "Príčina, dôvod a dôsledok",
+          "tags": [
+            "c2_s03",
+            "c2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c2-s03-l012-w03",
+          "sk": "dôsledok",
+          "uk": "C2-поняття: dôsledok",
+          "ru": "C2-понятие: dôsledok",
+          "en": "C2 concept: dôsledok",
+          "pronunciationUk": "duosledok",
+          "exampleSk": "V téme Príčina, dôvod a dôsledok použijem výraz: dôsledok.",
+          "exampleUk": "У темі «Príčina, dôvod a dôsledok» використовую: C2-поняття: dôsledok.",
+          "exampleRu": "В теме «Príčina, dôvod a dôsledok» использую: C2-понятие: dôsledok.",
+          "exampleEn": "In “Príčina, dôvod a dôsledok”, I use: C2 concept: dôsledok.",
+          "level": "C2",
+          "topic": "Príčina, dôvod a dôsledok",
+          "tags": [
+            "c2_s03",
+            "c2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c2-s03-l012-w04",
+          "sk": "následok",
+          "uk": "C2-поняття: následok",
+          "ru": "C2-понятие: následok",
+          "en": "C2 concept: následok",
+          "pronunciationUk": "nasledok",
+          "exampleSk": "V téme Príčina, dôvod a dôsledok použijem výraz: následok.",
+          "exampleUk": "У темі «Príčina, dôvod a dôsledok» використовую: C2-поняття: následok.",
+          "exampleRu": "В теме «Príčina, dôvod a dôsledok» использую: C2-понятие: následok.",
+          "exampleEn": "In “Príčina, dôvod a dôsledok”, I use: C2 concept: následok.",
+          "level": "C2",
+          "topic": "Príčina, dôvod a dôsledok",
+          "tags": [
+            "c2_s03",
+            "c2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c2-s03-l012-w05",
+          "sk": "viesť k",
+          "uk": "C2-поняття: viesť k",
+          "ru": "C2-понятие: viesť k",
+          "en": "C2 concept: viesť k",
+          "pronunciationUk": "viest' k",
+          "exampleSk": "V téme Príčina, dôvod a dôsledok použijem výraz: viesť k.",
+          "exampleUk": "У темі «Príčina, dôvod a dôsledok» використовую: C2-поняття: viesť k.",
+          "exampleRu": "В теме «Príčina, dôvod a dôsledok» использую: C2-понятие: viesť k.",
+          "exampleEn": "In “Príčina, dôvod a dôsledok”, I use: C2 concept: viesť k.",
+          "level": "C2",
+          "topic": "Príčina, dôvod a dôsledok",
+          "tags": [
+            "c2_s03",
+            "c2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c2-s03-l012-w06",
+          "sk": "vyplývať z",
+          "uk": "C2-поняття: vyplývať z",
+          "ru": "C2-понятие: vyplývať z",
+          "en": "C2 concept: vyplývať z",
+          "pronunciationUk": "vyplyvat' z",
+          "exampleSk": "V téme Príčina, dôvod a dôsledok použijem výraz: vyplývať z.",
+          "exampleUk": "У темі «Príčina, dôvod a dôsledok» використовую: C2-поняття: vyplývať z.",
+          "exampleRu": "В теме «Príčina, dôvod a dôsledok» использую: C2-понятие: vyplývať z.",
+          "exampleEn": "In “Príčina, dôvod a dôsledok”, I use: C2 concept: vyplývať z.",
+          "level": "C2",
+          "topic": "Príčina, dôvod a dôsledok",
+          "tags": [
+            "c2_s03",
+            "c2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c2-s03-l012-w07",
+          "sk": "pretože",
+          "uk": "тому що",
+          "ru": "потому что",
+          "en": "'Cause",
+          "pronunciationUk": "pretozhe",
+          "exampleSk": "V téme Príčina, dôvod a dôsledok použijem výraz: pretože.",
+          "exampleUk": "У темі «Príčina, dôvod a dôsledok» використовую: тому що.",
+          "exampleRu": "В теме «Príčina, dôvod a dôsledok» использую: потому что.",
+          "exampleEn": "In “Príčina, dôvod a dôsledok”, I use: 'Cause.",
+          "level": "C2",
+          "topic": "Príčina, dôvod a dôsledok",
+          "tags": [
+            "c2_s03",
+            "c2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c2-s03-l012-w08",
+          "sk": "v dôsledku",
+          "uk": "C2-поняття: v dôsledku",
+          "ru": "C2-понятие: v dôsledku",
+          "en": "C2 concept: v dôsledku",
+          "pronunciationUk": "v duosledku",
+          "exampleSk": "V téme Príčina, dôvod a dôsledok použijem výraz: v dôsledku.",
+          "exampleUk": "У темі «Príčina, dôvod a dôsledok» використовую: C2-поняття: v dôsledku.",
+          "exampleRu": "В теме «Príčina, dôvod a dôsledok» использую: C2-понятие: v dôsledku.",
+          "exampleEn": "In “Príčina, dôvod a dôsledok”, I use: C2 concept: v dôsledku.",
+          "level": "C2",
+          "topic": "Príčina, dôvod a dôsledok",
+          "tags": [
+            "c2_s03",
+            "c2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "c2-s03-l012-e01",
+          "lessonId": "c2-s03-l012",
+          "type": "single_choice",
+          "order": 1,
+          "question": "Що означає «dôvod»?",
+          "questionLocalized": {
+            "uk": "Що означає «dôvod»?",
+            "ru": "Что означает «dôvod»?",
+            "en": "What does “dôvod” mean?"
+          },
+          "wordIds": [
+            "c2-s03-l012-w01"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "причина",
+                "ru": "причина",
+                "en": "reason"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "C2-поняття: príčina",
+                "ru": "C2-понятие: príčina",
+                "en": "C2 concept: príčina"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "C2-поняття: dôsledok",
+                "ru": "C2-понятие: dôsledok",
+                "en": "C2 concept: dôsledok"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c2-s03-l012-e02",
+          "lessonId": "c2-s03-l012",
+          "type": "matching",
+          "order": 2,
+          "question": "З'єднай фрази з поясненнями.",
+          "questionLocalized": {
+            "uk": "З'єднай фрази з поясненнями.",
+            "ru": "Соедини фразы с объяснениями.",
+            "en": "Match phrases with explanations."
+          },
+          "wordIds": [
+            "c2-s03-l012-w01",
+            "c2-s03-l012-w02",
+            "c2-s03-l012-w03",
+            "c2-s03-l012-w04"
+          ],
+          "pairs": [
+            {
+              "left": "dôvod",
+              "right": "причина",
+              "rightRu": "причина",
+              "rightEn": "reason"
+            },
+            {
+              "left": "príčina",
+              "right": "C2-поняття: príčina",
+              "rightRu": "C2-понятие: príčina",
+              "rightEn": "C2 concept: príčina"
+            },
+            {
+              "left": "dôsledok",
+              "right": "C2-поняття: dôsledok",
+              "rightRu": "C2-понятие: dôsledok",
+              "rightEn": "C2 concept: dôsledok"
+            },
+            {
+              "left": "následok",
+              "right": "C2-поняття: následok",
+              "rightRu": "C2-понятие: následok",
+              "rightEn": "C2 concept: následok"
+            }
+          ]
+        },
+        {
+          "id": "c2-s03-l012-e03",
+          "lessonId": "c2-s03-l012",
+          "type": "fill_blank",
+          "order": 3,
+          "question": "Впиши словацькою: C2-поняття: dôsledok.",
+          "questionLocalized": {
+            "uk": "Впиши словацькою: C2-поняття: dôsledok.",
+            "ru": "Впиши по-словацки: C2-понятие: dôsledok.",
+            "en": "Write in Slovak: C2 concept: dôsledok."
+          },
+          "wordIds": [
+            "c2-s03-l012-w03"
+          ],
+          "sentence": "______",
+          "acceptedAnswers": [
+            "dôsledok"
+          ],
+          "hint": {
+            "uk": "Початок: dô...",
+            "ru": "Начало: dô...",
+            "en": "Start: dô..."
+          }
+        },
+        {
+          "id": "c2-s03-l012-e04",
+          "lessonId": "c2-s03-l012",
+          "type": "dropdown_blank",
+          "order": 4,
+          "question": "Обери точну фразу для C2-речення.",
+          "questionLocalized": {
+            "uk": "Обери точну фразу для C2-речення.",
+            "ru": "Выбери точную фразу для C2-предложения.",
+            "en": "Choose the precise phrase for a C2 sentence."
+          },
+          "wordIds": [
+            "c2-s03-l012-w04"
+          ],
+          "sentenceParts": [
+            {
+              "text": "V tejto situácii je dôležité použiť "
+            },
+            {
+              "blankId": "blank1",
+              "options": [
+                "následok",
+                "dôvod",
+                "príčina"
+              ],
+              "correct": "následok"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "c2-s03-l012-e05",
+          "lessonId": "c2-s03-l012",
+          "type": "sentence_builder",
+          "order": 5,
+          "question": "Склади природну словацьку репліку.",
+          "questionLocalized": {
+            "uk": "Склади природну словацьку репліку.",
+            "ru": "Собери естественную словацкую реплику.",
+            "en": "Build a natural Slovak reply."
+          },
+          "wordIds": [
+            "c2-s03-l012-w05"
+          ],
+          "tokens": [
+            "Rozumiem",
+            "situácii,",
+            "ale",
+            "potrebujem",
+            "ju",
+            "ešte",
+            "upresniť."
+          ],
+          "correctSentence": "Rozumiem situácii, ale potrebujem ju ešte upresniť."
+        },
+        {
+          "id": "c2-s03-l012-e06",
+          "lessonId": "c2-s03-l012",
+          "type": "multiple_select",
+          "order": 6,
+          "question": "Обери C2-репліки з природним тоном.",
+          "questionLocalized": {
+            "uk": "Обери C2-репліки з природним тоном.",
+            "ru": "Выбери C2-реплики с естественным тоном.",
+            "en": "Select C2 replies with a natural tone."
+          },
+          "wordIds": [
+            "c2-s03-l012-w01",
+            "c2-s03-l012-w06"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Rozumiem, ale potrebujem to presnejšie vysvetliť.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "To je úplne mimo a nemá zmysel hovoriť.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Z môjho pohľadu je dôležitý aj kontext.",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "id": "c2-s03-l012-e07",
+          "lessonId": "c2-s03-l012",
+          "type": "reading_comprehension",
+          "order": 7,
+          "question": "Прочитай текст і вибери головну думку.",
+          "questionLocalized": {
+            "uk": "Прочитай текст і вибери головну думку.",
+            "ru": "Прочитай текст и выбери главную мысль.",
+            "en": "Read the text and choose the main idea."
+          },
+          "wordIds": [
+            "c2-s03-l012-w06",
+            "c2-s03-l012-w07",
+            "c2-s03-l012-w08"
+          ],
+          "text": "Téma Príčina, dôvod a dôsledok si vyžaduje presnosť. Nestačí poznať slová; treba reagovať podľa kontextu, vysvetliť dôvod a navrhnúť ďalší krok.",
+          "questions": [
+            {
+              "prompt": {
+                "uk": "Що є головною думкою?",
+                "ru": "Что является главной мыслью?",
+                "en": "What is the main idea?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "Treba reagovať presne podľa kontextu.",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "Stačí opakovať jedno slovo.",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "Najlepšie je nereagovať.",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c2-s03-l012-e08",
+          "lessonId": "c2-s03-l012",
+          "type": "dialogue_choose_reply",
+          "order": 8,
+          "question": "Обери найкращу відповідь у діалозі.",
+          "questionLocalized": {
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
+          },
+          "wordIds": [
+            "c2-s03-l012-w07"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Ako by si to vysvetlil?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Najprv zhrniem situáciu a potom poviem svoj návrh.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Nepoviem nič, lebo je to ťažké.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Odpoviem jedným náhodným slovom.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c2-s03-l012-e09",
+          "lessonId": "c2-s03-l012",
+          "type": "meaning_in_context",
+          "order": 9,
+          "question": "Що означає «príčina» у контексті?",
+          "questionLocalized": {
+            "uk": "Що означає «príčina» у контексті?",
+            "ru": "Что означает «príčina» в контексте?",
+            "en": "What does “príčina” mean in context?"
+          },
+          "wordIds": [
+            "c2-s03-l012-w02"
+          ],
+          "context": {
+            "sk": "Rozhovor je citlivý, preto si najprv overím význam a tón."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "C2-поняття: príčina",
+                "ru": "C2-понятие: príčina",
+                "en": "C2 concept: príčina"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "C2-поняття: viesť k",
+                "ru": "C2-понятие: viesť k",
+                "en": "C2 concept: viesť k"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "C2-поняття: v dôsledku",
+                "ru": "C2-понятие: v dôsledku",
+                "en": "C2 concept: v dôsledku"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c2-s03-l012-e10",
+          "lessonId": "c2-s03-l012",
+          "type": "natural_phrase",
+          "order": 10,
+          "question": "Що звучить найприродніше?",
+          "questionLocalized": {
+            "uk": "Що звучить найприродніше?",
+            "ru": "Что звучит естественнее всего?",
+            "en": "What sounds most natural?"
+          },
+          "wordIds": [
+            "c2-s03-l012-w08"
+          ],
+          "situation": {
+            "uk": "Потрібно відповісти точно, але без різкого тону.",
+            "ru": "Нужно ответить точно, но без резкого тона.",
+            "en": "You need to answer precisely but without a sharp tone."
+          },
+          "options": [
+            {
+              "id": "a",
+              "sk": "Chápem tvoj pohľad, ale doplnil by som ešte jednu vec.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Ty ničomu nerozumieš.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Áno nie možno včera.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c2-s03-l012-e11",
+          "lessonId": "c2-s03-l012",
+          "type": "reverse_translation",
+          "order": 11,
+          "question": "Обери словацький варіант для: C2-поняття: viesť k.",
+          "questionLocalized": {
+            "uk": "Обери словацький варіант для: C2-поняття: viesť k.",
+            "ru": "Выбери словацкий вариант для: C2-понятие: viesť k.",
+            "en": "Choose the Slovak item for: C2 concept: viesť k."
+          },
+          "wordIds": [
+            "c2-s03-l012-w05"
+          ],
+          "options": [
+            "viesť k",
+            "dôsledok",
+            "dôvod"
+          ],
+          "correctAnswer": "viesť k"
+        },
+        {
+          "id": "c2-s03-l012-e12",
+          "lessonId": "c2-s03-l012",
+          "type": "sentence_order",
+          "order": 12,
+          "question": "Віднови логічний порядок C2-відповіді.",
+          "questionLocalized": {
+            "uk": "Віднови логічний порядок C2-відповіді.",
+            "ru": "Восстанови логический порядок C2-ответа.",
+            "en": "Restore the logical order of a C2 answer."
+          },
+          "wordIds": [
+            "c2-s03-l012-w01",
+            "c2-s03-l012-w02"
+          ],
+          "items": [
+            "Najprv treba pomenovať kontext.",
+            "Potom možno doplniť presnejší výraz.",
+            "Napokon z toho vyplýva konkrétny záver."
+          ],
+          "correctOrder": [
+            "Najprv treba pomenovať kontext.",
+            "Potom možno doplniť presnejší výraz.",
+            "Napokon z toho vyplýva konkrétny záver."
+          ]
+        },
+        {
+          "id": "c2-s03-l012-e13",
+          "lessonId": "c2-s03-l012",
+          "type": "dialogue_choose_reply",
+          "order": 13,
+          "question": "Обери відповідь з точним регістром.",
+          "questionLocalized": {
+            "uk": "Обери відповідь з точним регістром.",
+            "ru": "Выбери ответ с точным регистром.",
+            "en": "Choose the reply with the right register."
+          },
+          "wordIds": [
+            "c2-s03-l012-w03",
+            "c2-s03-l012-w04"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Potrebujem to povedať odborne, ale nie zbytočne tvrdo."
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Rozumiem. Preformuloval by som to vecne a zároveň opatrne.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Napíš tam čokoľvek, hlavne rýchlo.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Daj tam najtvrdšiu možnú formuláciu.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c2-s03-l012-e14",
+          "lessonId": "c2-s03-l012",
+          "type": "multiple_choice_translation",
+          "order": 14,
+          "question": "Що відповідає словацькому «v dôsledku»?",
+          "questionLocalized": {
+            "uk": "Що відповідає словацькому «v dôsledku»?",
+            "ru": "Что соответствует словацкому «v dôsledku»?",
+            "en": "What matches the Slovak “v dôsledku”?"
+          },
+          "wordIds": [
+            "c2-s03-l012-w08"
+          ],
+          "options": [
+            "C2-поняття: v dôsledku",
+            "C2-поняття: príčina",
+            "C2-поняття: dôsledok"
+          ],
+          "correctAnswer": "C2-поняття: v dôsledku"
+        },
+        {
+          "id": "c2-s03-l012-e15",
+          "lessonId": "c2-s03-l012",
+          "type": "meaning_in_context",
+          "order": 15,
+          "question": "Обери найточніше читання підтексту.",
+          "questionLocalized": {
+            "uk": "Обери найточніше читання підтексту.",
+            "ru": "Выбери самое точное чтение подтекста.",
+            "en": "Choose the most precise reading of the subtext."
+          },
+          "wordIds": [
+            "c2-s03-l012-w01",
+            "c2-s03-l012-w04",
+            "c2-s03-l012-w07"
+          ],
+          "context": {
+            "sk": "V téme Príčina, dôvod a dôsledok nejde iba o slovnú zásobu, ale aj o to, čo hovoriaci naznačuje, čo zamlčí a aký register si zvolí."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "Treba rozumieť aj nepriamemu významu a štýlu.",
+                "ru": "Нужно понимать и непрямой смысл, и стиль.",
+                "en": "One has to understand indirect meaning and style as well."
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "Stačí preložiť každé slovo osobitne.",
+                "ru": "Достаточно перевести каждое слово отдельно.",
+                "en": "It is enough to translate every word separately."
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "Register v C2 komunikácii nehrá žiadnu úlohu.",
+                "ru": "Регистр в C2-коммуникации не играет роли.",
+                "en": "Register plays no role in C2 communication."
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c2-s03-l012-e16",
+          "lessonId": "c2-s03-l012",
+          "type": "sentence_order",
+          "order": 16,
+          "question": "Побудуй C2-відповідь: теза, застереження, висновок.",
+          "questionLocalized": {
+            "uk": "Побудуй C2-відповідь: теза, застереження, висновок.",
+            "ru": "Построй C2-ответ: тезис, оговорка, вывод.",
+            "en": "Build a C2 answer: thesis, caveat, conclusion."
+          },
+          "wordIds": [
+            "c2-s03-l012-w02",
+            "c2-s03-l012-w05",
+            "c2-s03-l012-w08"
+          ],
+          "items": [
+            "Na prvý pohľad sa zdá, že riešenie je jednoznačné.",
+            "Pri bližšom pohľade však treba zohľadniť aj kontext a možné dôsledky.",
+            "Preto by som volil formuláciu, ktorá je presná, ale necháva priestor na doplnenie."
+          ],
+          "correctOrder": [
+            "Na prvý pohľad sa zdá, že riešenie je jednoznačné.",
+            "Pri bližšom pohľade však treba zohľadniť aj kontext a možné dôsledky.",
+            "Preto by som volil formuláciu, ktorá je presná, ale necháva priestor na doplnenie."
+          ]
+        }
+      ],
+      "finalSituation": {
+        "id": "final-situation",
+        "type": "interactive_scenario",
+        "title": {
+          "uk": "Príčina, dôvod a dôsledok: реальна ситуація",
+          "ru": "Príčina, dôvod a dôsledok: реальная ситуация",
+          "en": "Príčina, dôvod a dôsledok: real situation"
+        },
+        "description": {
+          "uk": "Обери репліки, які звучать природно, точно й доречно на рівні C2.",
+          "ru": "Выбери реплики, которые звучат естественно, точно и уместно на уровне C2.",
+          "en": "Choose replies that sound natural, precise and appropriate at C2 level."
+        },
+        "steps": [
+          {
+            "id": "f1",
+            "prompt": {
+              "uk": "Потрібно почати відповідь без різкості.",
+              "ru": "Нужно начать ответ без резкости.",
+              "en": "You need to start without sounding harsh."
+            },
+            "options": [
+              {
+                "sk": "Rozumiem, skúsim to najprv zhrnúť vlastnými slovami.",
+                "correct": true
+              },
+              {
+                "sk": "Nemáš pravdu a viac sa o tom nebavme.",
+                "correct": false
+              },
+              {
+                "sk": "Neviem a nechcem reagovať.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "prompt": {
+              "uk": "Потрібно додати аргумент.",
+              "ru": "Нужно добавить аргумент.",
+              "en": "You need to add an argument."
+            },
+            "options": [
+              {
+                "sk": "Dôvod je podľa mňa v tom, že situácia má viac okolností.",
+                "correct": true
+              },
+              {
+                "sk": "Pretože áno.",
+                "correct": false
+              },
+              {
+                "sk": "To nesúvisí s ničím.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f3",
+            "prompt": {
+              "uk": "Потрібно завершити практично.",
+              "ru": "Нужно завершить практически.",
+              "en": "You need to close practically."
+            },
+            "options": [
+              {
+                "sk": "Navrhujem ďalší krok a potom si to potvrdíme písomne.",
+                "correct": true
+              },
+              {
+                "sk": "Nechajme to bez riešenia.",
+                "correct": false
+              },
+              {
+                "sk": "Každý nech si domyslí zvyšok.",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "passRequirement": "3/3",
+        "successMessage": {
+          "uk": "Готово: тема перенесена в реальну C2-комунікацію.",
+          "ru": "Готово: тема перенесена в реальную C2-коммуникацию.",
+          "en": "Done: the topic was transferred into real C2 communication."
+        }
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": {
+          "uk": "Урок завершено",
+          "ru": "Урок завершён",
+          "en": "Lesson complete"
+        },
+        "subtitle": {
+          "uk": "Ти пройшов ще один крок рівня C2.",
+          "ru": "Ты прошёл ещё один шаг уровня C2.",
+          "en": "You completed another C2 step."
+        },
+        "xpReward": 260,
+        "newWordsCount": 8,
+        "exercisesCompleted": 16,
+        "nowYouKnow": [
+          "структурувати відповідь",
+          "пояснювати нюанс",
+          "реагувати доречно"
+        ],
+        "mistakesMessage": {
+          "uk": "Повтори вправи, де плутається значення або тон.",
+          "ru": "Повтори упражнения, где путается значение или тон.",
+          "en": "Repeat exercises where meaning or tone is unclear."
+        },
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "skills": [
+          {
+            "id": "vocabulary",
+            "label": {
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
+            },
+            "weight": 0.3
+          },
+          {
+            "id": "composition",
+            "label": {
+              "uk": "структура",
+              "ru": "структура",
+              "en": "composition"
+            },
+            "weight": 0.4
+          },
+          {
+            "id": "transfer",
+            "label": {
+              "uk": "перенесення",
+              "ru": "перенос",
+              "en": "transfer"
+            },
+            "weight": 0.3
+          }
+        ],
+        "nextLesson": {
+          "id": "c2-s03-l013"
+        }
+      }
+    }
+  ]
+}

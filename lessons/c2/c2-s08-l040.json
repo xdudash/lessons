@@ -1,0 +1,1191 @@
+{
+  "lessons": [
+    {
+      "id": "c2-s08-l040",
+      "sectionId": "c2_s08",
+      "level": "C2",
+      "title": {
+        "sk": "Kultúra v rozhovore",
+        "uk": "Kultúra v rozhovore",
+        "ru": "Kultúra v rozhovore",
+        "en": "Kultúra v rozhovore"
+      },
+      "topic": {
+        "sk": "Kultúra v rozhovore",
+        "uk": "Kultúra v rozhovore",
+        "ru": "Kultúra v rozhovore",
+        "en": "Kultúra v rozhovore"
+      },
+      "description": {
+        "sk": "Precvičíš si tému Kultúra v rozhovore v komplexnej komunikácii na úrovni C2.",
+        "uk": "Тренуємо тему «Kultúra v rozhovore»: аргументовано, точно й у реальному контексті.",
+        "ru": "обсуждаем культурное произведение и защищаем собственную интерпретацию.",
+        "en": "Practice the C2 topic “Kultúra v rozhovore” in complex communication. Section: Culture, literature and aesthetics."
+      },
+      "order": 40,
+      "xpReward": 260,
+      "estimatedMinutes": 45,
+      "isPublished": false,
+      "intro": {
+        "sk": "Precvičíš si tému Kultúra v rozhovore v komplexnej komunikácii na úrovni C2.",
+        "uk": "Тренуємо тему «Kultúra v rozhovore»: аргументовано, точно й у реальному контексті.",
+        "ru": "обсуждаем культурное произведение и защищаем собственную интерпретацию.",
+        "en": "Practice the C2 topic “Kultúra v rozhovore” in complex communication. Section: Culture, literature and aesthetics."
+      },
+      "completionMessage": {
+        "sk": "Výborne. Tému vieš použiť v náročnejšej komunikácii.",
+        "uk": "Добре. Тепер можеш використати тему в складнішій розмові.",
+        "ru": "Хорошо. Теперь можешь использовать тему в более сложном разговоре.",
+        "en": "Good. You can now use the topic in more complex communication."
+      },
+      "updatedAt": "2026-09-14T03:30:00Z",
+      "localization": {
+        "uiLanguages": [
+          "uk",
+          "ru",
+          "en"
+        ],
+        "targetLanguage": "sk",
+        "fallbackUiLanguage": "uk"
+      },
+      "assets": {
+        "images": {},
+        "audio": {}
+      },
+      "startScreen": {
+        "screenType": "lesson_start",
+        "title": {
+          "sk": "Kultúra v rozhovore",
+          "uk": "Kultúra v rozhovore",
+          "ru": "Kultúra v rozhovore",
+          "en": "Kultúra v rozhovore"
+        },
+        "shortDescription": {
+          "uk": "Тренуємо тему «Kultúra v rozhovore»: аргументовано, точно й у реальному контексті.",
+          "ru": "обсуждаем культурное произведение и защищаем собственную интерпретацию.",
+          "en": "Practice the C2 topic “Kultúra v rozhovore” in complex communication. Section: Culture, literature and aesthetics."
+        },
+        "outcomes": [
+          {
+            "uk": "пояснити думку точніше й довше",
+            "ru": "объяснить мысль точнее и длиннее",
+            "en": "explain an idea more precisely and at greater length"
+          },
+          {
+            "uk": "використати нові C2-фрази в контексті",
+            "ru": "использовать новые C2-фразы в контексте",
+            "en": "use new C2 phrases in context"
+          },
+          {
+            "uk": "обрати природну реакцію в реальній ситуації",
+            "ru": "выбрать естественную реакцию в реальной ситуации",
+            "en": "choose a natural reply in a real situation"
+          }
+        ],
+        "newWords": [
+          "c2-s08-l040-w01",
+          "c2-s08-l040-w02",
+          "c2-s08-l040-w03",
+          "c2-s08-l040-w04",
+          "c2-s08-l040-w05",
+          "c2-s08-l040-w06",
+          "c2-s08-l040-w07",
+          "c2-s08-l040-w08"
+        ],
+        "exercisesCount": 16,
+        "reward": "+260 XP",
+        "estimatedMinutes": 45,
+        "button": "Почати урок"
+      },
+      "theoryScreens": [
+        {
+          "id": "t1",
+          "screenType": "theory",
+          "order": 1,
+          "title": {
+            "uk": "Фокус уроку",
+            "ru": "Фокус урока",
+            "en": "Lesson focus"
+          },
+          "body": {
+            "uk": "Тренуємо тему «Kultúra v rozhovore»: аргументовано, точно й у реальному контексті.",
+            "ru": "обсуждаем культурное произведение и защищаем собственную интерпретацию.",
+            "en": "Practice the C2 topic “Kultúra v rozhovore” in complex communication. Section: Culture, literature and aesthetics."
+          },
+          "examples": [
+            {
+              "sk": "V téme Kultúra v rozhovore použijem výraz: estetický.",
+              "translation": {
+                "uk": "У темі «Kultúra v rozhovore» використовую: C2-поняття: estetický.",
+                "ru": "В теме «Kultúra v rozhovore» использую: C2-понятие: estetický.",
+                "en": "In “Kultúra v rozhovore”, I use: C2 concept: estetický."
+              }
+            },
+            {
+              "sk": "V téme Kultúra v rozhovore použijem výraz: hodnotiť.",
+              "translation": {
+                "uk": "У темі «Kultúra v rozhovore» використовую: C2-поняття: hodnotiť.",
+                "ru": "В теме «Kultúra v rozhovore» использую: C2-понятие: hodnotiť.",
+                "en": "In “Kultúra v rozhovore”, I use: C2 concept: hodnotiť."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "На C2 важливо не просто відповісти, а показати причину, умову, наслідок або нюанс.",
+            "ru": "На C2 важно не просто ответить, а показать причину, условие, последствие или нюанс.",
+            "en": "At C2, show a reason, condition, consequence or nuance."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t2",
+          "screenType": "theory",
+          "order": 2,
+          "title": {
+            "uk": "Модель відповіді",
+            "ru": "Модель ответа",
+            "en": "Answer model"
+          },
+          "body": {
+            "uk": "Будуй відповідь за схемою: контекст -> позиція -> аргумент -> приклад -> наступний крок.",
+            "ru": "Строй ответ по схеме: контекст -> позиция -> аргумент -> пример -> следующий шаг.",
+            "en": "Build the answer as: context -> position -> argument -> example -> next step."
+          },
+          "examples": [
+            {
+              "sk": "Z môjho pohľadu je dôležité najprv vysvetliť kontext.",
+              "translation": {
+                "uk": "З моєї точки зору важливо спочатку пояснити контекст.",
+                "ru": "С моей точки зрения важно сначала объяснить контекст.",
+                "en": "From my point of view, it is important to explain the context first."
+              }
+            },
+            {
+              "sk": "Na druhej strane treba zohľadniť aj praktické dôsledky.",
+              "translation": {
+                "uk": "З іншого боку, треба врахувати також практичні наслідки.",
+                "ru": "С другой стороны, нужно учесть и практические последствия.",
+                "en": "On the other hand, practical consequences must also be considered."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "Одна сильна відповідь має структуру, а не лише правильні слова.",
+            "ru": "Один сильный ответ имеет структуру, а не только правильные слова.",
+            "en": "A strong answer has structure, not only correct words."
+          },
+          "button": "Далі"
+        },
+        {
+          "id": "t3",
+          "screenType": "theory",
+          "order": 3,
+          "title": {
+            "uk": "Перенесення в життя",
+            "ru": "Перенос в жизнь",
+            "en": "Real-life transfer"
+          },
+          "body": {
+            "uk": "У фіналі потрібно вибрати репліку, яка реально рухає ситуацію вперед.",
+            "ru": "В финале нужно выбрать реплику, которая реально двигает ситуацию дальше.",
+            "en": "In the final task, choose the reply that moves the situation forward."
+          },
+          "examples": [
+            {
+              "sk": "Navrhujem, aby sme si najprv ujasnili priority.",
+              "translation": {
+                "uk": "Пропоную спочатку прояснити пріоритети.",
+                "ru": "Предлагаю сначала прояснить приоритеты.",
+                "en": "I suggest clarifying priorities first."
+              }
+            }
+          ],
+          "shortRule": {
+            "uk": "C2 = самостійна, зв'язна й доречна комунікація.",
+            "ru": "C2 = самостоятельная, связная и уместная коммуникация.",
+            "en": "C2 means independent, connected and appropriate communication."
+          },
+          "button": "До слів"
+        }
+      ],
+      "wordsScreen": {
+        "screenType": "lesson_words",
+        "title": {
+          "uk": "Цільові слова й фрази",
+          "ru": "Целевые слова и фразы",
+          "en": "Target words and phrases"
+        },
+        "description": {
+          "uk": "Ці одиниці взяті з затвердженого C2-плану.",
+          "ru": "Эти единицы взяты из утвержденного C2-плана.",
+          "en": "These items come from the approved C2 plan."
+        },
+        "items": [
+          {
+            "wordId": "c2-s08-l040-w01",
+            "sk": "estetický",
+            "uk": "C2-поняття: estetický",
+            "ru": "C2-понятие: estetický",
+            "en": "C2 concept: estetický",
+            "pronunciationUk": "esteticky",
+            "exampleSk": "V téme Kultúra v rozhovore použijem výraz: estetický.",
+            "exampleUk": "У темі «Kultúra v rozhovore» використовую: C2-поняття: estetický.",
+            "exampleRu": "В теме «Kultúra v rozhovore» использую: C2-понятие: estetický.",
+            "exampleEn": "In “Kultúra v rozhovore”, I use: C2 concept: estetický."
+          },
+          {
+            "wordId": "c2-s08-l040-w02",
+            "sk": "hodnotiť",
+            "uk": "C2-поняття: hodnotiť",
+            "ru": "C2-понятие: hodnotiť",
+            "en": "C2 concept: hodnotiť",
+            "pronunciationUk": "hodnotit'",
+            "exampleSk": "V téme Kultúra v rozhovore použijem výraz: hodnotiť.",
+            "exampleUk": "У темі «Kultúra v rozhovore» використовую: C2-поняття: hodnotiť.",
+            "exampleRu": "В теме «Kultúra v rozhovore» использую: C2-понятие: hodnotiť.",
+            "exampleEn": "In “Kultúra v rozhovore”, I use: C2 concept: hodnotiť."
+          },
+          {
+            "wordId": "c2-s08-l040-w03",
+            "sk": "vnímať",
+            "uk": "C2-поняття: vnímať",
+            "ru": "C2-понятие: vnímať",
+            "en": "C2 concept: vnímať",
+            "pronunciationUk": "vnimat'",
+            "exampleSk": "V téme Kultúra v rozhovore použijem výraz: vnímať.",
+            "exampleUk": "У темі «Kultúra v rozhovore» використовую: C2-поняття: vnímať.",
+            "exampleRu": "В теме «Kultúra v rozhovore» использую: C2-понятие: vnímať.",
+            "exampleEn": "In “Kultúra v rozhovore”, I use: C2 concept: vnímať."
+          },
+          {
+            "wordId": "c2-s08-l040-w04",
+            "sk": "interpretovať",
+            "uk": "інтерпретувати",
+            "ru": "интерпретировать",
+            "en": "to interpret",
+            "pronunciationUk": "interpretovat'",
+            "exampleSk": "V téme Kultúra v rozhovore použijem výraz: interpretovať.",
+            "exampleUk": "У темі «Kultúra v rozhovore» використовую: інтерпретувати.",
+            "exampleRu": "В теме «Kultúra v rozhovore» использую: интерпретировать.",
+            "exampleEn": "In “Kultúra v rozhovore”, I use: to interpret."
+          },
+          {
+            "wordId": "c2-s08-l040-w05",
+            "sk": "dojem",
+            "uk": "C2-поняття: dojem",
+            "ru": "C2-понятие: dojem",
+            "en": "C2 concept: dojem",
+            "pronunciationUk": "dojem",
+            "exampleSk": "V téme Kultúra v rozhovore použijem výraz: dojem.",
+            "exampleUk": "У темі «Kultúra v rozhovore» використовую: C2-поняття: dojem.",
+            "exampleRu": "В теме «Kultúra v rozhovore» использую: C2-понятие: dojem.",
+            "exampleEn": "In “Kultúra v rozhovore”, I use: C2 concept: dojem."
+          },
+          {
+            "wordId": "c2-s08-l040-w06",
+            "sk": "kontext",
+            "uk": "C2-поняття: kontext",
+            "ru": "C2-понятие: kontext",
+            "en": "C2 concept: kontext",
+            "pronunciationUk": "kontext",
+            "exampleSk": "V téme Kultúra v rozhovore použijem výraz: kontext.",
+            "exampleUk": "У темі «Kultúra v rozhovore» використовую: C2-поняття: kontext.",
+            "exampleRu": "В теме «Kultúra v rozhovore» использую: C2-понятие: kontext.",
+            "exampleEn": "In “Kultúra v rozhovore”, I use: C2 concept: kontext."
+          },
+          {
+            "wordId": "c2-s08-l040-w07",
+            "sk": "významný",
+            "uk": "C2-поняття: významný",
+            "ru": "C2-понятие: významný",
+            "en": "C2 concept: významný",
+            "pronunciationUk": "vyznamny",
+            "exampleSk": "V téme Kultúra v rozhovore použijem výraz: významný.",
+            "exampleUk": "У темі «Kultúra v rozhovore» використовую: C2-поняття: významný.",
+            "exampleRu": "В теме «Kultúra v rozhovore» использую: C2-понятие: významný.",
+            "exampleEn": "In “Kultúra v rozhovore”, I use: C2 concept: významný."
+          },
+          {
+            "wordId": "c2-s08-l040-w08",
+            "sk": "významový posun",
+            "uk": "зміщення значення",
+            "ru": "сдвиг значения",
+            "en": "shift in meaning",
+            "pronunciationUk": "vyznamovy posun",
+            "exampleSk": "V téme Kultúra v rozhovore použijem výraz: významový posun.",
+            "exampleUk": "У темі «Kultúra v rozhovore» використовую: зміщення значення.",
+            "exampleRu": "В теме «Kultúra v rozhovore» использую: сдвиг значения.",
+            "exampleEn": "In “Kultúra v rozhovore”, I use: shift in meaning."
+          }
+        ],
+        "button": "До практики"
+      },
+      "words": [
+        {
+          "id": "c2-s08-l040-w01",
+          "sk": "estetický",
+          "uk": "C2-поняття: estetický",
+          "ru": "C2-понятие: estetický",
+          "en": "C2 concept: estetický",
+          "pronunciationUk": "esteticky",
+          "exampleSk": "V téme Kultúra v rozhovore použijem výraz: estetický.",
+          "exampleUk": "У темі «Kultúra v rozhovore» використовую: C2-поняття: estetický.",
+          "exampleRu": "В теме «Kultúra v rozhovore» использую: C2-понятие: estetický.",
+          "exampleEn": "In “Kultúra v rozhovore”, I use: C2 concept: estetický.",
+          "level": "C2",
+          "topic": "Kultúra v rozhovore",
+          "tags": [
+            "c2_s08",
+            "c2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c2-s08-l040-w02",
+          "sk": "hodnotiť",
+          "uk": "C2-поняття: hodnotiť",
+          "ru": "C2-понятие: hodnotiť",
+          "en": "C2 concept: hodnotiť",
+          "pronunciationUk": "hodnotit'",
+          "exampleSk": "V téme Kultúra v rozhovore použijem výraz: hodnotiť.",
+          "exampleUk": "У темі «Kultúra v rozhovore» використовую: C2-поняття: hodnotiť.",
+          "exampleRu": "В теме «Kultúra v rozhovore» использую: C2-понятие: hodnotiť.",
+          "exampleEn": "In “Kultúra v rozhovore”, I use: C2 concept: hodnotiť.",
+          "level": "C2",
+          "topic": "Kultúra v rozhovore",
+          "tags": [
+            "c2_s08",
+            "c2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c2-s08-l040-w03",
+          "sk": "vnímať",
+          "uk": "C2-поняття: vnímať",
+          "ru": "C2-понятие: vnímať",
+          "en": "C2 concept: vnímať",
+          "pronunciationUk": "vnimat'",
+          "exampleSk": "V téme Kultúra v rozhovore použijem výraz: vnímať.",
+          "exampleUk": "У темі «Kultúra v rozhovore» використовую: C2-поняття: vnímať.",
+          "exampleRu": "В теме «Kultúra v rozhovore» использую: C2-понятие: vnímať.",
+          "exampleEn": "In “Kultúra v rozhovore”, I use: C2 concept: vnímať.",
+          "level": "C2",
+          "topic": "Kultúra v rozhovore",
+          "tags": [
+            "c2_s08",
+            "c2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c2-s08-l040-w04",
+          "sk": "interpretovať",
+          "uk": "інтерпретувати",
+          "ru": "интерпретировать",
+          "en": "to interpret",
+          "pronunciationUk": "interpretovat'",
+          "exampleSk": "V téme Kultúra v rozhovore použijem výraz: interpretovať.",
+          "exampleUk": "У темі «Kultúra v rozhovore» використовую: інтерпретувати.",
+          "exampleRu": "В теме «Kultúra v rozhovore» использую: интерпретировать.",
+          "exampleEn": "In “Kultúra v rozhovore”, I use: to interpret.",
+          "level": "C2",
+          "topic": "Kultúra v rozhovore",
+          "tags": [
+            "c2_s08",
+            "c2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c2-s08-l040-w05",
+          "sk": "dojem",
+          "uk": "C2-поняття: dojem",
+          "ru": "C2-понятие: dojem",
+          "en": "C2 concept: dojem",
+          "pronunciationUk": "dojem",
+          "exampleSk": "V téme Kultúra v rozhovore použijem výraz: dojem.",
+          "exampleUk": "У темі «Kultúra v rozhovore» використовую: C2-поняття: dojem.",
+          "exampleRu": "В теме «Kultúra v rozhovore» использую: C2-понятие: dojem.",
+          "exampleEn": "In “Kultúra v rozhovore”, I use: C2 concept: dojem.",
+          "level": "C2",
+          "topic": "Kultúra v rozhovore",
+          "tags": [
+            "c2_s08",
+            "c2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c2-s08-l040-w06",
+          "sk": "kontext",
+          "uk": "C2-поняття: kontext",
+          "ru": "C2-понятие: kontext",
+          "en": "C2 concept: kontext",
+          "pronunciationUk": "kontext",
+          "exampleSk": "V téme Kultúra v rozhovore použijem výraz: kontext.",
+          "exampleUk": "У темі «Kultúra v rozhovore» використовую: C2-поняття: kontext.",
+          "exampleRu": "В теме «Kultúra v rozhovore» использую: C2-понятие: kontext.",
+          "exampleEn": "In “Kultúra v rozhovore”, I use: C2 concept: kontext.",
+          "level": "C2",
+          "topic": "Kultúra v rozhovore",
+          "tags": [
+            "c2_s08",
+            "c2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c2-s08-l040-w07",
+          "sk": "významný",
+          "uk": "C2-поняття: významný",
+          "ru": "C2-понятие: významný",
+          "en": "C2 concept: významný",
+          "pronunciationUk": "vyznamny",
+          "exampleSk": "V téme Kultúra v rozhovore použijem výraz: významný.",
+          "exampleUk": "У темі «Kultúra v rozhovore» використовую: C2-поняття: významný.",
+          "exampleRu": "В теме «Kultúra v rozhovore» использую: C2-понятие: významný.",
+          "exampleEn": "In “Kultúra v rozhovore”, I use: C2 concept: významný.",
+          "level": "C2",
+          "topic": "Kultúra v rozhovore",
+          "tags": [
+            "c2_s08",
+            "c2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        },
+        {
+          "id": "c2-s08-l040-w08",
+          "sk": "významový posun",
+          "uk": "зміщення значення",
+          "ru": "сдвиг значения",
+          "en": "shift in meaning",
+          "pronunciationUk": "vyznamovy posun",
+          "exampleSk": "V téme Kultúra v rozhovore použijem výraz: významový posun.",
+          "exampleUk": "У темі «Kultúra v rozhovore» використовую: зміщення значення.",
+          "exampleRu": "В теме «Kultúra v rozhovore» использую: сдвиг значения.",
+          "exampleEn": "In “Kultúra v rozhovore”, I use: shift in meaning.",
+          "level": "C2",
+          "topic": "Kultúra v rozhovore",
+          "tags": [
+            "c2_s08",
+            "c2",
+            "ownership:new"
+          ],
+          "ownership": "NEW"
+        }
+      ],
+      "exercises": [
+        {
+          "id": "c2-s08-l040-e01",
+          "lessonId": "c2-s08-l040",
+          "type": "single_choice",
+          "order": 1,
+          "question": "Що означає «estetický»?",
+          "questionLocalized": {
+            "uk": "Що означає «estetický»?",
+            "ru": "Что означает «estetický»?",
+            "en": "What does “estetický” mean?"
+          },
+          "wordIds": [
+            "c2-s08-l040-w01"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "C2-поняття: estetický",
+                "ru": "C2-понятие: estetický",
+                "en": "C2 concept: estetický"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "C2-поняття: hodnotiť",
+                "ru": "C2-понятие: hodnotiť",
+                "en": "C2 concept: hodnotiť"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "C2-поняття: vnímať",
+                "ru": "C2-понятие: vnímať",
+                "en": "C2 concept: vnímať"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c2-s08-l040-e02",
+          "lessonId": "c2-s08-l040",
+          "type": "matching",
+          "order": 2,
+          "question": "З'єднай фрази з поясненнями.",
+          "questionLocalized": {
+            "uk": "З'єднай фрази з поясненнями.",
+            "ru": "Соедини фразы с объяснениями.",
+            "en": "Match phrases with explanations."
+          },
+          "wordIds": [
+            "c2-s08-l040-w01",
+            "c2-s08-l040-w02",
+            "c2-s08-l040-w03",
+            "c2-s08-l040-w04"
+          ],
+          "pairs": [
+            {
+              "left": "estetický",
+              "right": "C2-поняття: estetický",
+              "rightRu": "C2-понятие: estetický",
+              "rightEn": "C2 concept: estetický"
+            },
+            {
+              "left": "hodnotiť",
+              "right": "C2-поняття: hodnotiť",
+              "rightRu": "C2-понятие: hodnotiť",
+              "rightEn": "C2 concept: hodnotiť"
+            },
+            {
+              "left": "vnímať",
+              "right": "C2-поняття: vnímať",
+              "rightRu": "C2-понятие: vnímať",
+              "rightEn": "C2 concept: vnímať"
+            },
+            {
+              "left": "interpretovať",
+              "right": "інтерпретувати",
+              "rightRu": "интерпретировать",
+              "rightEn": "to interpret"
+            }
+          ]
+        },
+        {
+          "id": "c2-s08-l040-e03",
+          "lessonId": "c2-s08-l040",
+          "type": "fill_blank",
+          "order": 3,
+          "question": "Впиши словацькою: C2-поняття: vnímať.",
+          "questionLocalized": {
+            "uk": "Впиши словацькою: C2-поняття: vnímať.",
+            "ru": "Впиши по-словацки: C2-понятие: vnímať.",
+            "en": "Write in Slovak: C2 concept: vnímať."
+          },
+          "wordIds": [
+            "c2-s08-l040-w03"
+          ],
+          "sentence": "______",
+          "acceptedAnswers": [
+            "vnímať"
+          ],
+          "hint": {
+            "uk": "Початок: vn...",
+            "ru": "Начало: vn...",
+            "en": "Start: vn..."
+          }
+        },
+        {
+          "id": "c2-s08-l040-e04",
+          "lessonId": "c2-s08-l040",
+          "type": "dropdown_blank",
+          "order": 4,
+          "question": "Обери точну фразу для C2-речення.",
+          "questionLocalized": {
+            "uk": "Обери точну фразу для C2-речення.",
+            "ru": "Выбери точную фразу для C2-предложения.",
+            "en": "Choose the precise phrase for a C2 sentence."
+          },
+          "wordIds": [
+            "c2-s08-l040-w04"
+          ],
+          "sentenceParts": [
+            {
+              "text": "V tejto situácii je dôležité použiť "
+            },
+            {
+              "blankId": "blank1",
+              "options": [
+                "interpretovať",
+                "estetický",
+                "hodnotiť"
+              ],
+              "correct": "interpretovať"
+            },
+            {
+              "text": "."
+            }
+          ]
+        },
+        {
+          "id": "c2-s08-l040-e05",
+          "lessonId": "c2-s08-l040",
+          "type": "sentence_builder",
+          "order": 5,
+          "question": "Склади природну словацьку репліку.",
+          "questionLocalized": {
+            "uk": "Склади природну словацьку репліку.",
+            "ru": "Собери естественную словацкую реплику.",
+            "en": "Build a natural Slovak reply."
+          },
+          "wordIds": [
+            "c2-s08-l040-w05"
+          ],
+          "tokens": [
+            "Rozumiem",
+            "situácii,",
+            "ale",
+            "potrebujem",
+            "ju",
+            "ešte",
+            "upresniť."
+          ],
+          "correctSentence": "Rozumiem situácii, ale potrebujem ju ešte upresniť."
+        },
+        {
+          "id": "c2-s08-l040-e06",
+          "lessonId": "c2-s08-l040",
+          "type": "multiple_select",
+          "order": 6,
+          "question": "Обери C2-репліки з природним тоном.",
+          "questionLocalized": {
+            "uk": "Обери C2-репліки з природним тоном.",
+            "ru": "Выбери C2-реплики с естественным тоном.",
+            "en": "Select C2 replies with a natural tone."
+          },
+          "wordIds": [
+            "c2-s08-l040-w01",
+            "c2-s08-l040-w06"
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Rozumiem, ale potrebujem to presnejšie vysvetliť.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "To je úplne mimo a nemá zmysel hovoriť.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Z môjho pohľadu je dôležitý aj kontext.",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "id": "c2-s08-l040-e07",
+          "lessonId": "c2-s08-l040",
+          "type": "reading_comprehension",
+          "order": 7,
+          "question": "Прочитай текст і вибери головну думку.",
+          "questionLocalized": {
+            "uk": "Прочитай текст і вибери головну думку.",
+            "ru": "Прочитай текст и выбери главную мысль.",
+            "en": "Read the text and choose the main idea."
+          },
+          "wordIds": [
+            "c2-s08-l040-w06",
+            "c2-s08-l040-w07",
+            "c2-s08-l040-w08"
+          ],
+          "text": "Téma Kultúra v rozhovore si vyžaduje presnosť. Nestačí poznať slová; treba reagovať podľa kontextu, vysvetliť dôvod a navrhnúť ďalší krok.",
+          "questions": [
+            {
+              "prompt": {
+                "uk": "Що є головною думкою?",
+                "ru": "Что является главной мыслью?",
+                "en": "What is the main idea?"
+              },
+              "options": [
+                {
+                  "id": "a",
+                  "sk": "Treba reagovať presne podľa kontextu.",
+                  "correct": true
+                },
+                {
+                  "id": "b",
+                  "sk": "Stačí opakovať jedno slovo.",
+                  "correct": false
+                },
+                {
+                  "id": "c",
+                  "sk": "Najlepšie je nereagovať.",
+                  "correct": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "c2-s08-l040-e08",
+          "lessonId": "c2-s08-l040",
+          "type": "dialogue_choose_reply",
+          "order": 8,
+          "question": "Обери найкращу відповідь у діалозі.",
+          "questionLocalized": {
+            "uk": "Обери найкращу відповідь у діалозі.",
+            "ru": "Выбери лучший ответ в диалоге.",
+            "en": "Choose the best reply in the dialogue."
+          },
+          "wordIds": [
+            "c2-s08-l040-w07"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Ako by si to vysvetlil?"
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Najprv zhrniem situáciu a potom poviem svoj návrh.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Nepoviem nič, lebo je to ťažké.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Odpoviem jedným náhodným slovom.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c2-s08-l040-e09",
+          "lessonId": "c2-s08-l040",
+          "type": "meaning_in_context",
+          "order": 9,
+          "question": "Що означає «hodnotiť» у контексті?",
+          "questionLocalized": {
+            "uk": "Що означає «hodnotiť» у контексті?",
+            "ru": "Что означает «hodnotiť» в контексте?",
+            "en": "What does “hodnotiť” mean in context?"
+          },
+          "wordIds": [
+            "c2-s08-l040-w02"
+          ],
+          "context": {
+            "sk": "Rozhovor je citlivý, preto si najprv overím význam a tón."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "C2-поняття: hodnotiť",
+                "ru": "C2-понятие: hodnotiť",
+                "en": "C2 concept: hodnotiť"
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "C2-поняття: dojem",
+                "ru": "C2-понятие: dojem",
+                "en": "C2 concept: dojem"
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "зміщення значення",
+                "ru": "сдвиг значения",
+                "en": "shift in meaning"
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c2-s08-l040-e10",
+          "lessonId": "c2-s08-l040",
+          "type": "natural_phrase",
+          "order": 10,
+          "question": "Що звучить найприродніше?",
+          "questionLocalized": {
+            "uk": "Що звучить найприродніше?",
+            "ru": "Что звучит естественнее всего?",
+            "en": "What sounds most natural?"
+          },
+          "wordIds": [
+            "c2-s08-l040-w08"
+          ],
+          "situation": {
+            "uk": "Потрібно відповісти точно, але без різкого тону.",
+            "ru": "Нужно ответить точно, но без резкого тона.",
+            "en": "You need to answer precisely but without a sharp tone."
+          },
+          "options": [
+            {
+              "id": "a",
+              "sk": "Chápem tvoj pohľad, ale doplnil by som ešte jednu vec.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Ty ničomu nerozumieš.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Áno nie možno včera.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c2-s08-l040-e11",
+          "lessonId": "c2-s08-l040",
+          "type": "reverse_translation",
+          "order": 11,
+          "question": "Обери словацький варіант для: C2-поняття: dojem.",
+          "questionLocalized": {
+            "uk": "Обери словацький варіант для: C2-поняття: dojem.",
+            "ru": "Выбери словацкий вариант для: C2-понятие: dojem.",
+            "en": "Choose the Slovak item for: C2 concept: dojem."
+          },
+          "wordIds": [
+            "c2-s08-l040-w05"
+          ],
+          "options": [
+            "dojem",
+            "vnímať",
+            "estetický"
+          ],
+          "correctAnswer": "dojem"
+        },
+        {
+          "id": "c2-s08-l040-e12",
+          "lessonId": "c2-s08-l040",
+          "type": "sentence_order",
+          "order": 12,
+          "question": "Віднови логічний порядок C2-відповіді.",
+          "questionLocalized": {
+            "uk": "Віднови логічний порядок C2-відповіді.",
+            "ru": "Восстанови логический порядок C2-ответа.",
+            "en": "Restore the logical order of a C2 answer."
+          },
+          "wordIds": [
+            "c2-s08-l040-w01",
+            "c2-s08-l040-w02"
+          ],
+          "items": [
+            "Najprv treba pomenovať kontext.",
+            "Potom možno doplniť presnejší výraz.",
+            "Napokon z toho vyplýva konkrétny záver."
+          ],
+          "correctOrder": [
+            "Najprv treba pomenovať kontext.",
+            "Potom možno doplniť presnejší výraz.",
+            "Napokon z toho vyplýva konkrétny záver."
+          ]
+        },
+        {
+          "id": "c2-s08-l040-e13",
+          "lessonId": "c2-s08-l040",
+          "type": "dialogue_choose_reply",
+          "order": 13,
+          "question": "Обери відповідь з точним регістром.",
+          "questionLocalized": {
+            "uk": "Обери відповідь з точним регістром.",
+            "ru": "Выбери ответ с точным регистром.",
+            "en": "Choose the reply with the right register."
+          },
+          "wordIds": [
+            "c2-s08-l040-w03",
+            "c2-s08-l040-w04"
+          ],
+          "dialogue": [
+            {
+              "speaker": "A",
+              "sk": "Potrebujem to povedať odborne, ale nie zbytočne tvrdo."
+            }
+          ],
+          "options": [
+            {
+              "id": "a",
+              "sk": "Rozumiem. Preformuloval by som to vecne a zároveň opatrne.",
+              "correct": true
+            },
+            {
+              "id": "b",
+              "sk": "Napíš tam čokoľvek, hlavne rýchlo.",
+              "correct": false
+            },
+            {
+              "id": "c",
+              "sk": "Daj tam najtvrdšiu možnú formuláciu.",
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c2-s08-l040-e14",
+          "lessonId": "c2-s08-l040",
+          "type": "multiple_choice_translation",
+          "order": 14,
+          "question": "Що відповідає словацькому «významový posun»?",
+          "questionLocalized": {
+            "uk": "Що відповідає словацькому «významový posun»?",
+            "ru": "Что соответствует словацкому «významový posun»?",
+            "en": "What matches the Slovak “významový posun”?"
+          },
+          "wordIds": [
+            "c2-s08-l040-w08"
+          ],
+          "options": [
+            "зміщення значення",
+            "C2-поняття: hodnotiť",
+            "C2-поняття: vnímať"
+          ],
+          "correctAnswer": "зміщення значення"
+        },
+        {
+          "id": "c2-s08-l040-e15",
+          "lessonId": "c2-s08-l040",
+          "type": "meaning_in_context",
+          "order": 15,
+          "question": "Обери найточніше читання підтексту.",
+          "questionLocalized": {
+            "uk": "Обери найточніше читання підтексту.",
+            "ru": "Выбери самое точное чтение подтекста.",
+            "en": "Choose the most precise reading of the subtext."
+          },
+          "wordIds": [
+            "c2-s08-l040-w01",
+            "c2-s08-l040-w04",
+            "c2-s08-l040-w07"
+          ],
+          "context": {
+            "sk": "V téme Kultúra v rozhovore nejde iba o slovnú zásobu, ale aj o to, čo hovoriaci naznačuje, čo zamlčí a aký register si zvolí."
+          },
+          "options": [
+            {
+              "id": "a",
+              "text": {
+                "uk": "Treba rozumieť aj nepriamemu významu a štýlu.",
+                "ru": "Нужно понимать и непрямой смысл, и стиль.",
+                "en": "One has to understand indirect meaning and style as well."
+              },
+              "correct": true
+            },
+            {
+              "id": "b",
+              "text": {
+                "uk": "Stačí preložiť každé slovo osobitne.",
+                "ru": "Достаточно перевести каждое слово отдельно.",
+                "en": "It is enough to translate every word separately."
+              },
+              "correct": false
+            },
+            {
+              "id": "c",
+              "text": {
+                "uk": "Register v C2 komunikácii nehrá žiadnu úlohu.",
+                "ru": "Регистр в C2-коммуникации не играет роли.",
+                "en": "Register plays no role in C2 communication."
+              },
+              "correct": false
+            }
+          ]
+        },
+        {
+          "id": "c2-s08-l040-e16",
+          "lessonId": "c2-s08-l040",
+          "type": "sentence_order",
+          "order": 16,
+          "question": "Побудуй C2-відповідь: теза, застереження, висновок.",
+          "questionLocalized": {
+            "uk": "Побудуй C2-відповідь: теза, застереження, висновок.",
+            "ru": "Построй C2-ответ: тезис, оговорка, вывод.",
+            "en": "Build a C2 answer: thesis, caveat, conclusion."
+          },
+          "wordIds": [
+            "c2-s08-l040-w02",
+            "c2-s08-l040-w05",
+            "c2-s08-l040-w08"
+          ],
+          "items": [
+            "Na prvý pohľad sa zdá, že riešenie je jednoznačné.",
+            "Pri bližšom pohľade však treba zohľadniť aj kontext a možné dôsledky.",
+            "Preto by som volil formuláciu, ktorá je presná, ale necháva priestor na doplnenie."
+          ],
+          "correctOrder": [
+            "Na prvý pohľad sa zdá, že riešenie je jednoznačné.",
+            "Pri bližšom pohľade však treba zohľadniť aj kontext a možné dôsledky.",
+            "Preto by som volil formuláciu, ktorá je presná, ale necháva priestor na doplnenie."
+          ]
+        }
+      ],
+      "finalSituation": {
+        "id": "final-situation",
+        "type": "interactive_scenario",
+        "title": {
+          "uk": "Kultúra v rozhovore: реальна ситуація",
+          "ru": "Kultúra v rozhovore: реальная ситуация",
+          "en": "Kultúra v rozhovore: real situation"
+        },
+        "description": {
+          "uk": "Обери репліки, які звучать природно, точно й доречно на рівні C2.",
+          "ru": "Выбери реплики, которые звучат естественно, точно и уместно на уровне C2.",
+          "en": "Choose replies that sound natural, precise and appropriate at C2 level."
+        },
+        "steps": [
+          {
+            "id": "f1",
+            "prompt": {
+              "uk": "Потрібно почати відповідь без різкості.",
+              "ru": "Нужно начать ответ без резкости.",
+              "en": "You need to start without sounding harsh."
+            },
+            "options": [
+              {
+                "sk": "Rozumiem, skúsim to najprv zhrnúť vlastnými slovami.",
+                "correct": true
+              },
+              {
+                "sk": "Nemáš pravdu a viac sa o tom nebavme.",
+                "correct": false
+              },
+              {
+                "sk": "Neviem a nechcem reagovať.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f2",
+            "prompt": {
+              "uk": "Потрібно додати аргумент.",
+              "ru": "Нужно добавить аргумент.",
+              "en": "You need to add an argument."
+            },
+            "options": [
+              {
+                "sk": "Dôvod je podľa mňa v tom, že situácia má viac okolností.",
+                "correct": true
+              },
+              {
+                "sk": "Pretože áno.",
+                "correct": false
+              },
+              {
+                "sk": "To nesúvisí s ničím.",
+                "correct": false
+              }
+            ]
+          },
+          {
+            "id": "f3",
+            "prompt": {
+              "uk": "Потрібно завершити практично.",
+              "ru": "Нужно завершить практически.",
+              "en": "You need to close practically."
+            },
+            "options": [
+              {
+                "sk": "Navrhujem ďalší krok a potom si to potvrdíme písomne.",
+                "correct": true
+              },
+              {
+                "sk": "Nechajme to bez riešenia.",
+                "correct": false
+              },
+              {
+                "sk": "Každý nech si domyslí zvyšok.",
+                "correct": false
+              }
+            ]
+          }
+        ],
+        "passRequirement": "3/3",
+        "successMessage": {
+          "uk": "Готово: тема перенесена в реальну C2-комунікацію.",
+          "ru": "Готово: тема перенесена в реальную C2-коммуникацию.",
+          "en": "Done: the topic was transferred into real C2 communication."
+        }
+      },
+      "resultScreen": {
+        "screenType": "lesson_result",
+        "title": {
+          "uk": "Урок завершено",
+          "ru": "Урок завершён",
+          "en": "Lesson complete"
+        },
+        "subtitle": {
+          "uk": "Ти пройшов ще один крок рівня C2.",
+          "ru": "Ты прошёл ещё один шаг уровня C2.",
+          "en": "You completed another C2 step."
+        },
+        "xpReward": 260,
+        "newWordsCount": 8,
+        "exercisesCompleted": 16,
+        "nowYouKnow": [
+          "структурувати відповідь",
+          "пояснювати нюанс",
+          "реагувати доречно"
+        ],
+        "mistakesMessage": {
+          "uk": "Повтори вправи, де плутається значення або тон.",
+          "ru": "Повтори упражнения, где путается значение или тон.",
+          "en": "Repeat exercises where meaning or tone is unclear."
+        },
+        "buttons": [
+          "Продовжити",
+          "Повторити урок",
+          "Тренувати помилки"
+        ],
+        "skills": [
+          {
+            "id": "vocabulary",
+            "label": {
+              "uk": "лексика",
+              "ru": "лексика",
+              "en": "vocabulary"
+            },
+            "weight": 0.3
+          },
+          {
+            "id": "composition",
+            "label": {
+              "uk": "структура",
+              "ru": "структура",
+              "en": "composition"
+            },
+            "weight": 0.4
+          },
+          {
+            "id": "transfer",
+            "label": {
+              "uk": "перенесення",
+              "ru": "перенос",
+              "en": "transfer"
+            },
+            "weight": 0.3
+          }
+        ],
+        "nextLesson": {
+          "id": "c2-s09-l041"
+        }
+      }
+    }
+  ]
+}
