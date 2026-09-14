@@ -11,26 +11,26 @@
         "en": "Záleží na tom"
       },
       "topic": {
-        "sk": "умови, залежність від ситуації й важливі фактори",
+        "sk": "Záleží na tom",
         "uk": "умови, залежність від ситуації й важливі фактори",
-        "ru": "умови, залежність від ситуації й важливі фактори",
-        "en": "умови, залежність від ситуації й важливі фактори"
+        "ru": "условия, зависимость от ситуации и важные факторы",
+        "en": "conditions, dependence on context and key factors"
       },
       "description": {
-        "sk": "Precvičíš si B2 komunikáciu: умови, залежність від ситуації й важливі фактори.",
-        "uk": "Тренуємо B2-комунікацію: говорити не чорно-біло, а з умовами: від чого залежить рішення, що є суттєвим і що другорядним.",
-        "ru": "Тренируем B2-коммуникацию: говорити не чорно-біло, а з умовами: від чого залежить рішення, що є суттєвим і що другорядним.",
-        "en": "Practice B2 communication: умови, залежність від ситуації й важливі фактори."
+        "sk": "Precvičíš si komunikáciu na úrovni B2: Záleží na tom.",
+        "uk": "Тренуємо B2-комунікацію: пояснювати, від яких умов залежить рішення.",
+        "ru": "Тренируем B2-коммуникацию: объяснять, от каких условий зависит решение.",
+        "en": "Practice B2 communication: explain which conditions a decision depends on."
       },
       "order": 2,
       "xpReward": 180,
       "estimatedMinutes": 32,
       "isPublished": false,
       "intro": {
-        "sk": "Precvičíš si B2 komunikáciu: умови, залежність від ситуації й важливі фактори.",
-        "uk": "Тренуємо B2-комунікацію: говорити не чорно-біло, а з умовами: від чого залежить рішення, що є суттєвим і що другорядним.",
-        "ru": "Тренируем B2-коммуникацию: говорити не чорно-біло, а з умовами: від чого залежить рішення, що є суттєвим і що другорядним.",
-        "en": "Practice B2 communication: умови, залежність від ситуації й важливі фактори."
+        "sk": "Precvičíš si komunikáciu na úrovni B2: Záleží na tom.",
+        "uk": "Тренуємо B2-комунікацію: пояснювати, від яких умов залежить рішення.",
+        "ru": "Тренируем B2-коммуникацию: объяснять, от каких условий зависит решение.",
+        "en": "Practice B2 communication: explain which conditions a decision depends on."
       },
       "completionMessage": {
         "sk": "Výborne. Dokážeš reagovať presnejšie a pokojnejšie.",
@@ -61,9 +61,9 @@
           "en": "Záleží na tom"
         },
         "shortDescription": {
-          "uk": "Тренуємо B2-комунікацію: говорити не чорно-біло, а з умовами: від чого залежить рішення, що є суттєвим і що другорядним.",
-          "ru": "Тренируем B2-коммуникацию: говорити не чорно-біло, а з умовами: від чого залежить рішення, що є суттєвим і що другорядним.",
-          "en": "Practice B2 communication: умови, залежність від ситуації й важливі фактори."
+          "uk": "Тренуємо B2-комунікацію: пояснювати, від яких умов залежить рішення.",
+          "ru": "Тренируем B2-коммуникацию: объяснять, от каких условий зависит решение.",
+          "en": "Practice B2 communication: explain which conditions a decision depends on."
         },
         "outcomes": [
           {
@@ -108,9 +108,9 @@
             "en": "Why this matters at B2"
           },
           "body": {
-            "uk": "говорити не чорно-біло, а з умовами: від чого залежить рішення, що є суттєвим і що другорядним.",
-            "ru": "говорити не чорно-біло, а з умовами: від чого залежить рішення, що є суттєвим і що другорядним.",
-            "en": "You learn to handle nuance: умови, залежність від ситуації й важливі фактори."
+            "uk": "пояснювати, від яких умов залежить рішення.",
+            "ru": "объяснять, от каких условий зависит решение.",
+            "en": "explain which conditions a decision depends on."
           },
           "examples": [
             {
@@ -238,8 +238,8 @@
             "pronunciationUk": "zаleжaть na",
             "exampleSk": "Záleží na tom, koľko času máme.",
             "exampleUk": "Це залежить від того, скільки часу ми маємо.",
-            "exampleRu": "Це залежить від того, скільки часу ми маємо.",
-            "exampleEn": "to depend on / to matter"
+            "exampleRu": "Пример: зависеть от / быть важным.",
+            "exampleEn": "Example phrase for: to depend on / to matter."
           },
           {
             "wordId": "b2-s01-l002-w02",
@@ -250,8 +250,8 @@
             "pronunciationUk": "zаvisieть od",
             "exampleSk": "Výsledok závisí od dohody.",
             "exampleUk": "Результат залежить від домовленості.",
-            "exampleRu": "Результат залежить від домовленості.",
-            "exampleEn": "to depend on"
+            "exampleRu": "Пример: зависеть от.",
+            "exampleEn": "Example phrase for: to depend on."
           },
           {
             "wordId": "b2-s01-l002-w03",
@@ -262,8 +262,8 @@
             "pronunciationUk": "v zаvislosti od",
             "exampleSk": "Cena sa mení v závislosti od rozsahu.",
             "exampleUk": "Ціна змінюється залежно від обсягу.",
-            "exampleRu": "Ціна змінюється залежно від обсягу.",
-            "exampleEn": "depending on"
+            "exampleRu": "Пример: в зависимости от.",
+            "exampleEn": "Example phrase for: depending on."
           },
           {
             "wordId": "b2-s01-l002-w04",
@@ -274,8 +274,8 @@
             "pronunciationUk": "podmienka",
             "exampleSk": "Hlavná podmienka je jasný termín.",
             "exampleUk": "Головна умова - чіткий термін.",
-            "exampleRu": "Головна умова - чіткий термін.",
-            "exampleEn": "condition"
+            "exampleRu": "Пример: условие.",
+            "exampleEn": "Example phrase for: condition."
           },
           {
             "wordId": "b2-s01-l002-w05",
@@ -286,8 +286,8 @@
             "pronunciationUk": "okolnosть",
             "exampleSk": "Za týchto okolností je to rozumné.",
             "exampleUk": "За цих обставин це розумно.",
-            "exampleRu": "За цих обставин це розумно.",
-            "exampleEn": "circumstance"
+            "exampleRu": "Пример: обстоятельство.",
+            "exampleEn": "Example phrase for: circumstance."
           },
           {
             "wordId": "b2-s01-l002-w06",
@@ -298,8 +298,8 @@
             "pronunciationUk": "situаcia",
             "exampleSk": "Situácia sa môže rýchlo zmeniť.",
             "exampleUk": "Ситуація може швидко змінитися.",
-            "exampleRu": "Ситуація може швидко змінитися.",
-            "exampleEn": "situation"
+            "exampleRu": "Пример: ситуация.",
+            "exampleEn": "Example phrase for: situation."
           },
           {
             "wordId": "b2-s01-l002-w07",
@@ -310,8 +310,8 @@
             "pronunciationUk": "rozhodujуci",
             "exampleSk": "Rozhodujúci bude čas.",
             "exampleUk": "Вирішальним буде час.",
-            "exampleRu": "Вирішальним буде час.",
-            "exampleEn": "decisive"
+            "exampleRu": "Пример: решающий.",
+            "exampleEn": "Example phrase for: decisive."
           },
           {
             "wordId": "b2-s01-l002-w08",
@@ -322,8 +322,8 @@
             "pronunciationUk": "podstatnи",
             "exampleSk": "To je podstatný rozdiel.",
             "exampleUk": "Це суттєва різниця.",
-            "exampleRu": "Це суттєва різниця.",
-            "exampleEn": "substantial, essential"
+            "exampleRu": "Пример: существенный.",
+            "exampleEn": "Example phrase for: substantial, essential."
           }
         ],
         "button": "До практики"
@@ -338,8 +338,8 @@
           "pronunciationUk": "zаleжaть na",
           "exampleSk": "Záleží na tom, koľko času máme.",
           "exampleUk": "Це залежить від того, скільки часу ми маємо.",
-          "exampleRu": "Це залежить від того, скільки часу ми маємо.",
-          "exampleEn": "to depend on / to matter",
+          "exampleRu": "Пример: зависеть от / быть важным.",
+          "exampleEn": "Example phrase for: to depend on / to matter.",
           "level": "B2",
           "topic": "Záleží na tom",
           "tags": [
@@ -359,8 +359,8 @@
           "pronunciationUk": "zаvisieть od",
           "exampleSk": "Výsledok závisí od dohody.",
           "exampleUk": "Результат залежить від домовленості.",
-          "exampleRu": "Результат залежить від домовленості.",
-          "exampleEn": "to depend on",
+          "exampleRu": "Пример: зависеть от.",
+          "exampleEn": "Example phrase for: to depend on.",
           "level": "B2",
           "topic": "Záleží na tom",
           "tags": [
@@ -380,8 +380,8 @@
           "pronunciationUk": "v zаvislosti od",
           "exampleSk": "Cena sa mení v závislosti od rozsahu.",
           "exampleUk": "Ціна змінюється залежно від обсягу.",
-          "exampleRu": "Ціна змінюється залежно від обсягу.",
-          "exampleEn": "depending on",
+          "exampleRu": "Пример: в зависимости от.",
+          "exampleEn": "Example phrase for: depending on.",
           "level": "B2",
           "topic": "Záleží na tom",
           "tags": [
@@ -401,8 +401,8 @@
           "pronunciationUk": "podmienka",
           "exampleSk": "Hlavná podmienka je jasný termín.",
           "exampleUk": "Головна умова - чіткий термін.",
-          "exampleRu": "Головна умова - чіткий термін.",
-          "exampleEn": "condition",
+          "exampleRu": "Пример: условие.",
+          "exampleEn": "Example phrase for: condition.",
           "level": "B2",
           "topic": "Záleží na tom",
           "tags": [
@@ -422,8 +422,8 @@
           "pronunciationUk": "okolnosть",
           "exampleSk": "Za týchto okolností je to rozumné.",
           "exampleUk": "За цих обставин це розумно.",
-          "exampleRu": "За цих обставин це розумно.",
-          "exampleEn": "circumstance",
+          "exampleRu": "Пример: обстоятельство.",
+          "exampleEn": "Example phrase for: circumstance.",
           "level": "B2",
           "topic": "Záleží na tom",
           "tags": [
@@ -443,8 +443,8 @@
           "pronunciationUk": "situаcia",
           "exampleSk": "Situácia sa môže rýchlo zmeniť.",
           "exampleUk": "Ситуація може швидко змінитися.",
-          "exampleRu": "Ситуація може швидко змінитися.",
-          "exampleEn": "situation",
+          "exampleRu": "Пример: ситуация.",
+          "exampleEn": "Example phrase for: situation.",
           "level": "B2",
           "topic": "Záleží na tom",
           "tags": [
@@ -464,8 +464,8 @@
           "pronunciationUk": "rozhodujуci",
           "exampleSk": "Rozhodujúci bude čas.",
           "exampleUk": "Вирішальним буде час.",
-          "exampleRu": "Вирішальним буде час.",
-          "exampleEn": "decisive",
+          "exampleRu": "Пример: решающий.",
+          "exampleEn": "Example phrase for: decisive.",
           "level": "B2",
           "topic": "Záleží na tom",
           "tags": [
@@ -485,8 +485,8 @@
           "pronunciationUk": "podstatnи",
           "exampleSk": "To je podstatný rozdiel.",
           "exampleUk": "Це суттєва різниця.",
-          "exampleRu": "Це суттєва різниця.",
-          "exampleEn": "substantial, essential",
+          "exampleRu": "Пример: существенный.",
+          "exampleEn": "Example phrase for: substantial, essential.",
           "level": "B2",
           "topic": "Záleží na tom",
           "tags": [
@@ -602,7 +602,7 @@
             "b2-s01-l002-w02"
           ],
           "context": {
-            "sk": "Nechcem reagovať automaticky. Najprv potrebujem závisieť od situáciu."
+            "sk": "Nechcem reagovať automaticky. Najprv potrebujem lepšie pochopiť situáciu."
           },
           "options": [
             {
@@ -763,7 +763,7 @@
             "b2-s01-l002-w07",
             "b2-s01-l002-w08"
           ],
-          "text": "Správa znie neutrálne, ale rozhodujúci naznačuje, že druhá strana čaká vysvetlenie. Pointa nie je útok, ale potreba vyjasniť situáciu.",
+          "text": "Správa znie neutrálne, ale jej tón naznačuje, že druhá strana čaká vysvetlenie. Pointa nie je útok, ale potreba vyjasniť situáciu.",
           "questions": [
             {
               "prompt": {
@@ -920,8 +920,8 @@
         },
         "description": {
           "uk": "Друг питає, чи варто приймати пропозицію. Потрібно пояснити, що відповідь залежить від умов.",
-          "ru": "Друг питає, чи варто приймати пропозицію. Потрібно пояснити, що відповідь залежить від умов.",
-          "en": "Choose replies that clarify meaning, keep the tone calm and move the conversation forward."
+          "ru": "Ответ зависит от условий. Нужно объяснить, что важно, а что второстепенно.",
+          "en": "The answer depends on conditions. Explain what matters and what is secondary."
         },
         "steps": [
           {
