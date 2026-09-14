@@ -11,26 +11,26 @@
         "en": "To nie je celkom pravda"
       },
       "topic": {
-        "sk": "м'яке заперечення, корекція й точніше формулювання",
+        "sk": "To nie je celkom pravda",
         "uk": "м'яке заперечення, корекція й точніше формулювання",
-        "ru": "м'яке заперечення, корекція й точніше формулювання",
-        "en": "м'яке заперечення, корекція й точніше формулювання"
+        "ru": "мягкое несогласие, коррекция и точная формулировка",
+        "en": "soft disagreement, correction and precise wording"
       },
       "description": {
-        "sk": "Precvičíš si B2 komunikáciu: м'яке заперечення, корекція й точніше формулювання.",
-        "uk": "Тренуємо B2-комунікацію: не ламати розмову прямим конфліктом, а коректно показати, що твердження неточне або лише частково правильне.",
-        "ru": "Тренируем B2-коммуникацию: не ламати розмову прямим конфліктом, а коректно показати, що твердження неточне або лише частково правильне.",
-        "en": "Practice B2 communication: м'яке заперечення, корекція й точніше формулювання."
+        "sk": "Precvičíš si komunikáciu na úrovni B2: To nie je celkom pravda.",
+        "uk": "Тренуємо B2-комунікацію: коректно показувати, що твердження неточне або часткове.",
+        "ru": "Тренируем B2-коммуникацию: корректно показывать, что утверждение неточное или частичное.",
+        "en": "Practice B2 communication: politely show that a claim is imprecise or only partly true."
       },
       "order": 3,
       "xpReward": 180,
       "estimatedMinutes": 32,
       "isPublished": false,
       "intro": {
-        "sk": "Precvičíš si B2 komunikáciu: м'яке заперечення, корекція й точніше формулювання.",
-        "uk": "Тренуємо B2-комунікацію: не ламати розмову прямим конфліктом, а коректно показати, що твердження неточне або лише частково правильне.",
-        "ru": "Тренируем B2-коммуникацию: не ламати розмову прямим конфліктом, а коректно показати, що твердження неточне або лише частково правильне.",
-        "en": "Practice B2 communication: м'яке заперечення, корекція й точніше формулювання."
+        "sk": "Precvičíš si komunikáciu na úrovni B2: To nie je celkom pravda.",
+        "uk": "Тренуємо B2-комунікацію: коректно показувати, що твердження неточне або часткове.",
+        "ru": "Тренируем B2-коммуникацию: корректно показывать, что утверждение неточное или частичное.",
+        "en": "Practice B2 communication: politely show that a claim is imprecise or only partly true."
       },
       "completionMessage": {
         "sk": "Výborne. Dokážeš reagovať presnejšie a pokojnejšie.",
@@ -61,9 +61,9 @@
           "en": "To nie je celkom pravda"
         },
         "shortDescription": {
-          "uk": "Тренуємо B2-комунікацію: не ламати розмову прямим конфліктом, а коректно показати, що твердження неточне або лише частково правильне.",
-          "ru": "Тренируем B2-коммуникацию: не ламати розмову прямим конфліктом, а коректно показати, що твердження неточне або лише частково правильне.",
-          "en": "Practice B2 communication: м'яке заперечення, корекція й точніше формулювання."
+          "uk": "Тренуємо B2-комунікацію: коректно показувати, що твердження неточне або часткове.",
+          "ru": "Тренируем B2-коммуникацию: корректно показывать, что утверждение неточное или частичное.",
+          "en": "Practice B2 communication: politely show that a claim is imprecise or only partly true."
         },
         "outcomes": [
           {
@@ -108,9 +108,9 @@
             "en": "Why this matters at B2"
           },
           "body": {
-            "uk": "не ламати розмову прямим конфліктом, а коректно показати, що твердження неточне або лише частково правильне.",
-            "ru": "не ламати розмову прямим конфліктом, а коректно показати, що твердження неточне або лише частково правильне.",
-            "en": "You learn to handle nuance: м'яке заперечення, корекція й точніше формулювання."
+            "uk": "коректно показувати, що твердження неточне або часткове.",
+            "ru": "корректно показывать, что утверждение неточное или частичное.",
+            "en": "politely show that a claim is imprecise or only partly true."
           },
           "examples": [
             {
@@ -238,8 +238,8 @@
             "pronunciationUk": "nesуhlasiть",
             "exampleSk": "S tým úplne nesúhlasím.",
             "exampleUk": "З цим я не повністю погоджуюся.",
-            "exampleRu": "З цим я не повністю погоджуюся.",
-            "exampleEn": "to disagree"
+            "exampleRu": "Пример: не соглашаться.",
+            "exampleEn": "Example phrase for: to disagree."
           },
           {
             "wordId": "b2-s01-l003-w02",
@@ -250,8 +250,8 @@
             "pronunciationUk": "чiastoчne",
             "exampleSk": "Čiastočne máš pravdu.",
             "exampleUk": "Частково ти маєш рацію.",
-            "exampleRu": "Частково ти маєш рацію.",
-            "exampleEn": "partly"
+            "exampleRu": "Пример: частично.",
+            "exampleEn": "Example phrase for: partly."
           },
           {
             "wordId": "b2-s01-l003-w03",
@@ -262,8 +262,8 @@
             "pronunciationUk": "celkom",
             "exampleSk": "To nie je celkom presné.",
             "exampleUk": "Це не зовсім точно.",
-            "exampleRu": "Це не зовсім точно.",
-            "exampleEn": "completely / quite"
+            "exampleRu": "Пример: полностью / совсем.",
+            "exampleEn": "Example phrase for: completely / quite."
           },
           {
             "wordId": "b2-s01-l003-w04",
@@ -274,8 +274,8 @@
             "pronunciationUk": "presne",
             "exampleSk": "Presne o to mi ide.",
             "exampleUk": "Саме це я маю на увазі.",
-            "exampleRu": "Саме це я маю на увазі.",
-            "exampleEn": "exactly"
+            "exampleRu": "Пример: точно.",
+            "exampleEn": "Example phrase for: exactly."
           },
           {
             "wordId": "b2-s01-l003-w05",
@@ -286,8 +286,8 @@
             "pronunciationUk": "opraviть",
             "exampleSk": "Dovoľ mi to trochu opraviť.",
             "exampleUk": "Дозволь мені це трохи виправити.",
-            "exampleRu": "Дозволь мені це трохи виправити.",
-            "exampleEn": "to correct"
+            "exampleRu": "Пример: исправить.",
+            "exampleEn": "Example phrase for: to correct."
           },
           {
             "wordId": "b2-s01-l003-w06",
@@ -298,8 +298,8 @@
             "pronunciationUk": "upresniть",
             "exampleSk": "Chcem to upresniť, aby nevznikol omyl.",
             "exampleUk": "Хочу це уточнити, щоб не виникла помилка.",
-            "exampleRu": "Хочу це уточнити, щоб не виникла помилка.",
-            "exampleEn": "to clarify"
+            "exampleRu": "Пример: уточнить.",
+            "exampleEn": "Example phrase for: to clarify."
           },
           {
             "wordId": "b2-s01-l003-w07",
@@ -310,8 +310,8 @@
             "pronunciationUk": "tvrdenie",
             "exampleSk": "Toto tvrdenie je príliš všeobecné.",
             "exampleUk": "Це твердження занадто загальне.",
-            "exampleRu": "Це твердження занадто загальне.",
-            "exampleEn": "claim, statement"
+            "exampleRu": "Пример: утверждение.",
+            "exampleEn": "Example phrase for: claim, statement."
           },
           {
             "wordId": "b2-s01-l003-w08",
@@ -322,8 +322,8 @@
             "pronunciationUk": "pohльad",
             "exampleSk": "Z môjho pohľadu je problém inde.",
             "exampleUk": "З моєї точки зору проблема в іншому.",
-            "exampleRu": "З моєї точки зору проблема в іншому.",
-            "exampleEn": "viewpoint"
+            "exampleRu": "Пример: взгляд, точка зрения.",
+            "exampleEn": "Example phrase for: viewpoint."
           }
         ],
         "button": "До практики"
@@ -338,8 +338,8 @@
           "pronunciationUk": "nesуhlasiть",
           "exampleSk": "S tým úplne nesúhlasím.",
           "exampleUk": "З цим я не повністю погоджуюся.",
-          "exampleRu": "З цим я не повністю погоджуюся.",
-          "exampleEn": "to disagree",
+          "exampleRu": "Пример: не соглашаться.",
+          "exampleEn": "Example phrase for: to disagree.",
           "level": "B2",
           "topic": "To nie je celkom pravda",
           "tags": [
@@ -359,8 +359,8 @@
           "pronunciationUk": "чiastoчne",
           "exampleSk": "Čiastočne máš pravdu.",
           "exampleUk": "Частково ти маєш рацію.",
-          "exampleRu": "Частково ти маєш рацію.",
-          "exampleEn": "partly",
+          "exampleRu": "Пример: частично.",
+          "exampleEn": "Example phrase for: partly.",
           "level": "B2",
           "topic": "To nie je celkom pravda",
           "tags": [
@@ -380,8 +380,8 @@
           "pronunciationUk": "celkom",
           "exampleSk": "To nie je celkom presné.",
           "exampleUk": "Це не зовсім точно.",
-          "exampleRu": "Це не зовсім точно.",
-          "exampleEn": "completely / quite",
+          "exampleRu": "Пример: полностью / совсем.",
+          "exampleEn": "Example phrase for: completely / quite.",
           "level": "B2",
           "topic": "To nie je celkom pravda",
           "tags": [
@@ -401,8 +401,8 @@
           "pronunciationUk": "presne",
           "exampleSk": "Presne o to mi ide.",
           "exampleUk": "Саме це я маю на увазі.",
-          "exampleRu": "Саме це я маю на увазі.",
-          "exampleEn": "exactly",
+          "exampleRu": "Пример: точно.",
+          "exampleEn": "Example phrase for: exactly.",
           "level": "B2",
           "topic": "To nie je celkom pravda",
           "tags": [
@@ -422,8 +422,8 @@
           "pronunciationUk": "opraviть",
           "exampleSk": "Dovoľ mi to trochu opraviť.",
           "exampleUk": "Дозволь мені це трохи виправити.",
-          "exampleRu": "Дозволь мені це трохи виправити.",
-          "exampleEn": "to correct",
+          "exampleRu": "Пример: исправить.",
+          "exampleEn": "Example phrase for: to correct.",
           "level": "B2",
           "topic": "To nie je celkom pravda",
           "tags": [
@@ -443,8 +443,8 @@
           "pronunciationUk": "upresniть",
           "exampleSk": "Chcem to upresniť, aby nevznikol omyl.",
           "exampleUk": "Хочу це уточнити, щоб не виникла помилка.",
-          "exampleRu": "Хочу це уточнити, щоб не виникла помилка.",
-          "exampleEn": "to clarify",
+          "exampleRu": "Пример: уточнить.",
+          "exampleEn": "Example phrase for: to clarify.",
           "level": "B2",
           "topic": "To nie je celkom pravda",
           "tags": [
@@ -464,8 +464,8 @@
           "pronunciationUk": "tvrdenie",
           "exampleSk": "Toto tvrdenie je príliš všeobecné.",
           "exampleUk": "Це твердження занадто загальне.",
-          "exampleRu": "Це твердження занадто загальне.",
-          "exampleEn": "claim, statement",
+          "exampleRu": "Пример: утверждение.",
+          "exampleEn": "Example phrase for: claim, statement.",
           "level": "B2",
           "topic": "To nie je celkom pravda",
           "tags": [
@@ -485,8 +485,8 @@
           "pronunciationUk": "pohльad",
           "exampleSk": "Z môjho pohľadu je problém inde.",
           "exampleUk": "З моєї точки зору проблема в іншому.",
-          "exampleRu": "З моєї точки зору проблема в іншому.",
-          "exampleEn": "viewpoint",
+          "exampleRu": "Пример: взгляд, точка зрения.",
+          "exampleEn": "Example phrase for: viewpoint.",
           "level": "B2",
           "topic": "To nie je celkom pravda",
           "tags": [
@@ -602,7 +602,7 @@
             "b2-s01-l003-w02"
           ],
           "context": {
-            "sk": "Nechcem reagovať automaticky. Najprv potrebujem čiastočne situáciu."
+            "sk": "Nechcem reagovať automaticky. Najprv potrebujem lepšie pochopiť situáciu."
           },
           "options": [
             {
@@ -763,7 +763,7 @@
             "b2-s01-l003-w07",
             "b2-s01-l003-w08"
           ],
-          "text": "Správa znie neutrálne, ale tvrdenie naznačuje, že druhá strana čaká vysvetlenie. Pointa nie je útok, ale potreba vyjasniť situáciu.",
+          "text": "Správa znie neutrálne, ale jej tón naznačuje, že druhá strana čaká vysvetlenie. Pointa nie je útok, ale potreba vyjasniť situáciu.",
           "questions": [
             {
               "prompt": {
@@ -920,8 +920,8 @@
         },
         "description": {
           "uk": "На зустрічі хтось спростив проблему. Потрібно ввічливо уточнити, що реальність складніша.",
-          "ru": "На зустрічі хтось спростив проблему. Потрібно ввічливо уточнити, що реальність складніша.",
-          "en": "Choose replies that clarify meaning, keep the tone calm and move the conversation forward."
+          "ru": "Кто-то упростил проблему. Нужно мягко уточнить реальную картину.",
+          "en": "Someone oversimplified a problem. Clarify the real situation politely."
         },
         "steps": [
           {
