@@ -11,26 +11,26 @@
         "en": "Sociálne situácie v praxi"
       },
       "topic": {
-        "sk": "інтеграція уточнення, незгоди, ввічливості й інтерпретації",
+        "sk": "Sociálne situácie v praxi",
         "uk": "інтеграція уточнення, незгоди, ввічливості й інтерпретації",
-        "ru": "інтеграція уточнення, незгоди, ввічливості й інтерпретації",
-        "en": "інтеграція уточнення, незгоди, ввічливості й інтерпретації"
+        "ru": "интеграция уточнения, несогласия, вежливости и интерпретации",
+        "en": "integrating clarification, disagreement, politeness and interpretation"
       },
       "description": {
-        "sk": "Precvičíš si B2 komunikáciu: інтеграція уточнення, незгоди, ввічливості й інтерпретації.",
-        "uk": "Тренуємо B2-комунікацію: поєднати все з першої секції: уточнити сенс, ввічливо не погодитися, прочитати тон і завершити розмову конструктивно.",
-        "ru": "Тренируем B2-коммуникацию: поєднати все з першої секції: уточнити сенс, ввічливо не погодитися, прочитати тон і завершити розмову конструктивно.",
-        "en": "Practice B2 communication: інтеграція уточнення, незгоди, ввічливості й інтерпретації."
+        "sk": "Precvičíš si komunikáciu na úrovni B2: Sociálne situácie v praxi.",
+        "uk": "Тренуємо B2-комунікацію: поєднувати уточнення, незгоду, ввічливість і конструктивний фінал.",
+        "ru": "Тренируем B2-коммуникацию: соединять уточнение, несогласие, вежливость и конструктивное завершение.",
+        "en": "Practice B2 communication: combine clarification, disagreement, politeness and a constructive close."
       },
       "order": 6,
       "xpReward": 180,
       "estimatedMinutes": 32,
       "isPublished": false,
       "intro": {
-        "sk": "Precvičíš si B2 komunikáciu: інтеграція уточнення, незгоди, ввічливості й інтерпретації.",
-        "uk": "Тренуємо B2-комунікацію: поєднати все з першої секції: уточнити сенс, ввічливо не погодитися, прочитати тон і завершити розмову конструктивно.",
-        "ru": "Тренируем B2-коммуникацию: поєднати все з першої секції: уточнити сенс, ввічливо не погодитися, прочитати тон і завершити розмову конструктивно.",
-        "en": "Practice B2 communication: інтеграція уточнення, незгоди, ввічливості й інтерпретації."
+        "sk": "Precvičíš si komunikáciu na úrovni B2: Sociálne situácie v praxi.",
+        "uk": "Тренуємо B2-комунікацію: поєднувати уточнення, незгоду, ввічливість і конструктивний фінал.",
+        "ru": "Тренируем B2-коммуникацию: соединять уточнение, несогласие, вежливость и конструктивное завершение.",
+        "en": "Practice B2 communication: combine clarification, disagreement, politeness and a constructive close."
       },
       "completionMessage": {
         "sk": "Výborne. Dokážeš reagovať presnejšie a pokojnejšie.",
@@ -61,9 +61,9 @@
           "en": "Sociálne situácie v praxi"
         },
         "shortDescription": {
-          "uk": "Тренуємо B2-комунікацію: поєднати все з першої секції: уточнити сенс, ввічливо не погодитися, прочитати тон і завершити розмову конструктивно.",
-          "ru": "Тренируем B2-коммуникацию: поєднати все з першої секції: уточнити сенс, ввічливо не погодитися, прочитати тон і завершити розмову конструктивно.",
-          "en": "Practice B2 communication: інтеграція уточнення, незгоди, ввічливості й інтерпретації."
+          "uk": "Тренуємо B2-комунікацію: поєднувати уточнення, незгоду, ввічливість і конструктивний фінал.",
+          "ru": "Тренируем B2-коммуникацию: соединять уточнение, несогласие, вежливость и конструктивное завершение.",
+          "en": "Practice B2 communication: combine clarification, disagreement, politeness and a constructive close."
         },
         "outcomes": [
           {
@@ -108,9 +108,9 @@
             "en": "Why this matters at B2"
           },
           "body": {
-            "uk": "поєднати все з першої секції: уточнити сенс, ввічливо не погодитися, прочитати тон і завершити розмову конструктивно.",
-            "ru": "поєднати все з першої секції: уточнити сенс, ввічливо не погодитися, прочитати тон і завершити розмову конструктивно.",
-            "en": "You learn to handle nuance: інтеграція уточнення, незгоди, ввічливості й інтерпретації."
+            "uk": "поєднувати уточнення, незгоду, ввічливість і конструктивний фінал.",
+            "ru": "соединять уточнение, несогласие, вежливость и конструктивное завершение.",
+            "en": "combine clarification, disagreement, politeness and a constructive close."
           },
           "examples": [
             {
@@ -238,8 +238,8 @@
             "pronunciationUk": "reagovaть primerane",
             "exampleSk": "Treba reagovať primerane, nie útočne.",
             "exampleUk": "Треба реагувати доречно, не нападати.",
-            "exampleRu": "Треба реагувати доречно, не нападати.",
-            "exampleEn": "to react appropriately"
+            "exampleRu": "Пример: реагировать уместно.",
+            "exampleEn": "Example phrase for: to react appropriately."
           },
           {
             "wordId": "b2-s01-l006-w02",
@@ -250,8 +250,8 @@
             "pronunciationUk": "vyjadriть sa",
             "exampleSk": "Chcem sa k tomu jasne vyjadriť.",
             "exampleUk": "Хочу чітко щодо цього висловитися.",
-            "exampleRu": "Хочу чітко щодо цього висловитися.",
-            "exampleEn": "to express oneself"
+            "exampleRu": "Пример: высказаться.",
+            "exampleEn": "Example phrase for: to express oneself."
           },
           {
             "wordId": "b2-s01-l006-w03",
@@ -262,8 +262,8 @@
             "pronunciationUk": "zachovaть pokoj",
             "exampleSk": "Aj pri kritike sa dá zachovať pokoj.",
             "exampleUk": "Навіть під час критики можна зберегти спокій.",
-            "exampleRu": "Навіть під час критики можна зберегти спокій.",
-            "exampleEn": "to stay calm"
+            "exampleRu": "Пример: сохранить спокойствие.",
+            "exampleEn": "Example phrase for: to stay calm."
           },
           {
             "wordId": "b2-s01-l006-w04",
@@ -274,8 +274,8 @@
             "pronunciationUk": "ujasniть si",
             "exampleSk": "Najprv si ujasnime, čo sa stalo.",
             "exampleUk": "Спочатку прояснімо, що сталося.",
-            "exampleRu": "Спочатку прояснімо, що сталося.",
-            "exampleEn": "to clarify for oneself"
+            "exampleRu": "Пример: прояснить для себя.",
+            "exampleEn": "Example phrase for: to clarify for oneself."
           },
           {
             "wordId": "b2-s01-l006-w05",
@@ -286,8 +286,8 @@
             "pronunciationUk": "zareagovaть",
             "exampleSk": "Skúsim zareagovať vecne.",
             "exampleUk": "Спробую відреагувати по суті.",
-            "exampleRu": "Спробую відреагувати по суті.",
-            "exampleEn": "to respond"
+            "exampleRu": "Пример: отреагировать.",
+            "exampleEn": "Example phrase for: to respond."
           },
           {
             "wordId": "b2-s01-l006-w06",
@@ -298,8 +298,8 @@
             "pronunciationUk": "vysvetliть svoj postoj",
             "exampleSk": "Potrebujem vysvetliť svoj postoj.",
             "exampleUk": "Мені потрібно пояснити свою позицію.",
-            "exampleRu": "Мені потрібно пояснити свою позицію.",
-            "exampleEn": "to explain one's position"
+            "exampleRu": "Пример: объяснить свою позицию.",
+            "exampleEn": "Example phrase for: to explain one's position."
           },
           {
             "wordId": "b2-s01-l006-w07",
@@ -310,8 +310,8 @@
             "pronunciationUk": "zhrnуть dohodu",
             "exampleSk": "Na konci zhrniem dohodu.",
             "exampleUk": "Наприкінці я підсумую домовленість.",
-            "exampleRu": "Наприкінці я підсумую домовленість.",
-            "exampleEn": "to summarize an agreement"
+            "exampleRu": "Пример: подытожить договорённость.",
+            "exampleEn": "Example phrase for: to summarize an agreement."
           },
           {
             "wordId": "b2-s01-l006-w08",
@@ -322,8 +322,8 @@
             "pronunciationUk": "predіsть nedorozumeniu",
             "exampleSk": "Presná otázka môže predísť nedorozumeniu.",
             "exampleUk": "Точне питання може запобігти непорозумінню.",
-            "exampleRu": "Точне питання може запобігти непорозумінню.",
-            "exampleEn": "to prevent misunderstanding"
+            "exampleRu": "Пример: предотвратить недоразумение.",
+            "exampleEn": "Example phrase for: to prevent misunderstanding."
           }
         ],
         "button": "До практики"
@@ -338,8 +338,8 @@
           "pronunciationUk": "reagovaть primerane",
           "exampleSk": "Treba reagovať primerane, nie útočne.",
           "exampleUk": "Треба реагувати доречно, не нападати.",
-          "exampleRu": "Треба реагувати доречно, не нападати.",
-          "exampleEn": "to react appropriately",
+          "exampleRu": "Пример: реагировать уместно.",
+          "exampleEn": "Example phrase for: to react appropriately.",
           "level": "B2",
           "topic": "Sociálne situácie v praxi",
           "tags": [
@@ -359,8 +359,8 @@
           "pronunciationUk": "vyjadriть sa",
           "exampleSk": "Chcem sa k tomu jasne vyjadriť.",
           "exampleUk": "Хочу чітко щодо цього висловитися.",
-          "exampleRu": "Хочу чітко щодо цього висловитися.",
-          "exampleEn": "to express oneself",
+          "exampleRu": "Пример: высказаться.",
+          "exampleEn": "Example phrase for: to express oneself.",
           "level": "B2",
           "topic": "Sociálne situácie v praxi",
           "tags": [
@@ -380,8 +380,8 @@
           "pronunciationUk": "zachovaть pokoj",
           "exampleSk": "Aj pri kritike sa dá zachovať pokoj.",
           "exampleUk": "Навіть під час критики можна зберегти спокій.",
-          "exampleRu": "Навіть під час критики можна зберегти спокій.",
-          "exampleEn": "to stay calm",
+          "exampleRu": "Пример: сохранить спокойствие.",
+          "exampleEn": "Example phrase for: to stay calm.",
           "level": "B2",
           "topic": "Sociálne situácie v praxi",
           "tags": [
@@ -401,8 +401,8 @@
           "pronunciationUk": "ujasniть si",
           "exampleSk": "Najprv si ujasnime, čo sa stalo.",
           "exampleUk": "Спочатку прояснімо, що сталося.",
-          "exampleRu": "Спочатку прояснімо, що сталося.",
-          "exampleEn": "to clarify for oneself",
+          "exampleRu": "Пример: прояснить для себя.",
+          "exampleEn": "Example phrase for: to clarify for oneself.",
           "level": "B2",
           "topic": "Sociálne situácie v praxi",
           "tags": [
@@ -422,8 +422,8 @@
           "pronunciationUk": "zareagovaть",
           "exampleSk": "Skúsim zareagovať vecne.",
           "exampleUk": "Спробую відреагувати по суті.",
-          "exampleRu": "Спробую відреагувати по суті.",
-          "exampleEn": "to respond",
+          "exampleRu": "Пример: отреагировать.",
+          "exampleEn": "Example phrase for: to respond.",
           "level": "B2",
           "topic": "Sociálne situácie v praxi",
           "tags": [
@@ -443,8 +443,8 @@
           "pronunciationUk": "vysvetliть svoj postoj",
           "exampleSk": "Potrebujem vysvetliť svoj postoj.",
           "exampleUk": "Мені потрібно пояснити свою позицію.",
-          "exampleRu": "Мені потрібно пояснити свою позицію.",
-          "exampleEn": "to explain one's position",
+          "exampleRu": "Пример: объяснить свою позицию.",
+          "exampleEn": "Example phrase for: to explain one's position.",
           "level": "B2",
           "topic": "Sociálne situácie v praxi",
           "tags": [
@@ -464,8 +464,8 @@
           "pronunciationUk": "zhrnуть dohodu",
           "exampleSk": "Na konci zhrniem dohodu.",
           "exampleUk": "Наприкінці я підсумую домовленість.",
-          "exampleRu": "Наприкінці я підсумую домовленість.",
-          "exampleEn": "to summarize an agreement",
+          "exampleRu": "Пример: подытожить договорённость.",
+          "exampleEn": "Example phrase for: to summarize an agreement.",
           "level": "B2",
           "topic": "Sociálne situácie v praxi",
           "tags": [
@@ -485,8 +485,8 @@
           "pronunciationUk": "predіsть nedorozumeniu",
           "exampleSk": "Presná otázka môže predísť nedorozumeniu.",
           "exampleUk": "Точне питання може запобігти непорозумінню.",
-          "exampleRu": "Точне питання може запобігти непорозумінню.",
-          "exampleEn": "to prevent misunderstanding",
+          "exampleRu": "Пример: предотвратить недоразумение.",
+          "exampleEn": "Example phrase for: to prevent misunderstanding.",
           "level": "B2",
           "topic": "Sociálne situácie v praxi",
           "tags": [
@@ -602,7 +602,7 @@
             "b2-s01-l006-w02"
           ],
           "context": {
-            "sk": "Nechcem reagovať automaticky. Najprv potrebujem vyjadriť sa situáciu."
+            "sk": "Nechcem reagovať automaticky. Najprv potrebujem lepšie pochopiť situáciu."
           },
           "options": [
             {
@@ -763,7 +763,7 @@
             "b2-s01-l006-w07",
             "b2-s01-l006-w08"
           ],
-          "text": "Správa znie neutrálne, ale zhrnúť dohodu naznačuje, že druhá strana čaká vysvetlenie. Pointa nie je útok, ale potreba vyjasniť situáciu.",
+          "text": "Správa znie neutrálne, ale jej tón naznačuje, že druhá strana čaká vysvetlenie. Pointa nie je útok, ale potreba vyjasniť situáciu.",
           "questions": [
             {
               "prompt": {
@@ -920,8 +920,8 @@
         },
         "description": {
           "uk": "У груповому чаті виникло непорозуміння. Потрібно зупинити конфлікт і повернути розмову до рішення.",
-          "ru": "У груповому чаті виникло непорозуміння. Потрібно зупинити конфлікт і повернути розмову до рішення.",
-          "en": "Choose replies that clarify meaning, keep the tone calm and move the conversation forward."
+          "ru": "В чате возникло недоразумение. Нужно вернуть разговор к решению.",
+          "en": "A group chat has a misunderstanding. Bring the conversation back to a solution."
         },
         "steps": [
           {
