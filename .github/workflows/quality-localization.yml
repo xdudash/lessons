@@ -40,7 +40,7 @@ jobs:
         env:
           LEVEL: ${{ matrix.level }}
           PYTHONUNBUFFERED: '1'
-        run: PYTHONPATH=tools python tools/localize_quality_nllb.py --level "$LEVEL"
+        run: PYTHONPATH=tools python tools/localize_quality_nllb_v2.py --level "$LEVEL"
       - name: Verify original lesson structure is preserved
         env:
           LEVEL: ${{ matrix.level }}
@@ -105,7 +105,7 @@ jobs:
         env:
           LEVEL: ${{ matrix.level }}
         run: |
-          TARGET="locale-${LEVEL}-quality-final"
+          TARGET="locale-${LEVEL}-quality-v2"
           OUT="/tmp/output-$LEVEL"
           mkdir -p "$OUT"
           cp "lessons/$LEVEL"/*.json "$OUT/"
