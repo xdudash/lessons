@@ -11,26 +11,26 @@
         "en": "Ako reagovať slušne"
       },
       "topic": {
-        "sk": "ввічлива реакція в напружених або чутливих ситуаціях",
+        "sk": "Ako reagovať slušne",
         "uk": "ввічлива реакція в напружених або чутливих ситуаціях",
-        "ru": "ввічлива реакція в напружених або чутливих ситуаціях",
-        "en": "ввічлива реакція в напружених або чутливих ситуаціях"
+        "ru": "вежливая реакция в напряженных ситуациях",
+        "en": "polite responses in sensitive situations"
       },
       "description": {
-        "sk": "Precvičíš si B2 komunikáciu: ввічлива реакція в напружених або чутливих ситуаціях.",
-        "uk": "Тренуємо B2-комунікацію: реагувати спокійно, поважно й достатньо прямо, коли тема незручна або людина може образитися.",
-        "ru": "Тренируем B2-коммуникацию: реагувати спокійно, поважно й достатньо прямо, коли тема незручна або людина може образитися.",
-        "en": "Practice B2 communication: ввічлива реакція в напружених або чутливих ситуаціях."
+        "sk": "Precvičíš si komunikáciu na úrovni B2: Ako reagovať slušne.",
+        "uk": "Тренуємо B2-комунікацію: відповідати ввічливо й прямо у чутливій ситуації.",
+        "ru": "Тренируем B2-коммуникацию: отвечать вежливо и прямо в чувствительной ситуации.",
+        "en": "Practice B2 communication: respond politely and clearly in a sensitive situation."
       },
       "order": 4,
       "xpReward": 180,
       "estimatedMinutes": 32,
       "isPublished": false,
       "intro": {
-        "sk": "Precvičíš si B2 komunikáciu: ввічлива реакція в напружених або чутливих ситуаціях.",
-        "uk": "Тренуємо B2-комунікацію: реагувати спокійно, поважно й достатньо прямо, коли тема незручна або людина може образитися.",
-        "ru": "Тренируем B2-коммуникацию: реагувати спокійно, поважно й достатньо прямо, коли тема незручна або людина може образитися.",
-        "en": "Practice B2 communication: ввічлива реакція в напружених або чутливих ситуаціях."
+        "sk": "Precvičíš si komunikáciu na úrovni B2: Ako reagovať slušne.",
+        "uk": "Тренуємо B2-комунікацію: відповідати ввічливо й прямо у чутливій ситуації.",
+        "ru": "Тренируем B2-коммуникацию: отвечать вежливо и прямо в чувствительной ситуации.",
+        "en": "Practice B2 communication: respond politely and clearly in a sensitive situation."
       },
       "completionMessage": {
         "sk": "Výborne. Dokážeš reagovať presnejšie a pokojnejšie.",
@@ -61,9 +61,9 @@
           "en": "Ako reagovať slušne"
         },
         "shortDescription": {
-          "uk": "Тренуємо B2-комунікацію: реагувати спокійно, поважно й достатньо прямо, коли тема незручна або людина може образитися.",
-          "ru": "Тренируем B2-коммуникацию: реагувати спокійно, поважно й достатньо прямо, коли тема незручна або людина може образитися.",
-          "en": "Practice B2 communication: ввічлива реакція в напружених або чутливих ситуаціях."
+          "uk": "Тренуємо B2-комунікацію: відповідати ввічливо й прямо у чутливій ситуації.",
+          "ru": "Тренируем B2-коммуникацию: отвечать вежливо и прямо в чувствительной ситуации.",
+          "en": "Practice B2 communication: respond politely and clearly in a sensitive situation."
         },
         "outcomes": [
           {
@@ -108,9 +108,9 @@
             "en": "Why this matters at B2"
           },
           "body": {
-            "uk": "реагувати спокійно, поважно й достатньо прямо, коли тема незручна або людина може образитися.",
-            "ru": "реагувати спокійно, поважно й достатньо прямо, коли тема незручна або людина може образитися.",
-            "en": "You learn to handle nuance: ввічлива реакція в напружених або чутливих ситуаціях."
+            "uk": "відповідати ввічливо й прямо у чутливій ситуації.",
+            "ru": "отвечать вежливо и прямо в чувствительной ситуации.",
+            "en": "respond politely and clearly in a sensitive situation."
           },
           "examples": [
             {
@@ -238,8 +238,8 @@
             "pronunciationUk": "sluшne",
             "exampleSk": "Odpoviem slušne, ale jasne.",
             "exampleUk": "Я відповім ввічливо, але чітко.",
-            "exampleRu": "Я відповім ввічливо, але чітко.",
-            "exampleEn": "politely"
+            "exampleRu": "Пример: вежливо.",
+            "exampleEn": "Example phrase for: politely."
           },
           {
             "wordId": "b2-s01-l004-w02",
@@ -250,8 +250,8 @@
             "pronunciationUk": "zdvorilo",
             "exampleSk": "Zdvorilo som vysvetlil svoj pohľad.",
             "exampleUk": "Я чемно пояснив свою точку зору.",
-            "exampleRu": "Я чемно пояснив свою точку зору.",
-            "exampleEn": "courteously"
+            "exampleRu": "Пример: учтиво, вежливо.",
+            "exampleEn": "Example phrase for: courteously."
           },
           {
             "wordId": "b2-s01-l004-w03",
@@ -262,8 +262,8 @@
             "pronunciationUk": "vhodnе",
             "exampleSk": "V tejto situácii to nie je vhodné.",
             "exampleUk": "У цій ситуації це недоречно.",
-            "exampleRu": "У цій ситуації це недоречно.",
-            "exampleEn": "appropriate"
+            "exampleRu": "Пример: уместно.",
+            "exampleEn": "Example phrase for: appropriate."
           },
           {
             "wordId": "b2-s01-l004-w04",
@@ -274,8 +274,8 @@
             "pronunciationUk": "nevhodnе",
             "exampleSk": "Tá poznámka bola nevhodná.",
             "exampleUk": "Ця репліка була недоречною.",
-            "exampleRu": "Ця репліка була недоречною.",
-            "exampleEn": "inappropriate"
+            "exampleRu": "Пример: неуместно.",
+            "exampleEn": "Example phrase for: inappropriate."
           },
           {
             "wordId": "b2-s01-l004-w05",
@@ -286,8 +286,8 @@
             "pronunciationUk": "uraziть",
             "exampleSk": "Nechcem ťa uraziť.",
             "exampleUk": "Я не хочу тебе образити.",
-            "exampleRu": "Я не хочу тебе образити.",
-            "exampleEn": "to offend"
+            "exampleRu": "Пример: обидеть.",
+            "exampleEn": "Example phrase for: to offend."
           },
           {
             "wordId": "b2-s01-l004-w06",
@@ -298,8 +298,8 @@
             "pronunciationUk": "reшpektovaть",
             "exampleSk": "Rešpektujem tvoj názor.",
             "exampleUk": "Я поважаю твою думку.",
-            "exampleRu": "Я поважаю твою думку.",
-            "exampleEn": "to respect"
+            "exampleRu": "Пример: уважать.",
+            "exampleEn": "Example phrase for: to respect."
           },
           {
             "wordId": "b2-s01-l004-w07",
@@ -310,8 +310,8 @@
             "pronunciationUk": "reagovaть",
             "exampleSk": "Skúsim reagovať pokojne.",
             "exampleUk": "Спробую реагувати спокійно.",
-            "exampleRu": "Спробую реагувати спокійно.",
-            "exampleEn": "to react"
+            "exampleRu": "Пример: реагировать.",
+            "exampleEn": "Example phrase for: to react."
           },
           {
             "wordId": "b2-s01-l004-w08",
@@ -322,8 +322,8 @@
             "pronunciationUk": "ohльaduplnи",
             "exampleSk": "Ohľaduplná reakcia pomôže udržať rozhovor.",
             "exampleUk": "Тактовна реакція допоможе зберегти розмову.",
-            "exampleRu": "Тактовна реакція допоможе зберегти розмову.",
-            "exampleEn": "considerate"
+            "exampleRu": "Пример: тактичный, внимательный к другим.",
+            "exampleEn": "Example phrase for: considerate."
           }
         ],
         "button": "До практики"
@@ -338,8 +338,8 @@
           "pronunciationUk": "sluшne",
           "exampleSk": "Odpoviem slušne, ale jasne.",
           "exampleUk": "Я відповім ввічливо, але чітко.",
-          "exampleRu": "Я відповім ввічливо, але чітко.",
-          "exampleEn": "politely",
+          "exampleRu": "Пример: вежливо.",
+          "exampleEn": "Example phrase for: politely.",
           "level": "B2",
           "topic": "Ako reagovať slušne",
           "tags": [
@@ -359,8 +359,8 @@
           "pronunciationUk": "zdvorilo",
           "exampleSk": "Zdvorilo som vysvetlil svoj pohľad.",
           "exampleUk": "Я чемно пояснив свою точку зору.",
-          "exampleRu": "Я чемно пояснив свою точку зору.",
-          "exampleEn": "courteously",
+          "exampleRu": "Пример: учтиво, вежливо.",
+          "exampleEn": "Example phrase for: courteously.",
           "level": "B2",
           "topic": "Ako reagovať slušne",
           "tags": [
@@ -380,8 +380,8 @@
           "pronunciationUk": "vhodnе",
           "exampleSk": "V tejto situácii to nie je vhodné.",
           "exampleUk": "У цій ситуації це недоречно.",
-          "exampleRu": "У цій ситуації це недоречно.",
-          "exampleEn": "appropriate",
+          "exampleRu": "Пример: уместно.",
+          "exampleEn": "Example phrase for: appropriate.",
           "level": "B2",
           "topic": "Ako reagovať slušne",
           "tags": [
@@ -401,8 +401,8 @@
           "pronunciationUk": "nevhodnе",
           "exampleSk": "Tá poznámka bola nevhodná.",
           "exampleUk": "Ця репліка була недоречною.",
-          "exampleRu": "Ця репліка була недоречною.",
-          "exampleEn": "inappropriate",
+          "exampleRu": "Пример: неуместно.",
+          "exampleEn": "Example phrase for: inappropriate.",
           "level": "B2",
           "topic": "Ako reagovať slušne",
           "tags": [
@@ -422,8 +422,8 @@
           "pronunciationUk": "uraziть",
           "exampleSk": "Nechcem ťa uraziť.",
           "exampleUk": "Я не хочу тебе образити.",
-          "exampleRu": "Я не хочу тебе образити.",
-          "exampleEn": "to offend",
+          "exampleRu": "Пример: обидеть.",
+          "exampleEn": "Example phrase for: to offend.",
           "level": "B2",
           "topic": "Ako reagovať slušne",
           "tags": [
@@ -443,8 +443,8 @@
           "pronunciationUk": "reшpektovaть",
           "exampleSk": "Rešpektujem tvoj názor.",
           "exampleUk": "Я поважаю твою думку.",
-          "exampleRu": "Я поважаю твою думку.",
-          "exampleEn": "to respect",
+          "exampleRu": "Пример: уважать.",
+          "exampleEn": "Example phrase for: to respect.",
           "level": "B2",
           "topic": "Ako reagovať slušne",
           "tags": [
@@ -464,8 +464,8 @@
           "pronunciationUk": "reagovaть",
           "exampleSk": "Skúsim reagovať pokojne.",
           "exampleUk": "Спробую реагувати спокійно.",
-          "exampleRu": "Спробую реагувати спокійно.",
-          "exampleEn": "to react",
+          "exampleRu": "Пример: реагировать.",
+          "exampleEn": "Example phrase for: to react.",
           "level": "B2",
           "topic": "Ako reagovať slušne",
           "tags": [
@@ -485,8 +485,8 @@
           "pronunciationUk": "ohльaduplnи",
           "exampleSk": "Ohľaduplná reakcia pomôže udržať rozhovor.",
           "exampleUk": "Тактовна реакція допоможе зберегти розмову.",
-          "exampleRu": "Тактовна реакція допоможе зберегти розмову.",
-          "exampleEn": "considerate",
+          "exampleRu": "Пример: тактичный, внимательный к другим.",
+          "exampleEn": "Example phrase for: considerate.",
           "level": "B2",
           "topic": "Ako reagovať slušne",
           "tags": [
@@ -602,7 +602,7 @@
             "b2-s01-l004-w02"
           ],
           "context": {
-            "sk": "Nechcem reagovať automaticky. Najprv potrebujem zdvorilo situáciu."
+            "sk": "Nechcem reagovať automaticky. Najprv potrebujem lepšie pochopiť situáciu."
           },
           "options": [
             {
@@ -763,7 +763,7 @@
             "b2-s01-l004-w07",
             "b2-s01-l004-w08"
           ],
-          "text": "Správa znie neutrálne, ale reagovať naznačuje, že druhá strana čaká vysvetlenie. Pointa nie je útok, ale potreba vyjasniť situáciu.",
+          "text": "Správa znie neutrálne, ale jej tón naznačuje, že druhá strana čaká vysvetlenie. Pointa nie je útok, ale potreba vyjasniť situáciu.",
           "questions": [
             {
               "prompt": {
@@ -920,8 +920,8 @@
         },
         "description": {
           "uk": "Клієнт або знайомий різко коментує ситуацію. Потрібно відповісти без агресії і без втрати меж.",
-          "ru": "Клієнт або знайомий різко коментує ситуацію. Потрібно відповісти без агресії і без втрати меж.",
-          "en": "Choose replies that clarify meaning, keep the tone calm and move the conversation forward."
+          "ru": "Реплика звучит резко. Нужно ответить без агрессии и без потери границ.",
+          "en": "A remark sounds sharp. Respond without aggression while keeping boundaries."
         },
         "steps": [
           {
