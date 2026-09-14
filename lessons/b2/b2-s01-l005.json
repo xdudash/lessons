@@ -11,26 +11,26 @@
         "en": "Medzi riadkami"
       },
       "topic": {
-        "sk": "підтекст, тон і непряме значення",
+        "sk": "Medzi riadkami",
         "uk": "підтекст, тон і непряме значення",
-        "ru": "підтекст, тон і непряме значення",
-        "en": "підтекст, тон і непряме значення"
+        "ru": "подтекст, тон и непрямой смысл",
+        "en": "subtext, tone and indirect meaning"
       },
       "description": {
-        "sk": "Precvičíš si B2 komunikáciu: підтекст, тон і непряме значення.",
-        "uk": "Тренуємо B2-комунікацію: читати не лише слова, а й тон: помічати непрямий зміст у повідомленнях, побутових діалогах і коротких репліках.",
-        "ru": "Тренируем B2-коммуникацию: читати не лише слова, а й тон: помічати непрямий зміст у повідомленнях, побутових діалогах і коротких репліках.",
-        "en": "Practice B2 communication: підтекст, тон і непряме значення."
+        "sk": "Precvičíš si komunikáciu na úrovni B2: Medzi riadkami.",
+        "uk": "Тренуємо B2-комунікацію: помічати підтекст і тон у повідомленнях.",
+        "ru": "Тренируем B2-коммуникацию: замечать подтекст и тон в сообщениях.",
+        "en": "Practice B2 communication: notice subtext and tone in messages."
       },
       "order": 5,
       "xpReward": 180,
       "estimatedMinutes": 32,
       "isPublished": false,
       "intro": {
-        "sk": "Precvičíš si B2 komunikáciu: підтекст, тон і непряме значення.",
-        "uk": "Тренуємо B2-комунікацію: читати не лише слова, а й тон: помічати непрямий зміст у повідомленнях, побутових діалогах і коротких репліках.",
-        "ru": "Тренируем B2-коммуникацию: читати не лише слова, а й тон: помічати непрямий зміст у повідомленнях, побутових діалогах і коротких репліках.",
-        "en": "Practice B2 communication: підтекст, тон і непряме значення."
+        "sk": "Precvičíš si komunikáciu na úrovni B2: Medzi riadkami.",
+        "uk": "Тренуємо B2-комунікацію: помічати підтекст і тон у повідомленнях.",
+        "ru": "Тренируем B2-коммуникацию: замечать подтекст и тон в сообщениях.",
+        "en": "Practice B2 communication: notice subtext and tone in messages."
       },
       "completionMessage": {
         "sk": "Výborne. Dokážeš reagovať presnejšie a pokojnejšie.",
@@ -61,9 +61,9 @@
           "en": "Medzi riadkami"
         },
         "shortDescription": {
-          "uk": "Тренуємо B2-комунікацію: читати не лише слова, а й тон: помічати непрямий зміст у повідомленнях, побутових діалогах і коротких репліках.",
-          "ru": "Тренируем B2-коммуникацию: читати не лише слова, а й тон: помічати непрямий зміст у повідомленнях, побутових діалогах і коротких репліках.",
-          "en": "Practice B2 communication: підтекст, тон і непряме значення."
+          "uk": "Тренуємо B2-комунікацію: помічати підтекст і тон у повідомленнях.",
+          "ru": "Тренируем B2-коммуникацию: замечать подтекст и тон в сообщениях.",
+          "en": "Practice B2 communication: notice subtext and tone in messages."
         },
         "outcomes": [
           {
@@ -108,9 +108,9 @@
             "en": "Why this matters at B2"
           },
           "body": {
-            "uk": "читати не лише слова, а й тон: помічати непрямий зміст у повідомленнях, побутових діалогах і коротких репліках.",
-            "ru": "читати не лише слова, а й тон: помічати непрямий зміст у повідомленнях, побутових діалогах і коротких репліках.",
-            "en": "You learn to handle nuance: підтекст, тон і непряме значення."
+            "uk": "помічати підтекст і тон у повідомленнях.",
+            "ru": "замечать подтекст и тон в сообщениях.",
+            "en": "notice subtext and tone in messages."
           },
           "examples": [
             {
@@ -238,8 +238,8 @@
             "pronunciationUk": "medzi riadkami",
             "exampleSk": "Treba čítať aj medzi riadkami.",
             "exampleUk": "Треба читати також між рядками.",
-            "exampleRu": "Треба читати також між рядками.",
-            "exampleEn": "between the lines"
+            "exampleRu": "Пример: между строк, подтекст.",
+            "exampleEn": "Example phrase for: between the lines."
           },
           {
             "wordId": "b2-s01-l005-w02",
@@ -250,8 +250,8 @@
             "pronunciationUk": "nepriamo",
             "exampleSk": "Povedal to nepriamo.",
             "exampleUk": "Він сказав це непрямо.",
-            "exampleRu": "Він сказав це непрямо.",
-            "exampleEn": "indirectly"
+            "exampleRu": "Пример: непрямо.",
+            "exampleEn": "Example phrase for: indirectly."
           },
           {
             "wordId": "b2-s01-l005-w03",
@@ -262,8 +262,8 @@
             "pronunciationUk": "nаznak",
             "exampleSk": "V správe bol jasný náznak nespokojnosti.",
             "exampleUk": "У повідомленні був чіткий натяк на невдоволення.",
-            "exampleRu": "У повідомленні був чіткий натяк на невдоволення.",
-            "exampleEn": "hint"
+            "exampleRu": "Пример: намёк.",
+            "exampleEn": "Example phrase for: hint."
           },
           {
             "wordId": "b2-s01-l005-w04",
@@ -274,8 +274,8 @@
             "pronunciationUk": "tоn",
             "exampleSk": "Tón správy bol dosť chladný.",
             "exampleUk": "Тон повідомлення був досить холодний.",
-            "exampleRu": "Тон повідомлення був досить холодний.",
-            "exampleEn": "tone"
+            "exampleRu": "Пример: тон.",
+            "exampleEn": "Example phrase for: tone."
           },
           {
             "wordId": "b2-s01-l005-w05",
@@ -286,8 +286,8 @@
             "pronunciationUk": "vyjadrenie",
             "exampleSk": "To vyjadrenie môže znieť tvrdo.",
             "exampleUk": "Це формулювання може звучати жорстко.",
-            "exampleRu": "Це формулювання може звучати жорстко.",
-            "exampleEn": "expression, statement"
+            "exampleRu": "Пример: высказывание, формулировка.",
+            "exampleEn": "Example phrase for: expression, statement."
           },
           {
             "wordId": "b2-s01-l005-w06",
@@ -298,8 +298,8 @@
             "pronunciationUk": "narажka",
             "exampleSk": "Nebola to kritika, skôr narážka.",
             "exampleUk": "Це була не критика, радше натяк.",
-            "exampleRu": "Це була не критика, радше натяк.",
-            "exampleEn": "allusion, pointed remark"
+            "exampleRu": "Пример: намёк, непрямая реплика.",
+            "exampleEn": "Example phrase for: allusion, pointed remark."
           },
           {
             "wordId": "b2-s01-l005-w07",
@@ -310,8 +310,8 @@
             "pronunciationUk": "pochopiть",
             "exampleSk": "Chcem pochopiť, čo tým myslíš.",
             "exampleUk": "Я хочу зрозуміти, що ти цим маєш на увазі.",
-            "exampleRu": "Я хочу зрозуміти, що ти цим маєш на увазі.",
-            "exampleEn": "to understand"
+            "exampleRu": "Пример: понять.",
+            "exampleEn": "Example phrase for: to understand."
           },
           {
             "wordId": "b2-s01-l005-w08",
@@ -322,8 +322,8 @@
             "pronunciationUk": "interpretovaть",
             "exampleSk": "Možno to interpretujem nesprávne.",
             "exampleUk": "Можливо, я це неправильно інтерпретую.",
-            "exampleRu": "Можливо, я це неправильно інтерпретую.",
-            "exampleEn": "to interpret"
+            "exampleRu": "Пример: интерпретировать.",
+            "exampleEn": "Example phrase for: to interpret."
           }
         ],
         "button": "До практики"
@@ -338,8 +338,8 @@
           "pronunciationUk": "medzi riadkami",
           "exampleSk": "Treba čítať aj medzi riadkami.",
           "exampleUk": "Треба читати також між рядками.",
-          "exampleRu": "Треба читати також між рядками.",
-          "exampleEn": "between the lines",
+          "exampleRu": "Пример: между строк, подтекст.",
+          "exampleEn": "Example phrase for: between the lines.",
           "level": "B2",
           "topic": "Medzi riadkami",
           "tags": [
@@ -359,8 +359,8 @@
           "pronunciationUk": "nepriamo",
           "exampleSk": "Povedal to nepriamo.",
           "exampleUk": "Він сказав це непрямо.",
-          "exampleRu": "Він сказав це непрямо.",
-          "exampleEn": "indirectly",
+          "exampleRu": "Пример: непрямо.",
+          "exampleEn": "Example phrase for: indirectly.",
           "level": "B2",
           "topic": "Medzi riadkami",
           "tags": [
@@ -380,8 +380,8 @@
           "pronunciationUk": "nаznak",
           "exampleSk": "V správe bol jasný náznak nespokojnosti.",
           "exampleUk": "У повідомленні був чіткий натяк на невдоволення.",
-          "exampleRu": "У повідомленні був чіткий натяк на невдоволення.",
-          "exampleEn": "hint",
+          "exampleRu": "Пример: намёк.",
+          "exampleEn": "Example phrase for: hint.",
           "level": "B2",
           "topic": "Medzi riadkami",
           "tags": [
@@ -401,8 +401,8 @@
           "pronunciationUk": "tоn",
           "exampleSk": "Tón správy bol dosť chladný.",
           "exampleUk": "Тон повідомлення був досить холодний.",
-          "exampleRu": "Тон повідомлення був досить холодний.",
-          "exampleEn": "tone",
+          "exampleRu": "Пример: тон.",
+          "exampleEn": "Example phrase for: tone.",
           "level": "B2",
           "topic": "Medzi riadkami",
           "tags": [
@@ -422,8 +422,8 @@
           "pronunciationUk": "vyjadrenie",
           "exampleSk": "To vyjadrenie môže znieť tvrdo.",
           "exampleUk": "Це формулювання може звучати жорстко.",
-          "exampleRu": "Це формулювання може звучати жорстко.",
-          "exampleEn": "expression, statement",
+          "exampleRu": "Пример: высказывание, формулировка.",
+          "exampleEn": "Example phrase for: expression, statement.",
           "level": "B2",
           "topic": "Medzi riadkami",
           "tags": [
@@ -443,8 +443,8 @@
           "pronunciationUk": "narажka",
           "exampleSk": "Nebola to kritika, skôr narážka.",
           "exampleUk": "Це була не критика, радше натяк.",
-          "exampleRu": "Це була не критика, радше натяк.",
-          "exampleEn": "allusion, pointed remark",
+          "exampleRu": "Пример: намёк, непрямая реплика.",
+          "exampleEn": "Example phrase for: allusion, pointed remark.",
           "level": "B2",
           "topic": "Medzi riadkami",
           "tags": [
@@ -464,8 +464,8 @@
           "pronunciationUk": "pochopiть",
           "exampleSk": "Chcem pochopiť, čo tým myslíš.",
           "exampleUk": "Я хочу зрозуміти, що ти цим маєш на увазі.",
-          "exampleRu": "Я хочу зрозуміти, що ти цим маєш на увазі.",
-          "exampleEn": "to understand",
+          "exampleRu": "Пример: понять.",
+          "exampleEn": "Example phrase for: to understand.",
           "level": "B2",
           "topic": "Medzi riadkami",
           "tags": [
@@ -485,8 +485,8 @@
           "pronunciationUk": "interpretovaть",
           "exampleSk": "Možno to interpretujem nesprávne.",
           "exampleUk": "Можливо, я це неправильно інтерпретую.",
-          "exampleRu": "Можливо, я це неправильно інтерпретую.",
-          "exampleEn": "to interpret",
+          "exampleRu": "Пример: интерпретировать.",
+          "exampleEn": "Example phrase for: to interpret.",
           "level": "B2",
           "topic": "Medzi riadkami",
           "tags": [
@@ -602,7 +602,7 @@
             "b2-s01-l005-w02"
           ],
           "context": {
-            "sk": "Nechcem reagovať automaticky. Najprv potrebujem nepriamo situáciu."
+            "sk": "Nechcem reagovať automaticky. Najprv potrebujem lepšie pochopiť situáciu."
           },
           "options": [
             {
@@ -763,7 +763,7 @@
             "b2-s01-l005-w07",
             "b2-s01-l005-w08"
           ],
-          "text": "Správa znie neutrálne, ale pochopiť naznačuje, že druhá strana čaká vysvetlenie. Pointa nie je útok, ale potreba vyjasniť situáciu.",
+          "text": "Správa znie neutrálne, ale jej tón naznačuje, že druhá strana čaká vysvetlenie. Pointa nie je útok, ale potreba vyjasniť situáciu.",
           "questions": [
             {
               "prompt": {
@@ -920,8 +920,8 @@
         },
         "description": {
           "uk": "Отримав повідомлення, де прямо нічого не сказано, але тон натякає на проблему. Потрібно правильно інтерпретувати і не перебільшити.",
-          "ru": "Отримав повідомлення, де прямо нічого не сказано, але тон натякає на проблему. Потрібно правильно інтерпретувати і не перебільшити.",
-          "en": "Choose replies that clarify meaning, keep the tone calm and move the conversation forward."
+          "ru": "В сообщении есть подтекст. Нужно правильно понять тон и не преувеличить.",
+          "en": "A message has subtext. Interpret the tone without overreacting."
         },
         "steps": [
           {
